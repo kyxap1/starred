@@ -155,6 +155,7 @@
 
 ## HCL 
 
+- [terraform-custom-emr](https://github.com/saltimbanco/terraform-custom-emr) - 
 - [fleet-etcd2-microservices-cluster](https://github.com/andymotta/fleet-etcd2-microservices-cluster) - CoreOS Fleet Container Architecture for Production Microservices on AWS
 - [terraform-elasticsearch](https://github.com/everydayhero/terraform-elasticsearch) - Terraformed elasticsearch cluster in AWS
 - [hashistack](https://github.com/yikaus/hashistack) - Boostrap hashistack(Consul/Nomad/Vault) cluster over AWS
@@ -209,6 +210,8 @@
 
 ## Java 
 
+- [KumuluzEE](https://github.com/TFaga/KumuluzEE) - Lightweight framework for creating small standalone Java EE applications in a micro service way.
+- [cassandra-metrics-collector](https://github.com/wikimedia/cassandra-metrics-collector) - Cassandra JMX metrics collector
 - [cassandra-reaper](https://github.com/spotify/cassandra-reaper) - Software to run automated repairs of cassandra
 - [consultant](https://github.com/Magnetme/consultant) - A library to retrieve your service's configuration from Consul, and subscribe to changes.
 - [cassandra-kinesis](https://github.com/smartcat-labs/cassandra-kinesis) - Cassandra connector for AWS Kinesis
@@ -240,6 +243,8 @@
 
 ## JavaScript 
 
+- [s3scan](https://github.com/mapbox/s3scan) - S3 can!
+- [aws-log-replay](https://github.com/mapbox/aws-log-replay) - Transform and replay CloudFront, ELB Classic, and ALB logs
 - [pingdummy](https://github.com/segmentio/pingdummy) - Example application for segmentio/stack
 - [elasticsearch-head](https://github.com/mobz/elasticsearch-head) - A web front end for an elastic search cluster
 - [serverless](https://github.com/serverless/serverless) - Serverless Framework – Build web, mobile and IoT applications with serverless architectures using AWS Lambda, Azure Functions, Google CloudFunctions & more! –

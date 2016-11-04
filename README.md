@@ -82,6 +82,8 @@
 
 ## Go 
 
+- [registrator](https://github.com/gliderlabs/registrator) - Service registry bridge for Docker with pluggable adapters
+- [consul-alerts](https://github.com/AcalephStorage/consul-alerts) - A simple daemon to send notifications based on Consul health checks
 - [AWSnycast](https://github.com/bobtfish/AWSnycast) - 'Anycast' in AWS
 - [fabio](https://github.com/eBay/fabio) - A fast, modern, zero-conf load balancing HTTP(S) router for deploying microservices managed by consul.
 - [consul-template](https://github.com/hashicorp/consul-template) - Generic template rendering and notifications with Consul
@@ -213,6 +215,7 @@
 
 ## Java 
 
+- [cassandra-health-check](https://github.com/lookout/cassandra-health-check) - Cassandra Health Check
 - [KumuluzEE](https://github.com/TFaga/KumuluzEE) - Lightweight framework for creating small standalone Java EE applications in a micro service way.
 - [cassandra-metrics-collector](https://github.com/wikimedia/cassandra-metrics-collector) - Cassandra JMX metrics collector
 - [cassandra-reaper](https://github.com/spotify/cassandra-reaper) - Software to run automated repairs of cassandra
@@ -276,6 +279,7 @@
 
 ## Lua 
 
+- [lua-resty-hmac](https://github.com/jamesmarlowe/lua-resty-hmac) - Lua driver for making and receiving hmac signed requests
 - [kong](https://github.com/Mashape/kong) - :monkey: The API Gateway & Microservice Management Layer, built on NGINX
 
 ## Makefile 
@@ -291,6 +295,7 @@
 
 ## Others 
 
+- [multihost-cassandra-flocker](https://github.com/wallnerryan/multihost-cassandra-flocker) - A multi-host Cassandra cluster using Swarm, Compose and Flocker
 - [aws-osm-rds](https://github.com/s6o/aws-osm-rds) - Notes on setting up OpenStreetMap tile server with official styles on AWS EC2 with PostgreSQL RDS and PostGIS
 - [uber-tlc-foil-response](https://github.com/fivethirtyeight/uber-tlc-foil-response) - Uber trip data from a freedom of information request to NYC's Taxi & Limousine Commission
 - [structured-text-tools](https://github.com/dbohdan/structured-text-tools) - A list of command line tools for manipulating structured text data
@@ -334,7 +339,6 @@
 
 ## Perl 
 
-- [lua-resty-hmac](https://github.com/jamesmarlowe/lua-resty-hmac) - Lua driver for making and receiving hmac signed requests
 - [dotfiles](https://github.com/jessfraz/dotfiles) - My dotfiles. Buyer beware ;)
 - [ffmpeg-static](https://github.com/zimbatm/ffmpeg-static) - Scripts to build ffmpeg with all the deps statically (webm + h264 included)
 

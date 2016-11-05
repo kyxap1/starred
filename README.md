@@ -82,6 +82,7 @@
 
 ## Go 
 
+- [ecs-refarch-service-discovery](https://github.com/awslabs/ecs-refarch-service-discovery) - An EC2 Container Service Reference Architecture for providing Service Discovery to containers using CloudWatch Events, Lambda and Route 53 private hosted zones.
 - [registrator](https://github.com/gliderlabs/registrator) - Service registry bridge for Docker with pluggable adapters
 - [consul-alerts](https://github.com/AcalephStorage/consul-alerts) - A simple daemon to send notifications based on Consul health checks
 - [AWSnycast](https://github.com/bobtfish/AWSnycast) - 'Anycast' in AWS
@@ -91,7 +92,7 @@
 - [ctop](https://github.com/chrusty/ctop) - CTOP ("top" for Cassandra) - See what's going on in real-time
 - [go-priam](https://github.com/alext29/go-priam) - Backup and restore Cassandra DB to AWS S3
 - [terraform-multipart-userdata](https://github.com/chrusty/terraform-multipart-userdata) - Cruft for Terraform
-- [autospotting](https://github.com/cristim/autospotting) - Simple tool for automatically replacing EC2 instances in AWS AutoScaling groups with compatible instances requested on the EC2 spot market
+- [autospotting](https://github.com/cristim/autospotting) - Simple tool that can dramatically reduce AWS EC2 costs by automatically replacing on-demand instances from existing AutoScaling groups with compatible spot instances.
 - [oauth2_proxy](https://github.com/bitly/oauth2_proxy) - A reverse proxy that provides authentication with Google, Github or other provider
 - [bashcomp](https://github.com/omakoto/bashcomp) - 
 - [sh](https://github.com/mvdan/sh) - A shell/bash parser and formatter
@@ -348,6 +349,8 @@
 
 ## Python 
 
+- [sqlmap](https://github.com/sqlmapproject/sqlmap) - Automatic SQL injection and database takeover tool
+- [jira2xmind](https://github.com/cepr/jira2xmind) - XMind plugin to import Jira tickets
 - [starred](https://github.com/maguowei/starred) - creating your own Awesome List used GitHub stars!
 - [qb](https://github.com/Pinafore/qb) - QANTA Quiz Bowl AI
 - [remarshal](https://github.com/dbohdan/remarshal) - Convert between TOML, YAML and JSON
@@ -400,7 +403,7 @@
 - [j2cli](https://github.com/kolypto/j2cli) - Jinja2 Command-Line Tool, reworked
 - [lshell](https://github.com/ghantoos/lshell) - lshell is a shell coded in Python, that lets you restrict a user's environment to limited sets of commands, choose to enable/disable any command over SSH (e.g. SCP, SFTP, rsync, etc.), log user's commands, implement timing restriction, and more.
 - [Flask-AppBuilder](https://github.com/dpgaspar/Flask-AppBuilder) - Simple and rapid application development framework, built on top of Flask. includes detailed security, auto CRUD generation for your models, google charts and much more. Demo (login with guest/welcome) - http://flaskappbuilder.pythonanywhere.com/
-- [Flask-Scaffold](https://github.com/Leo-G/Flask-Scaffold) - Prototype Database driven CRUD dashboards and RESTFUL API's in Python 3, Flask and Angularjs
+- [Flask-Scaffold](https://github.com/Leo-G/Flask-Scaffold) - Prototype Database driven CRUD Admin dashboards and RESTFUL API's in Python with Flask Angularjs and Bootstrap 3
 - [Unipath](https://github.com/mikeorr/Unipath) - An object-oriented approach to Python file/directory operations.
 - [LXC-Web-Panel](https://github.com/claudyus/LXC-Web-Panel) - LXC Web Panel improved for lxc 1.0+
 - [synapse-client](https://github.com/comodit/synapse-client) - Synapse enables you to remotely manage a large number of hosts. It brings together features of Configuration Management and Orchestration in a lightweight framework. Written in Python and using AMQP for messaging between the nodes.
@@ -449,6 +452,8 @@
 
 ## Shell 
 
+- [terraform-consul-service-discovery-example](https://github.com/bltavares/terraform-consul-service-discovery-example) - 
+- [bashcached](https://github.com/MakeNowJust/bashcached) - memcached built on bash + socat
 - [consul-terraform](https://github.com/Immutability-io/consul-terraform) - 
 - [distributed-playground](https://github.com/jvandevelde/distributed-playground) - Distributed service playground with Vagrant, Consul, Docker & ASP.NET Core
 - [consul-rpm](https://github.com/tomhillable/consul-rpm) - Spec file and sources needed to package consul

@@ -375,7 +375,7 @@
 - [cct](https://github.com/containers-tools/cct) - containers configuration tool
 - [wildfly-py](https://github.com/cenx-cf/wildfly-py) - WildFly Management Python API
 - [YouCompleteMe](https://github.com/Valloric/YouCompleteMe) - A code-completion engine for Vim
-- [mantl](https://github.com/CiscoCloud/mantl) - Mantl is a modern platform for rapidly deploying globally distributed services
+- [mantl](https://github.com/mantl/mantl) - Mantl is a modern platform for rapidly deploying globally distributed services
 - [terraform_validate](https://github.com/elmundio87/terraform_validate) - Assists in the enforcement of user-defined standards in Terraform
 - [pritunl](https://github.com/pritunl/pritunl) - Enterprise VPN server
 - [cassandra-snapshotter-wrapper](https://github.com/dizzythinks/cassandra-snapshotter-wrapper) - Wrapper around cassandra-snapshotter

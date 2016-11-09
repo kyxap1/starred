@@ -82,6 +82,7 @@
 
 ## Go 
 
+- [terraform-provisioner-ansible](https://github.com/jonmorehouse/terraform-provisioner-ansible) - A provisioner for bootstrapping terraform resources with ansible
 - [ecs-refarch-service-discovery](https://github.com/awslabs/ecs-refarch-service-discovery) - An EC2 Container Service Reference Architecture for providing Service Discovery to containers using CloudWatch Events, Lambda and Route 53 private hosted zones.
 - [registrator](https://github.com/gliderlabs/registrator) - Service registry bridge for Docker with pluggable adapters
 - [consul-alerts](https://github.com/AcalephStorage/consul-alerts) - A simple daemon to send notifications based on Consul health checks
@@ -92,7 +93,7 @@
 - [ctop](https://github.com/chrusty/ctop) - CTOP ("top" for Cassandra) - See what's going on in real-time
 - [go-priam](https://github.com/alext29/go-priam) - Backup and restore Cassandra DB to AWS S3
 - [terraform-multipart-userdata](https://github.com/chrusty/terraform-multipart-userdata) - Cruft for Terraform
-- [autospotting](https://github.com/cristim/autospotting) - Simple tool that can dramatically reduce AWS EC2 costs by automatically replacing on-demand instances from existing AutoScaling groups with compatible spot instances.
+- [autospotting](https://github.com/cristim/autospotting) - Simple tool that can greatly reduce AWS EC2 costs by automatically replacing on-demand instances from existing AutoScaling groups with compatible but much cheaper spot instances.
 - [oauth2_proxy](https://github.com/bitly/oauth2_proxy) - A reverse proxy that provides authentication with Google, Github or other provider
 - [bashcomp](https://github.com/omakoto/bashcomp) - 
 - [sh](https://github.com/mvdan/sh) - A shell/bash parser and formatter

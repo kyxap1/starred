@@ -446,7 +446,7 @@
 
 ## Scala 
 
-- [rudder](https://github.com/Normation/rudder) - 
+- [rudder](https://github.com/Normation/rudder) - Rudder: Continuous configuration for effective compliance
 - [spark-cassandra-connector](https://github.com/datastax/spark-cassandra-connector) - DataStax Spark Cassandra Connector
 - [s3_website](https://github.com/laurilehmijoki/s3_website) - Manage an S3 website: sync, deliver via CloudFront, benefit from advanced S3 website features.
 - [S3-Private-Downloader](https://github.com/rmmeans/S3-Private-Downloader) - A simple microservice that signs the request for an S3 file and redirects you to download the file

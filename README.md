@@ -63,7 +63,6 @@
 
 ## CSS 
 
-- [frey](https://github.com/kvz/frey) - :rocket: An end-to-end tool for launching infrastructure, provisioning, and deploying your app to it. VERY MUCH ALPHA
 - [domeide.github.io](https://github.com/domeide/domeide.github.io) - Docker meets the IDE - Integrating your favorite containers in the editor of your choice
 - [arnotes](https://github.com/art4melody/arnotes) - Markdown-based notepad HTML5 application
 
@@ -232,7 +231,7 @@
 - [hazelcast-cli](https://github.com/hazelcast/hazelcast-cli) - 
 - [hazelcast-aws](https://github.com/hazelcast/hazelcast-aws) - AWS EC2 discovery plugin for hazelcast
 - [jaxrs-analyzer](https://github.com/sdaschner/jaxrs-analyzer) - Creates REST documentation for JAX-RS projects
-- [genie](https://github.com/Netflix/genie) - Federated Job Execution Engine
+- [genie](https://github.com/Netflix/genie) - Federated Big Data Orchestration Service
 - [tvarit-maven](https://github.com/sdole/tvarit-maven) - AWS DevOps automation tools to run JEE apps on AWS
 - [aegisthus](https://github.com/Netflix/aegisthus) - A Bulk Data Pipeline out of Cassandra
 - [mutagen-cassandra](https://github.com/toddfast/mutagen-cassandra) - Mutate your Cassandra schema for fun and profit.
@@ -258,6 +257,7 @@
 - [serverless](https://github.com/serverless/serverless) - Serverless Framework – Build web, mobile and IoT applications with serverless architectures using AWS Lambda, Azure Functions, Google CloudFunctions & more! –
 - [lambda](https://github.com/AWSinAction/lambda) - AWS in Action: Lambda
 - [terraform2md](https://github.com/shambarick/terraform2md) - 
+- [frey](https://github.com/freyproject/frey) - :rocket: An end-to-end tool for launching infrastructure, provisioning, and deploying your app to it. VERY MUCH ALPHA. FREY WILL CURRENTLY HAPPILY DESTROY YOUR PLATFORM AND CAREER. THANKS!
 - [aws-lambda-image](https://github.com/ysugimoto/aws-lambda-image) - Automatic image resize/reduce on AWS Lambda
 - [csv](https://github.com/segmentio/csv) - Uber simple CSV formatting/parsing for node
 - [nginx-jwt](https://github.com/auth0/nginx-jwt) - Lua script for Nginx that performs reverse proxy auth using JWT's
@@ -446,7 +446,7 @@
 
 ## Scala 
 
-- [rudder](https://github.com/Normation/rudder) - Rudder: Continuous configuration for effective compliance
+- [rudder](https://github.com/Normation/rudder) - Continuous configuration for effective compliance
 - [spark-cassandra-connector](https://github.com/datastax/spark-cassandra-connector) - DataStax Spark Cassandra Connector
 - [s3_website](https://github.com/laurilehmijoki/s3_website) - Manage an S3 website: sync, deliver via CloudFront, benefit from advanced S3 website features.
 - [S3-Private-Downloader](https://github.com/rmmeans/S3-Private-Downloader) - A simple microservice that signs the request for an S3 file and redirects you to download the file
@@ -455,7 +455,7 @@
 
 - [terraform-consul-service-discovery-example](https://github.com/bltavares/terraform-consul-service-discovery-example) - 
 - [bashcached](https://github.com/MakeNowJust/bashcached) - memcached built on bash + socat
-- [consul-terraform](https://github.com/Immutability-io/consul-terraform) - 
+- [consul-terraform](https://github.com/immutability-io/consul-terraform) - 
 - [distributed-playground](https://github.com/jvandevelde/distributed-playground) - Distributed service playground with Vagrant, Consul, Docker & ASP.NET Core
 - [consul-rpm](https://github.com/tomhillable/consul-rpm) - Spec file and sources needed to package consul
 - [yamlparser](https://github.com/Hashfyre/yamlparser) - A borrowed tool for parsing YAMLs into BASH variables enabling Configuration over Code in BASH

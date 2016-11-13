@@ -56,6 +56,7 @@
 
 ## C++ 
 
+- [AEBL](https://github.com/krattai/AEBL) - AEBL is a mobile multimedia distribution and playback platform.
 - [s3fs-fuse](https://github.com/s3fs-fuse/s3fs-fuse) - FUSE-based file system backed by Amazon S3
 - [liteide](https://github.com/visualfc/liteide) - LiteIDE is a simple, open source, cross-platform Go IDE.
 - [SkypeBot](https://github.com/teimur06/SkypeBot) - SkypeBot
@@ -63,6 +64,7 @@
 
 ## CSS 
 
+- [MobDistTool](https://github.com/rgroult/MobDistTool) - Mobile App Distribution Tool
 - [domeide.github.io](https://github.com/domeide/domeide.github.io) - Docker meets the IDE - Integrating your favorite containers in the editor of your choice
 - [arnotes](https://github.com/art4melody/arnotes) - Markdown-based notepad HTML5 application
 
@@ -216,6 +218,7 @@
 
 ## Java 
 
+- [logstash-logback-encoder](https://github.com/logstash/logstash-logback-encoder) - Logback encoder which creates JSON for use with Logstash
 - [cassandra-health-check](https://github.com/lookout/cassandra-health-check) - Cassandra Health Check
 - [KumuluzEE](https://github.com/TFaga/KumuluzEE) - Lightweight framework for creating small standalone Java EE applications in a micro service way.
 - [cassandra-metrics-collector](https://github.com/wikimedia/cassandra-metrics-collector) - Cassandra JMX metrics collector
@@ -250,6 +253,7 @@
 
 ## JavaScript 
 
+- [os-mobilizer](https://github.com/Redmart/os-mobilizer) - A distribution/testing platform for mobile applications
 - [s3scan](https://github.com/mapbox/s3scan) - S3 can!
 - [aws-log-replay](https://github.com/mapbox/aws-log-replay) - Transform and replay CloudFront, ELB Classic, and ALB logs
 - [pingdummy](https://github.com/segmentio/pingdummy) - Example application for segmentio/stack
@@ -350,6 +354,7 @@
 
 ## Python 
 
+- [Zinc](https://github.com/mindsnacks/Zinc) - Asset distribution system for mobile clients.
 - [sqlmap](https://github.com/sqlmapproject/sqlmap) - Automatic SQL injection and database takeover tool
 - [jira2xmind](https://github.com/cepr/jira2xmind) - XMind plugin to import Jira tickets
 - [starred](https://github.com/maguowei/starred) - creating your own Awesome List used GitHub stars!
@@ -416,6 +421,8 @@
 
 ## Ruby 
 
+- [shipmate](https://github.com/tmecklem/shipmate) - A web application similar to testflight for private hosting and distribution of mobile apps for testing.
+- [backup](https://github.com/backup/backup) - Easy full stack backup operations on UNIX-like systems.
 - [lhm](https://github.com/soundcloud/lhm) - Online MySQL schema migrations
 - [homebrew-terraforms](https://github.com/Yleisradio/homebrew-terraforms) - # Terraform version switcher and Homebrew Casks for Terraform versions
 - [dpl](https://github.com/travis-ci/dpl) - Dpl (dee-pee-ell) is a deploy tool made for continuous deployment.
@@ -453,6 +460,7 @@
 
 ## Shell 
 
+- [ota-tools](https://github.com/RichardBronosky/ota-tools) - A burgeoning collection of tools for Over-The-Air distribution of mobile applications.
 - [terraform-consul-service-discovery-example](https://github.com/bltavares/terraform-consul-service-discovery-example) - 
 - [bashcached](https://github.com/MakeNowJust/bashcached) - memcached built on bash + socat
 - [consul-terraform](https://github.com/immutability-io/consul-terraform) - 

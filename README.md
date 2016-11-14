@@ -83,6 +83,8 @@
 
 ## Go 
 
+- [scl](https://github.com/homemade/scl) - The Sepia Configuration Language is an extension of the Hashicorp Configuration Language. SCL is to HCL as Sass is to CSS.
+- [jsed](https://github.com/jtopjian/jsed) - command line JSON editor
 - [terraform-provisioner-ansible](https://github.com/jonmorehouse/terraform-provisioner-ansible) - A provisioner for bootstrapping terraform resources with ansible
 - [ecs-refarch-service-discovery](https://github.com/awslabs/ecs-refarch-service-discovery) - An EC2 Container Service Reference Architecture for providing Service Discovery to containers using CloudWatch Events, Lambda and Route 53 private hosted zones.
 - [registrator](https://github.com/gliderlabs/registrator) - Service registry bridge for Docker with pluggable adapters
@@ -214,6 +216,7 @@
 
 ## Haskell 
 
+- [sproxy](https://github.com/zalora/sproxy) - HTTP proxy for authenticating users via OAuth2
 - [compleat](https://github.com/mbrubeck/compleat) - Generate command-line completions using a simple DSL.
 
 ## Java 
@@ -253,6 +256,8 @@
 
 ## JavaScript 
 
+- [pingbot](https://github.com/toricls/pingbot) - A website monitoring/health-checking tool based on serverless architecture.
+- [adl-designer](https://github.com/openEHR/adl-designer) - Web-based archetype and template design tools
 - [os-mobilizer](https://github.com/Redmart/os-mobilizer) - A distribution/testing platform for mobile applications
 - [s3scan](https://github.com/mapbox/s3scan) - S3 can!
 - [aws-log-replay](https://github.com/mapbox/aws-log-replay) - Transform and replay CloudFront, ELB Classic, and ALB logs
@@ -409,7 +414,7 @@
 - [j2cli](https://github.com/kolypto/j2cli) - Jinja2 Command-Line Tool, reworked
 - [lshell](https://github.com/ghantoos/lshell) - lshell is a shell coded in Python, that lets you restrict a user's environment to limited sets of commands, choose to enable/disable any command over SSH (e.g. SCP, SFTP, rsync, etc.), log user's commands, implement timing restriction, and more.
 - [Flask-AppBuilder](https://github.com/dpgaspar/Flask-AppBuilder) - Simple and rapid application development framework, built on top of Flask. includes detailed security, auto CRUD generation for your models, google charts and much more. Demo (login with guest/welcome) - http://flaskappbuilder.pythonanywhere.com/
-- [Flask-Scaffold](https://github.com/Leo-G/Flask-Scaffold) - Prototype Database driven CRUD Admin dashboards and RESTFUL API's in Python with Flask Angularjs and Bootstrap 3
+- [Flask-Scaffold](https://github.com/Leo-G/Flask-Scaffold) - Prototype Database driven CRUD Admin dashboards and RESTFUL API's with Python, Flask,  SQLALchemy, Javascript/Angularjs and Bootstrap 3
 - [Unipath](https://github.com/mikeorr/Unipath) - An object-oriented approach to Python file/directory operations.
 - [LXC-Web-Panel](https://github.com/claudyus/LXC-Web-Panel) - LXC Web Panel improved for lxc 1.0+
 - [synapse-client](https://github.com/comodit/synapse-client) - Synapse enables you to remotely manage a large number of hosts. It brings together features of Configuration Management and Orchestration in a lightweight framework. Written in Python and using AMQP for messaging between the nodes.
@@ -460,6 +465,8 @@
 
 ## Shell 
 
+- [ghe-backup](https://github.com/zalando/ghe-backup) - A Github Enterprise backup approach based on Docker and multiple AWS accounts
+- [baseimage-amzn](https://github.com/lambda-linux/baseimage-amzn) - A minimal Docker Base Image based on Amazon Linux
 - [ota-tools](https://github.com/RichardBronosky/ota-tools) - A burgeoning collection of tools for Over-The-Air distribution of mobile applications.
 - [terraform-consul-service-discovery-example](https://github.com/bltavares/terraform-consul-service-discovery-example) - 
 - [bashcached](https://github.com/MakeNowJust/bashcached) - memcached built on bash + socat

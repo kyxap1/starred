@@ -221,6 +221,7 @@
 
 ## Java 
 
+- [feign](https://github.com/OpenFeign/feign) - Feign makes writing java http clients easier
 - [logstash-logback-encoder](https://github.com/logstash/logstash-logback-encoder) - Logback encoder which creates JSON for use with Logstash
 - [cassandra-health-check](https://github.com/lookout/cassandra-health-check) - Cassandra Health Check
 - [KumuluzEE](https://github.com/TFaga/KumuluzEE) - Lightweight framework for creating small standalone Java EE applications in a micro service way.
@@ -306,6 +307,7 @@
 
 ## Others 
 
+- [fabio-compose](https://github.com/avthart/fabio-compose) - Fabio Docker Compose
 - [multihost-cassandra-flocker](https://github.com/wallnerryan/multihost-cassandra-flocker) - A multi-host Cassandra cluster using Swarm, Compose and Flocker
 - [aws-osm-rds](https://github.com/s6o/aws-osm-rds) - Notes on setting up OpenStreetMap tile server with official styles on AWS EC2 with PostgreSQL RDS and PostGIS
 - [uber-tlc-foil-response](https://github.com/fivethirtyeight/uber-tlc-foil-response) - Uber trip data from a freedom of information request to NYC's Taxi & Limousine Commission

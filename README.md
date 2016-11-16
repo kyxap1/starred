@@ -83,6 +83,11 @@
 
 ## Go 
 
+- [terraform-markdown-extractor](https://github.com/kchugalinskiy/terraform-markdown-extractor) - Extract json resource description from terraform repository
+- [aws-lambda-go](https://github.com/eawsy/aws-lambda-go) - A fast and clean way to execute Go on AWS Lambda.
+- [terraform-hierarchy](https://github.com/kchugalinskiy/terraform-hierarchy) - Take terraform API json + root dir and return toml with module relations
+- [kvexpress](https://github.com/DataDog/kvexpress) - Go program to move data in and out of Consul's KV store.
+- [asg53](https://github.com/paybyphone/asg53) - AWS Lambda function for making Route 53 changes via ASG lifecycle hooks
 - [scl](https://github.com/homemade/scl) - The Sepia Configuration Language is an extension of the Hashicorp Configuration Language. SCL is to HCL as Sass is to CSS.
 - [jsed](https://github.com/jtopjian/jsed) - command line JSON editor
 - [terraform-provisioner-ansible](https://github.com/jonmorehouse/terraform-provisioner-ansible) - A provisioner for bootstrapping terraform resources with ansible
@@ -467,6 +472,9 @@
 
 ## Shell 
 
+- [terraform-multi-env](https://github.com/bkc1/terraform-multi-env) - Terraform wrapper script for handling multi-environment, multi-region deployments
+- [terraform-aws-wrapper](https://github.com/antonbabenko/terraform-aws-wrapper) - Terraform AWS wrapper script (not ready for production, yet!)
+- [phinx.deb](https://github.com/Vitexus/phinx.deb) - Debian package for SQL Migrating tool Phinx
 - [ghe-backup](https://github.com/zalando/ghe-backup) - A Github Enterprise backup approach based on Docker and multiple AWS accounts
 - [baseimage-amzn](https://github.com/lambda-linux/baseimage-amzn) - A minimal Docker Base Image based on Amazon Linux
 - [ota-tools](https://github.com/RichardBronosky/ota-tools) - A burgeoning collection of tools for Over-The-Air distribution of mobile applications.

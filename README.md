@@ -168,7 +168,7 @@
 ## HCL 
 
 - [terraform-consul-docker](https://github.com/dmportella/terraform-consul-docker) - 
-- [dcos-up](https://github.com/data-fellas/dcos-up) - Launch DC/OS on AWS with Terraform and Consul
+- [dcos-up](https://github.com/kensuio/dcos-up) - Launch DC/OS on AWS with Terraform and Consul
 - [terraform-custom-emr](https://github.com/saltimbanco/terraform-custom-emr) - 
 - [fleet-etcd2-microservices-cluster](https://github.com/andymotta/fleet-etcd2-microservices-cluster) - CoreOS Fleet Container Architecture for Production Microservices on AWS
 - [terraform-elasticsearch](https://github.com/everydayhero/terraform-elasticsearch) - Terraformed elasticsearch cluster in AWS
@@ -226,6 +226,7 @@
 
 ## Java 
 
+- [storm](https://github.com/nathanmarz/storm) - Distributed and fault-tolerant realtime computation: stream processing, continuous computation, distributed RPC, and more
 - [feign](https://github.com/OpenFeign/feign) - Feign makes writing java http clients easier
 - [logstash-logback-encoder](https://github.com/logstash/logstash-logback-encoder) - Logback encoder which creates JSON for use with Logstash
 - [cassandra-health-check](https://github.com/lookout/cassandra-health-check) - Cassandra Health Check
@@ -262,6 +263,7 @@
 
 ## JavaScript 
 
+- [slack-patron](https://github.com/tyage/slack-patron) - Log and view all Slack messages.
 - [pingbot](https://github.com/toricls/pingbot) - A website monitoring/health-checking tool based on serverless architecture.
 - [adl-designer](https://github.com/openEHR/adl-designer) - Web-based archetype and template design tools
 - [os-mobilizer](https://github.com/Redmart/os-mobilizer) - A distribution/testing platform for mobile applications
@@ -312,6 +314,7 @@
 
 ## Others 
 
+- [awesome-slack](https://github.com/matiassingers/awesome-slack) - A curated list of awesome Slack related things
 - [fabio-compose](https://github.com/avthart/fabio-compose) - Fabio Docker Compose
 - [multihost-cassandra-flocker](https://github.com/wallnerryan/multihost-cassandra-flocker) - A multi-host Cassandra cluster using Swarm, Compose and Flocker
 - [aws-osm-rds](https://github.com/s6o/aws-osm-rds) - Notes on setting up OpenStreetMap tile server with official styles on AWS EC2 with PostgreSQL RDS and PostGIS

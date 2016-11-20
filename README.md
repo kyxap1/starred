@@ -12,6 +12,7 @@
   - [Clojure](#clojure)
   - [CoffeeScript](#coffeescript)
   - [Cucumber](#cucumber)
+  - [Erlang](#erlang)
   - [Go](#go)
   - [Groovy](#groovy)
   - [HCL](#hcl)
@@ -38,6 +39,7 @@
 
 ## C 
 
+- [libzbxpgsql](https://github.com/cavaliercoder/libzbxpgsql) - Monitor PostgreSQL with Zabbix
 - [yank](https://github.com/mptre/yank) - Yank terminal output to clipboard
 - [mod_auth_mysql](https://github.com/vstakhov/mod_auth_mysql) - Updated version of mod_auth_mysql taken from https://sourceforge.net/p/modauthmysql
 - [graphviz](https://github.com/ellson/graphviz) - Graph Visualization Tools
@@ -80,6 +82,10 @@
 ## Cucumber 
 
 - [sdkman-cli](https://github.com/sdkman/sdkman-cli) - The SDKMAN! Command Line Interface
+
+## Erlang 
+
+- [Dockerfiles](https://github.com/HariSekhon/Dockerfiles) - DockerHub public images - Hadoop, Kafka, ZooKeeper, HBase, Cassandra, Solr / SolrCloud, Apache Drill, Nifi, Serf, Consul, Mesos, Spark standalone, Riak, Alluxio, Jython, Advanced Nagios Plugins Collection / PyTools / Tools repos on CentOS / Ubuntu / Debian / Alpine
 
 ## Go 
 
@@ -167,6 +173,7 @@
 
 ## HCL 
 
+- [terraform-up-and-running-code](https://github.com/brikis98/terraform-up-and-running-code) - Code samples for the book "Terraform: Up & Running" by Yevgeniy Brikman
 - [terraform-consul-docker](https://github.com/dmportella/terraform-consul-docker) - 
 - [dcos-up](https://github.com/kensuio/dcos-up) - Launch DC/OS on AWS with Terraform and Consul
 - [terraform-custom-emr](https://github.com/saltimbanco/terraform-custom-emr) - 
@@ -314,6 +321,7 @@
 
 ## Others 
 
+- [new-job](https://github.com/Ecwid/new-job) - 
 - [awesome-slack](https://github.com/matiassingers/awesome-slack) - A curated list of awesome Slack related things
 - [fabio-compose](https://github.com/avthart/fabio-compose) - Fabio Docker Compose
 - [multihost-cassandra-flocker](https://github.com/wallnerryan/multihost-cassandra-flocker) - A multi-host Cassandra cluster using Swarm, Compose and Flocker

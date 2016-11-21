@@ -173,6 +173,7 @@
 
 ## HCL 
 
+- [terragrunt-demo](https://github.com/knakayama/terragrunt-demo) - 
 - [terraform-up-and-running-code](https://github.com/brikis98/terraform-up-and-running-code) - Code samples for the book "Terraform: Up & Running" by Yevgeniy Brikman
 - [terraform-consul-docker](https://github.com/dmportella/terraform-consul-docker) - 
 - [dcos-up](https://github.com/kensuio/dcos-up) - Launch DC/OS on AWS with Terraform and Consul
@@ -228,7 +229,7 @@
 
 ## Haskell 
 
-- [sproxy](https://github.com/zalora/sproxy) - HTTP proxy for authenticating users via OAuth2
+- [sproxy](https://github.com/zalora/sproxy) - Obsolete. See http://hackage.haskell.org/package/sproxy2
 - [compleat](https://github.com/mbrubeck/compleat) - Generate command-line completions using a simple DSL.
 
 ## Java 
@@ -321,6 +322,7 @@
 
 ## Others 
 
+- [awesome-terraform](https://github.com/shuaibiyy/awesome-terraform) - Curated list of resources on HashiCorp's Terraform
 - [new-job](https://github.com/Ecwid/new-job) - 
 - [awesome-slack](https://github.com/matiassingers/awesome-slack) - A curated list of awesome Slack related things
 - [fabio-compose](https://github.com/avthart/fabio-compose) - Fabio Docker Compose

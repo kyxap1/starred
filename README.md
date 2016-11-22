@@ -103,7 +103,7 @@
 - [AWSnycast](https://github.com/bobtfish/AWSnycast) - 'Anycast' in AWS
 - [fabio](https://github.com/eBay/fabio) - A fast, modern, zero-conf load balancing HTTP(S) router for deploying microservices managed by consul.
 - [consul-template](https://github.com/hashicorp/consul-template) - Generic template rendering and notifications with Consul
-- [ahoy](https://github.com/DevinciHQ/ahoy) - Create self-documenting cli programs from YAML files. Easily wrap bash, grunt, npm, docker, (anything) to standardize your processes and make the lives of the people working on your project better.
+- [ahoy](https://github.com/ahoy-cli/ahoy) - Create self-documenting cli programs from YAML files. Easily wrap bash, grunt, npm, docker, (anything) to standardize your processes and make the lives of the people working on your project better.
 - [ctop](https://github.com/chrusty/ctop) - CTOP ("top" for Cassandra) - See what's going on in real-time
 - [go-priam](https://github.com/alext29/go-priam) - Backup and restore Cassandra DB to AWS S3
 - [terraform-multipart-userdata](https://github.com/chrusty/terraform-multipart-userdata) - Cruft for Terraform
@@ -161,7 +161,7 @@
 - [hugo](https://github.com/spf13/hugo) - A Fast and Flexible Static Site Generator built with love in GoLang
 - [goa](https://github.com/goadesign/goa) - Design-based APIs and microservices in Go
 - [cobra](https://github.com/spf13/cobra) - A Commander for modern Go CLI interactions
-- [license](https://github.com/nishanths/license) - Command-line license generator in Go
+- [license](https://github.com/nishanths/license) - Command-line license generator
 - [packer](https://github.com/mitchellh/packer) - Packer is a tool for creating identical machine images for multiple platforms from a single source configuration.
 - [terraform](https://github.com/hashicorp/terraform) - Terraform is a tool for building, changing, and combining infrastructure safely and efficiently.
 - [bosun](https://github.com/bosun-monitor/bosun) - Time Series Alerting Framework
@@ -229,6 +229,7 @@
 
 ## Haskell 
 
+- [sproxy2](https://github.com/ip1981/sproxy2) - 
 - [sproxy](https://github.com/zalora/sproxy) - Obsolete. See http://hackage.haskell.org/package/sproxy2
 - [compleat](https://github.com/mbrubeck/compleat) - Generate command-line completions using a simple DSL.
 

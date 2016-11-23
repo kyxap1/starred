@@ -39,6 +39,7 @@
 
 ## C 
 
+- [jo](https://github.com/jpmens/jo) - JSON output from a shell
 - [libzbxpgsql](https://github.com/cavaliercoder/libzbxpgsql) - Monitor PostgreSQL with Zabbix
 - [yank](https://github.com/mptre/yank) - Yank terminal output to clipboard
 - [mod_auth_mysql](https://github.com/vstakhov/mod_auth_mysql) - Updated version of mod_auth_mysql taken from https://sourceforge.net/p/modauthmysql
@@ -89,6 +90,8 @@
 
 ## Go 
 
+- [consul-zombie](https://github.com/myENA/consul-zombie) - Hunt and kill consul zombie services.
+- [consul-backinator](https://github.com/myENA/consul-backinator) - Command line Consul KV backup and restore utility
 - [terraform-markdown-extractor](https://github.com/kchugalinskiy/terraform-markdown-extractor) - Extract json resource description from terraform repository
 - [aws-lambda-go](https://github.com/eawsy/aws-lambda-go) - A fast and clean way to execute Go on AWS Lambda.
 - [terraform-hierarchy](https://github.com/kchugalinskiy/terraform-hierarchy) - Take terraform API json + root dir and return toml with module relations
@@ -272,6 +275,7 @@
 
 ## JavaScript 
 
+- [aws-maintenance-lambda](https://github.com/indix/aws-maintenance-lambda) - A lambda function to send alerts (to Slack, HipChat) on AWS maintenance events.
 - [slack-patron](https://github.com/tyage/slack-patron) - Log and view all Slack messages.
 - [pingbot](https://github.com/toricls/pingbot) - A website monitoring/health-checking tool based on serverless architecture.
 - [adl-designer](https://github.com/openEHR/adl-designer) - Web-based archetype and template design tools

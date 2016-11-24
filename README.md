@@ -39,6 +39,7 @@
 
 ## C 
 
+- [jq](https://github.com/stedolan/jq) - Command-line JSON processor
 - [jo](https://github.com/jpmens/jo) - JSON output from a shell
 - [libzbxpgsql](https://github.com/cavaliercoder/libzbxpgsql) - Monitor PostgreSQL with Zabbix
 - [yank](https://github.com/mptre/yank) - Yank terminal output to clipboard
@@ -90,6 +91,9 @@
 
 ## Go 
 
+- [permissions2](https://github.com/xyproto/permissions2) - :closed_lock_with_key: Middleware for keeping track of users, login states and permissions
+- [go-jose](https://github.com/square/go-jose) - An implementation of JOSE standards (JWE, JWS, JWT) in Go
+- [terraform-provider-kafka](https://github.com/packetloop/terraform-provider-kafka) - Terraform provider for kafka
 - [consul-zombie](https://github.com/myENA/consul-zombie) - Hunt and kill consul zombie services.
 - [consul-backinator](https://github.com/myENA/consul-backinator) - Command line Consul KV backup and restore utility
 - [terraform-markdown-extractor](https://github.com/kchugalinskiy/terraform-markdown-extractor) - Extract json resource description from terraform repository
@@ -176,6 +180,8 @@
 
 ## HCL 
 
+- [terraform-ecs-jenkins](https://github.com/shuaibiyy/terraform-ecs-jenkins) - Provisions Jenkins on AWS ECS using Terraform
+- [tf_versioned_lambda](https://github.com/instructure/tf_versioned_lambda) - tf_versioned_lambda
 - [terragrunt-demo](https://github.com/knakayama/terragrunt-demo) - 
 - [terraform-up-and-running-code](https://github.com/brikis98/terraform-up-and-running-code) - Code samples for the book "Terraform: Up & Running" by Yevgeniy Brikman
 - [terraform-consul-docker](https://github.com/dmportella/terraform-consul-docker) - 
@@ -384,6 +390,10 @@
 
 ## Python 
 
+- [aws_pwn](https://github.com/dagrz/aws_pwn) - A collection of AWS penetration testing junk
+- [elastalert](https://github.com/Yelp/elastalert) - Easy & Flexible Alerting With ElasticSearch
+- [mrjob](https://github.com/Yelp/mrjob) - Run MapReduce jobs on Hadoop or Amazon Web Services
+- [emr-bootstrap-actions](https://github.com/awslabs/emr-bootstrap-actions) - This repository hold the Amazon Elastic MapReduce sample bootstrap actions
 - [Zinc](https://github.com/mindsnacks/Zinc) - Asset distribution system for mobile clients.
 - [sqlmap](https://github.com/sqlmapproject/sqlmap) - Automatic SQL injection and database takeover tool
 - [jira2xmind](https://github.com/cepr/jira2xmind) - XMind plugin to import Jira tickets

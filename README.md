@@ -78,6 +78,7 @@
 
 ## CoffeeScript 
 
+- [hcl-to-json](https://github.com/gokmen/hcl-to-json) - HCL to JSON converter in CoffeeScript
 - [aglio](https://github.com/danielgtaylor/aglio) - An API Blueprint renderer with theme support that outputs static HTML
 - [hubot](https://github.com/github/hubot) - A customizable life embetterment robot.
 
@@ -91,6 +92,16 @@
 
 ## Go 
 
+- [mgmt](https://github.com/purpleidea/mgmt) - A next generation config management prototype!
+- [rexdep](https://github.com/itchyny/rexdep) - Roughly extract dependency relation from source code
+- [terrahelp](https://github.com/opencredo/terrahelp) - Terraform helper. Terrahelp is as a command line utility written in Go and is aimed at providing supplementary functionality which can sometimes prove useful when working with Terraform.
+- [nomad](https://github.com/hashicorp/nomad) - A Distributed, Highly Available, Datacenter-Aware Scheduler
+- [consul](https://github.com/hashicorp/consul) - Consul is a tool for service discovery, monitoring and configuration.
+- [micro](https://github.com/micro/micro) - A microservice toolkit
+- [acme](https://github.com/google/acme) - A simple ACME command line tool without 3rd party deps!
+- [hashiapp](https://github.com/kelseyhightower/hashiapp) - Demo 12 Factor application that utilizes Hashicorp tools.
+- [terminus](https://github.com/kelseyhightower/terminus) - Get facts about a Linux system.
+- [vault](https://github.com/hashicorp/vault) - A tool for managing secrets.
 - [permissions2](https://github.com/xyproto/permissions2) - :closed_lock_with_key: Middleware for keeping track of users, login states and permissions
 - [go-jose](https://github.com/square/go-jose) - An implementation of JOSE standards (JWE, JWS, JWT) in Go
 - [terraform-provider-kafka](https://github.com/packetloop/terraform-provider-kafka) - Terraform provider for kafka
@@ -180,6 +191,10 @@
 
 ## HCL 
 
+- [terraform-aws-iam](https://github.com/unifio/terraform-aws-iam) - Terraform AWS IAM Stack
+- [terraform-aws-openvpn](https://github.com/unifio/terraform-aws-openvpn) - Terraform AWS OpenVPN Stack
+- [terraform-aws-asg](https://github.com/unifio/terraform-aws-asg) - Terraform AWS Auto Scaling Stack
+- [docker-vault](https://github.com/sjourdan/docker-vault) - Docker Container for Hashicorp's Vault
 - [terraform-ecs-jenkins](https://github.com/shuaibiyy/terraform-ecs-jenkins) - Provisions Jenkins on AWS ECS using Terraform
 - [tf_versioned_lambda](https://github.com/instructure/tf_versioned_lambda) - tf_versioned_lambda
 - [terragrunt-demo](https://github.com/knakayama/terragrunt-demo) - 
@@ -232,6 +247,7 @@
 
 ## HTML 
 
+- [vault-crowdsource](https://github.com/sethvargo/vault-crowdsource) - 
 - [node-red-contrib-aws](https://github.com/joeartsea/node-red-contrib-aws) - A collection of Node-RED nodes for AWS.
 - [styleguide](https://github.com/google/styleguide) - Style guides for Google-originated open-source projects
 - [hugo-material-docs](https://github.com/digitalcraftsman/hugo-material-docs) - Port of Martin Donath's mkdocs-material theme to Hugo
@@ -244,6 +260,7 @@
 
 ## Java 
 
+- [terrapose](https://github.com/spaceshaker/terrapose) - A Groovy-based DSL that is translated to Terraform
 - [storm](https://github.com/nathanmarz/storm) - Distributed and fault-tolerant realtime computation: stream processing, continuous computation, distributed RPC, and more
 - [feign](https://github.com/OpenFeign/feign) - Feign makes writing java http clients easier
 - [logstash-logback-encoder](https://github.com/logstash/logstash-logback-encoder) - Logback encoder which creates JSON for use with Logstash
@@ -322,6 +339,8 @@
 
 ## Makefile 
 
+- [nomad-docker](https://github.com/sjourdan/nomad-docker) - This is a Docker container for Nomad based on Busybox
+- [go-build-template](https://github.com/thockin/go-build-template) - A Makefile/Dockerfile example for Go projects.
 - [awesome-selfhosted](https://github.com/Kickball/awesome-selfhosted) - This is a list of Free Software network services and web applications which can be hosted locally. Selfhosting is the process of locally hosting and managing applications instead of renting from SaaS providers.
 - [docker-nginx-s3](https://github.com/grahamgilbert/docker-nginx-s3) - An nginx image with ngx_aws_auth
 - [terraform-provider-utils](https://github.com/nrcxcia/terraform-provider-utils) - Terraform provider to help with templating in terraform definitions.
@@ -333,6 +352,7 @@
 
 ## Others 
 
+- [ansible-vault](https://github.com/MiLk/ansible-vault) - Ansible Vault role
 - [awesome-terraform](https://github.com/shuaibiyy/awesome-terraform) - Curated list of resources on HashiCorp's Terraform
 - [new-job](https://github.com/Ecwid/new-job) - 
 - [awesome-slack](https://github.com/matiassingers/awesome-slack) - A curated list of awesome Slack related things
@@ -390,6 +410,9 @@
 
 ## Python 
 
+- [terraform.py](https://github.com/CiscoCloud/terraform.py) - Ansible dynamic inventory script for parsing Terraform state files
+- [kubeform](https://github.com/Capgemini/kubeform) - Form your :boat: Kubernetes :anchor: cluster anywhere using CoreOS, Terraform and Ansible
+- [paasta](https://github.com/Yelp/paasta) - An open, distributed platform as a service
 - [aws_pwn](https://github.com/dagrz/aws_pwn) - A collection of AWS penetration testing junk
 - [elastalert](https://github.com/Yelp/elastalert) - Easy & Flexible Alerting With ElasticSearch
 - [mrjob](https://github.com/Yelp/mrjob) - Run MapReduce jobs on Hadoop or Amazon Web Services
@@ -461,6 +484,11 @@
 
 ## Ruby 
 
+- [oh-my-vagrant](https://github.com/purpleidea/oh-my-vagrant) - An easy to manipulate development environment for using vagrant with puppet, docker and more!
+- [terrafiddle](https://github.com/glenjamin/terrafiddle) - Mini ruby dsl for generating terraform files
+- [cloudshaper](https://github.com/dalehamel/cloudshaper) - Ruby DSL for managing terraform stacks
+- [terrafied](https://github.com/thattommyhall/terrafied) - Ruby DSL for Terraform
+- [biosphere](https://github.com/UnityTech/biosphere) - 
 - [shipmate](https://github.com/tmecklem/shipmate) - A web application similar to testflight for private hosting and distribution of mobile apps for testing.
 - [backup](https://github.com/backup/backup) - Easy full stack backup operations on UNIX-like systems.
 - [lhm](https://github.com/soundcloud/lhm) - Online MySQL schema migrations
@@ -500,6 +528,10 @@
 
 ## Shell 
 
+- [terrafirm](https://github.com/GuitarrasDeAmor/terrafirm) - A project proposing best practices for Terraform
+- [centos7-ami](https://github.com/BashtonLtd/centos7-ami) - Shell script to build CentOS 7 AMI
+- [dockerfiles](https://github.com/kelseyhightower/dockerfiles) - Docker files
+- [hashiconf-eu-2016](https://github.com/kelseyhightower/hashiconf-eu-2016) - HashiConf EU 2016
 - [terraform-multi-env](https://github.com/bkc1/terraform-multi-env) - Terraform wrapper script for handling multi-environment, multi-region deployments
 - [terraform-aws-wrapper](https://github.com/antonbabenko/terraform-aws-wrapper) - Terraform AWS wrapper script (not ready for production, yet!)
 - [phinx.deb](https://github.com/Vitexus/phinx.deb) - Debian package for SQL Migrating tool Phinx

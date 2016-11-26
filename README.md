@@ -12,6 +12,7 @@
   - [Clojure](#clojure)
   - [CoffeeScript](#coffeescript)
   - [Cucumber](#cucumber)
+  - [Elixir](#elixir)
   - [Erlang](#erlang)
   - [Go](#go)
   - [Groovy](#groovy)
@@ -74,10 +75,12 @@
 
 ## Clojure 
 
+- [blueshift](https://github.com/uswitch/blueshift) - Automate copying data from S3 into Amazon Redshift
 - [terraboot](https://github.com/MastodonC/terraboot) - DSL to generate terraform configuration and run it
 
 ## CoffeeScript 
 
+- [language-hcl](https://github.com/fd/language-hcl) - A grammar for the HashiCorp Configuration Language.
 - [hcl-to-json](https://github.com/gokmen/hcl-to-json) - HCL to JSON converter in CoffeeScript
 - [aglio](https://github.com/danielgtaylor/aglio) - An API Blueprint renderer with theme support that outputs static HTML
 - [hubot](https://github.com/github/hubot) - A customizable life embetterment robot.
@@ -86,12 +89,19 @@
 
 - [sdkman-cli](https://github.com/sdkman/sdkman-cli) - The SDKMAN! Command Line Interface
 
+## Elixir 
+
+- [exhcl](https://github.com/asakura/exhcl) - Configuration language inspired by HCL
+
 ## Erlang 
 
 - [Dockerfiles](https://github.com/HariSekhon/Dockerfiles) - DockerHub public images - Hadoop, Kafka, ZooKeeper, HBase, Cassandra, Solr / SolrCloud, Apache Drill, Nifi, Serf, Consul, Mesos, Spark standalone, Riak, Alluxio, Jython, Advanced Nagios Plugins Collection / PyTools / Tools repos on CentOS / Ubuntu / Debian / Alpine
 
 ## Go 
 
+- [packer-provisioner-serverspec](https://github.com/unifio/packer-provisioner-serverspec) - Packer Serverspec remote provisioner
+- [heka](https://github.com/mozilla-services/heka) - DEPRECATED: Data collection and processing made easy.
+- [gru](https://github.com/dnaeon/gru) - Orchestration made easy with Go and Lua
 - [mgmt](https://github.com/purpleidea/mgmt) - A next generation config management prototype!
 - [rexdep](https://github.com/itchyny/rexdep) - Roughly extract dependency relation from source code
 - [terrahelp](https://github.com/opencredo/terrahelp) - Terraform helper. Terrahelp is as a command line utility written in Go and is aimed at providing supplementary functionality which can sometimes prove useful when working with Terraform.
@@ -191,6 +201,9 @@
 
 ## HCL 
 
+- [tf-force-fail](https://github.com/ajcrites/tf-force-fail) - 
+- [tf-aws-ha-vpc](https://github.com/spohnan/tf-aws-ha-vpc) - Terraform module that creates an AWS VPC with HA NAT and Bastion components
+- [terraform_modules](https://github.com/GuitarrasDeAmor/terraform_modules) - A collection of Terraform modules
 - [terraform-aws-iam](https://github.com/unifio/terraform-aws-iam) - Terraform AWS IAM Stack
 - [terraform-aws-openvpn](https://github.com/unifio/terraform-aws-openvpn) - Terraform AWS OpenVPN Stack
 - [terraform-aws-asg](https://github.com/unifio/terraform-aws-asg) - Terraform AWS Auto Scaling Stack
@@ -247,6 +260,7 @@
 
 ## HTML 
 
+- [haskell-language-hcl](https://github.com/beijaflor-io/haskell-language-hcl) - language-hcl contains HCL (Hashicorp Configuration Language) parsers and pretty-printers for the Haskell programming language
 - [vault-crowdsource](https://github.com/sethvargo/vault-crowdsource) - 
 - [node-red-contrib-aws](https://github.com/joeartsea/node-red-contrib-aws) - A collection of Node-RED nodes for AWS.
 - [styleguide](https://github.com/google/styleguide) - Style guides for Google-originated open-source projects
@@ -352,6 +366,8 @@
 
 ## Others 
 
+- [tool-repos](https://github.com/monitoringsucks/tool-repos) - Tracking various tools that fit in the monitoring and metrics space
+- [dockerfile-transcrypt](https://github.com/unifio/dockerfile-transcrypt) - Dockerfile for creation of a Transcrypt container
 - [ansible-vault](https://github.com/MiLk/ansible-vault) - Ansible Vault role
 - [awesome-terraform](https://github.com/shuaibiyy/awesome-terraform) - Curated list of resources on HashiCorp's Terraform
 - [new-job](https://github.com/Ecwid/new-job) - 
@@ -450,7 +466,7 @@
 - [cassandra-snapshotter-wrapper](https://github.com/dizzythinks/cassandra-snapshotter-wrapper) - Wrapper around cassandra-snapshotter
 - [cassandra_snapshotter](https://github.com/tbarbugli/cassandra_snapshotter) - A tool to backup cassandra nodes using snapshots and incremental backups on S3
 - [aws-shell](https://github.com/awslabs/aws-shell) - An integrated shell for working with the AWS CLI.
-- [httpie](https://github.com/jkbrzt/httpie) - Command line HTTP client, a user-friendly curl alternative with an intuitive UI, JSON support, syntax highlighting, wget-like downloads, extensions, etc. Follow https://twitter.com/CLIHTTP for tips and updates.
+- [httpie](https://github.com/jkbrzt/httpie) - Modern command line HTTP client — user-friendly curl alternative with intuitive UI, JSON support, syntax highlighting, wget-like downloads, extensions, etc. Follow https://twitter.com/CLIHTTP for tips and updates.
 - [jyboss-cli](https://github.com/fareliner/jyboss-cli) - A Jython CLI for JBoss and Wildfly
 - [ansible-custom-jython-module](https://github.com/fareliner/ansible-custom-jython-module) - Example custom ansible module to manage WildFly/JBoss AS through jython cli
 - [awesome-aws](https://github.com/donnemartin/awesome-aws) - A curated list of awesome Amazon Web Services (AWS) libraries, open source repos, guides, blogs, and other resources.  Featuring the Fiery Meter of AWSome.
@@ -484,6 +500,13 @@
 
 ## Ruby 
 
+- [dockerfile-packer](https://github.com/unifio/dockerfile-packer) - Dockerfile for creation of a HashiCorp Packer container
+- [cleanroom](https://github.com/sethvargo/cleanroom) - (More) safely evaluate Ruby DSLs with cleanroom
+- [awspec](https://github.com/k1LoW/awspec) - RSpec tests for your AWS resources.
+- [terraframe](https://github.com/eropple/terraframe) - 
+- [terrafying](https://github.com/uswitch/terrafying) - A small ruby dsl for terraform.
+- [terrascript](https://github.com/meson10/terrascript) - Generate terraform compatible output from your application. Don't alter those JSON or HCL by hand.
+- [ruby-hcl](https://github.com/sikula/ruby-hcl) - Ruby Parser for the Hashicorp Configuration Language
 - [oh-my-vagrant](https://github.com/purpleidea/oh-my-vagrant) - An easy to manipulate development environment for using vagrant with puppet, docker and more!
 - [terrafiddle](https://github.com/glenjamin/terrafiddle) - Mini ruby dsl for generating terraform files
 - [cloudshaper](https://github.com/dalehamel/cloudshaper) - Ruby DSL for managing terraform stacks
@@ -528,6 +551,8 @@
 
 ## Shell 
 
+- [bats](https://github.com/sstephenson/bats) - Bash Automated Testing System
+- [dockerfile-terraform](https://github.com/unifio/dockerfile-terraform) - Dockerfile for creation of a HashiCorp Terraform container
 - [terrafirm](https://github.com/GuitarrasDeAmor/terrafirm) - A project proposing best practices for Terraform
 - [centos7-ami](https://github.com/BashtonLtd/centos7-ami) - Shell script to build CentOS 7 AMI
 - [dockerfiles](https://github.com/kelseyhightower/dockerfiles) - Docker files

@@ -99,6 +99,9 @@
 
 ## Go 
 
+- [go-openvpn-mgmt](https://github.com/apparentlymart/go-openvpn-mgmt) - [WIP] Go client library for OpenVPN's management protocol
+- [terragrunt](https://github.com/gruntwork-io/terragrunt) - Terragrunt is a thin wrapper for Terraform that supports locking for Terraform state and enforces best practices.
+- [terraform](https://github.com/VladRassokhin/terraform) - Terraform is a tool for building, changing, and combining infrastructure safely and efficiently.
 - [packer-provisioner-serverspec](https://github.com/unifio/packer-provisioner-serverspec) - Packer Serverspec remote provisioner
 - [heka](https://github.com/mozilla-services/heka) - DEPRECATED: Data collection and processing made easy.
 - [gru](https://github.com/dnaeon/gru) - Orchestration made easy with Go and Lua
@@ -197,10 +200,13 @@
 
 ## Groovy 
 
+- [tf_pipeline](https://github.com/benwtr/tf_pipeline) - Jenkins Pipeline jobs for Terraform with remote state locking, pull request integration and chat notifications
 - [gradle-capsule-plugin](https://github.com/danthegoodman/gradle-capsule-plugin) - A Gradle plugin for Capsule, the packaging and deployment tool for JVM apps.
 
 ## HCL 
 
+- [terraform-example](https://github.com/robert-stuttaford/terraform-example) - Terraform, Ansible, sticky tape and magic
+- [ECS-Terraform-Example](https://github.com/chrisguitarguy/ECS-Terraform-Example) - Code for a presentation I'm doing on deploying things using ECS and terraform.
 - [tf-force-fail](https://github.com/ajcrites/tf-force-fail) - 
 - [tf-aws-ha-vpc](https://github.com/spohnan/tf-aws-ha-vpc) - Terraform module that creates an AWS VPC with HA NAT and Bastion components
 - [terraform_modules](https://github.com/GuitarrasDeAmor/terraform_modules) - A collection of Terraform modules
@@ -500,6 +506,7 @@
 
 ## Ruby 
 
+- [ruby-tfoutputs](https://github.com/jae2/ruby-tfoutputs) - Use Terraform outputs in your ruby code.
 - [dockerfile-packer](https://github.com/unifio/dockerfile-packer) - Dockerfile for creation of a HashiCorp Packer container
 - [cleanroom](https://github.com/sethvargo/cleanroom) - (More) safely evaluate Ruby DSLs with cleanroom
 - [awspec](https://github.com/k1LoW/awspec) - RSpec tests for your AWS resources.
@@ -616,6 +623,7 @@
 
 ## VimL 
 
+- [utilities](https://github.com/VladRassokhin/utilities) - Micro helpers
 - [vim-openresty](https://github.com/hexchain/vim-openresty) - Openresty configuration highlight for Vim
 - [auto-pairs](https://github.com/jiangmiao/auto-pairs) - Vim plugin, insert or delete brackets, parens, quotes in pair
 - [nerdtree-git-plugin](https://github.com/Xuyuanp/nerdtree-git-plugin) - A plugin of NERDTree showing git status

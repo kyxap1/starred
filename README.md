@@ -99,6 +99,7 @@
 
 ## Go 
 
+- [tflint](https://github.com/wata727/tflint) - TFLint is a linter of Terraform. TFLint is intended to supplement `terraform plan` in AWS provider
 - [go-openvpn-mgmt](https://github.com/apparentlymart/go-openvpn-mgmt) - [WIP] Go client library for OpenVPN's management protocol
 - [terragrunt](https://github.com/gruntwork-io/terragrunt) - Terragrunt is a thin wrapper for Terraform that supports locking for Terraform state and enforces best practices.
 - [terraform](https://github.com/VladRassokhin/terraform) - Terraform is a tool for building, changing, and combining infrastructure safely and efficiently.
@@ -205,6 +206,7 @@
 
 ## HCL 
 
+- [aws-terraform-template](https://github.com/ntk1000/aws-terraform-template) - write, plan, and create "aws" infrastructure as code via terraform
 - [terraform-example](https://github.com/robert-stuttaford/terraform-example) - Terraform, Ansible, sticky tape and magic
 - [ECS-Terraform-Example](https://github.com/chrisguitarguy/ECS-Terraform-Example) - Code for a presentation I'm doing on deploying things using ECS and terraform.
 - [tf-force-fail](https://github.com/ajcrites/tf-force-fail) - 
@@ -274,7 +276,7 @@
 
 ## Haskell 
 
-- [sproxy2](https://github.com/ip1981/sproxy2) - 
+- [sproxy2](https://github.com/ip1981/sproxy2) - HTTP proxy for authenticating users via OAuth2
 - [sproxy](https://github.com/zalora/sproxy) - Obsolete. See http://hackage.haskell.org/package/sproxy2
 - [compleat](https://github.com/mbrubeck/compleat) - Generate command-line completions using a simple DSL.
 
@@ -318,6 +320,7 @@
 
 ## JavaScript 
 
+- [linter-terraform-syntax](https://github.com/mschuchard/linter-terraform-syntax) - terraform validate linter for atom
 - [aws-maintenance-lambda](https://github.com/indix/aws-maintenance-lambda) - A lambda function to send alerts (to Slack, HipChat) on AWS maintenance events.
 - [slack-patron](https://github.com/tyage/slack-patron) - Log and view all Slack messages.
 - [pingbot](https://github.com/toricls/pingbot) - A website monitoring/health-checking tool based on serverless architecture.
@@ -506,6 +509,7 @@
 
 ## Ruby 
 
+- [geoengineer](https://github.com/coinbase/geoengineer) - Infrastructure As Code
 - [ruby-tfoutputs](https://github.com/jae2/ruby-tfoutputs) - Use Terraform outputs in your ruby code.
 - [dockerfile-packer](https://github.com/unifio/dockerfile-packer) - Dockerfile for creation of a HashiCorp Packer container
 - [cleanroom](https://github.com/sethvargo/cleanroom) - (More) safely evaluate Ruby DSLs with cleanroom
@@ -558,6 +562,7 @@
 
 ## Shell 
 
+- [do-stack-template](https://github.com/barajasfab/do-stack-template) - Terraform files which can be used in addition to Ansible roles to deploy on DigitalOcean
 - [bats](https://github.com/sstephenson/bats) - Bash Automated Testing System
 - [dockerfile-terraform](https://github.com/unifio/dockerfile-terraform) - Dockerfile for creation of a HashiCorp Terraform container
 - [terrafirm](https://github.com/GuitarrasDeAmor/terrafirm) - A project proposing best practices for Terraform

@@ -207,6 +207,7 @@
 ## HCL 
 
 - [aws-terraform-template](https://github.com/ntk1000/aws-terraform-template) - write, plan, and create "aws" infrastructure as code via terraform
+- [do-stack-template](https://github.com/barajasfab/do-stack-template) - Terraform files which can be used in addition to Ansible roles to deploy on DigitalOcean
 - [terraform-example](https://github.com/robert-stuttaford/terraform-example) - Terraform, Ansible, sticky tape and magic
 - [ECS-Terraform-Example](https://github.com/chrisguitarguy/ECS-Terraform-Example) - Code for a presentation I'm doing on deploying things using ECS and terraform.
 - [tf-force-fail](https://github.com/ajcrites/tf-force-fail) - 
@@ -562,7 +563,6 @@
 
 ## Shell 
 
-- [do-stack-template](https://github.com/barajasfab/do-stack-template) - Terraform files which can be used in addition to Ansible roles to deploy on DigitalOcean
 - [bats](https://github.com/sstephenson/bats) - Bash Automated Testing System
 - [dockerfile-terraform](https://github.com/unifio/dockerfile-terraform) - Dockerfile for creation of a HashiCorp Terraform container
 - [terrafirm](https://github.com/GuitarrasDeAmor/terrafirm) - A project proposing best practices for Terraform

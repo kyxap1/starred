@@ -417,6 +417,7 @@
 
 ## PHP 
 
+- [labs](https://github.com/docker/labs) - This is a collection of tutorials for learning how to use Docker with various tools. Contributions welcome.
 - [FreshRSS](https://github.com/FreshRSS/FreshRSS) - A free, self-hostable aggregator…
 - [Hugopit](https://github.com/sjardim/Hugopit) - A web based editor for Hugo
 - [CliGenerator](https://github.com/enxebre/CliGenerator) - A Command-Line User Interface generator for Symfony Console Component.
@@ -563,6 +564,7 @@
 
 ## Shell 
 
+- [wildfly](https://github.com/inkatze/wildfly) - Ansible role for wildfly
 - [bats](https://github.com/sstephenson/bats) - Bash Automated Testing System
 - [dockerfile-terraform](https://github.com/unifio/dockerfile-terraform) - Dockerfile for creation of a HashiCorp Terraform container
 - [terrafirm](https://github.com/GuitarrasDeAmor/terrafirm) - A project proposing best practices for Terraform

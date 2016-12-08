@@ -377,6 +377,8 @@
 
 ## Others 
 
+- [dockerfile-ci](https://github.com/unifio/dockerfile-ci) - 
+- [terraform-aws-ecs](https://github.com/unifio/terraform-aws-ecs) - Terraform AWS ECS stack
 - [tool-repos](https://github.com/monitoringsucks/tool-repos) - Tracking various tools that fit in the monitoring and metrics space
 - [dockerfile-transcrypt](https://github.com/unifio/dockerfile-transcrypt) - Dockerfile for creation of a Transcrypt container
 - [ansible-vault](https://github.com/MiLk/ansible-vault) - Ansible Vault role
@@ -438,6 +440,7 @@
 
 ## Python 
 
+- [ptolemy](https://github.com/cloudreach/ptolemy) - Write terse AWS DMS table mappings.
 - [terraform.py](https://github.com/CiscoCloud/terraform.py) - Ansible dynamic inventory script for parsing Terraform state files
 - [kubeform](https://github.com/Capgemini/kubeform) - Form your :boat: Kubernetes :anchor: cluster anywhere using CoreOS, Terraform and Ansible
 - [paasta](https://github.com/Yelp/paasta) - An open, distributed platform as a service

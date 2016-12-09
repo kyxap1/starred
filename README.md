@@ -99,6 +99,7 @@
 
 ## Go 
 
+- [beanform](https://github.com/jritsema/beanform) - Reverse engineer an AWS Elasticbeanstalk app into Terraform source code
 - [blox](https://github.com/blox/blox) - Open source tools for building custom schedulers on Amazon ECS
 - [tflint](https://github.com/wata727/tflint) - TFLint is a linter of Terraform. TFLint is intended to supplement `terraform plan` in AWS provider
 - [go-openvpn-mgmt](https://github.com/apparentlymart/go-openvpn-mgmt) - [WIP] Go client library for OpenVPN's management protocol
@@ -322,6 +323,7 @@
 
 ## JavaScript 
 
+- [beanform](https://github.com/turnerlabs/beanform) - Reverse engineer AWS Elasticbeanstalk apps into Terraform source code
 - [linter-terraform-syntax](https://github.com/mschuchard/linter-terraform-syntax) - terraform validate linter for atom
 - [aws-maintenance-lambda](https://github.com/indix/aws-maintenance-lambda) - A lambda function to send alerts (to Slack, HipChat) on AWS maintenance events.
 - [slack-patron](https://github.com/tyage/slack-patron) - Log and view all Slack messages.
@@ -394,7 +396,6 @@
 - [consul-deb](https://github.com/bcandrea/consul-deb) - A debian package definition for Consul (www.consul.io)
 - [bigtop-centos](https://github.com/tzolov/bigtop-centos) - Ready to use Docker environment for Apache Bigtop. Based on CentOS and equipped with all necessary tools and libraries.
 - [cassandra-monitoring](https://github.com/softwaremill/cassandra-monitoring) - Scripts for the Cassandra Monitoring blog miniseries
-- [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness) - A curated list of awesome awesomeness
 - [awesome-db](https://github.com/numetriclabz/awesome-db) - A curated list of amazingly awesome database libraries, resources and shiny things by https://www.numetriclabz.com/
 - [awesome-public-datasets](https://github.com/caesar0301/awesome-public-datasets) - An awesome list of high-quality open datasets in public domains (on-going). By everyone, for everyone.
 - [onmetal-fast-docker](https://github.com/jayofdoom/onmetal-fast-docker) - Contains example cloud-config.yml files for mounting /var/lib/docker onto fast storage on OnMetal
@@ -534,6 +535,7 @@
 - [lhm](https://github.com/soundcloud/lhm) - Online MySQL schema migrations
 - [homebrew-terraforms](https://github.com/Yleisradio/homebrew-terraforms) - # Terraform version switcher and Homebrew Casks for Terraform versions
 - [dpl](https://github.com/travis-ci/dpl) - Dpl (dee-pee-ell) is a deploy tool made for continuous deployment.
+- [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness) - A curated list of awesome awesomeness
 - [cassandra](https://github.com/locp/cassandra) - Installs Cassandra, DataStax Agent & OpsCenter on RHEL/Ubuntu/Debian.
 - [s3urlsigner](https://github.com/stevejmason/s3urlsigner) - API "proxy" that redirects requests to a signed-URL for accessing private objects in AWS S3.
 - [samson](https://github.com/zendesk/samson) - Web interface for deployments

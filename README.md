@@ -441,6 +441,7 @@
 
 ## Python 
 
+- [barman](https://github.com/2ndquadrant-it/barman) - BaRMan - Backup and Recovery Manager for PostgreSQL
 - [ptolemy](https://github.com/cloudreach/ptolemy) - Write terse AWS DMS table mappings.
 - [terraform.py](https://github.com/CiscoCloud/terraform.py) - Ansible dynamic inventory script for parsing Terraform state files
 - [kubeform](https://github.com/Capgemini/kubeform) - Form your :boat: Kubernetes :anchor: cluster anywhere using CoreOS, Terraform and Ansible

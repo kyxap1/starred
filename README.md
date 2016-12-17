@@ -74,11 +74,17 @@
 
 ## Clojure 
 
+- [dorothy](https://github.com/daveray/dorothy) - Hiccup-style generation of Graphviz graphs in Clojure
+- [specter](https://github.com/nathanmarz/specter) - Clojure(Script)'s missing piece
+- [GraphQLviz](https://github.com/Macroz/GraphQLviz) - GraphQLviz marries GraphQL (schemas) with Graphviz.
+- [archi](https://github.com/Macroz/archi) - Draw (architecture) diagrams as easily as Archi.
+- [rhizome](https://github.com/ztellman/rhizome) - simple graph and tree visualization
 - [blueshift](https://github.com/uswitch/blueshift) - Automate copying data from S3 into Amazon Redshift
 - [terraboot](https://github.com/MastodonC/terraboot) - DSL to generate terraform configuration and run it
 
 ## CoffeeScript 
 
+- [dredd](https://github.com/apiaryio/dredd) - Language-agnostic HTTP API Testing Framework
 - [language-hcl](https://github.com/fd/language-hcl) - A grammar for the HashiCorp Configuration Language.
 - [hcl-to-json](https://github.com/gokmen/hcl-to-json) - HCL to JSON converter in CoffeeScript
 - [aglio](https://github.com/danielgtaylor/aglio) - An API Blueprint renderer with theme support that outputs static HTML
@@ -266,6 +272,8 @@
 
 ## HTML 
 
+- [swagger-codegen](https://github.com/swagger-api/swagger-codegen) - swagger-codegen contains a template-driven engine to generate documentation, API clients and server stubs in different languages by parsing your OpenAPI / Swagger definition.
+- [archi-example](https://github.com/Macroz/archi-example) - Example project for archi also useful as a quickstart template.
 - [haskell-language-hcl](https://github.com/beijaflor-io/haskell-language-hcl) - language-hcl contains HCL (Hashicorp Configuration Language) parsers and pretty-printers for the Haskell programming language
 - [vault-crowdsource](https://github.com/sethvargo/vault-crowdsource) - 
 - [node-red-contrib-aws](https://github.com/joeartsea/node-red-contrib-aws) - A collection of Node-RED nodes for AWS.
@@ -280,6 +288,7 @@
 
 ## Java 
 
+- [graphql-java](https://github.com/graphql-java/graphql-java) - GraphQL Java implementation
 - [terrapose](https://github.com/spaceshaker/terrapose) - A Groovy-based DSL that is translated to Terraform
 - [storm](https://github.com/nathanmarz/storm) - Distributed and fault-tolerant realtime computation: stream processing, continuous computation, distributed RPC, and more
 - [feign](https://github.com/OpenFeign/feign) - Feign makes writing java http clients easier
@@ -318,6 +327,9 @@
 
 ## JavaScript 
 
+- [generator-jhipster](https://github.com/jhipster/generator-jhipster) - Open Source application generator for creating Spring Boot + AngularJS projects in seconds!
+- [gql-tools](https://github.com/almilo/gql-tools) - GraphQL Tools for schema handling.
+- [graphiql](https://github.com/graphql/graphiql) - An in-browser IDE for exploring GraphQL.
 - [beanform](https://github.com/turnerlabs/beanform) - Reverse engineer AWS Elasticbeanstalk apps into Terraform source code
 - [linter-terraform-syntax](https://github.com/mschuchard/linter-terraform-syntax) - terraform validate or plan linter for atom
 - [aws-maintenance-lambda](https://github.com/indix/aws-maintenance-lambda) - A lambda function to send alerts (to Slack, HipChat) on AWS maintenance events.
@@ -361,6 +373,7 @@
 
 ## Makefile 
 
+- [json-schema-spec](https://github.com/json-schema-org/json-schema-spec) - The JSON Schema I-D sources
 - [nomad-docker](https://github.com/sjourdan/nomad-docker) - This is a Docker container for Nomad based on Busybox
 - [go-build-template](https://github.com/thockin/go-build-template) - A Makefile/Dockerfile example for Go projects.
 - [Dockerfiles](https://github.com/HariSekhon/Dockerfiles) - DockerHub public images - Hadoop, Kafka, ZooKeeper, HBase, Cassandra, Solr / SolrCloud, Apache Drill, Nifi, Serf, Consul, Mesos, Spark standalone, Riak, Alluxio, Jython, Advanced Nagios Plugins Collection / PyTools / Tools repos on CentOS / Ubuntu / Debian / Alpine
@@ -375,6 +388,7 @@
 
 ## Others 
 
+- [awesome-graphql](https://github.com/chentsulin/awesome-graphql) - Awesome list of GraphQL & Relay
 - [dockerfile-ci](https://github.com/unifio/dockerfile-ci) - 
 - [terraform-aws-ecs](https://github.com/unifio/terraform-aws-ecs) - Terraform AWS ECS stack
 - [tool-repos](https://github.com/monitoringsucks/tool-repos) - Tracking various tools that fit in the monitoring and metrics space

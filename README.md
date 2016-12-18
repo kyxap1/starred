@@ -39,6 +39,7 @@
 
 ## C 
 
+- [bottledwater-pg](https://github.com/confluentinc/bottledwater-pg) - Change data capture from PostgreSQL into Kafka
 - [jq](https://github.com/stedolan/jq) - Command-line JSON processor
 - [jo](https://github.com/jpmens/jo) - JSON output from a shell
 - [libzbxpgsql](https://github.com/cavaliercoder/libzbxpgsql) - Monitor PostgreSQL with Zabbix
@@ -327,6 +328,8 @@
 
 ## JavaScript 
 
+- [eslint-config-datapipeline](https://github.com/DataPipelineInc/eslint-config-datapipeline) - Data pipeline ESLint configuration
+- [DataPipeline-download](https://github.com/pearsonlab/DataPipeline-download) - downloading files from AWS DataPipeline system
 - [generator-jhipster](https://github.com/jhipster/generator-jhipster) - Open Source application generator for creating Spring Boot + AngularJS projects in seconds!
 - [gql-tools](https://github.com/almilo/gql-tools) - GraphQL Tools for schema handling.
 - [graphiql](https://github.com/graphql/graphiql) - An in-browser IDE for exploring GraphQL.
@@ -341,6 +344,7 @@
 - [aws-log-replay](https://github.com/mapbox/aws-log-replay) - Transform and replay CloudFront, ELB Classic, and ALB logs
 - [pingdummy](https://github.com/segmentio/pingdummy) - Example application for segmentio/stack
 - [elasticsearch-head](https://github.com/mobz/elasticsearch-head) - A web front end for an elastic search cluster
+- [awesome-selfhosted](https://github.com/Kickball/awesome-selfhosted) - This is a list of Free Software network services and web applications which can be hosted locally. Selfhosting is the process of locally hosting and managing applications instead of renting from SaaS providers.
 - [serverless](https://github.com/serverless/serverless) - Serverless Framework – Build web, mobile and IoT applications with serverless architectures using AWS Lambda, Azure Functions, Google CloudFunctions & more! –
 - [lambda](https://github.com/AWSinAction/lambda) - AWS in Action: Lambda
 - [terraform2md](https://github.com/shambarick/terraform2md) - 
@@ -377,7 +381,6 @@
 - [nomad-docker](https://github.com/sjourdan/nomad-docker) - This is a Docker container for Nomad based on Busybox
 - [go-build-template](https://github.com/thockin/go-build-template) - A Makefile/Dockerfile example for Go projects.
 - [Dockerfiles](https://github.com/HariSekhon/Dockerfiles) - DockerHub public images - Hadoop, Kafka, ZooKeeper, HBase, Cassandra, Solr / SolrCloud, Apache Drill, Nifi, Serf, Consul, Mesos, Spark standalone, Riak, Alluxio, Jython, Advanced Nagios Plugins Collection / PyTools / Tools repos on CentOS / Ubuntu / Debian / Alpine
-- [awesome-selfhosted](https://github.com/Kickball/awesome-selfhosted) - This is a list of Free Software network services and web applications which can be hosted locally. Selfhosting is the process of locally hosting and managing applications instead of renting from SaaS providers.
 - [docker-nginx-s3](https://github.com/grahamgilbert/docker-nginx-s3) - An nginx image with ngx_aws_auth
 - [terraform-provider-utils](https://github.com/nrcxcia/terraform-provider-utils) - Terraform provider to help with templating in terraform definitions.
 
@@ -452,6 +455,8 @@
 
 ## Python 
 
+- [dataduct](https://github.com/coursera/dataduct) - DataPipeline for humans.
+- [data-pipeline-samples](https://github.com/awslabs/data-pipeline-samples) - This repository hosts sample pipelines
 - [barman](https://github.com/2ndquadrant-it/barman) - BaRMan - Backup and Recovery Manager for PostgreSQL
 - [ptolemy](https://github.com/cloudreach/ptolemy) - Write terse AWS DMS table mappings.
 - [terraform.py](https://github.com/CiscoCloud/terraform.py) - Ansible dynamic inventory script for parsing Terraform state files

@@ -101,6 +101,9 @@
 
 ## Go 
 
+- [terraform-resource](https://github.com/ljfranklin/terraform-resource) - A concourse resource to create infrastructure via Terraform
+- [pgclimb](https://github.com/lukasmartinelli/pgclimb) - Export data from PostgreSQL into different data formats
+- [pgfutter](https://github.com/lukasmartinelli/pgfutter) - Import CSV and JSON into PostgreSQL the easy way
 - [beanform](https://github.com/jritsema/beanform) - Reverse engineer an AWS Elasticbeanstalk app into Terraform source code
 - [blox](https://github.com/blox/blox) - Open source tools for building custom schedulers on Amazon ECS
 - [tflint](https://github.com/wata727/tflint) - TFLint is a linter of Terraform. TFLint is intended to supplement `terraform plan` in AWS provider
@@ -210,6 +213,10 @@
 
 ## HCL 
 
+- [blueprint-storage-aws](https://github.com/stakater/blueprint-storage-aws) - Stakater Blueprint for creating best-practices based storage on AWS. Stakater is an Infrastructure-as-Code DevOps solution to automate the creation of web infrastructure stack on Amazon. Stakater is a collection of Blueprints; where each blueprint is an opinionated, reusable, tested, supported, documented, configurable, best-practices definition of a piece of infrastructure. Stakater is based on Docker, CoreOS, Terraform, Packer, Docker Compose, GoCD, Fleet, ETCD, and much more.
+- [blueprint-utilities-aws](https://github.com/stakater/blueprint-utilities-aws) - Stakater Blueprint for small utility modules on AWS. Stakater is an Infrastructure-as-Code DevOps solution to automate the creation of web infrastructure stack on Amazon. Stakater is a collection of Blueprints; where each blueprint is an opinionated, reusable, tested, supported, documented, configurable, best-practices definition of a piece of infrastructure. Stakater is based on Docker, CoreOS, Terraform, Packer, Docker Compose, GoCD, Fleet, ETCD, and much more.
+- [prod-deployment-reference](https://github.com/stakater/prod-deployment-reference) - Stakater sub-module for infrastructure-reference and a practical reference implementation of Production deployment using custom AMI. Stakater is an Infrastructure-as-a-Code DevOps solution to automate the creation of web infrastructure stack on Amazon. Stakater is a collection of Blueprints; where each blueprint is an opinionated, reusable, tested, supported, documented, configurable, best-practices definition of a piece of infrastructure. Stakater is based on Docker, CoreOS, Terraform, Packer, Docker Compose, GoCD, Fleet, ETCD, and much more.
+- [blueprint-network-aws](https://github.com/stakater/blueprint-network-aws) - Stakater Blueprint for creating best-practices network on AWS. Stakater is an Infrastructure-as-Code DevOps solution to automate the creation of web infrastructure stack on Amazon. Stakater is a collection of Blueprints; where each blueprint is an opinionated, reusable, tested, supported, documented, configurable, best-practices definition of a piece of infrastructure. Stakater is based on Docker, CoreOS, Terraform, Packer, Docker Compose, GoCD, Fleet, ETCD, and much more.
 - [aws-terraform-template](https://github.com/ntk1000/aws-terraform-template) - write, plan, and create "aws" infrastructure as code via terraform
 - [do-stack-template](https://github.com/barajasfab/do-stack-template) - Terraform files which can be used in addition to Ansible roles to deploy on DigitalOcean
 - [terraform-example](https://github.com/robert-stuttaford/terraform-example) - Terraform, Ansible, sticky tape and magic
@@ -289,6 +296,9 @@
 
 ## Java 
 
+- [Hive-Pig-Hbase](https://github.com/Re1tReddy/Hive-Pig-Hbase) - Hive,Pig,Hbase,Sqoop examples
+- [oryx](https://github.com/OryxProject/oryx) - Oryx 2: Lambda architecture on Apache Spark, Apache Kafka for real-time large scale machine learning
+- [devops-demo](https://github.com/dimapod/devops-demo) - DevOps Demo - Packer / Ansible / Terraform / AWS
 - [graphql-java](https://github.com/graphql-java/graphql-java) - GraphQL Java implementation
 - [terrapose](https://github.com/spaceshaker/terrapose) - A Groovy-based DSL that is translated to Terraform
 - [storm](https://github.com/nathanmarz/storm) - Distributed and fault-tolerant realtime computation: stream processing, continuous computation, distributed RPC, and more
@@ -380,7 +390,6 @@
 - [json-schema-spec](https://github.com/json-schema-org/json-schema-spec) - The JSON Schema I-D sources
 - [nomad-docker](https://github.com/sjourdan/nomad-docker) - This is a Docker container for Nomad based on Busybox
 - [go-build-template](https://github.com/thockin/go-build-template) - A Makefile/Dockerfile example for Go projects.
-- [Dockerfiles](https://github.com/HariSekhon/Dockerfiles) - DockerHub public images - Hadoop, Kafka, ZooKeeper, HBase, Cassandra, Solr / SolrCloud, Apache Drill, Nifi, Serf, Consul, Mesos, Spark standalone, Riak, Alluxio, Jython, Advanced Nagios Plugins Collection / PyTools / Tools repos on CentOS / Ubuntu / Debian / Alpine
 - [docker-nginx-s3](https://github.com/grahamgilbert/docker-nginx-s3) - An nginx image with ngx_aws_auth
 - [terraform-provider-utils](https://github.com/nrcxcia/terraform-provider-utils) - Terraform provider to help with templating in terraform definitions.
 
@@ -391,6 +400,9 @@
 
 ## Others 
 
+- [ansible-terraform](https://github.com/andrewrothstein/ansible-terraform) - 
+- [ansible-role-packer](https://github.com/patrick-hill/ansible-role-packer) - 
+- [Sqoop](https://github.com/SriGovindGutala/Sqoop) - This repo contains all the different ways you can ingest data from RDBMS to HDFS and vice versa using Sqoop.
 - [awesome-graphql](https://github.com/chentsulin/awesome-graphql) - Awesome list of GraphQL & Relay
 - [dockerfile-ci](https://github.com/unifio/dockerfile-ci) - 
 - [terraform-aws-ecs](https://github.com/unifio/terraform-aws-ecs) - Terraform AWS ECS stack
@@ -410,7 +422,7 @@
 - [bigtop-centos](https://github.com/tzolov/bigtop-centos) - Ready to use Docker environment for Apache Bigtop. Based on CentOS and equipped with all necessary tools and libraries.
 - [cassandra-monitoring](https://github.com/softwaremill/cassandra-monitoring) - Scripts for the Cassandra Monitoring blog miniseries
 - [awesome-db](https://github.com/numetriclabz/awesome-db) - A curated list of amazingly awesome database libraries, resources and shiny things by https://www.numetriclabz.com/
-- [awesome-public-datasets](https://github.com/caesar0301/awesome-public-datasets) - An awesome list of high-quality open datasets in public domains (on-going). By everyone, for everyone.
+- [awesome-public-datasets](https://github.com/caesar0301/awesome-public-datasets) - An awesome list of high-quality open datasets in public domains (on-going). By everyone, for everyone!
 - [onmetal-fast-docker](https://github.com/jayofdoom/onmetal-fast-docker) - Contains example cloud-config.yml files for mounting /var/lib/docker onto fast storage on OnMetal
 - [ntiered-aws-docker-terraform-guide](https://github.com/airpair/ntiered-aws-docker-terraform-guide) - 
 - [awesome-postgres](https://github.com/dhamaniasad/awesome-postgres) - A curated list of awesome PostgreSQL software, libraries, tools and resources, inspired by awesome-mysql
@@ -435,6 +447,7 @@
 
 ## PHP 
 
+- [hashicorp](https://github.com/jkkitakita/hashicorp) - repo related to hashicorp
 - [labs](https://github.com/docker/labs) - This is a collection of tutorials for learning how to use Docker with various tools. Contributions welcome.
 - [FreshRSS](https://github.com/FreshRSS/FreshRSS) - A free, self-hostable aggregator…
 - [Hugopit](https://github.com/sjardim/Hugopit) - A web based editor for Hugo
@@ -446,6 +459,7 @@
 
 ## Perl 
 
+- [ec2-consistent-snapshot](https://github.com/alestic/ec2-consistent-snapshot) - Initiate consistent EBS snapshots in Amazon EC2
 - [dotfiles](https://github.com/jessfraz/dotfiles) - My dotfiles. Buyer beware ;)
 - [ffmpeg-static](https://github.com/zimbatm/ffmpeg-static) - Scripts to build ffmpeg with all the deps statically (webm + h264 included)
 
@@ -587,6 +601,14 @@
 
 ## Shell 
 
+- [ansible-examples](https://github.com/ansible/ansible-examples) - A few starter examples of ansible playbooks, to show features and how they work together.  See http://galaxy.ansible.com for example roles from the Ansible community for deploying many popular applications.
+- [circleci-packer-example](https://github.com/nabeken/circleci-packer-example) - Example: packer image builder on CircleCI
+- [circleci-cli](https://github.com/rockymadden/circleci-cli) - :vertical_traffic_light: Powerful CircleCI CLI via pure bash
+- [image-builder](https://github.com/circleci/image-builder) - 
+- [ansible-role-hashicorp](https://github.com/kurron/ansible-role-hashicorp) - Ansible role that installs the HashiCorp suite of tools including Vagrant, Packer and Terraform.
+- [sqoop2hive](https://github.com/gwenshap/sqoop2hive) - Few scripts to automate daily data loads from RDBMS to Partitioned Avro Hive table
+- [infrastructure-reference](https://github.com/stakater/infrastructure-reference) - Reference infrastructure for Stakater blueprints - Docker, CoreOS, GoCD, Amazon, Shell Scripting, etc. Stakater is an Infrastructure-as-Code DevOps solution to automate the creation of web infrastructure stack on Amazon. Stakater is a collection of Blueprints; where each blueprint is an opinionated, reusable, tested, supported, documented, configurable, best-practices definition of a piece of infrastructure. Stakater is based on Docker, CoreOS, Terraform, Packer, Docker Compose, GoCD, Fleet, ETCD, and much more.
+- [ami-baker](https://github.com/stakater/ami-baker) - Stakater tool to create CoreOS based custom AMI (Amazon Machine Image). Stakater is an Infrastructure-as-Code DevOps solution to automate the creation of web infrastructure stack on Amazon. Stakater is a collection of Blueprints; where each blueprint is an opinionated, reusable, tested, supported, documented, configurable, best-practices definition of a piece of infrastructure. Stakater is based on Docker, CoreOS, Terraform, Packer, Docker Compose, GoCD, Fleet, ETCD, and much more.
 - [wildfly](https://github.com/inkatze/wildfly) - Ansible role for wildfly
 - [bats](https://github.com/sstephenson/bats) - Bash Automated Testing System
 - [dockerfile-terraform](https://github.com/unifio/dockerfile-terraform) - Dockerfile for creation of a HashiCorp Terraform container
@@ -594,6 +616,7 @@
 - [centos7-ami](https://github.com/BashtonLtd/centos7-ami) - Shell script to build CentOS 7 AMI
 - [dockerfiles](https://github.com/kelseyhightower/dockerfiles) - Docker files
 - [hashiconf-eu-2016](https://github.com/kelseyhightower/hashiconf-eu-2016) - HashiConf EU 2016
+- [Dockerfiles](https://github.com/HariSekhon/Dockerfiles) - DockerHub public images - Hadoop, Kafka, ZooKeeper, HBase, Cassandra, Solr / SolrCloud, Apache Drill, Nifi, Serf, Consul, Mesos, Spark standalone, Riak, Alluxio, Jython, Advanced Nagios Plugins Collection / PyTools / Tools repos on CentOS / Ubuntu / Debian / Alpine
 - [terraform-multi-env](https://github.com/bkc1/terraform-multi-env) - Terraform wrapper script for handling multi-environment, multi-region deployments
 - [terraform-aws-wrapper](https://github.com/antonbabenko/terraform-aws-wrapper) - Terraform AWS wrapper script (not ready for production, yet!)
 - [phinx.deb](https://github.com/Vitexus/phinx.deb) - Debian package for SQL Migrating tool Phinx

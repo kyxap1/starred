@@ -69,6 +69,7 @@
 
 ## CSS 
 
+- [nomad-ci](https://github.com/iverberk/nomad-ci) - A fully featured CI setup based on Nomad, Jenkins, Selenium, Consul and Docker
 - [MobDistTool](https://github.com/rgroult/MobDistTool) - Mobile App Distribution Tool
 - [domeide.github.io](https://github.com/domeide/domeide.github.io) - Docker meets the IDE - Integrating your favorite containers in the editor of your choice
 - [arnotes](https://github.com/art4melody/arnotes) - Markdown-based notepad HTML5 application
@@ -338,6 +339,7 @@
 
 ## JavaScript 
 
+- [jira-resource](https://github.com/danrspencer/jira-resource) - Jira Resource for Concourse
 - [eslint-config-datapipeline](https://github.com/DataPipelineInc/eslint-config-datapipeline) - Data pipeline ESLint configuration
 - [DataPipeline-download](https://github.com/pearsonlab/DataPipeline-download) - downloading files from AWS DataPipeline system
 - [generator-jhipster](https://github.com/jhipster/generator-jhipster) - Open Source application generator for creating Spring Boot + AngularJS projects in seconds!
@@ -547,6 +549,9 @@
 
 ## Ruby 
 
+- [wildfly-buildpack](https://github.com/myminseok/wildfly-buildpack) - Cloud Foundry buildpack for running Java applications
+- [wildfly-buildpack](https://github.com/thomasdarimont/wildfly-buildpack) - 
+- [pullrequest-resource](https://github.com/jtarchie/pullrequest-resource) - Provides a pull request resource for concourse CI.
 - [geoengineer](https://github.com/coinbase/geoengineer) - Infrastructure As Code
 - [ruby-tfoutputs](https://github.com/jae2/ruby-tfoutputs) - Use Terraform outputs in your ruby code.
 - [dockerfile-packer](https://github.com/unifio/dockerfile-packer) - Dockerfile for creation of a HashiCorp Packer container
@@ -601,6 +606,7 @@
 
 ## Shell 
 
+- [slack-notification-resource](https://github.com/cloudfoundry-community/slack-notification-resource) - Concourse CI resource for sending notifications to Slack.
 - [ansible-examples](https://github.com/ansible/ansible-examples) - A few starter examples of ansible playbooks, to show features and how they work together.  See http://galaxy.ansible.com for example roles from the Ansible community for deploying many popular applications.
 - [circleci-packer-example](https://github.com/nabeken/circleci-packer-example) - Example: packer image builder on CircleCI
 - [circleci-cli](https://github.com/rockymadden/circleci-cli) - :vertical_traffic_light: Powerful CircleCI CLI via pure bash

@@ -87,6 +87,7 @@
 
 ## CoffeeScript 
 
+- [generator-ansible-rh](https://github.com/dischord01/generator-ansible-rh) - 
 - [dredd](https://github.com/apiaryio/dredd) - Language-agnostic HTTP API Testing Framework
 - [language-hcl](https://github.com/fd/language-hcl) - A grammar for the HashiCorp Configuration Language.
 - [hcl-to-json](https://github.com/gokmen/hcl-to-json) - HCL to JSON converter in CoffeeScript
@@ -103,6 +104,7 @@
 
 ## Go 
 
+- [hologram](https://github.com/AdRoll/hologram) - Easy, painless AWS credentials on developer laptops.
 - [terraform-resource](https://github.com/ljfranklin/terraform-resource) - A concourse resource to create infrastructure via Terraform
 - [pgclimb](https://github.com/lukasmartinelli/pgclimb) - Export data from PostgreSQL into different data formats
 - [pgfutter](https://github.com/lukasmartinelli/pgfutter) - Import CSV and JSON into PostgreSQL the easy way
@@ -340,6 +342,7 @@
 
 ## JavaScript 
 
+- [docker-lambda](https://github.com/lambci/docker-lambda) - Docker images and test runners that replicate the live AWS Lambda environment
 - [jira-resource](https://github.com/danrspencer/jira-resource) - Jira Resource for Concourse
 - [eslint-config-datapipeline](https://github.com/DataPipelineInc/eslint-config-datapipeline) - Data pipeline ESLint configuration
 - [DataPipeline-download](https://github.com/pearsonlab/DataPipeline-download) - downloading files from AWS DataPipeline system
@@ -473,6 +476,7 @@
 
 ## Python 
 
+- [ansible-container](https://github.com/ansible/ansible-container) - Ansible Container is a tool to build Docker images and orchestrate containers using only Ansible playbooks.
 - [ansible-packer-vagrant-openstack-ec2](https://github.com/rosmo/ansible-packer-vagrant-openstack-ec2) - Ansible scripts to build images using Packer and Vagrant, exporting to Openstack, AMI or OVF image
 - [dataduct](https://github.com/coursera/dataduct) - DataPipeline for humans.
 - [data-pipeline-samples](https://github.com/awslabs/data-pipeline-samples) - This repository hosts sample pipelines
@@ -552,6 +556,9 @@
 
 ## Ruby 
 
+- [lbrt](https://github.com/winebarrel/lbrt) - A tool to manage Librato. It defines the state of Librato using DSL, and updates Librato according to DSL.
+- [miam](https://github.com/winebarrel/miam) - Miam is a tool to manage IAM. It defines the state of IAM using DSL, and updates IAM according to DSL.
+- [posgra](https://github.com/winebarrel/posgra) - Posgra is a tool to manage PostgreSQL roles/permissions.
 - [ansible-vagrant-examples](https://github.com/geerlingguy/ansible-vagrant-examples) - Ansible examples using Vagrant to deploy to local VMs.
 - [vagrant-aws](https://github.com/mitchellh/vagrant-aws) - Use Vagrant to manage your EC2 and VPC instances.
 - [wildfly-buildpack](https://github.com/myminseok/wildfly-buildpack) - Cloud Foundry buildpack for running Java applications

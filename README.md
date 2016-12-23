@@ -104,6 +104,12 @@
 
 ## Go 
 
+- [properties](https://github.com/magiconair/properties) - Java properties scanner for Go
+- [gotty](https://github.com/yudai/gotty) - Share your terminal as a web application
+- [gollum](https://github.com/trivago/gollum) - A n:m message multiplexer written in Go
+- [syncthing](https://github.com/syncthing/syncthing) - Open Source Continuous File Synchronization
+- [ccat](https://github.com/jingweno/ccat) - Colorizing `cat`
+- [vault-client](https://github.com/adfinis-sygroup/vault-client) - A command-line interface to HashiCorp's Vault
 - [hologram](https://github.com/AdRoll/hologram) - Easy, painless AWS credentials on developer laptops.
 - [terraform-resource](https://github.com/ljfranklin/terraform-resource) - A concourse resource to create infrastructure via Terraform
 - [pgclimb](https://github.com/lukasmartinelli/pgclimb) - Export data from PostgreSQL into different data formats
@@ -302,7 +308,6 @@
 
 - [Hive-Pig-Hbase](https://github.com/Re1tReddy/Hive-Pig-Hbase) - Hive,Pig,Hbase,Sqoop examples
 - [oryx](https://github.com/OryxProject/oryx) - Oryx 2: Lambda architecture on Apache Spark, Apache Kafka for real-time large scale machine learning
-- [devops-demo](https://github.com/dimapod/devops-demo) - DevOps Demo - Packer / Ansible / Terraform / AWS
 - [graphql-java](https://github.com/graphql-java/graphql-java) - GraphQL Java implementation
 - [terrapose](https://github.com/spaceshaker/terrapose) - A Groovy-based DSL that is translated to Terraform
 - [storm](https://github.com/nathanmarz/storm) - Distributed and fault-tolerant realtime computation: stream processing, continuous computation, distributed RPC, and more
@@ -406,6 +411,7 @@
 
 ## Others 
 
+- [stack-on-a-budget](https://github.com/255kb/stack-on-a-budget) - A collection of services with great free tiers for developers on a budget
 - [mac-dev-playbook](https://github.com/geerlingguy/mac-dev-playbook) - Mac setup and configuration via Ansible.
 - [ansible-terraform](https://github.com/andrewrothstein/ansible-terraform) - 
 - [ansible-role-packer](https://github.com/patrick-hill/ansible-role-packer) - 
@@ -466,6 +472,7 @@
 
 ## Perl 
 
+- [aws](https://github.com/timkay/aws) - Easy command line access to Amazon EC2, S3, SQS, ELB, and SDB (new!)
 - [ec2-consistent-snapshot](https://github.com/alestic/ec2-consistent-snapshot) - Initiate consistent EBS snapshots in Amazon EC2
 - [dotfiles](https://github.com/jessfraz/dotfiles) - My dotfiles. Buyer beware ;)
 - [ffmpeg-static](https://github.com/zimbatm/ffmpeg-static) - Scripts to build ffmpeg with all the deps statically (webm + h264 included)
@@ -476,6 +483,11 @@
 
 ## Python 
 
+- [pgcli](https://github.com/dbcli/pgcli) - Postgres CLI with autocompletion and syntax highlighting
+- [source-code-pro](https://github.com/adobe-fonts/source-code-pro) - Monospaced font family for user interface and coding environments
+- [coala](https://github.com/coala/coala) - coala provides a unified command-line interface for linting and fixing all your code, regardless of the programming languages you use.
+- [jungle](https://github.com/achiku/jungle) - AWS operations by cli should be simpler
+- [playbook](https://github.com/bonovoxly/playbook) - A collection of Ansible playbooks, roles, and ansible-container playbooks.
 - [ansible-container](https://github.com/ansible/ansible-container) - Ansible Container is a tool to build Docker images and orchestrate containers using only Ansible playbooks.
 - [ansible-packer-vagrant-openstack-ec2](https://github.com/rosmo/ansible-packer-vagrant-openstack-ec2) - Ansible scripts to build images using Packer and Vagrant, exporting to Openstack, AMI or OVF image
 - [dataduct](https://github.com/coursera/dataduct) - DataPipeline for humans.
@@ -556,6 +568,7 @@
 
 ## Ruby 
 
+- [pgsync](https://github.com/ankane/pgsync) - Postgres data -&gt; your local machine
 - [lbrt](https://github.com/winebarrel/lbrt) - A tool to manage Librato. It defines the state of Librato using DSL, and updates Librato according to DSL.
 - [miam](https://github.com/winebarrel/miam) - Miam is a tool to manage IAM. It defines the state of IAM using DSL, and updates IAM according to DSL.
 - [posgra](https://github.com/winebarrel/posgra) - Posgra is a tool to manage PostgreSQL roles/permissions.
@@ -618,6 +631,9 @@
 
 ## Shell 
 
+- [vagrant-bash-completion](https://github.com/kura/vagrant-bash-completion) - Add autocomplete for Vagrant to bash completion
+- [aws](https://github.com/swoodford/aws) - A collection of shell scripts for automating various tasks with AWS (Amazon Web Services)
+- [ecs-refarch-continuous-deployment](https://github.com/awslabs/ecs-refarch-continuous-deployment) - ECS Reference Architecture for creating a flexible and scalable deployment pipeline to Amazon ECS using AWS CodePipeline
 - [boxcutter_ubuntu](https://github.com/patrick-hill/boxcutter_ubuntu) - Virtual machine templates for Ubuntu
 - [postgresql](https://github.com/ANXS/postgresql) - Ansible role for PostgreSQL
 - [slack-notification-resource](https://github.com/cloudfoundry-community/slack-notification-resource) - Concourse CI resource for sending notifications to Slack.
@@ -629,6 +645,7 @@
 - [sqoop2hive](https://github.com/gwenshap/sqoop2hive) - Few scripts to automate daily data loads from RDBMS to Partitioned Avro Hive table
 - [infrastructure-reference](https://github.com/stakater/infrastructure-reference) - Reference infrastructure for Stakater blueprints - Docker, CoreOS, GoCD, Amazon, Shell Scripting, etc. Stakater is an Infrastructure-as-Code DevOps solution to automate the creation of web infrastructure stack on Amazon. Stakater is a collection of Blueprints; where each blueprint is an opinionated, reusable, tested, supported, documented, configurable, best-practices definition of a piece of infrastructure. Stakater is based on Docker, CoreOS, Terraform, Packer, Docker Compose, GoCD, Fleet, ETCD, and much more.
 - [ami-baker](https://github.com/stakater/ami-baker) - Stakater tool to create CoreOS based custom AMI (Amazon Machine Image). Stakater is an Infrastructure-as-Code DevOps solution to automate the creation of web infrastructure stack on Amazon. Stakater is a collection of Blueprints; where each blueprint is an opinionated, reusable, tested, supported, documented, configurable, best-practices definition of a piece of infrastructure. Stakater is based on Docker, CoreOS, Terraform, Packer, Docker Compose, GoCD, Fleet, ETCD, and much more.
+- [devops-demo](https://github.com/dimapod/devops-demo) - DevOps Demo - Packer / Ansible / Terraform / AWS
 - [wildfly](https://github.com/inkatze/wildfly) - Ansible role for wildfly
 - [bats](https://github.com/sstephenson/bats) - Bash Automated Testing System
 - [dockerfile-terraform](https://github.com/unifio/dockerfile-terraform) - Dockerfile for creation of a HashiCorp Terraform container

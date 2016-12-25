@@ -11,6 +11,7 @@
   - [CSS](#css)
   - [Clojure](#clojure)
   - [CoffeeScript](#coffeescript)
+  - [Common Lisp](#common lisp)
   - [Cucumber](#cucumber)
   - [Elixir](#elixir)
   - [Go](#go)
@@ -87,12 +88,17 @@
 
 ## CoffeeScript 
 
+- [hubot-bitbucket](https://github.com/andrewtarry/hubot-bitbucket) - Hubot library to listent for Bitbucket hooks
 - [generator-ansible-rh](https://github.com/dischord01/generator-ansible-rh) - 
 - [dredd](https://github.com/apiaryio/dredd) - Language-agnostic HTTP API Testing Framework
 - [language-hcl](https://github.com/fd/language-hcl) - A grammar for the HashiCorp Configuration Language.
 - [hcl-to-json](https://github.com/gokmen/hcl-to-json) - HCL to JSON converter in CoffeeScript
 - [aglio](https://github.com/danielgtaylor/aglio) - An API Blueprint renderer with theme support that outputs static HTML
 - [hubot](https://github.com/github/hubot) - A customizable life embetterment robot.
+
+## Common Lisp 
+
+- [pgloader](https://github.com/dimitri/pgloader) - Loading data into PostgreSQL
 
 ## Cucumber 
 
@@ -104,6 +110,10 @@
 
 ## Go 
 
+- [peco](https://github.com/peco/peco) - Simplistic interactive filtering tool
+- [jqrepl](https://github.com/ashb/jqrepl) - A REPL to make exploring data with JQ easier.
+- [kinesis-tailf](https://github.com/fujiwara/kinesis-tailf) - tail -f command for Amazon Kinesis Stream
+- [koding](https://github.com/koding/koding) - The Simplest Way to Manage Your Entire Dev Infrastructure!
 - [properties](https://github.com/magiconair/properties) - Java properties scanner for Go
 - [gotty](https://github.com/yudai/gotty) - Share your terminal as a web application
 - [gollum](https://github.com/trivago/gollum) - A n:m message multiplexer written in Go
@@ -223,6 +233,7 @@
 
 ## HCL 
 
+- [terraform-circleci-demo](https://github.com/knakayama/terraform-circleci-demo) - 
 - [blueprint-storage-aws](https://github.com/stakater/blueprint-storage-aws) - Stakater Blueprint for creating best-practices based storage on AWS. Stakater is an Infrastructure-as-Code DevOps solution to automate the creation of web infrastructure stack on Amazon. Stakater is a collection of Blueprints; where each blueprint is an opinionated, reusable, tested, supported, documented, configurable, best-practices definition of a piece of infrastructure. Stakater is based on Docker, CoreOS, Terraform, Packer, Docker Compose, GoCD, Fleet, ETCD, and much more.
 - [blueprint-utilities-aws](https://github.com/stakater/blueprint-utilities-aws) - Stakater Blueprint for small utility modules on AWS. Stakater is an Infrastructure-as-Code DevOps solution to automate the creation of web infrastructure stack on Amazon. Stakater is a collection of Blueprints; where each blueprint is an opinionated, reusable, tested, supported, documented, configurable, best-practices definition of a piece of infrastructure. Stakater is based on Docker, CoreOS, Terraform, Packer, Docker Compose, GoCD, Fleet, ETCD, and much more.
 - [prod-deployment-reference](https://github.com/stakater/prod-deployment-reference) - Stakater sub-module for infrastructure-reference and a practical reference implementation of Production deployment using custom AMI. Stakater is an Infrastructure-as-a-Code DevOps solution to automate the creation of web infrastructure stack on Amazon. Stakater is a collection of Blueprints; where each blueprint is an opinionated, reusable, tested, supported, documented, configurable, best-practices definition of a piece of infrastructure. Stakater is based on Docker, CoreOS, Terraform, Packer, Docker Compose, GoCD, Fleet, ETCD, and much more.
@@ -482,6 +493,7 @@
 
 ## Python 
 
+- [rds-pgbadger](https://github.com/fpietka/rds-pgbadger) - Fetch logs from RDS instance, and process them with pgBadger
 - [pgcli](https://github.com/dbcli/pgcli) - Postgres CLI with autocompletion and syntax highlighting
 - [source-code-pro](https://github.com/adobe-fonts/source-code-pro) - Monospaced font family for user interface and coding environments
 - [coala](https://github.com/coala/coala) - coala provides a unified command-line interface for linting and fixing all your code, regardless of the programming languages you use.
@@ -567,6 +579,7 @@
 
 ## Ruby 
 
+- [logstash-input-kinesis](https://github.com/logstash-plugins/logstash-input-kinesis) - Logstash Plugin for AWS Kinesis Input
 - [pgsync](https://github.com/ankane/pgsync) - Postgres data -&gt; your local machine
 - [lbrt](https://github.com/winebarrel/lbrt) - A tool to manage Librato. It defines the state of Librato using DSL, and updates Librato according to DSL.
 - [miam](https://github.com/winebarrel/miam) - Miam is a tool to manage IAM. It defines the state of IAM using DSL, and updates IAM according to DSL.

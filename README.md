@@ -250,7 +250,7 @@
 - [ECS-Terraform-Example](https://github.com/chrisguitarguy/ECS-Terraform-Example) - Code for a presentation I'm doing on deploying things using ECS and terraform.
 - [tf-force-fail](https://github.com/ajcrites/tf-force-fail) - 
 - [tf-aws-ha-vpc](https://github.com/spohnan/tf-aws-ha-vpc) - Terraform module that creates an AWS VPC with HA NAT and Bastion components
-- [terraform_modules](https://github.com/GuitarrasDeAmor/terraform_modules) - A collection of Terraform modules
+- [terraform_modules](https://github.com/elocnatsirt/terraform_modules) - A collection of Terraform modules
 - [terraform-aws-iam](https://github.com/unifio/terraform-aws-iam) - Terraform AWS IAM Stack
 - [terraform-aws-openvpn](https://github.com/unifio/terraform-aws-openvpn) - Terraform AWS OpenVPN Stack
 - [terraform-aws-asg](https://github.com/unifio/terraform-aws-asg) - Terraform AWS Auto Scaling Stack
@@ -323,6 +323,7 @@
 
 ## Java 
 
+- [amazon-kinesis-connectors](https://github.com/awslabs/amazon-kinesis-connectors) - 
 - [Hive-Pig-Hbase](https://github.com/Re1tReddy/Hive-Pig-Hbase) - Hive,Pig,Hbase,Sqoop examples
 - [oryx](https://github.com/OryxProject/oryx) - Oryx 2: Lambda architecture on Apache Spark, Apache Kafka for real-time large scale machine learning
 - [graphql-java](https://github.com/graphql-java/graphql-java) - GraphQL Java implementation
@@ -671,7 +672,7 @@
 - [wildfly](https://github.com/inkatze/wildfly) - Ansible role for wildfly
 - [bats](https://github.com/sstephenson/bats) - Bash Automated Testing System
 - [dockerfile-terraform](https://github.com/unifio/dockerfile-terraform) - Dockerfile for creation of a HashiCorp Terraform container
-- [terrafirm](https://github.com/GuitarrasDeAmor/terrafirm) - A project proposing best practices for Terraform
+- [terrafirm](https://github.com/elocnatsirt/terrafirm) - A project proposing best practices for Terraform
 - [centos7-ami](https://github.com/BashtonLtd/centos7-ami) - Shell script to build CentOS 7 AMI
 - [dockerfiles](https://github.com/kelseyhightower/dockerfiles) - Docker files
 - [hashiconf-eu-2016](https://github.com/kelseyhightower/hashiconf-eu-2016) - HashiConf EU 2016

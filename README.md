@@ -110,6 +110,7 @@
 
 ## Go 
 
+- [jose](https://github.com/SermoDigital/jose) - A comprehensive set of JWT, JWS, and JWE libraries.
 - [objconv](https://github.com/segmentio/objconv) - A Go package exposing encoder and decoders that support data streaming to and from multiple formats.
 - [consul-router](https://github.com/segmentio/consul-router) - HTTP proxy with service discovery capabilities based on consul
 - [conf](https://github.com/segmentio/conf) - Go package for loading program configuration from multiple sources.
@@ -432,6 +433,7 @@
 
 ## Others 
 
+- [awesome-data-engineering](https://github.com/igorbarinov/awesome-data-engineering) - A curated list of data engineering tools for software developers
 - [stack-on-a-budget](https://github.com/255kb/stack-on-a-budget) - A collection of services with great free tiers for developers on a budget
 - [mac-dev-playbook](https://github.com/geerlingguy/mac-dev-playbook) - Mac setup and configuration via Ansible.
 - [ansible-terraform](https://github.com/andrewrothstein/ansible-terraform) - 

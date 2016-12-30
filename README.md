@@ -14,6 +14,7 @@
   - [Common Lisp](#common lisp)
   - [Cucumber](#cucumber)
   - [Elixir](#elixir)
+  - [Erlang](#erlang)
   - [Go](#go)
   - [Groovy](#groovy)
   - [HCL](#hcl)
@@ -108,8 +109,14 @@
 
 - [exhcl](https://github.com/asakura/exhcl) - Configuration language inspired by HCL
 
+## Erlang 
+
+- [awesomo](https://github.com/lk-geimfari/awesomo) - The really big list of really interesting open source projects in С, C++, Clojure, Common/Emacs Lisp, Elixir, Erlang, Golang, Haskell, JavaScript, Lua, OCaml, Python, R, Ruby, Rust, Scala and etc.
+
 ## Go 
 
+- [goavro](https://github.com/linkedin/goavro) - 
+- [expectjq](https://github.com/threatgrid/expectjq) - JSON Data Testing Using JQ Queries
 - [jose](https://github.com/SermoDigital/jose) - A comprehensive set of JWT, JWS, and JWE libraries.
 - [objconv](https://github.com/segmentio/objconv) - A Go package exposing encoder and decoders that support data streaming to and from multiple formats.
 - [consul-router](https://github.com/segmentio/consul-router) - HTTP proxy with service discovery capabilities based on consul
@@ -324,6 +331,10 @@
 
 ## Java 
 
+- [WhereHows](https://github.com/linkedin/WhereHows) - Data Discovery and Lineage for Big Data Ecosystem
+- [ambry](https://github.com/linkedin/ambry) - Distributed object store
+- [gobblin](https://github.com/linkedin/gobblin) - Universal data ingestion framework for Hadoop.
+- [airpal](https://github.com/airbnb/airpal) - Web UI for PrestoDB.
 - [amazon-kinesis-connectors](https://github.com/awslabs/amazon-kinesis-connectors) - 
 - [Hive-Pig-Hbase](https://github.com/Re1tReddy/Hive-Pig-Hbase) - Hive,Pig,Hbase,Sqoop examples
 - [oryx](https://github.com/OryxProject/oryx) - Oryx 2: Lambda architecture on Apache Spark, Apache Kafka for real-time large scale machine learning
@@ -366,9 +377,12 @@
 
 ## JavaScript 
 
+- [tf-parse](https://github.com/clearly/tf-parse) - 
+- [jq.node](https://github.com/FGRibreau/jq.node) - jq.node - like jq but WAY MORE powerful (300+ helpers 🔥 & 300K+ modules 😱)
+- [glances](https://github.com/nicolargo/glances) - Glances an Eye on your system. A top/htop alternative.
 - [json5](https://github.com/json5/json5) - JSON for the ES5 era. (Not an official successor to JSON.)
 - [CodeMirror](https://github.com/codemirror/CodeMirror) - In-browser code editor
-- [JSON-Splora](https://github.com/wellsjo/JSON-Splora) - GUI for editing, visualizing, and manipulating JSON data
+- [JSON-Splora](https://github.com/wellsjo/JSON-Splora) - ☘️ GUI for editing, visualizing, and manipulating JSON
 - [docker-lambda](https://github.com/lambci/docker-lambda) - Docker images and test runners that replicate the live AWS Lambda environment
 - [jira-resource](https://github.com/danrspencer/jira-resource) - Jira Resource for Concourse
 - [eslint-config-datapipeline](https://github.com/DataPipelineInc/eslint-config-datapipeline) - Data pipeline ESLint configuration
@@ -505,6 +519,17 @@
 
 ## Python 
 
+- [kafka-tools](https://github.com/linkedin/kafka-tools) - A collection of tools for working with Apache Kafka.
+- [python-prompt-toolkit](https://github.com/jonathanslenders/python-prompt-toolkit) - Library for building powerful interactive command lines in Python
+- [s3cmd](https://github.com/s3tools/s3cmd) - Official s3cmd repo -- Command line tool for managing Amazon S3 and CloudFront services
+- [schema](https://github.com/keleshev/schema) - Schema validation just got Pythonic
+- [mailinabox](https://github.com/mail-in-a-box/mailinabox) - Mail-in-a-Box helps individuals take back control of their email by defining a one-click, easy-to-deploy SMTP+everything else server: a mail server in a box.
+- [asciinema](https://github.com/asciinema/asciinema) - Terminal session recorder
+- [cabot](https://github.com/arachnys/cabot) - Self-hosted, easily-deployable monitoring and alerts service - like a lightweight PagerDuty
+- [locust](https://github.com/locustio/locust) - Scalable user load testing tool written in Python
+- [compose](https://github.com/docker/compose) - Define and run multi-container applications with Docker
+- [superset](https://github.com/airbnb/superset) - Superset is a data exploration platform designed to be visual, intuitive, and interactive
+- [http-prompt](https://github.com/eliangcs/http-prompt) - HTTPie + prompt_toolkit = an interactive command-line HTTP client featuring autocomplete and syntax highlighting
 - [rds-pgbadger](https://github.com/fpietka/rds-pgbadger) - Fetch logs from RDS instance, and process them with pgBadger
 - [pgcli](https://github.com/dbcli/pgcli) - Postgres CLI with autocompletion and syntax highlighting
 - [source-code-pro](https://github.com/adobe-fonts/source-code-pro) - Monospaced font family for user interface and coding environments
@@ -591,6 +616,8 @@
 
 ## Ruby 
 
+- [interferon](https://github.com/airbnb/interferon) - Signaling you about infrastructure or application issues
+- [kafkat](https://github.com/airbnb/kafkat) - KafkaT-ool
 - [logstash-input-kinesis](https://github.com/logstash-plugins/logstash-input-kinesis) - Logstash Plugin for AWS Kinesis Input
 - [pgsync](https://github.com/ankane/pgsync) - Postgres data -&gt; your local machine
 - [lbrt](https://github.com/winebarrel/lbrt) - A tool to manage Librato. It defines the state of Librato using DSL, and updates Librato according to DSL.

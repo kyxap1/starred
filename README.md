@@ -20,6 +20,7 @@
   - [HCL](#hcl)
   - [HTML](#html)
   - [Haskell](#haskell)
+  - [JSONiq](#jsoniq)
   - [Java](#java)
   - [JavaScript](#javascript)
   - [Kotlin](#kotlin)
@@ -41,6 +42,9 @@
 
 ## C 
 
+- [yajl](https://github.com/lloyd/yajl) - A fast streaming JSON parsing library in C.
+- [stty](https://github.com/tenderlove/stty) - A wrapper around termios
+- [pgbouncer-rr-patch](https://github.com/awslabs/pgbouncer-rr-patch) - Adds query routing and rewriting extensions to pgbouncer
 - [citus](https://github.com/citusdata/citus) - Scalable PostgreSQL for real-time workloads
 - [bottledwater-pg](https://github.com/confluentinc/bottledwater-pg) - Change data capture from PostgreSQL into Kafka
 - [jq](https://github.com/stedolan/jq) - Command-line JSON processor
@@ -115,6 +119,10 @@
 
 ## Go 
 
+- [go-jira](https://github.com/andygrunwald/go-jira) - Go client library for Atlassian JIRA
+- [source-to-image](https://github.com/openshift/source-to-image) - A tool for building/building artifacts from source and injecting into docker images
+- [rack](https://github.com/convox/rack) - Open-source PaaS. Deploy Twelve Factor apps to AWS cloud services for maximum privacy and minimum upkeep.
+- [janitor](https://github.com/cloud66/janitor) - Clean up unwanted servers
 - [goavro](https://github.com/linkedin/goavro) - 
 - [expectjq](https://github.com/threatgrid/expectjq) - JSON Data Testing Using JQ Queries
 - [jose](https://github.com/SermoDigital/jose) - A comprehensive set of JWT, JWS, and JWE libraries.
@@ -329,8 +337,14 @@
 - [sproxy](https://github.com/zalora/sproxy) - Obsolete. See http://hackage.haskell.org/package/sproxy2
 - [compleat](https://github.com/mbrubeck/compleat) - Generate command-line completions using a simple DSL.
 
+## JSONiq 
+
+- [jq-learn](https://github.com/fadado/jq-learn) - Learn JQ by example
+
 ## Java 
 
+- [node-info](https://github.com/goldmann/node-info) - A simple web app (servlet only) that show the node/host name of the JBoss EAP/Wildfly server
+- [consul-api](https://github.com/Ecwid/consul-api) - Java client for Consul HTTP API
 - [WhereHows](https://github.com/linkedin/WhereHows) - Data Discovery and Lineage for Big Data Ecosystem
 - [ambry](https://github.com/linkedin/ambry) - Distributed object store
 - [gobblin](https://github.com/linkedin/gobblin) - Universal data ingestion framework for Hadoop.
@@ -338,6 +352,7 @@
 - [amazon-kinesis-connectors](https://github.com/awslabs/amazon-kinesis-connectors) - 
 - [Hive-Pig-Hbase](https://github.com/Re1tReddy/Hive-Pig-Hbase) - Hive,Pig,Hbase,Sqoop examples
 - [oryx](https://github.com/OryxProject/oryx) - Oryx 2: Lambda architecture on Apache Spark, Apache Kafka for real-time large scale machine learning
+- [devops-demo](https://github.com/dimapod/devops-demo) - DevOps Demo - Packer / Ansible / Terraform / AWS
 - [graphql-java](https://github.com/graphql-java/graphql-java) - GraphQL Java implementation
 - [terrapose](https://github.com/spaceshaker/terrapose) - A Groovy-based DSL that is translated to Terraform
 - [storm](https://github.com/nathanmarz/storm) - Distributed and fault-tolerant realtime computation: stream processing, continuous computation, distributed RPC, and more
@@ -377,6 +392,10 @@
 
 ## JavaScript 
 
+- [wildfly-swarm-examples](https://github.com/wildfly-swarm/wildfly-swarm-examples) - Examples of how to write applications using Swarm.
+- [github](https://github.com/nestor-powers/github) - Control Github with Nestor
+- [sax-js](https://github.com/isaacs/sax-js) - A sax style parser for JS
+- [node-xml2json](https://github.com/buglabs/node-xml2json) - Converts XML to JSON using node-expat
 - [tf-parse](https://github.com/clearly/tf-parse) - 
 - [jq.node](https://github.com/FGRibreau/jq.node) - jq.node - like jq but WAY MORE powerful (300+ helpers 🔥 & 300K+ modules 😱)
 - [glances](https://github.com/nicolargo/glances) - Glances an Eye on your system. A top/htop alternative.
@@ -447,6 +466,8 @@
 
 ## Others 
 
+- [hornetq](https://github.com/hornetq/hornetq) - HornetQ is an open source project to build a multi-protocol, embeddable, very high performance, clustered, asynchronous messaging system.
+- [base-maven](https://github.com/jboss-dockerfiles/base-maven) - 
 - [awesome-data-engineering](https://github.com/igorbarinov/awesome-data-engineering) - A curated list of data engineering tools for software developers
 - [stack-on-a-budget](https://github.com/255kb/stack-on-a-budget) - A collection of services with great free tiers for developers on a budget
 - [mac-dev-playbook](https://github.com/geerlingguy/mac-dev-playbook) - Mac setup and configuration via Ansible.
@@ -519,6 +540,10 @@
 
 ## Python 
 
+- [base](https://github.com/containers-tools/base) - base modules for cct
+- [dogen](https://github.com/jboss-dockerfiles/dogen) - Simple Dockerfile generator
+- [cstar_perf](https://github.com/datastax/cstar_perf) - Apache Cassandra performance testing platform
+- [ansible-python-lambda](https://github.com/YPlan/ansible-python-lambda) - Example deployment of an AWS Lambda function with Ansible
 - [kafka-tools](https://github.com/linkedin/kafka-tools) - A collection of tools for working with Apache Kafka.
 - [python-prompt-toolkit](https://github.com/jonathanslenders/python-prompt-toolkit) - Library for building powerful interactive command lines in Python
 - [s3cmd](https://github.com/s3tools/s3cmd) - Official s3cmd repo -- Command line tool for managing Amazon S3 and CloudFront services
@@ -616,6 +641,7 @@
 
 ## Ruby 
 
+- [ego](https://github.com/cloud66/ego) - name generator
 - [interferon](https://github.com/airbnb/interferon) - Signaling you about infrastructure or application issues
 - [kafkat](https://github.com/airbnb/kafkat) - KafkaT-ool
 - [logstash-input-kinesis](https://github.com/logstash-plugins/logstash-input-kinesis) - Logstash Plugin for AWS Kinesis Input
@@ -682,6 +708,9 @@
 
 ## Shell 
 
+- [windup-ci](https://github.com/windup/windup-ci) - Jenkins scripts, perf tests, tools etc.
+- [base-jdk](https://github.com/jboss-dockerfiles/base-jdk) - Base Docker image for Middleware with JDK
+- [wildfly-docker-deployment-example](https://github.com/goldmann/wildfly-docker-deployment-example) - 
 - [intellij-colors-solarized](https://github.com/jkaving/intellij-colors-solarized) - Solarized Colorscheme for IntelliJ IDEA
 - [vagrant-bash-completion](https://github.com/kura/vagrant-bash-completion) - Add autocomplete for Vagrant to bash completion
 - [aws](https://github.com/swoodford/aws) - A collection of shell scripts for automating various tasks with AWS (Amazon Web Services)
@@ -697,7 +726,6 @@
 - [sqoop2hive](https://github.com/gwenshap/sqoop2hive) - Few scripts to automate daily data loads from RDBMS to Partitioned Avro Hive table
 - [infrastructure-reference](https://github.com/stakater/infrastructure-reference) - Reference infrastructure for Stakater blueprints - Docker, CoreOS, GoCD, Amazon, Shell Scripting, etc. Stakater is an Infrastructure-as-Code DevOps solution to automate the creation of web infrastructure stack on Amazon. Stakater is a collection of Blueprints; where each blueprint is an opinionated, reusable, tested, supported, documented, configurable, best-practices definition of a piece of infrastructure. Stakater is based on Docker, CoreOS, Terraform, Packer, Docker Compose, GoCD, Fleet, ETCD, and much more.
 - [ami-baker](https://github.com/stakater/ami-baker) - Stakater tool to create CoreOS based custom AMI (Amazon Machine Image). Stakater is an Infrastructure-as-Code DevOps solution to automate the creation of web infrastructure stack on Amazon. Stakater is a collection of Blueprints; where each blueprint is an opinionated, reusable, tested, supported, documented, configurable, best-practices definition of a piece of infrastructure. Stakater is based on Docker, CoreOS, Terraform, Packer, Docker Compose, GoCD, Fleet, ETCD, and much more.
-- [devops-demo](https://github.com/dimapod/devops-demo) - DevOps Demo - Packer / Ansible / Terraform / AWS
 - [wildfly](https://github.com/inkatze/wildfly) - Ansible role for wildfly
 - [bats](https://github.com/sstephenson/bats) - Bash Automated Testing System
 - [dockerfile-terraform](https://github.com/unifio/dockerfile-terraform) - Dockerfile for creation of a HashiCorp Terraform container

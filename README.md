@@ -198,7 +198,7 @@
 - [ctop](https://github.com/chrusty/ctop) - CTOP ("top" for Cassandra) - See what's going on in real-time
 - [go-priam](https://github.com/alext29/go-priam) - Backup and restore Cassandra DB to AWS S3
 - [terraform-multipart-userdata](https://github.com/chrusty/terraform-multipart-userdata) - Cruft for Terraform
-- [autospotting](https://github.com/cristim/autospotting) - Greatly reduce EC2 costs for AutoScaling groups by automatically replacing the nodes with spot instances spread over multiple instance types. Automatically fails back to the initial on-demand nodes in case of terminations.
+- [autospotting](https://github.com/cristim/autospotting) - Pay up to 10 times less on EC2 by automatically replacing AutoScaling nodes with spot instances.
 - [oauth2_proxy](https://github.com/bitly/oauth2_proxy) - A reverse proxy that provides authentication with Google, Github or other provider
 - [bashcomp](https://github.com/omakoto/bashcomp) - 
 - [sh](https://github.com/mvdan/sh) - A shell/bash parser and formatter
@@ -339,6 +339,7 @@
 
 ## HTML 
 
+- [ndbench](https://github.com/Netflix/ndbench) - Netflix Data Store Benchmark
 - [swagger-codegen](https://github.com/swagger-api/swagger-codegen) - swagger-codegen contains a template-driven engine to generate documentation, API clients and server stubs in different languages by parsing your OpenAPI / Swagger definition.
 - [archi-example](https://github.com/Macroz/archi-example) - Example project for archi also useful as a quickstart template.
 - [haskell-language-hcl](https://github.com/beijaflor-io/haskell-language-hcl) - language-hcl contains HCL (Hashicorp Configuration Language) parsers and pretty-printers for the Haskell programming language

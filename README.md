@@ -121,6 +121,7 @@
 
 ## Go 
 
+- [banshee](https://github.com/eleme/banshee) - Anomalies detection system for periodic metrics.
 - [stack-docs-search](https://github.com/devrim/stack-docs-search) - terraform doc creator and autocomplete
 - [consulstructure](https://github.com/mitchellh/consulstructure) - Decode Consul data into Go (Golang) structures and watch for updates
 - [vault-ssh-helper](https://github.com/hashicorp/vault-ssh-helper) - Vault SSH Agent is used to enable one time keys and passwords
@@ -252,7 +253,7 @@
 - [hugo](https://github.com/spf13/hugo) - A Fast and Flexible Static Site Generator built with love in GoLang
 - [goa](https://github.com/goadesign/goa) - Design-based APIs and microservices in Go
 - [cobra](https://github.com/spf13/cobra) - A Commander for modern Go CLI interactions
-- [license](https://github.com/nishanths/license) - Command-line license generator
+- [license](https://github.com/nishanths/license) - Command-line license generator. Supports all licenses available on GitHub.
 - [packer](https://github.com/mitchellh/packer) - Packer is a tool for creating identical machine images for multiple platforms from a single source configuration.
 - [terraform](https://github.com/hashicorp/terraform) - Terraform is a tool for building, changing, and combining infrastructure safely and efficiently.
 - [bosun](https://github.com/bosun-monitor/bosun) - Time Series Alerting Framework
@@ -384,7 +385,7 @@
 - [cassandra-reaper](https://github.com/spotify/cassandra-reaper) - Software to run automated repairs of cassandra
 - [consultant](https://github.com/Magnetme/consultant) - A library to retrieve your service's configuration from Consul, and subscribe to changes.
 - [cassandra-kinesis](https://github.com/smartcat-labs/cassandra-kinesis) - Cassandra connector for AWS Kinesis
-- [cassandra-consul-seed-provider](https://github.com/nkts/cassandra-consul-seed-provider) - Cassandra Seed Provider which works with Consul. Supports seeding from service discovery service or static K/V storage.
+- [cassandra-consul-seed-provider](https://github.com/karnauskas/cassandra-consul-seed-provider) - Cassandra Seed Provider which works with Consul. Supports seeding from service discovery service or static K/V storage.
 - [KeyBox](https://github.com/skavanagh/KeyBox) - KeyBox is a web-based SSH console that centrally manages administrative access to systems. Web-based administration is combined with management and distribution of user's public SSH keys.
 - [EC2Box](https://github.com/skavanagh/EC2Box) - A web-based SSH console to execute commands and manage multiple EC2 instances simultaneously running on Amazon Web Services (AWS).
 - [apigateway](https://github.com/AWSinAction/apigateway) - AWS in Action: API Gateway

@@ -495,6 +495,7 @@
 
 ## Others 
 
+- [awesome-ciandcd](https://github.com/ciandcd/awesome-ciandcd) - continuous integration and continuous delivery
 - [packer-schema](https://github.com/lostintangent/packer-schema) - A JSON schema for validating and providing editor support when authoring Packer templates
 - [hornetq](https://github.com/hornetq/hornetq) - HornetQ is an open source project to build a multi-protocol, embeddable, very high performance, clustered, asynchronous messaging system.
 - [base-maven](https://github.com/jboss-dockerfiles/base-maven) - 

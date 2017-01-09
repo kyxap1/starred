@@ -290,10 +290,10 @@
 - [terraform-consul-nomad-vault-docker-fabio](https://github.com/tkellen/terraform-consul-nomad-vault-docker-fabio) - An infrastructure powered by terraform, consul, vault, nomad, docker & fabio
 - [byo-data-pipeline](https://github.com/segmentio/byo-data-pipeline) - Bring your own Data Pipeline
 - [terraform-circleci-demo](https://github.com/knakayama/terraform-circleci-demo) - 
-- [blueprint-storage-aws](https://github.com/stakater/blueprint-storage-aws) - Stakater Blueprint for creating best-practices based storage on AWS. Stakater is an Infrastructure-as-Code DevOps solution to automate the creation of web infrastructure stack on Amazon. Stakater is a collection of Blueprints; where each blueprint is an opinionated, reusable, tested, supported, documented, configurable, best-practices definition of a piece of infrastructure. Stakater is based on Docker, CoreOS, Terraform, Packer, Docker Compose, GoCD, Fleet, ETCD, and much more.
-- [blueprint-utilities-aws](https://github.com/stakater/blueprint-utilities-aws) - Stakater Blueprint for small utility modules on AWS. Stakater is an Infrastructure-as-Code DevOps solution to automate the creation of web infrastructure stack on Amazon. Stakater is a collection of Blueprints; where each blueprint is an opinionated, reusable, tested, supported, documented, configurable, best-practices definition of a piece of infrastructure. Stakater is based on Docker, CoreOS, Terraform, Packer, Docker Compose, GoCD, Fleet, ETCD, and much more.
-- [prod-deployment-reference](https://github.com/stakater/prod-deployment-reference) - Stakater sub-module for infrastructure-reference and a practical reference implementation of Production deployment using custom AMI. Stakater is an Infrastructure-as-a-Code DevOps solution to automate the creation of web infrastructure stack on Amazon. Stakater is a collection of Blueprints; where each blueprint is an opinionated, reusable, tested, supported, documented, configurable, best-practices definition of a piece of infrastructure. Stakater is based on Docker, CoreOS, Terraform, Packer, Docker Compose, GoCD, Fleet, ETCD, and much more.
-- [blueprint-network-aws](https://github.com/stakater/blueprint-network-aws) - Stakater Blueprint for creating best-practices network on AWS. Stakater is an Infrastructure-as-Code DevOps solution to automate the creation of web infrastructure stack on Amazon. Stakater is a collection of Blueprints; where each blueprint is an opinionated, reusable, tested, supported, documented, configurable, best-practices definition of a piece of infrastructure. Stakater is based on Docker, CoreOS, Terraform, Packer, Docker Compose, GoCD, Fleet, ETCD, and much more.
+- [blueprint-storage-aws](https://github.com/stakater/blueprint-storage-aws) - Stakater Blueprint for creating best-practices based storage on AWS. Stakater is an Infrastructure-as-Code DevOps solution to automate the creation of web infrastructure stack on AWS. Stakater is based on Docker, CoreOS, Terraform, Packer, Docker Compose, GoCD, Fleet, ETCD, and more.
+- [blueprint-utilities-aws](https://github.com/stakater/blueprint-utilities-aws) - Stakater Blueprint for small utility modules on AWS. Stakater is an Infrastructure-as-Code DevOps solution to automate the creation of web infrastructure stack on AWS. Stakater is based on Docker, CoreOS, Terraform, Packer, Docker Compose, GoCD, Fleet, ETCD, and more.
+- [prod-deployment-reference](https://github.com/stakater/prod-deployment-reference) - Stakater sub-module for infrastructure-reference and a practical reference implementation of Production deployment using custom AMI. Stakater is an Infrastructure-as-Code DevOps solution to automate the creation of web infrastructure stack on AWS, based on Docker, Terraform, and more.
+- [blueprint-network-aws](https://github.com/stakater/blueprint-network-aws) - Stakater Blueprint for creating best-practices network on AWS. Stakater is an Infrastructure-as-Code DevOps solution to automate the creation of web infrastructure stack on AWS. Stakater is based on Docker, CoreOS, Terraform, Packer, Docker Compose, GoCD, Fleet, ETCD, and more.
 - [aws-terraform-template](https://github.com/ntk1000/aws-terraform-template) - write, plan, and create "aws" infrastructure as code via terraform
 - [do-stack-template](https://github.com/barajasfab/do-stack-template) - Terraform files which can be used in addition to Ansible roles to deploy on DigitalOcean
 - [terraform-example](https://github.com/robert-stuttaford/terraform-example) - Terraform, Ansible, sticky tape and magic
@@ -390,12 +390,11 @@
 - [consul-api](https://github.com/Ecwid/consul-api) - Java client for Consul HTTP API
 - [WhereHows](https://github.com/linkedin/WhereHows) - Data Discovery and Lineage for Big Data Ecosystem
 - [ambry](https://github.com/linkedin/ambry) - Distributed object store
-- [gobblin](https://github.com/linkedin/gobblin) - Universal data ingestion framework for Hadoop.
+- [gobblin](https://github.com/linkedin/gobblin) - Gobblin is a distributed big data integration framework (ingestion, replication, compliance, retention)  for batch and streaming systems. Gobblin features integrations with Apache Hadoop, Apache Kafka, Salesforce, S3, MySQL, Google etc.
 - [airpal](https://github.com/airbnb/airpal) - Web UI for PrestoDB.
 - [amazon-kinesis-connectors](https://github.com/awslabs/amazon-kinesis-connectors) - 
 - [Hive-Pig-Hbase](https://github.com/Re1tReddy/Hive-Pig-Hbase) - Hive,Pig,Hbase,Sqoop examples
 - [oryx](https://github.com/OryxProject/oryx) - Oryx 2: Lambda architecture on Apache Spark, Apache Kafka for real-time large scale machine learning
-- [devops-demo](https://github.com/dimapod/devops-demo) - DevOps Demo - Packer / Ansible / Terraform / AWS
 - [graphql-java](https://github.com/graphql-java/graphql-java) - GraphQL Java implementation
 - [terrapose](https://github.com/spaceshaker/terrapose) - A Groovy-based DSL that is translated to Terraform
 - [storm](https://github.com/nathanmarz/storm) - Distributed and fault-tolerant realtime computation: stream processing, continuous computation, distributed RPC, and more
@@ -524,6 +523,7 @@
 
 ## Others 
 
+- [install-tools](https://github.com/xuwang/install-tools) - Install common tools - terraform, jq, vagrant, awscli, etc.
 - [awesome-ciandcd](https://github.com/ciandcd/awesome-ciandcd) - continuous integration and continuous delivery
 - [packer-schema](https://github.com/lostintangent/packer-schema) - A JSON schema for validating and providing editor support when authoring Packer templates
 - [hornetq](https://github.com/hornetq/hornetq) - HornetQ is an open source project to build a multi-protocol, embeddable, very high performance, clustered, asynchronous messaging system.
@@ -803,8 +803,9 @@
 - [image-builder](https://github.com/circleci/image-builder) - 
 - [ansible-role-hashicorp](https://github.com/kurron/ansible-role-hashicorp) - Ansible role that installs the HashiCorp suite of tools including Vagrant, Packer and Terraform.
 - [sqoop2hive](https://github.com/gwenshap/sqoop2hive) - Few scripts to automate daily data loads from RDBMS to Partitioned Avro Hive table
-- [infrastructure-reference](https://github.com/stakater/infrastructure-reference) - Reference infrastructure for Stakater blueprints - Docker, CoreOS, GoCD, Amazon, Shell Scripting, etc. Stakater is an Infrastructure-as-Code DevOps solution to automate the creation of web infrastructure stack on Amazon. Stakater is a collection of Blueprints; where each blueprint is an opinionated, reusable, tested, supported, documented, configurable, best-practices definition of a piece of infrastructure. Stakater is based on Docker, CoreOS, Terraform, Packer, Docker Compose, GoCD, Fleet, ETCD, and much more.
-- [ami-baker](https://github.com/stakater/ami-baker) - Stakater tool to create CoreOS based custom AMI (Amazon Machine Image). Stakater is an Infrastructure-as-Code DevOps solution to automate the creation of web infrastructure stack on Amazon. Stakater is a collection of Blueprints; where each blueprint is an opinionated, reusable, tested, supported, documented, configurable, best-practices definition of a piece of infrastructure. Stakater is based on Docker, CoreOS, Terraform, Packer, Docker Compose, GoCD, Fleet, ETCD, and much more.
+- [infrastructure-reference](https://github.com/stakater/infrastructure-reference) - Reference infrastructure for Stakater blueprints. Stakater is an Infrastructure-as-Code DevOps solution to automate the creation of web infrastructure stack on AWS. Stakater is based on Docker, CoreOS, Terraform, Packer, Docker Compose, GoCD, Fleet, ETCD, and more.
+- [ami-baker](https://github.com/stakater/ami-baker) - Stakater tool to create CoreOS based custom AMI (Amazon Machine Image). Stakater is an Infrastructure-as-Code DevOps solution to automate the creation of web infrastructure stack on AWS. Stakater is based on Docker, CoreOS, Terraform, Packer, Docker Compose, GoCD, Fleet, ETCD, and more.
+- [devops-demo](https://github.com/dimapod/devops-demo) - DevOps Demo - Packer / Ansible / Terraform / AWS
 - [wildfly](https://github.com/inkatze/wildfly) - Ansible role for wildfly
 - [bats](https://github.com/sstephenson/bats) - Bash Automated Testing System
 - [dockerfile-terraform](https://github.com/unifio/dockerfile-terraform) - Dockerfile for creation of a HashiCorp Terraform container

@@ -266,7 +266,7 @@
 - [hugo](https://github.com/spf13/hugo) - A Fast and Flexible Static Site Generator built with love in GoLang
 - [goa](https://github.com/goadesign/goa) - Design-based APIs and microservices in Go
 - [cobra](https://github.com/spf13/cobra) - A Commander for modern Go CLI interactions
-- [license](https://github.com/nishanths/license) - Command-line license generator. Supports all licenses available on GitHub.
+- [license](https://github.com/nishanths/license) - Command-line license generator. Supports all the licenses available on GitHub.
 - [packer](https://github.com/mitchellh/packer) - Packer is a tool for creating identical machine images for multiple platforms from a single source configuration.
 - [terraform](https://github.com/hashicorp/terraform) - Terraform is a tool for building, changing, and combining infrastructure safely and efficiently.
 - [bosun](https://github.com/bosun-monitor/bosun) - Time Series Alerting Framework
@@ -711,6 +711,8 @@
 
 ## Ruby 
 
+- [vagrant-docker-baseimages](https://github.com/tknerr/vagrant-docker-baseimages) - A collection of Vagrant-friendly docker base images
+- [learning-tools](https://github.com/lowescott/learning-tools) - A collection of tools and files for learning new technologies
 - [yutani](https://github.com/leg100/yutani) - An expressive and principled Terraform DSL
 - [buildpacks-ci](https://github.com/cloudfoundry/buildpacks-ci) - Concourse CI pipelines for the buildpacks team
 - [bosh-deployment-resource](https://github.com/concourse/bosh-deployment-resource) - deploy bosh releases as part of your pipeline
@@ -747,7 +749,7 @@
 - [homebrew-terraforms](https://github.com/Yleisradio/homebrew-terraforms) - # Terraform version switcher and Homebrew Casks for Terraform versions
 - [dpl](https://github.com/travis-ci/dpl) - Dpl (dee-pee-ell) is a deploy tool made for continuous deployment.
 - [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness) - A curated list of awesome awesomeness
-- [cassandra](https://github.com/locp/cassandra) - Installs Cassandra, DataStax Agent & OpsCenter on RHEL/Ubuntu/Debian.
+- [cassandra](https://github.com/locp/cassandra) - Installs Cassandra & DataStax Agenton RHEL/Ubuntu/Debian.
 - [s3urlsigner](https://github.com/stevejmason/s3urlsigner) - API "proxy" that redirects requests to a signed-URL for accessing private objects in AWS S3.
 - [samson](https://github.com/zendesk/samson) - Web interface for deployments
 - [cassandra-chef-cookbook](https://github.com/wsh/cassandra-chef-cookbook) - Chef cookbook for Apache Cassandra, DataStax Enterprise (DSE) and DataStax agent
@@ -770,6 +772,7 @@
 
 ## Rust 
 
+- [alacritty](https://github.com/jwilm/alacritty) - A cross-platform, GPU-accelerated terminal emulator
 - [habitat](https://github.com/habitat-sh/habitat) - Modern applications with built-in automation
 
 ## Scala 

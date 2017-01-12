@@ -14,7 +14,6 @@
   - [Common Lisp](#common lisp)
   - [Cucumber](#cucumber)
   - [Elixir](#elixir)
-  - [Erlang](#erlang)
   - [Go](#go)
   - [Groovy](#groovy)
   - [HCL](#hcl)
@@ -120,10 +119,6 @@
 
 - [exhcl](https://github.com/asakura/exhcl) - Configuration language inspired by HCL
 
-## Erlang 
-
-- [awesomo](https://github.com/lk-geimfari/awesomo) - The really big list of really interesting open source projects in С, C++, Clojure, Common/Emacs Lisp, Elixir, Erlang, Golang, Haskell, JavaScript, Lua, OCaml, Python, R, Ruby, Rust, Scala and etc.
-
 ## Go 
 
 - [colonize](https://github.com/craigmonson/colonize) - A terraform tool to manage environment driven templating.
@@ -150,6 +145,7 @@
 - [janitor](https://github.com/cloud66/janitor) - Clean up unwanted servers
 - [goavro](https://github.com/linkedin/goavro) - 
 - [expectjq](https://github.com/threatgrid/expectjq) - JSON Data Testing Using JQ Queries
+- [awesomo](https://github.com/lk-geimfari/awesomo) - The really big list of really interesting open source projects in С, C++, Clojure, Common/Emacs Lisp, Elixir, Erlang, Golang, Haskell, JavaScript, Lua, OCaml, Python, R, Ruby, Rust, Scala and etc.
 - [jose](https://github.com/SermoDigital/jose) - A comprehensive set of JWT, JWS, and JWE libraries.
 - [objconv](https://github.com/segmentio/objconv) - A Go package exposing encoder and decoders that support data streaming to and from multiple formats.
 - [consul-router](https://github.com/segmentio/consul-router) - HTTP proxy with service discovery capabilities based on consul

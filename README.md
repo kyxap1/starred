@@ -742,7 +742,7 @@
 - [shipmate](https://github.com/tmecklem/shipmate) - A web application similar to testflight for private hosting and distribution of mobile apps for testing.
 - [backup](https://github.com/backup/backup) - Easy full stack backup operations on UNIX-like systems.
 - [lhm](https://github.com/soundcloud/lhm) - Online MySQL schema migrations
-- [homebrew-terraforms](https://github.com/Yleisradio/homebrew-terraforms) - # Terraform version switcher and Homebrew Casks for Terraform versions
+- [homebrew-terraforms](https://github.com/Yleisradio/homebrew-terraforms) - Terraform version switcher and Homebrew Casks for Terraform versions
 - [dpl](https://github.com/travis-ci/dpl) - Dpl (dee-pee-ell) is a deploy tool made for continuous deployment.
 - [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness) - A curated list of awesome awesomeness
 - [cassandra](https://github.com/locp/cassandra) - Installs Cassandra & DataStax Agenton RHEL/Ubuntu/Debian.

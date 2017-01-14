@@ -519,6 +519,7 @@
 
 ## Others 
 
+- [awesome-analytics](https://github.com/onurakpolat/awesome-analytics) - A curated list of analytics frameworks, software and other tools.
 - [install-tools](https://github.com/xuwang/install-tools) - Install common tools - terraform, jq, vagrant, awscli, etc.
 - [awesome-ciandcd](https://github.com/ciandcd/awesome-ciandcd) - continuous integration and continuous delivery
 - [packer-schema](https://github.com/lostintangent/packer-schema) - A JSON schema for validating and providing editor support when authoring Packer templates

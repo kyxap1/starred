@@ -510,6 +510,7 @@
 
 ## Nginx 
 
+- [packer-ami-test-sample](https://github.com/knakayama/packer-ami-test-sample) - 
 - [nginx-s3-upload](https://github.com/jamescmartinez/nginx-s3-upload) - S3 file upload proxy using Nginx, complete with AWS authentication.
 - [nginx-boilerplate](https://github.com/nginx-boilerplate/nginx-boilerplate) - Awesome Nginx configuration template
 
@@ -519,6 +520,7 @@
 
 ## Others 
 
+- [ansible-cassandra](https://github.com/deimosfr/ansible-cassandra) - Ansible role to deploy Cassandra
 - [awesome-analytics](https://github.com/onurakpolat/awesome-analytics) - A curated list of analytics frameworks, software and other tools.
 - [install-tools](https://github.com/xuwang/install-tools) - Install common tools - terraform, jq, vagrant, awscli, etc.
 - [awesome-ciandcd](https://github.com/ciandcd/awesome-ciandcd) - continuous integration and continuous delivery
@@ -598,6 +600,9 @@
 
 ## Python 
 
+- [ansigenome](https://github.com/nickjj/ansigenome) - A tool to help you gather information and manage your Ansible roles.
+- [aws-ansible-cassandra](https://github.com/oliverlockwood/aws-ansible-cassandra) - Simple Ansible script to set up a minimal Cassandra cluster
+- [debops-tools](https://github.com/debops/debops-tools) - Your Debian-based data center in a box -
 - [luigi](https://github.com/spotify/luigi) - Luigi is a Python module that helps you build complex pipelines of batch jobs. It handles dependency resolution, workflow management, visualization etc. It also comes with Hadoop support built in.
 - [incubator-airflow](https://github.com/apache/incubator-airflow) - Apache Airflow (Incubating)
 - [celery](https://github.com/celery/celery) - Distributed Task Queue (development branch)
@@ -784,6 +789,7 @@
 
 ## Shell 
 
+- [packer-templates](https://github.com/fscm/packer-templates) - Packer Templates
 - [nexusoss3-docker](https://github.com/JAlexoid/nexusoss3-docker) - Sonatype Nexus 3 Images
 - [official-images](https://github.com/docker-library/official-images) - Docker Official Images
 - [docker-consul](https://github.com/hashicorp/docker-consul) - Official Docker images for Consul.

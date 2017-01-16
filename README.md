@@ -121,6 +121,10 @@
 
 ## Go 
 
+- [hammer](https://github.com/asteris-llc/hammer) - Build packages from a simple spec
+- [scipipe](https://github.com/scipipe/scipipe) - A Scientific workflow system written in pure Go (Golang) inspired by Flow-based Programming
+- [converge](https://github.com/asteris-llc/converge) - A powerful and easy-to-use configuration management system.
+- [tablewriter](https://github.com/olekukonko/tablewriter) - ASCII table in golang
 - [colonize](https://github.com/craigmonson/colonize) - A terraform tool to manage environment driven templating.
 - [vegeta](https://github.com/tsenart/vegeta) - HTTP load testing tool and library. It's over 9000!
 - [textql](https://github.com/dinedal/textql) - Execute SQL against structured text like CSV or TSV
@@ -275,6 +279,8 @@
 
 ## HCL 
 
+- [tf_aws_lambda_scheduled](https://github.com/terraform-community-modules/tf_aws_lambda_scheduled) - A Terraform module to create an AWS Lambda function which is scheduled to run on a recurring basis
+- [terraform-consul-cluster](https://github.com/dwmkerr/terraform-consul-cluster) - Demonstrates how to create a resilient Consul cluster on AWS, using Terraform. Companion to my article on dwmkerr.com.
 - [nubis-terraform](https://github.com/nubisproject/nubis-terraform) - 
 - [tf_prometheus](https://github.com/EmpaticoOrg/tf_prometheus) - A Prometheus module for Terraform
 - [awstack](https://github.com/mhmdio/awstack) - dev, stage and prod environments on AWS using Terraform, packer, vagrant and ansible
@@ -430,6 +436,7 @@
 
 ## JavaScript 
 
+- [hotel](https://github.com/typicode/hotel) - :love_hotel: A simple process manager for developers. Start apps from your browser and access them using local .dev domains
 - [togetherjs](https://github.com/mozilla/togetherjs) - A service for your website that makes it surprisingly easy to collaborate in real-time.
 - [ContentTools](https://github.com/GetmeUK/ContentTools) - A JS library for building WYSIWYG editors for HTML content.
 - [wekan](https://github.com/wekan/wekan) - The open-source Trello-like kanban (built with Meteor)
@@ -600,6 +607,7 @@
 
 ## Python 
 
+- [xmltodict](https://github.com/martinblech/xmltodict) - Python module that makes working with XML feel like you are working with JSON
 - [ansigenome](https://github.com/nickjj/ansigenome) - A tool to help you gather information and manage your Ansible roles.
 - [aws-ansible-cassandra](https://github.com/oliverlockwood/aws-ansible-cassandra) - Simple Ansible script to set up a minimal Cassandra cluster
 - [debops-tools](https://github.com/debops/debops-tools) - Your Debian-based data center in a box -
@@ -713,6 +721,7 @@
 
 ## Ruby 
 
+- [jbuilder](https://github.com/rails/jbuilder) - Jbuilder: generate JSON objects with a Builder-style DSL
 - [vagrant-docker-baseimages](https://github.com/tknerr/vagrant-docker-baseimages) - A collection of Vagrant-friendly docker base images
 - [learning-tools](https://github.com/lowescott/learning-tools) - A collection of tools and files for learning new technologies
 - [yutani](https://github.com/leg100/yutani) - An expressive and principled Terraform DSL
@@ -789,6 +798,7 @@
 
 ## Shell 
 
+- [algo](https://github.com/trailofbits/algo) - 1-click IPSEC VPN in the Cloud
 - [packer-templates](https://github.com/fscm/packer-templates) - Packer Templates
 - [nexusoss3-docker](https://github.com/JAlexoid/nexusoss3-docker) - Sonatype Nexus 3 Images
 - [official-images](https://github.com/docker-library/official-images) - Docker Official Images

@@ -607,6 +607,7 @@
 
 ## Python 
 
+- [ansible-role-datastax-ddc](https://github.com/kostyrevaa/ansible-role-datastax-ddc) - 
 - [xmltodict](https://github.com/martinblech/xmltodict) - Python module that makes working with XML feel like you are working with JSON
 - [ansigenome](https://github.com/nickjj/ansigenome) - A tool to help you gather information and manage your Ansible roles.
 - [aws-ansible-cassandra](https://github.com/oliverlockwood/aws-ansible-cassandra) - Simple Ansible script to set up a minimal Cassandra cluster
@@ -798,6 +799,10 @@
 
 ## Shell 
 
+- [kostyrevaa.consul-template](https://github.com/kostyrevaa/kostyrevaa.consul-template) - 
+- [posixcube](https://github.com/myplaceonline/posixcube) - posixcube.sh is a POSIX compliant, shell script-based server automation framework.
+- [sshag](https://github.com/intuited/sshag) - hook up with an operating or new SSH agent
+- [packer-templates](https://github.com/kwilczynski/packer-templates) - Packer templates for creating Amazon EC2 images and Vagrant boxes.
 - [algo](https://github.com/trailofbits/algo) - 1-click IPSEC VPN in the Cloud
 - [packer-templates](https://github.com/fscm/packer-templates) - Packer Templates
 - [nexusoss3-docker](https://github.com/JAlexoid/nexusoss3-docker) - Sonatype Nexus 3 Images

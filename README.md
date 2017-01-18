@@ -377,7 +377,7 @@
 
 ## JSONiq 
 
-- [jq-learn](https://github.com/fadado/jq-learn) - Learn JQ by example
+- [JBOL](https://github.com/fadado/JBOL) - JQ collection of modules
 
 ## Java 
 
@@ -436,6 +436,7 @@
 
 ## JavaScript 
 
+- [osm-feature-extract](https://github.com/lukasmartinelli/osm-feature-extract) - Extract GeoJSON features from OSM
 - [hotel](https://github.com/typicode/hotel) - :love_hotel: A simple process manager for developers. Start apps from your browser and access them using local .dev domains
 - [togetherjs](https://github.com/mozilla/togetherjs) - A service for your website that makes it surprisingly easy to collaborate in real-time.
 - [ContentTools](https://github.com/GetmeUK/ContentTools) - A JS library for building WYSIWYG editors for HTML content.

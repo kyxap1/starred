@@ -381,6 +381,7 @@
 
 ## Java 
 
+- [elassandra](https://github.com/strapdata/elassandra) - Elassandra = cassandra + elasticsearch
 - [flyway](https://github.com/flyway/flyway) - Flyway by Boxfuse • Database Migrations Made Easy.
 - [swagger-core](https://github.com/swagger-api/swagger-core) - Examples and server integrations for generating the Swagger API Specification, which enables easy access to your REST API
 - [grakn](https://github.com/graknlabs/grakn) - A Knowledge Graph Platform
@@ -436,6 +437,7 @@
 
 ## JavaScript 
 
+- [mermaid](https://github.com/knsv/mermaid) - Generation of diagram and flowchart from text in a similar manner as markdown
 - [osm-feature-extract](https://github.com/lukasmartinelli/osm-feature-extract) - Extract GeoJSON features from OSM
 - [hotel](https://github.com/typicode/hotel) - :love_hotel: A simple process manager for developers. Start apps from your browser and access them using local .dev domains
 - [togetherjs](https://github.com/mozilla/togetherjs) - A service for your website that makes it surprisingly easy to collaborate in real-time.
@@ -528,9 +530,10 @@
 
 ## Others 
 
+- [awesome-bigdata](https://github.com/onurakpolat/awesome-bigdata) - A curated list of awesome big data frameworks, ressources and other awesomeness.
+- [vscode-terraform-snippets](https://github.com/rixrix/vscode-terraform-snippets) - 
 - [ansible-cassandra](https://github.com/deimosfr/ansible-cassandra) - Ansible role to deploy Cassandra
 - [awesome-analytics](https://github.com/onurakpolat/awesome-analytics) - A curated list of analytics frameworks, software and other tools.
-- [install-tools](https://github.com/xuwang/install-tools) - Install common tools - terraform, jq, vagrant, awscli, etc.
 - [awesome-ciandcd](https://github.com/ciandcd/awesome-ciandcd) - continuous integration and continuous delivery
 - [packer-schema](https://github.com/lostintangent/packer-schema) - A JSON schema for validating and providing editor support when authoring Packer templates
 - [hornetq](https://github.com/hornetq/hornetq) - HornetQ is an open source project to build a multi-protocol, embeddable, very high performance, clustered, asynchronous messaging system.
@@ -608,6 +611,8 @@
 
 ## Python 
 
+- [ansible-lint](https://github.com/willthames/ansible-lint) - Best practices checker for Ansible
+- [validator.vim](https://github.com/maralla/validator.vim) - Check syntax on the fly asynchronously.
 - [ansible-role-datastax-ddc](https://github.com/kostyrevaa/ansible-role-datastax-ddc) - 
 - [xmltodict](https://github.com/martinblech/xmltodict) - Python module that makes working with XML feel like you are working with JSON
 - [ansigenome](https://github.com/nickjj/ansigenome) - A tool to help you gather information and manage your Ansible roles.
@@ -899,6 +904,7 @@
 
 ## VimL 
 
+- [syntastic](https://github.com/vim-syntastic/syntastic) - Syntax checking hacks for vim
 - [utilities](https://github.com/VladRassokhin/utilities) - Micro helpers
 - [vim-openresty](https://github.com/hexchain/vim-openresty) - Openresty configuration highlight for Vim
 - [auto-pairs](https://github.com/jiangmiao/auto-pairs) - Vim plugin, insert or delete brackets, parens, quotes in pair

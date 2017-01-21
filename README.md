@@ -184,7 +184,7 @@
 - [terrahelp](https://github.com/opencredo/terrahelp) - Terraform helper. Terrahelp is as a command line utility written in Go and is aimed at providing supplementary functionality which can sometimes prove useful when working with Terraform.
 - [nomad](https://github.com/hashicorp/nomad) - A Distributed, Highly Available, Datacenter-Aware Scheduler
 - [consul](https://github.com/hashicorp/consul) - Consul is a tool for service discovery, monitoring and configuration.
-- [micro](https://github.com/micro/micro) - A microservice toolkit
+- [micro](https://github.com/micro/micro) - A microservice toolkit which simplifies distributed systems development
 - [acme](https://github.com/google/acme) - A simple ACME command line tool without 3rd party deps!
 - [hashiapp](https://github.com/kelseyhightower/hashiapp) - Demo 12 Factor application that utilizes Hashicorp tools.
 - [terminus](https://github.com/kelseyhightower/terminus) - Get facts about a Linux system.
@@ -377,6 +377,7 @@
 
 ## JSONiq 
 
+- [cfsummit-bosh-jq](https://github.com/dpb587/cfsummit-bosh-jq) - 
 - [JBOL](https://github.com/fadado/JBOL) - JQ collection of modules
 
 ## Java 
@@ -805,6 +806,7 @@
 
 ## Shell 
 
+- [setup-ipsec-vpn](https://github.com/hwdsl2/setup-ipsec-vpn) - Scripts to build your own IPsec VPN server, with IPsec/L2TP and Cisco IPsec on Ubuntu, Debian and CentOS
 - [kostyrevaa.consul-template](https://github.com/kostyrevaa/kostyrevaa.consul-template) - 
 - [posixcube](https://github.com/myplaceonline/posixcube) - posixcube.sh is a POSIX compliant, shell script-based server automation framework.
 - [sshag](https://github.com/intuited/sshag) - hook up with an operating or new SSH agent

@@ -122,6 +122,7 @@
 
 ## Go 
 
+- [lego](https://github.com/xenolf/lego) - Let's Encrypt client and ACME library written in Go
 - [hammer](https://github.com/asteris-llc/hammer) - Build packages from a simple spec
 - [scipipe](https://github.com/scipipe/scipipe) - A Scientific workflow system written in pure Go (Golang) inspired by Flow-based Programming
 - [converge](https://github.com/asteris-llc/converge) - A powerful and easy-to-use configuration management system.
@@ -438,6 +439,7 @@
 
 ## JavaScript 
 
+- [remark](https://github.com/gnab/remark) - A simple, in-browser, markdown-driven slideshow tool.
 - [mermaid](https://github.com/knsv/mermaid) - Generation of diagram and flowchart from text in a similar manner as markdown
 - [osm-feature-extract](https://github.com/lukasmartinelli/osm-feature-extract) - Extract GeoJSON features from OSM
 - [hotel](https://github.com/typicode/hotel) - :love_hotel: A simple process manager for developers. Start apps from your browser and access them using local .dev domains
@@ -530,6 +532,7 @@
 
 ## Others 
 
+- [generating-certs](https://github.com/jason-riddle/generating-certs) - Guides on generating, installing, and rotating SSL certs.
 - [awesome-bigdata](https://github.com/onurakpolat/awesome-bigdata) - A curated list of awesome big data frameworks, ressources and other awesomeness.
 - [vscode-terraform-snippets](https://github.com/rixrix/vscode-terraform-snippets) - 
 - [ansible-cassandra](https://github.com/deimosfr/ansible-cassandra) - Ansible role to deploy Cassandra

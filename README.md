@@ -122,6 +122,8 @@
 
 ## Go 
 
+- [go-nitro](https://github.com/chiradeep/go-nitro) - An experimental Golang client to the Citrix NetScaler API
+- [gestalt](https://github.com/asteris-llc/gestalt) - 
 - [lego](https://github.com/xenolf/lego) - Let's Encrypt client and ACME library written in Go
 - [hammer](https://github.com/asteris-llc/hammer) - Build packages from a simple spec
 - [scipipe](https://github.com/scipipe/scipipe) - A Scientific workflow system written in pure Go (Golang) inspired by Flow-based Programming
@@ -360,6 +362,8 @@
 
 ## HTML 
 
+- [pup](https://github.com/ericchiang/pup) - Parsing HTML at the command line
+- [streisand](https://github.com/jlund/streisand) - Streisand sets up a new server running L2TP/IPsec, OpenConnect, OpenSSH, OpenVPN, Shadowsocks, sslh, Stunnel, a Tor bridge, and WireGuard. It also generates custom instructions for all of these services. At the end of the run you are given an HTML file with instructions that can be shared with friends, family members, and fellow activists.
 - [vega](https://github.com/vega/vega) - A visualization grammar.
 - [ndbench](https://github.com/Netflix/ndbench) - Netflix Data Store Benchmark
 - [swagger-codegen](https://github.com/swagger-api/swagger-codegen) - swagger-codegen contains a template-driven engine to generate documentation, API clients and server stubs in different languages by parsing your OpenAPI / Swagger definition.
@@ -383,6 +387,8 @@
 
 ## Java 
 
+- [JJSchema](https://github.com/reinert/JJSchema) - A generator from Java Types to JSON-Schema using Jackson.
+- [gephi](https://github.com/gephi/gephi) - Gephi - The Open Graph Viz Platform
 - [elassandra](https://github.com/strapdata/elassandra) - Elassandra = cassandra + elasticsearch
 - [flyway](https://github.com/flyway/flyway) - Flyway by Boxfuse • Database Migrations Made Easy.
 - [swagger-core](https://github.com/swagger-api/swagger-core) - Examples and server integrations for generating the Swagger API Specification, which enables easy access to your REST API
@@ -439,6 +445,8 @@
 
 ## JavaScript 
 
+- [viz.js](https://github.com/mdaines/viz.js) - A hack to put Graphviz on the web.
+- [vis](https://github.com/almende/vis) - Dynamic, browser-based visualization library
 - [remark](https://github.com/gnab/remark) - A simple, in-browser, markdown-driven slideshow tool.
 - [mermaid](https://github.com/knsv/mermaid) - Generation of diagram and flowchart from text in a similar manner as markdown
 - [osm-feature-extract](https://github.com/lukasmartinelli/osm-feature-extract) - Extract GeoJSON features from OSM
@@ -532,6 +540,7 @@
 
 ## Others 
 
+- [mylinks](https://github.com/smdocs/mylinks) - 
 - [generating-certs](https://github.com/jason-riddle/generating-certs) - Guides on generating, installing, and rotating SSL certs.
 - [awesome-bigdata](https://github.com/onurakpolat/awesome-bigdata) - A curated list of awesome big data frameworks, ressources and other awesomeness.
 - [vscode-terraform-snippets](https://github.com/rixrix/vscode-terraform-snippets) - 
@@ -614,6 +623,7 @@
 
 ## Python 
 
+- [sillyfacter](https://github.com/hihellobolke/sillyfacter) - A silly python facter with JSON output, has process, open files, connection information too. They say Facts do not change, but hey Silly Facts can ;-)
 - [ansible-lint](https://github.com/willthames/ansible-lint) - Best practices checker for Ansible
 - [validator.vim](https://github.com/maralla/validator.vim) - Check syntax on the fly asynchronously.
 - [ansible-role-datastax-ddc](https://github.com/kostyrevaa/ansible-role-datastax-ddc) - 
@@ -732,6 +742,7 @@
 
 ## Ruby 
 
+- [appear](https://github.com/airbnb/appear) - reveal terminal programs in the gui
 - [jbuilder](https://github.com/rails/jbuilder) - Jbuilder: generate JSON objects with a Builder-style DSL
 - [vagrant-docker-baseimages](https://github.com/tknerr/vagrant-docker-baseimages) - A collection of Vagrant-friendly docker base images
 - [learning-tools](https://github.com/lowescott/learning-tools) - A collection of tools and files for learning new technologies

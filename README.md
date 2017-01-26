@@ -122,6 +122,7 @@
 
 ## Go 
 
+- [stretcher](https://github.com/fujiwara/stretcher) - Deployment tool with consul/serf event notification.
 - [go-nitro](https://github.com/chiradeep/go-nitro) - An experimental Golang client to the Citrix NetScaler API
 - [gestalt](https://github.com/asteris-llc/gestalt) - 
 - [lego](https://github.com/xenolf/lego) - Let's Encrypt client and ACME library written in Go
@@ -282,6 +283,7 @@
 
 ## HCL 
 
+- [tf_aws_bastion_s3_keys](https://github.com/sclausson/tf_aws_bastion_s3_keys) - A Terraform module for creating bastion host on AWS EC2 and populate its ~/.ssh/authorized_keys with public keys from bucket
 - [tf_aws_lambda_scheduled](https://github.com/terraform-community-modules/tf_aws_lambda_scheduled) - A Terraform module to create an AWS Lambda function which is scheduled to run on a recurring basis
 - [terraform-consul-cluster](https://github.com/dwmkerr/terraform-consul-cluster) - Demonstrates how to create a resilient Consul cluster on AWS, using Terraform. Companion to my article on dwmkerr.com.
 - [nubis-terraform](https://github.com/nubisproject/nubis-terraform) - 
@@ -445,6 +447,8 @@
 
 ## JavaScript 
 
+- [aws-lambda-deploy](https://github.com/maxbeatty/aws-lambda-deploy) - An automated, opinionated way to deploy to AWS Lambda
+- [hashi-ui](https://github.com/jippi/hashi-ui) - A user interface for the @hashicorp Consul & Nomad
 - [viz.js](https://github.com/mdaines/viz.js) - A hack to put Graphviz on the web.
 - [vis](https://github.com/almende/vis) - Dynamic, browser-based visualization library
 - [remark](https://github.com/gnab/remark) - A simple, in-browser, markdown-driven slideshow tool.
@@ -623,6 +627,7 @@
 
 ## Python 
 
+- [ianitor](https://github.com/ClearcodeHQ/ianitor) - Doorkeeper for consul discovered services
 - [sillyfacter](https://github.com/hihellobolke/sillyfacter) - A silly python facter with JSON output, has process, open files, connection information too. They say Facts do not change, but hey Silly Facts can ;-)
 - [ansible-lint](https://github.com/willthames/ansible-lint) - Best practices checker for Ansible
 - [validator.vim](https://github.com/maralla/validator.vim) - Check syntax on the fly asynchronously.

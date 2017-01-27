@@ -38,6 +38,7 @@
   - [Scala](#scala)
   - [Shell](#shell)
   - [TypeScript](#typescript)
+  - [Vim script](#vim script)
   - [VimL](#viml)
   - [Web Ontology Language](#web ontology language)
   - [XSLT](#xslt)
@@ -176,7 +177,7 @@
 - [pgfutter](https://github.com/lukasmartinelli/pgfutter) - Import CSV and JSON into PostgreSQL the easy way
 - [beanform](https://github.com/jritsema/beanform) - Reverse engineer an AWS Elasticbeanstalk app into Terraform source code
 - [blox](https://github.com/blox/blox) - Open source tools for building custom schedulers on Amazon ECS
-- [tflint](https://github.com/wata727/tflint) - TFLint is a linter of Terraform. TFLint is intended to supplement `terraform plan` in AWS provider
+- [tflint](https://github.com/wata727/tflint) - TFLint detect errors that can not be detected by `terraform plan` or template that do not follow best practices.
 - [go-openvpn-mgmt](https://github.com/apparentlymart/go-openvpn-mgmt) - [WIP] Go client library for OpenVPN's management protocol
 - [terragrunt](https://github.com/gruntwork-io/terragrunt) - Terragrunt is a thin wrapper for Terraform that supports locking for Terraform state and enforces best practices.
 - [terraform](https://github.com/VladRassokhin/terraform) - Terraform is a tool for building, changing, and combining infrastructure safely and efficiently.
@@ -465,7 +466,7 @@
 - [diffr](https://github.com/nijikokun/diffr) - CLI diff tool for files, text, and JSON with human readable output.
 - [markdown-to-json](https://github.com/scottstanfield/markdown-to-json) - 
 - [json-schema-generator](https://github.com/krg7880/json-schema-generator) - Generates draft v4 schema from a local file or a remote JSON url.
-- [generate-schema](https://github.com/nijikokun/generate-schema) - Effortlessly convert your JSON Object to JSON Schema, Mongoose Schema, or a Generic template for quick documentation / upstart.
+- [generate-schema](https://github.com/nijikokun/generate-schema) - Convert a JSON Object to JSON Schema, Mongoose Schema, or a Generic template for quick documentation / upstart.
 - [wildfly-swarm-examples](https://github.com/wildfly-swarm/wildfly-swarm-examples) - Examples of how to write applications using Swarm.
 - [github](https://github.com/nestor-powers/github) - Control Github with Nestor
 - [sax-js](https://github.com/isaacs/sax-js) - A sax style parser for JS
@@ -922,12 +923,16 @@
 
 - [pulpo](https://github.com/docker/pulpo) - Configuration mechanism for Node
 
+## Vim script 
+
+- [utilities](https://github.com/VladRassokhin/utilities) - Micro helpers
+- [auto-pairs](https://github.com/jiangmiao/auto-pairs) - Vim plugin, insert or delete brackets, parens, quotes in pair
+- [vim-plugins](https://github.com/WolfgangMehner/vim-plugins) - Vim plug-ins which offer support for various programming languages.
+
 ## VimL 
 
 - [syntastic](https://github.com/vim-syntastic/syntastic) - Syntax checking hacks for vim
-- [utilities](https://github.com/VladRassokhin/utilities) - Micro helpers
 - [vim-openresty](https://github.com/hexchain/vim-openresty) - Openresty configuration highlight for Vim
-- [auto-pairs](https://github.com/jiangmiao/auto-pairs) - Vim plugin, insert or delete brackets, parens, quotes in pair
 - [nerdtree-git-plugin](https://github.com/Xuyuanp/nerdtree-git-plugin) - A plugin of NERDTree showing git status
 - [vim-colors-solarized](https://github.com/altercation/vim-colors-solarized) - precision colorscheme for the vim text editor
 - [vim-monokai](https://github.com/sickill/vim-monokai) - Monokai color scheme for Vim converted from Textmate theme
@@ -937,7 +942,6 @@
 - [Dockerfile.vim](https://github.com/ekalinin/Dockerfile.vim) - Vim syntax file & snippets for Docker's Dockerfile
 - [spf13-vim](https://github.com/spf13/spf13-vim) - The ultimate vim distribution
 - [vim-go-ide](https://github.com/farazdagi/vim-go-ide) - Ready to use, fully configured for Go development.
-- [vim-plugins](https://github.com/WolfgangMehner/vim-plugins) - Vim plug-ins which offer support for various programming languages.
 
 ## Web Ontology Language 
 

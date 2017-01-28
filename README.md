@@ -123,6 +123,7 @@
 
 ## Go 
 
+- [s3cli](https://github.com/pivotal-golang/s3cli) - Go CLI for S3
 - [stretcher](https://github.com/fujiwara/stretcher) - Deployment tool with consul/serf event notification.
 - [go-nitro](https://github.com/chiradeep/go-nitro) - An experimental Golang client to the Citrix NetScaler API
 - [gestalt](https://github.com/asteris-llc/gestalt) - 
@@ -189,7 +190,7 @@
 - [terrahelp](https://github.com/opencredo/terrahelp) - Terraform helper. Terrahelp is as a command line utility written in Go and is aimed at providing supplementary functionality which can sometimes prove useful when working with Terraform.
 - [nomad](https://github.com/hashicorp/nomad) - A Distributed, Highly Available, Datacenter-Aware Scheduler
 - [consul](https://github.com/hashicorp/consul) - Consul is a tool for service discovery, monitoring and configuration.
-- [micro](https://github.com/micro/micro) - A microservice toolkit which simplifies distributed systems development
+- [micro](https://github.com/micro/micro) - A microservice toolkit for distributed systems development
 - [acme](https://github.com/google/acme) - A simple ACME command line tool without 3rd party deps!
 - [hashiapp](https://github.com/kelseyhightower/hashiapp) - Demo 12 Factor application that utilizes Hashicorp tools.
 - [terminus](https://github.com/kelseyhightower/terminus) - Get facts about a Linux system.
@@ -295,7 +296,7 @@
 - [c1m](https://github.com/hashicorp/c1m) - Nomad, Terraform, and Packer configurations for the Million Container Challenge (C1M)
 - [atlas-examples](https://github.com/hashicorp/atlas-examples) - Public examples for using Atlas by HashiCorp
 - [angostura](https://github.com/hashlabs/angostura) - Terraform templates library
-- [terraform-consul-nomad-vault-docker-fabio](https://github.com/tkellen/terraform-consul-nomad-vault-docker-fabio) - An infrastructure powered by terraform, consul, vault, nomad, docker & fabio
+- [modern-microservices-architecture-boilerplate](https://github.com/tkellen/modern-microservices-architecture-boilerplate) - a foundational sea of complexity
 - [byo-data-pipeline](https://github.com/segmentio/byo-data-pipeline) - Bring your own Data Pipeline
 - [terraform-circleci-demo](https://github.com/knakayama/terraform-circleci-demo) - 
 - [blueprint-storage-aws](https://github.com/stakater/blueprint-storage-aws) - Stakater Blueprint for creating best-practices based storage on AWS. Stakater is an Infrastructure-as-Code DevOps solution to automate the creation of web infrastructure stack on AWS. Stakater is based on Docker, CoreOS, Terraform, Packer, Docker Compose, GoCD, Fleet, ETCD, and more.

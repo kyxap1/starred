@@ -11,7 +11,6 @@
   - [CSS](#css)
   - [Clojure](#clojure)
   - [CoffeeScript](#coffeescript)
-  - [Common Lisp](#common lisp)
   - [Cucumber](#cucumber)
   - [Elixir](#elixir)
   - [Go](#go)
@@ -29,6 +28,7 @@
   - [Objective-C](#objective-c)
   - [Others](#others)
   - [PHP](#php)
+  - [PLpgSQL](#plpgsql)
   - [Perl](#perl)
   - [PowerShell](#powershell)
   - [Python](#python)
@@ -109,10 +109,6 @@
 - [aglio](https://github.com/danielgtaylor/aglio) - An API Blueprint renderer with theme support that outputs static HTML
 - [hubot](https://github.com/github/hubot) - A customizable life embetterment robot.
 
-## Common Lisp 
-
-- [pgloader](https://github.com/dimitri/pgloader) - Loading data into PostgreSQL
-
 ## Cucumber 
 
 - [sdkman-cli](https://github.com/sdkman/sdkman-cli) - The SDKMAN! Command Line Interface
@@ -123,6 +119,7 @@
 
 ## Go 
 
+- [srclib](https://github.com/sourcegraph/srclib) - srclib is a polyglot code analysis library, built for hackability. It consists of language analysis toolchains (currently for Go and Java, with Python, JavaScript, and Ruby in beta) with a common output format, and a CLI tool for running the analysis.
 - [s3cli](https://github.com/pivotal-golang/s3cli) - Go CLI for S3
 - [stretcher](https://github.com/fujiwara/stretcher) - Deployment tool with consul/serf event notification.
 - [go-nitro](https://github.com/chiradeep/go-nitro) - An experimental Golang client to the Citrix NetScaler API
@@ -391,6 +388,7 @@
 
 ## Java 
 
+- [spoon](https://github.com/INRIA/spoon) - Spoon is a library to analyze, rewrite, transform, transpile Java source code. It parses source files to build a well-designed AST with powerful analysis and transformation API. It fully supports Java 8. Made at Inria with :heart:, :beers: and :sparkles:
 - [JJSchema](https://github.com/reinert/JJSchema) - A generator from Java Types to JSON-Schema using Jackson.
 - [gephi](https://github.com/gephi/gephi) - Gephi - The Open Graph Viz Platform
 - [elassandra](https://github.com/strapdata/elassandra) - Elassandra = cassandra + elasticsearch
@@ -615,6 +613,10 @@
 - [selfoss](https://github.com/SSilence/selfoss) - selfoss: The multipurpose rss reader, live stream, mashup, aggregation web application
 - [zimg-host](https://github.com/ziggi/zimg-host) - Simple image hosting service
 
+## PLpgSQL 
+
+- [pgloader](https://github.com/dimitri/pgloader) - Loading data into PostgreSQL
+
 ## Perl 
 
 - [lua-resty-jwt](https://github.com/SkyLothar/lua-resty-jwt) - JWT For The Great Openresty
@@ -629,6 +631,7 @@
 
 ## Python 
 
+- [pandas](https://github.com/pandas-dev/pandas) - Flexible and powerful data analysis / manipulation library for Python, providing labeled data structures similar to R data.frame objects, statistical functions, and much more
 - [ianitor](https://github.com/ClearcodeHQ/ianitor) - Doorkeeper for consul discovered services
 - [sillyfacter](https://github.com/hihellobolke/sillyfacter) - A silly python facter with JSON output, has process, open files, connection information too. They say Facts do not change, but hey Silly Facts can ;-)
 - [ansible-lint](https://github.com/willthames/ansible-lint) - Best practices checker for Ansible

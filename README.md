@@ -929,13 +929,13 @@
 
 ## Vim script 
 
+- [syntastic](https://github.com/vim-syntastic/syntastic) - Syntax checking hacks for vim
 - [utilities](https://github.com/VladRassokhin/utilities) - Micro helpers
 - [auto-pairs](https://github.com/jiangmiao/auto-pairs) - Vim plugin, insert or delete brackets, parens, quotes in pair
 - [vim-plugins](https://github.com/WolfgangMehner/vim-plugins) - Vim plug-ins which offer support for various programming languages.
 
 ## VimL 
 
-- [syntastic](https://github.com/vim-syntastic/syntastic) - Syntax checking hacks for vim
 - [vim-openresty](https://github.com/hexchain/vim-openresty) - Openresty configuration highlight for Vim
 - [nerdtree-git-plugin](https://github.com/Xuyuanp/nerdtree-git-plugin) - A plugin of NERDTree showing git status
 - [vim-colors-solarized](https://github.com/altercation/vim-colors-solarized) - precision colorscheme for the vim text editor

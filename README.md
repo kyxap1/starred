@@ -388,7 +388,7 @@
 
 ## Java 
 
-- [spoon](https://github.com/INRIA/spoon) - Spoon is a library to analyze, rewrite, transform, transpile Java source code. It parses source files to build a well-designed AST with powerful analysis and transformation API. It fully supports Java 8. Made at Inria with :heart:, :beers: and :sparkles:
+- [spoon](https://github.com/INRIA/spoon) - Spoon is a library to analyze, rewrite, transform, transpile Java source code (incl Java 8). It parses source files to build a well-designed AST with powerful analysis and transformation API. Made at Inria with :heart:, :beers: and :sparkles:. Give Spoon a :star:!
 - [JJSchema](https://github.com/reinert/JJSchema) - A generator from Java Types to JSON-Schema using Jackson.
 - [gephi](https://github.com/gephi/gephi) - Gephi - The Open Graph Viz Platform
 - [elassandra](https://github.com/strapdata/elassandra) - Elassandra = cassandra + elasticsearch
@@ -479,7 +479,7 @@
 - [jira-resource](https://github.com/danrspencer/jira-resource) - Jira Resource for Concourse
 - [eslint-config-datapipeline](https://github.com/DataPipelineInc/eslint-config-datapipeline) - Data pipeline ESLint configuration
 - [DataPipeline-download](https://github.com/pearsonlab/DataPipeline-download) - downloading files from AWS DataPipeline system
-- [generator-jhipster](https://github.com/jhipster/generator-jhipster) - Open Source application generator for creating Spring Boot + AngularJS projects in seconds!
+- [generator-jhipster](https://github.com/jhipster/generator-jhipster) - Open Source application generator for creating Spring Boot + Angular projects in seconds!
 - [gql-tools](https://github.com/almilo/gql-tools) - GraphQL Tools for schema handling.
 - [graphiql](https://github.com/graphql/graphiql) - An in-browser IDE for exploring GraphQL.
 - [beanform](https://github.com/turnerlabs/beanform) - Reverse engineer AWS Elasticbeanstalk apps into Terraform source code

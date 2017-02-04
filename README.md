@@ -282,6 +282,7 @@
 
 ## HCL 
 
+- [tf-inspector-demo](https://github.com/knakayama/tf-inspector-demo) - 
 - [tf_aws_bastion_s3_keys](https://github.com/sclausson/tf_aws_bastion_s3_keys) - A Terraform module for creating bastion host on AWS EC2 and populate its ~/.ssh/authorized_keys with public keys from bucket
 - [tf_aws_lambda_scheduled](https://github.com/terraform-community-modules/tf_aws_lambda_scheduled) - A Terraform module to create an AWS Lambda function which is scheduled to run on a recurring basis
 - [terraform-consul-cluster](https://github.com/dwmkerr/terraform-consul-cluster) - Demonstrates how to create a resilient Consul cluster on AWS, using Terraform. Companion to my article on dwmkerr.com.

@@ -82,9 +82,9 @@
 
 ## CSS 
 
+- [dagobah](https://github.com/thieman/dagobah) - Simple DAG-based job scheduler in Python
 - [pelias](https://github.com/pelias/pelias) - Pelias is a modular open-source geocoder using ElasticSearch for fast geocoding.
 - [nomad-ci](https://github.com/iverberk/nomad-ci) - A fully featured CI setup based on Nomad, Jenkins, Selenium, Consul and Docker
-- [MobDistTool](https://github.com/rgroult/MobDistTool) - Mobile App Distribution Tool
 - [domeide.github.io](https://github.com/domeide/domeide.github.io) - Docker meets the IDE - Integrating your favorite containers in the editor of your choice
 - [arnotes](https://github.com/art4melody/arnotes) - Markdown-based notepad HTML5 application
 
@@ -119,6 +119,9 @@
 
 ## Go 
 
+- [terraform-provider-packer](https://github.com/gsaslis/terraform-provider-packer) - A Terraform provider plugin for Packer
+- [jennifer](https://github.com/davelondon/jennifer) - Jennifer is a code generator for go
+- [easyjson](https://github.com/mailru/easyjson) - Fast JSON serializer for golang.
 - [srclib](https://github.com/sourcegraph/srclib) - srclib is a polyglot code analysis library, built for hackability. It consists of language analysis toolchains (currently for Go and Java, with Python, JavaScript, and Ruby in beta) with a common output format, and a CLI tool for running the analysis.
 - [s3cli](https://github.com/pivotal-golang/s3cli) - Go CLI for S3
 - [stretcher](https://github.com/fujiwara/stretcher) - Deployment tool with consul/serf event notification.
@@ -175,7 +178,7 @@
 - [pgfutter](https://github.com/lukasmartinelli/pgfutter) - Import CSV and JSON into PostgreSQL the easy way
 - [beanform](https://github.com/jritsema/beanform) - Reverse engineer an AWS Elasticbeanstalk app into Terraform source code
 - [blox](https://github.com/blox/blox) - Open source tools for building custom schedulers on Amazon ECS
-- [tflint](https://github.com/wata727/tflint) - TFLint detect errors that can not be detected by `terraform plan` or template that do not follow best practices.
+- [tflint](https://github.com/wata727/tflint) - TFLint is terraform linter for detecting errors that can not be detected by `terraform plan`
 - [go-openvpn-mgmt](https://github.com/apparentlymart/go-openvpn-mgmt) - [WIP] Go client library for OpenVPN's management protocol
 - [terragrunt](https://github.com/gruntwork-io/terragrunt) - Terragrunt is a thin wrapper for Terraform that supports locking for Terraform state and enforces best practices.
 - [terraform](https://github.com/VladRassokhin/terraform) - Terraform is a tool for building, changing, and combining infrastructure safely and efficiently.
@@ -282,6 +285,8 @@
 
 ## HCL 
 
+- [terraform-config](https://github.com/travis-infrastructure/terraform-config) - Terraform bits in the process of replacing travis-infrastructure/terraform-stuff and friends.
+- [tf-sfn-demo](https://github.com/knakayama/tf-sfn-demo) - 
 - [tf-inspector-demo](https://github.com/knakayama/tf-inspector-demo) - 
 - [tf_aws_bastion_s3_keys](https://github.com/sclausson/tf_aws_bastion_s3_keys) - A Terraform module for creating bastion host on AWS EC2 and populate its ~/.ssh/authorized_keys with public keys from bucket
 - [tf_aws_lambda_scheduled](https://github.com/terraform-community-modules/tf_aws_lambda_scheduled) - A Terraform module to create an AWS Lambda function which is scheduled to run on a recurring basis
@@ -395,7 +400,7 @@
 - [elassandra](https://github.com/strapdata/elassandra) - Elassandra = cassandra + elasticsearch
 - [flyway](https://github.com/flyway/flyway) - Flyway by Boxfuse • Database Migrations Made Easy.
 - [swagger-core](https://github.com/swagger-api/swagger-core) - Examples and server integrations for generating the Swagger API Specification, which enables easy access to your REST API
-- [grakn](https://github.com/graknlabs/grakn) - A Knowledge Graph Platform
+- [grakn](https://github.com/graknlabs/grakn) - THE DATABASE FOR AI
 - [bazel](https://github.com/bazelbuild/bazel) - Correct, reproducible, and fast builds for everyone.
 - [android-json-model-generator](https://github.com/JAlexoid/android-json-model-generator) - A simple JSON Object Model generator for Android (JSON to Java)
 - [json-to-avro-schema-generator](https://github.com/sgmarghade/json-to-avro-schema-generator) - This will help you to generate AVRO schema from JSON schema.
@@ -448,6 +453,10 @@
 
 ## JavaScript 
 
+- [aws-data-lake-solution](https://github.com/awslabs/aws-data-lake-solution) - A deployable reference implementation intended to address pain points around conceptualizing data lake architectures that automatically configures the core AWS services necessary to easily tag, search, share, and govern specific subsets of data across a business or with other external businesses.
+- [pinball](https://github.com/pinterest/pinball) - Pinball is a scalable workflow manager
+- [tfsoa](https://github.com/sepulworld/tfsoa) - Terraform State of Awareness Dashboard
+- [github-to-s3-lambda-deployer](https://github.com/RafalWilinski/github-to-s3-lambda-deployer) - ⚓️ GitHub webhook extension for uploading static pages to AWS S3 directly after commiting to master via Lambda
 - [aws-lambda-deploy](https://github.com/maxbeatty/aws-lambda-deploy) - An automated, opinionated way to deploy to AWS Lambda
 - [hashi-ui](https://github.com/jippi/hashi-ui) - A user interface for the @hashicorp Consul & Nomad
 - [viz.js](https://github.com/mdaines/viz.js) - A hack to put Graphviz on the web.
@@ -490,6 +499,7 @@
 - [pingbot](https://github.com/toricls/pingbot) - A website monitoring/health-checking tool based on serverless architecture.
 - [adl-designer](https://github.com/openEHR/adl-designer) - Web-based archetype and template design tools
 - [os-mobilizer](https://github.com/Redmart/os-mobilizer) - A distribution/testing platform for mobile applications
+- [MobDistTool](https://github.com/rgroult/MobDistTool) - Mobile App Distribution Tool
 - [s3scan](https://github.com/mapbox/s3scan) - S3 can!
 - [aws-log-replay](https://github.com/mapbox/aws-log-replay) - Transform and replay CloudFront, ELB Classic, and ALB logs
 - [pingdummy](https://github.com/segmentio/pingdummy) - Example application for segmentio/stack
@@ -545,6 +555,7 @@
 
 ## Others 
 
+- [awesome-pipeline](https://github.com/pditommaso/awesome-pipeline) - A curated list of awesome pipeline toolkits inspired by Awesome Sysadmin
 - [mylinks](https://github.com/smdocs/mylinks) - 
 - [generating-certs](https://github.com/jason-riddle/generating-certs) - Guides on generating, installing, and rotating SSL certs.
 - [awesome-bigdata](https://github.com/onurakpolat/awesome-bigdata) - A curated list of awesome big data frameworks, ressources and other awesomeness.
@@ -632,6 +643,7 @@
 
 ## Python 
 
+- [streamalert](https://github.com/airbnb/streamalert) - StreamAlert is a serverless, realtime data analysis framework which empowers you to ingest, analyze, and alert on data from any environment, using datasources and alerting logic you define.
 - [pandas](https://github.com/pandas-dev/pandas) - Flexible and powerful data analysis / manipulation library for Python, providing labeled data structures similar to R data.frame objects, statistical functions, and much more
 - [ianitor](https://github.com/ClearcodeHQ/ianitor) - Doorkeeper for consul discovered services
 - [sillyfacter](https://github.com/hihellobolke/sillyfacter) - A silly python facter with JSON output, has process, open files, connection information too. They say Facts do not change, but hey Silly Facts can ;-)
@@ -950,6 +962,7 @@
 
 ## Web Ontology Language 
 
+- [common-workflow-language](https://github.com/common-workflow-language/common-workflow-language) - Repository for CWL Specifications. Use https://www.biostars.org/t/cwl/ for support.
 - [sample-projects](https://github.com/graknlabs/sample-projects) - Sample Java Projects for GRAKN.AI
 - [sample-datasets](https://github.com/graknlabs/sample-datasets) - Sample Graql Datasets for GRAKN.AI
 

@@ -45,6 +45,7 @@
 
 ## C 
 
+- [snzip](https://github.com/kubo/snzip) - Snzip, a compression/decompression tool based on snappy
 - [tcpcopy](https://github.com/session-replay-tools/tcpcopy) - An online request replication tool, also a tcp stream replay tool, fit for real testing, performance testing, stability testing, stress testing, load testing, smoke testing, etc
 - [ultragrep](https://github.com/zendesk/ultragrep) - the grep that greps the hardest.
 - [yajl](https://github.com/lloyd/yajl) - A fast streaming JSON parsing library in C.
@@ -178,7 +179,7 @@
 - [pgfutter](https://github.com/lukasmartinelli/pgfutter) - Import CSV and JSON into PostgreSQL the easy way
 - [beanform](https://github.com/jritsema/beanform) - Reverse engineer an AWS Elasticbeanstalk app into Terraform source code
 - [blox](https://github.com/blox/blox) - Open source tools for building custom schedulers on Amazon ECS
-- [tflint](https://github.com/wata727/tflint) - TFLint is terraform linter for detecting errors that can not be detected by `terraform plan`
+- [tflint](https://github.com/wata727/tflint) - TFLint is Terraform linter for detecting errors that can not be detected by `terraform plan`
 - [go-openvpn-mgmt](https://github.com/apparentlymart/go-openvpn-mgmt) - [WIP] Go client library for OpenVPN's management protocol
 - [terragrunt](https://github.com/gruntwork-io/terragrunt) - Terragrunt is a thin wrapper for Terraform that supports locking for Terraform state and enforces best practices.
 - [terraform](https://github.com/VladRassokhin/terraform) - Terraform is a tool for building, changing, and combining infrastructure safely and efficiently.
@@ -945,6 +946,7 @@
 - [syntastic](https://github.com/vim-syntastic/syntastic) - Syntax checking hacks for vim
 - [utilities](https://github.com/VladRassokhin/utilities) - Micro helpers
 - [auto-pairs](https://github.com/jiangmiao/auto-pairs) - Vim plugin, insert or delete brackets, parens, quotes in pair
+- [Dockerfile.vim](https://github.com/ekalinin/Dockerfile.vim) - Vim syntax file & snippets for Docker's Dockerfile
 - [vim-plugins](https://github.com/WolfgangMehner/vim-plugins) - Vim plug-ins which offer support for various programming languages.
 
 ## VimL 
@@ -956,7 +958,6 @@
 - [vim-hclfmt](https://github.com/fatih/vim-hclfmt) - Vim plugin for hclfmt
 - [vim-terraform](https://github.com/hashivim/vim-terraform) - basic vim/terraform integration
 - [vim-hashicorp-tools](https://github.com/hashivim/vim-hashicorp-tools) - "self-contained and fairly explanatory" agglomeration of HashiVim plugins
-- [Dockerfile.vim](https://github.com/ekalinin/Dockerfile.vim) - Vim syntax file & snippets for Docker's Dockerfile
 - [spf13-vim](https://github.com/spf13/spf13-vim) - The ultimate vim distribution
 - [vim-go-ide](https://github.com/farazdagi/vim-go-ide) - Ready to use, fully configured for Go development.
 

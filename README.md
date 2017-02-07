@@ -483,7 +483,8 @@
 - [node-xml2json](https://github.com/buglabs/node-xml2json) - Converts XML to JSON using node-expat
 - [tf-parse](https://github.com/clearly/tf-parse) - 
 - [jq.node](https://github.com/FGRibreau/jq.node) - jq.node - like jq but WAY MORE powerful (300+ helpers 🔥 & 300K+ modules 😱)
-- [json5](https://github.com/json5/json5) - JSON for the ES5 era. (Not an official successor to JSON.)
+- [cabot](https://github.com/arachnys/cabot) - Self-hosted, easily-deployable monitoring and alerts service - like a lightweight PagerDuty
+- [json5](https://github.com/json5/json5) - JSON for humans. (Not an official successor to JSON.)
 - [CodeMirror](https://github.com/codemirror/CodeMirror) - In-browser code editor
 - [JSON-Splora](https://github.com/wellsjo/JSON-Splora) - ☘️ GUI for editing, visualizing, and manipulating JSON
 - [docker-lambda](https://github.com/lambci/docker-lambda) - Docker images and test runners that replicate the live AWS Lambda environment
@@ -675,7 +676,6 @@
 - [mailinabox](https://github.com/mail-in-a-box/mailinabox) - Mail-in-a-Box helps individuals take back control of their email by defining a one-click, easy-to-deploy SMTP+everything else server: a mail server in a box.
 - [asciinema](https://github.com/asciinema/asciinema) - Terminal session recorder
 - [glances](https://github.com/nicolargo/glances) - Glances an Eye on your system. A top/htop alternative.
-- [cabot](https://github.com/arachnys/cabot) - Self-hosted, easily-deployable monitoring and alerts service - like a lightweight PagerDuty
 - [locust](https://github.com/locustio/locust) - Scalable user load testing tool written in Python
 - [compose](https://github.com/docker/compose) - Define and run multi-container applications with Docker
 - [superset](https://github.com/airbnb/superset) - Superset is a data exploration platform designed to be visual, intuitive, and interactive

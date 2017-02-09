@@ -395,6 +395,7 @@
 
 ## Java 
 
+- [plantuml-gist](https://github.com/linux-china/plantuml-gist) - PlantUML with Github Gist and Gitlab Support
 - [spoon](https://github.com/INRIA/spoon) - Spoon is a library to analyze, rewrite, transform, transpile Java source code (incl Java 8). It parses source files to build a well-designed AST with powerful analysis and transformation API. Made at Inria with :heart:, :beers: and :sparkles:. Give Spoon a :star:!
 - [JJSchema](https://github.com/reinert/JJSchema) - A generator from Java Types to JSON-Schema using Jackson.
 - [gephi](https://github.com/gephi/gephi) - Gephi - The Open Graph Viz Platform
@@ -575,7 +576,6 @@
 - [ansible-role-packer](https://github.com/patrick-hill/ansible-role-packer) - 
 - [Sqoop](https://github.com/SriGovindGutala/Sqoop) - This repo contains all the different ways you can ingest data from RDBMS to HDFS and vice versa using Sqoop.
 - [awesome-graphql](https://github.com/chentsulin/awesome-graphql) - Awesome list of GraphQL & Relay
-- [dockerfile-ci](https://github.com/unifio/dockerfile-ci) - 
 - [terraform-aws-ecs](https://github.com/unifio/terraform-aws-ecs) - Terraform AWS ECS stack
 - [tool-repos](https://github.com/monitoringsucks/tool-repos) - Tracking various tools that fit in the monitoring and metrics space
 - [dockerfile-transcrypt](https://github.com/unifio/dockerfile-transcrypt) - Dockerfile for creation of a Transcrypt container
@@ -873,6 +873,7 @@
 - [infrastructure-reference](https://github.com/stakater/infrastructure-reference) - Reference infrastructure for Stakater blueprints. Stakater is an Infrastructure-as-Code DevOps solution to automate the creation of web infrastructure stack on AWS. Stakater is based on Docker, CoreOS, Terraform, Packer, Docker Compose, GoCD, Fleet, ETCD, and more.
 - [ami-baker](https://github.com/stakater/ami-baker) - Stakater tool to create CoreOS based custom AMI (Amazon Machine Image). Stakater is an Infrastructure-as-Code DevOps solution to automate the creation of web infrastructure stack on AWS. Stakater is based on Docker, CoreOS, Terraform, Packer, Docker Compose, GoCD, Fleet, ETCD, and more.
 - [devops-demo](https://github.com/dimapod/devops-demo) - DevOps Demo - Packer / Ansible / Terraform / AWS
+- [dockerfile-ci](https://github.com/unifio/dockerfile-ci) - 
 - [wildfly](https://github.com/inkatze/wildfly) - Ansible role for wildfly
 - [bats](https://github.com/sstephenson/bats) - Bash Automated Testing System
 - [dockerfile-terraform](https://github.com/unifio/dockerfile-terraform) - Dockerfile for creation of a HashiCorp Terraform container

@@ -516,7 +516,7 @@
 - [csv](https://github.com/segmentio/csv) - Uber simple CSV formatting/parsing for node
 - [nginx-jwt](https://github.com/auth0/nginx-jwt) - Lua script for Nginx that performs reverse proxy auth using JWT's
 - [mr-data-converter](https://github.com/shancarter/mr-data-converter) - Takes CSV or tab-delimited data from Excel and converts it into several web-friendly formats, include JSON and XML.
-- [wide](https://github.com/b3log/wide) - :fireworks: A Web-based IDE for Teams using Go programming language/Golang. 一个基于 Web 的 Go 语言 IDE。
+- [wide](https://github.com/b3log/wide) - :fireworks: A Web-based IDE for Teams using Go programming language/Golang. 一个基于 Web 的 Go 语言 IDE。https://wide.b3log.org
 - [GetOptGenerator](https://github.com/dafuer/GetOptGenerator) - Easy way to start a C project
 - [foresight.js](https://github.com/adamdbradley/foresight.js) - DEPRECATED: Prior to recent developments with the picture element, Foresight.js gaves webpages the ability to tell if the user's device is capable of viewing high-resolution images before the image is requested from the server. Additionally, it judges if the user's device currently has a fast enough network connection for high-resolution images. Depending on device display and network connectivity, foresight.js will request the appropriate image for the webpage.
 - [zabbixGrapher](https://github.com/sepich/zabbixGrapher) - Quick search/view zabbix graphs
@@ -558,6 +558,7 @@
 
 ## Others 
 
+- [awesome-java](https://github.com/akullpp/awesome-java) - A curated list of awesome Java frameworks, libraries and software.
 - [awesome-pipeline](https://github.com/pditommaso/awesome-pipeline) - A curated list of awesome pipeline toolkits inspired by Awesome Sysadmin
 - [mylinks](https://github.com/smdocs/mylinks) - 
 - [generating-certs](https://github.com/jason-riddle/generating-certs) - Guides on generating, installing, and rotating SSL certs.
@@ -645,6 +646,7 @@
 
 ## Python 
 
+- [AWS-PlantUML](https://github.com/milo-minderbinder/AWS-PlantUML) - PlantUML sprites, macros, and other includes for AWS components.
 - [streamalert](https://github.com/airbnb/streamalert) - StreamAlert is a serverless, realtime data analysis framework which empowers you to ingest, analyze, and alert on data from any environment, using datasources and alerting logic you define.
 - [pandas](https://github.com/pandas-dev/pandas) - Flexible and powerful data analysis / manipulation library for Python, providing labeled data structures similar to R data.frame objects, statistical functions, and much more
 - [ianitor](https://github.com/ClearcodeHQ/ianitor) - Doorkeeper for consul discovered services

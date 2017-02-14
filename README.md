@@ -300,7 +300,7 @@
 - [c1m](https://github.com/hashicorp/c1m) - Nomad, Terraform, and Packer configurations for the Million Container Challenge (C1M)
 - [atlas-examples](https://github.com/hashicorp/atlas-examples) - Public examples for using Atlas by HashiCorp
 - [angostura](https://github.com/hashlabs/angostura) - Terraform templates library
-- [modern-microservices-architecture-boilerplate](https://github.com/tkellen/modern-microservices-architecture-boilerplate) - a foundational sea of complexity
+- [microservices-architecture-boilerplate](https://github.com/tkellen/microservices-architecture-boilerplate) - a foundational sea of complexity
 - [byo-data-pipeline](https://github.com/segmentio/byo-data-pipeline) - Bring your own Data Pipeline
 - [terraform-circleci-demo](https://github.com/knakayama/terraform-circleci-demo) - 
 - [blueprint-storage-aws](https://github.com/stakater/blueprint-storage-aws) - Stakater Blueprint for creating best-practices based storage on AWS. Stakater is an Infrastructure-as-Code DevOps solution to automate the creation of web infrastructure stack on AWS. Stakater is based on Docker, CoreOS, Terraform, Packer, Docker Compose, GoCD, Fleet, ETCD, and more.
@@ -847,6 +847,7 @@
 
 ## Shell 
 
+- [takeover.sh](https://github.com/marcan/takeover.sh) - Wipe and reinstall a running Linux system via SSH, without rebooting. You know you want to.
 - [setup-ipsec-vpn](https://github.com/hwdsl2/setup-ipsec-vpn) - Scripts to build your own IPsec VPN server, with IPsec/L2TP and Cisco IPsec on Ubuntu, Debian and CentOS
 - [kostyrevaa.consul-template](https://github.com/kostyrevaa/kostyrevaa.consul-template) - 
 - [posixcube](https://github.com/myplaceonline/posixcube) - posixcube.sh is a POSIX compliant, shell script-based server automation framework.

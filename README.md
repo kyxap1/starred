@@ -120,13 +120,14 @@
 
 ## Go 
 
+- [rclone](https://github.com/ncw/rclone) - "rsync for cloud storage" - Google Drive, Amazon Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Cloudfiles, Google Cloud Storage, Yandex Files
 - [terraform-provider-packer](https://github.com/gsaslis/terraform-provider-packer) - A Terraform provider plugin for Packer
 - [jennifer](https://github.com/davelondon/jennifer) - Jennifer is a code generator for go
 - [easyjson](https://github.com/mailru/easyjson) - Fast JSON serializer for golang.
 - [srclib](https://github.com/sourcegraph/srclib) - srclib is a polyglot code analysis library, built for hackability. It consists of language analysis toolchains (currently for Go and Java, with Python, JavaScript, and Ruby in beta) with a common output format, and a CLI tool for running the analysis.
 - [s3cli](https://github.com/pivotal-golang/s3cli) - Go CLI for S3
 - [stretcher](https://github.com/fujiwara/stretcher) - Deployment tool with consul/serf event notification.
-- [go-nitro](https://github.com/chiradeep/go-nitro) - An experimental Golang client to the Citrix NetScaler API
+- [go-nitro](https://github.com/chiradeep/go-nitro) - A Golang client to the Citrix NetScaler API
 - [gestalt](https://github.com/asteris-llc/gestalt) - 
 - [lego](https://github.com/xenolf/lego) - Let's Encrypt client and ACME library written in Go
 - [hammer](https://github.com/asteris-llc/hammer) - Build packages from a simple spec
@@ -455,6 +456,8 @@
 
 ## JavaScript 
 
+- [scope](https://github.com/serverless/scope) - Scope - Customizable birdeye's view of your Github project
+- [s3-lambda](https://github.com/littlstar/s3-lambda) - Lambda functions over S3 objects with concurrency control (each, map, reduce, filter)
 - [aws-data-lake-solution](https://github.com/awslabs/aws-data-lake-solution) - A deployable reference implementation intended to address pain points around conceptualizing data lake architectures that automatically configures the core AWS services necessary to easily tag, search, share, and govern specific subsets of data across a business or with other external businesses.
 - [pinball](https://github.com/pinterest/pinball) - Pinball is a scalable workflow manager
 - [tfsoa](https://github.com/sepulworld/tfsoa) - Terraform State of Awareness Dashboard
@@ -769,6 +772,7 @@
 
 ## Ruby 
 
+- [aws-codedeploy-agent](https://github.com/aws/aws-codedeploy-agent) - Host Agent for AWS CodeDeploy
 - [appear](https://github.com/airbnb/appear) - reveal terminal programs in the gui
 - [jbuilder](https://github.com/rails/jbuilder) - Jbuilder: generate JSON objects with a Builder-style DSL
 - [vagrant-docker-baseimages](https://github.com/tknerr/vagrant-docker-baseimages) - A collection of Vagrant-friendly docker base images

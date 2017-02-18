@@ -120,6 +120,7 @@
 
 ## Go 
 
+- [awless](https://github.com/wallix/awless) - A Mighty CLI for AWS
 - [rclone](https://github.com/ncw/rclone) - "rsync for cloud storage" - Google Drive, Amazon Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Cloudfiles, Google Cloud Storage, Yandex Files
 - [terraform-provider-packer](https://github.com/gsaslis/terraform-provider-packer) - A Terraform provider plugin for Packer
 - [jennifer](https://github.com/davelondon/jennifer) - Jennifer is a code generator for go
@@ -392,7 +393,7 @@
 ## JSONiq 
 
 - [cfsummit-bosh-jq](https://github.com/dpb587/cfsummit-bosh-jq) - 
-- [JBOL](https://github.com/fadado/JBOL) - JBOL is a collection of modules for the jq language.
+- [JBOL](https://github.com/fadado/JBOL) - JBOL is a collection of modules for the JQ language.
 
 ## Java 
 
@@ -656,7 +657,7 @@
 - [sillyfacter](https://github.com/hihellobolke/sillyfacter) - A silly python facter with JSON output, has process, open files, connection information too. They say Facts do not change, but hey Silly Facts can ;-)
 - [ansible-lint](https://github.com/willthames/ansible-lint) - Best practices checker for Ansible
 - [validator.vim](https://github.com/maralla/validator.vim) - Check syntax on the fly asynchronously.
-- [ansible-role-datastax-ddc](https://github.com/kostyrevaa/ansible-role-datastax-ddc) - 
+- [ansible-role-datastax-ddc](https://github.com/akostyrev/ansible-role-datastax-ddc) - 
 - [xmltodict](https://github.com/martinblech/xmltodict) - Python module that makes working with XML feel like you are working with JSON
 - [ansigenome](https://github.com/nickjj/ansigenome) - A tool to help you gather information and manage your Ansible roles.
 - [aws-ansible-cassandra](https://github.com/oliverlockwood/aws-ansible-cassandra) - Simple Ansible script to set up a minimal Cassandra cluster
@@ -853,7 +854,7 @@
 
 - [takeover.sh](https://github.com/marcan/takeover.sh) - Wipe and reinstall a running Linux system via SSH, without rebooting. You know you want to.
 - [setup-ipsec-vpn](https://github.com/hwdsl2/setup-ipsec-vpn) - Scripts to build your own IPsec VPN server, with IPsec/L2TP and Cisco IPsec on Ubuntu, Debian and CentOS
-- [kostyrevaa.consul-template](https://github.com/kostyrevaa/kostyrevaa.consul-template) - 
+- [kostyrevaa.consul-template](https://github.com/akostyrev/kostyrevaa.consul-template) - 
 - [posixcube](https://github.com/myplaceonline/posixcube) - posixcube.sh is a POSIX compliant, shell script-based server automation framework.
 - [sshag](https://github.com/intuited/sshag) - hook up with an operating or new SSH agent
 - [packer-templates](https://github.com/kwilczynski/packer-templates) - Packer templates for creating Amazon EC2 images and Vagrant boxes.

@@ -569,7 +569,7 @@
 - [mylinks](https://github.com/smdocs/mylinks) - 
 - [generating-certs](https://github.com/jason-riddle/generating-certs) - Guides on generating, installing, and rotating SSL certs.
 - [awesome-bigdata](https://github.com/onurakpolat/awesome-bigdata) - A curated list of awesome big data frameworks, ressources and other awesomeness.
-- [vscode-terraform-snippets](https://github.com/rixrix/vscode-terraform-snippets) - 
+- [vscode-terraform-snippets](https://github.com/rixrix/vscode-terraform-snippets) - Advanced Terraform Snippets for Visual Studio Code
 - [ansible-cassandra](https://github.com/deimosfr/ansible-cassandra) - Ansible role to deploy Cassandra
 - [awesome-analytics](https://github.com/onurakpolat/awesome-analytics) - A curated list of analytics frameworks, software and other tools.
 - [awesome-ciandcd](https://github.com/ciandcd/awesome-ciandcd) - continuous integration and continuous delivery
@@ -958,13 +958,13 @@
 - [syntastic](https://github.com/vim-syntastic/syntastic) - Syntax checking hacks for vim
 - [utilities](https://github.com/VladRassokhin/utilities) - Micro helpers
 - [auto-pairs](https://github.com/jiangmiao/auto-pairs) - Vim plugin, insert or delete brackets, parens, quotes in pair
+- [nerdtree-git-plugin](https://github.com/Xuyuanp/nerdtree-git-plugin) - A plugin of NERDTree showing git status
 - [Dockerfile.vim](https://github.com/ekalinin/Dockerfile.vim) - Vim syntax file & snippets for Docker's Dockerfile
 - [vim-plugins](https://github.com/WolfgangMehner/vim-plugins) - Vim plug-ins which offer support for various programming languages.
 
 ## VimL 
 
 - [vim-openresty](https://github.com/hexchain/vim-openresty) - Openresty configuration highlight for Vim
-- [nerdtree-git-plugin](https://github.com/Xuyuanp/nerdtree-git-plugin) - A plugin of NERDTree showing git status
 - [vim-colors-solarized](https://github.com/altercation/vim-colors-solarized) - precision colorscheme for the vim text editor
 - [vim-monokai](https://github.com/sickill/vim-monokai) - Monokai color scheme for Vim converted from Textmate theme
 - [vim-hclfmt](https://github.com/fatih/vim-hclfmt) - Vim plugin for hclfmt

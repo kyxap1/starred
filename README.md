@@ -120,6 +120,7 @@
 
 ## Go 
 
+- [terraform-gen](https://github.com/radeksimko/terraform-gen) - Terraform generator(s)
 - [awless](https://github.com/wallix/awless) - A Mighty CLI for AWS
 - [rclone](https://github.com/ncw/rclone) - "rsync for cloud storage" - Google Drive, Amazon Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Cloudfiles, Google Cloud Storage, Yandex Files
 - [terraform-provider-packer](https://github.com/gsaslis/terraform-provider-packer) - A Terraform provider plugin for Packer
@@ -562,6 +563,8 @@
 
 ## Others 
 
+- [ansible-barman](https://github.com/alexey-medvedchikov/ansible-barman) - Ansible role for barman PostgreSQL backup utility
+- [ansible-pgbouncer](https://github.com/alexey-medvedchikov/ansible-pgbouncer) - This ansible role configures PgBouncer PostgreSQL connection mux utility.
 - [design-patterns-for-humans](https://github.com/kamranahmedse/design-patterns-for-humans) - Design Patterns for Humans™ - An ultra-simplified explanation
 - [awesome-osx-command-line](https://github.com/herrbischoff/awesome-osx-command-line) - Use your OS X terminal shell to do awesome things.
 - [awesome-java](https://github.com/akullpp/awesome-java) - A curated list of awesome Java frameworks, libraries and software.

@@ -74,6 +74,7 @@
 
 ## C++ 
 
+- [osquery](https://github.com/facebook/osquery) - SQL powered operating system instrumentation, monitoring, and analytics.
 - [pushpin](https://github.com/fanout/pushpin) - Reverse proxy for realtime web services
 - [AEBL](https://github.com/krattai/AEBL) - AEBL is a mobile multimedia distribution and playback platform.
 - [s3fs-fuse](https://github.com/s3fs-fuse/s3fs-fuse) - FUSE-based file system backed by Amazon S3
@@ -655,6 +656,7 @@
 
 ## Python 
 
+- [stethoscope](https://github.com/Netflix/stethoscope) - Personalized, user-focused recommendations for employee information security.
 - [s3env](https://github.com/cameronmaske/s3env) - Manipulate a simple key/value JSON object file in an S3 bucket
 - [AWS-PlantUML](https://github.com/milo-minderbinder/AWS-PlantUML) - PlantUML sprites, macros, and other includes for AWS components.
 - [streamalert](https://github.com/airbnb/streamalert) - StreamAlert is a serverless, realtime data analysis framework which empowers you to ingest, analyze, and alert on data from any environment, using datasources and alerting logic you define.
@@ -792,9 +794,9 @@
 - [kafkat](https://github.com/airbnb/kafkat) - KafkaT-ool
 - [logstash-input-kinesis](https://github.com/logstash-plugins/logstash-input-kinesis) - Logstash Plugin for AWS Kinesis Input
 - [pgsync](https://github.com/ankane/pgsync) - Postgres data -&gt; your local machine
-- [lbrt](https://github.com/winebarrel/lbrt) - A tool to manage Librato. It defines the state of Librato using DSL, and updates Librato according to DSL.
-- [miam](https://github.com/winebarrel/miam) - Miam is a tool to manage IAM. It defines the state of IAM using DSL, and updates IAM according to DSL.
-- [posgra](https://github.com/winebarrel/posgra) - Posgra is a tool to manage PostgreSQL roles/permissions.
+- [lbrt](https://github.com/codenize-tools/lbrt) - A tool to manage Librato. It defines the state of Librato using DSL, and updates Librato according to DSL.
+- [miam](https://github.com/codenize-tools/miam) - Miam is a tool to manage IAM. It defines the state of IAM using DSL, and updates IAM according to DSL.
+- [posgra](https://github.com/codenize-tools/posgra) - Posgra is a tool to manage PostgreSQL roles/permissions.
 - [ansible-vagrant-examples](https://github.com/geerlingguy/ansible-vagrant-examples) - Ansible examples using Vagrant to deploy to local VMs.
 - [vagrant-aws](https://github.com/mitchellh/vagrant-aws) - Use Vagrant to manage your EC2 and VPC instances.
 - [wildfly-buildpack](https://github.com/myminseok/wildfly-buildpack) - Cloud Foundry buildpack for running Java applications
@@ -866,7 +868,7 @@
 - [packer-templates](https://github.com/kwilczynski/packer-templates) - Packer templates for creating Amazon EC2 images and Vagrant boxes.
 - [algo](https://github.com/trailofbits/algo) - 1-click IPSEC VPN in the Cloud
 - [nexusoss3-docker](https://github.com/JAlexoid/nexusoss3-docker) - Sonatype Nexus 3 Images
-- [official-images](https://github.com/docker-library/official-images) - Docker Official Images
+- [official-images](https://github.com/docker-library/official-images) - Primary source of truth for the Docker "Official Images" program
 - [docker-consul](https://github.com/hashicorp/docker-consul) - Official Docker images for Consul.
 - [windup-ci](https://github.com/windup/windup-ci) - Jenkins scripts, perf tests, tools etc.
 - [base-jdk](https://github.com/jboss-dockerfiles/base-jdk) - Base Docker image for Middleware with JDK
@@ -913,7 +915,7 @@
 - [pre-commit-terraform](https://github.com/antonbabenko/pre-commit-terraform) - pre-commit git hook for Terraform
 - [og-aws](https://github.com/open-guides/og-aws) - 📙 Amazon Web Services — a practical guide
 - [cassandra-top](https://github.com/jamesbriggs/cassandra-top) - Cassandra top command to monitor cluster cass_top
-- [docker-storage-setup](https://github.com/projectatomic/docker-storage-setup) - A simple service to config docker storage
+- [container-storage-setup](https://github.com/projectatomic/container-storage-setup) - A simple service to config docker storage
 - [bitpocket](https://github.com/sickill/bitpocket) - "DIY Dropbox" or "2-way directory (r)sync with proper deletion"
 - [quick-secure](https://github.com/marshyski/quick-secure) - Quickly secure UNIX/Linux systems
 - [cassandra-terraform](https://github.com/RobotsAndPencils/cassandra-terraform) - Simple deployment of a cassandra cluster to AWS

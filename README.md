@@ -121,6 +121,7 @@
 
 ## Go 
 
+- [s5cmd](https://github.com/peakgames/s5cmd) - Parallel S3 and local filesystem execution tool.
 - [terraform-gen](https://github.com/radeksimko/terraform-gen) - Terraform generator(s)
 - [awless](https://github.com/wallix/awless) - A Mighty CLI for AWS
 - [rclone](https://github.com/ncw/rclone) - "rsync for cloud storage" - Google Drive, Amazon Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Cloudfiles, Google Cloud Storage, Yandex Files
@@ -656,6 +657,10 @@
 
 ## Python 
 
+- [aws_role_credentials](https://github.com/ThoughtWorksInc/aws_role_credentials) - Generates AWS credentials for roles using STS
+- [awsie](https://github.com/flomotlik/awsie) - CloudFormation aware wrapper for the AWSCLI
+- [stacker](https://github.com/remind101/stacker) - An opinionated AWS CloudFormation Stack builder.
+- [sceptre](https://github.com/cloudreach/sceptre) - Build better AWS infrastructure
 - [stethoscope](https://github.com/Netflix/stethoscope) - Personalized, user-focused recommendations for employee information security.
 - [s3env](https://github.com/cameronmaske/s3env) - Manipulate a simple key/value JSON object file in an S3 bucket
 - [AWS-PlantUML](https://github.com/milo-minderbinder/AWS-PlantUML) - PlantUML sprites, macros, and other includes for AWS components.
@@ -781,6 +786,7 @@
 
 ## Ruby 
 
+- [rezept](https://github.com/serverworks/rezept) - A tool to manage EC2 Systems Manager Documents.
 - [aws-codedeploy-agent](https://github.com/aws/aws-codedeploy-agent) - Host Agent for AWS CodeDeploy
 - [appear](https://github.com/airbnb/appear) - reveal terminal programs in the gui
 - [jbuilder](https://github.com/rails/jbuilder) - Jbuilder: generate JSON objects with a Builder-style DSL
@@ -915,7 +921,7 @@
 - [pre-commit-terraform](https://github.com/antonbabenko/pre-commit-terraform) - pre-commit git hook for Terraform
 - [og-aws](https://github.com/open-guides/og-aws) - 📙 Amazon Web Services — a practical guide
 - [cassandra-top](https://github.com/jamesbriggs/cassandra-top) - Cassandra top command to monitor cluster cass_top
-- [container-storage-setup](https://github.com/projectatomic/container-storage-setup) - A simple service to config docker storage
+- [container-storage-setup](https://github.com/projectatomic/container-storage-setup) - Service to set up storage for Docker and other container systems
 - [bitpocket](https://github.com/sickill/bitpocket) - "DIY Dropbox" or "2-way directory (r)sync with proper deletion"
 - [quick-secure](https://github.com/marshyski/quick-secure) - Quickly secure UNIX/Linux systems
 - [cassandra-terraform](https://github.com/RobotsAndPencils/cassandra-terraform) - Simple deployment of a cassandra cluster to AWS

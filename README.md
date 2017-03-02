@@ -384,6 +384,7 @@
 - [haskell-language-hcl](https://github.com/beijaflor-io/haskell-language-hcl) - language-hcl contains HCL (Hashicorp Configuration Language) parsers and pretty-printers for the Haskell programming language
 - [vault-crowdsource](https://github.com/sethvargo/vault-crowdsource) - 
 - [node-red-contrib-aws](https://github.com/joeartsea/node-red-contrib-aws) - A collection of Node-RED nodes for AWS.
+- [amazing-deployment](https://github.com/delirehberi/amazing-deployment) - A curated list of amazing Deployment libraries, library distributions, scripts, tools and resources.
 - [styleguide](https://github.com/google/styleguide) - Style guides for Google-originated open-source projects
 - [hugo-material-docs](https://github.com/digitalcraftsman/hugo-material-docs) - Port of Martin Donath's mkdocs-material theme to Hugo
 
@@ -609,7 +610,6 @@
 - [onmetal-fast-docker](https://github.com/jayofdoom/onmetal-fast-docker) - Contains example cloud-config.yml files for mounting /var/lib/docker onto fast storage on OnMetal
 - [ntiered-aws-docker-terraform-guide](https://github.com/airpair/ntiered-aws-docker-terraform-guide) - 
 - [awesome-postgres](https://github.com/dhamaniasad/awesome-postgres) - A curated list of awesome PostgreSQL software, libraries, tools and resources, inspired by awesome-mysql
-- [amazing-deployment](https://github.com/delirehberi/amazing-deployment) - A curated list of amazing Deployment libraries, library distributions, scripts, tools and resources.
 - [awesome-learning](https://github.com/TheRemoteLab/awesome-learning) - A curated list for DevOps learning resources. Join the slack channel to discuss more.
 - [awesome-resty](https://github.com/bungle/awesome-resty) - A List of Quality OpenResty Libraries, and Resources.
 - [awesome](https://github.com/sindresorhus/awesome) - :sunglasses: Curated list of awesome lists
@@ -970,6 +970,7 @@
 - [utilities](https://github.com/VladRassokhin/utilities) - Micro helpers
 - [auto-pairs](https://github.com/jiangmiao/auto-pairs) - Vim plugin, insert or delete brackets, parens, quotes in pair
 - [nerdtree-git-plugin](https://github.com/Xuyuanp/nerdtree-git-plugin) - A plugin of NERDTree showing git status
+- [vim-terraform](https://github.com/hashivim/vim-terraform) - basic vim/terraform integration
 - [Dockerfile.vim](https://github.com/ekalinin/Dockerfile.vim) - Vim syntax file & snippets for Docker's Dockerfile
 - [vim-plugins](https://github.com/WolfgangMehner/vim-plugins) - Vim plug-ins which offer support for various programming languages.
 
@@ -979,7 +980,6 @@
 - [vim-colors-solarized](https://github.com/altercation/vim-colors-solarized) - precision colorscheme for the vim text editor
 - [vim-monokai](https://github.com/sickill/vim-monokai) - Monokai color scheme for Vim converted from Textmate theme
 - [vim-hclfmt](https://github.com/fatih/vim-hclfmt) - Vim plugin for hclfmt
-- [vim-terraform](https://github.com/hashivim/vim-terraform) - basic vim/terraform integration
 - [vim-hashicorp-tools](https://github.com/hashivim/vim-hashicorp-tools) - "self-contained and fairly explanatory" agglomeration of HashiVim plugins
 - [spf13-vim](https://github.com/spf13/spf13-vim) - The ultimate vim distribution
 - [vim-go-ide](https://github.com/farazdagi/vim-go-ide) - Ready to use, fully configured for Go development.

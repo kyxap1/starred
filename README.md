@@ -461,6 +461,7 @@
 
 ## JavaScript 
 
+- [aws-lambda-fanout](https://github.com/awslabs/aws-lambda-fanout) - A sample AWS Lambda function that accepts messages from an Amazon Kinesis Stream and transfers the messages to another data transport.
 - [scope](https://github.com/serverless/scope) - Scope - Customizable birdeye's view of your Github project
 - [s3-lambda](https://github.com/littlstar/s3-lambda) - Lambda functions over S3 objects with concurrency control (each, map, reduce, filter)
 - [aws-data-lake-solution](https://github.com/awslabs/aws-data-lake-solution) - A deployable reference implementation intended to address pain points around conceptualizing data lake architectures that automatically configures the core AWS services necessary to easily tag, search, share, and govern specific subsets of data across a business or with other external businesses.
@@ -657,6 +658,7 @@
 
 ## Python 
 
+- [spilo](https://github.com/zalando/spilo) - Highly available elephant herd: HA PostgreSQL cluster using Docker
 - [aws_role_credentials](https://github.com/ThoughtWorksInc/aws_role_credentials) - Generates AWS credentials for roles using STS
 - [awsie](https://github.com/flomotlik/awsie) - CloudFormation aware wrapper for the AWSCLI
 - [stacker](https://github.com/remind101/stacker) - An opinionated AWS CloudFormation Stack builder.

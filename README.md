@@ -191,7 +191,7 @@
 - [packer-provisioner-serverspec](https://github.com/unifio/packer-provisioner-serverspec) - Packer Serverspec remote provisioner
 - [heka](https://github.com/mozilla-services/heka) - DEPRECATED: Data collection and processing made easy.
 - [gru](https://github.com/dnaeon/gru) - Orchestration made easy with Go and Lua
-- [mgmt](https://github.com/purpleidea/mgmt) - A next generation config management prototype!
+- [mgmt](https://github.com/purpleidea/mgmt) - Next generation config management!
 - [rexdep](https://github.com/itchyny/rexdep) - Roughly extract dependency relation from source code
 - [terrahelp](https://github.com/opencredo/terrahelp) - Terraform helper. Terrahelp is as a command line utility written in Go and is aimed at providing supplementary functionality which can sometimes prove useful when working with Terraform.
 - [nomad](https://github.com/hashicorp/nomad) - A Distributed, Highly Available, Datacenter-Aware Scheduler

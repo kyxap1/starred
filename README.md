@@ -11,8 +11,8 @@
   - [CSS](#css)
   - [Clojure](#clojure)
   - [CoffeeScript](#coffeescript)
-  - [Cucumber](#cucumber)
   - [Elixir](#elixir)
+  - [Gherkin](#gherkin)
   - [Go](#go)
   - [Groovy](#groovy)
   - [HCL](#hcl)
@@ -110,14 +110,14 @@
 - [aglio](https://github.com/danielgtaylor/aglio) - An API Blueprint renderer with theme support that outputs static HTML
 - [hubot](https://github.com/github/hubot) - A customizable life embetterment robot.
 
-## Cucumber 
-
-- [sdkman-cli](https://github.com/sdkman/sdkman-cli) - The SDKMAN! Command Line Interface
-
 ## Elixir 
 
 - [awesomo](https://github.com/lk-geimfari/awesomo) - The really big list of really interesting open source projects in С, C++, Clojure, Common/Emacs Lisp, Elixir, Erlang, Golang, Haskell, JavaScript, Lua, OCaml, Python, R, Ruby, Rust, Scala and etc.
 - [exhcl](https://github.com/asakura/exhcl) - Configuration language inspired by HCL
+
+## Gherkin 
+
+- [sdkman-cli](https://github.com/sdkman/sdkman-cli) - The SDKMAN! Command Line Interface
 
 ## Go 
 

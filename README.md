@@ -291,6 +291,7 @@
 
 ## HCL 
 
+- [tf-ses-demo](https://github.com/knakayama/tf-ses-demo) - 
 - [terraform-config](https://github.com/travis-infrastructure/terraform-config) - Terraform bits in the process of replacing travis-infrastructure/terraform-stuff and friends.
 - [tf-sfn-demo](https://github.com/knakayama/tf-sfn-demo) - 
 - [tf-inspector-demo](https://github.com/knakayama/tf-inspector-demo) - 
@@ -408,7 +409,7 @@
 - [elassandra](https://github.com/strapdata/elassandra) - Elassandra = cassandra + elasticsearch
 - [flyway](https://github.com/flyway/flyway) - Flyway by Boxfuse • Database Migrations Made Easy.
 - [swagger-core](https://github.com/swagger-api/swagger-core) - Examples and server integrations for generating the Swagger API Specification, which enables easy access to your REST API
-- [grakn](https://github.com/graknlabs/grakn) - THE DATABASE FOR AI
+- [grakn](https://github.com/graknlabs/grakn) - The Database for AI
 - [bazel](https://github.com/bazelbuild/bazel) - Correct, reproducible, and fast builds for everyone.
 - [android-json-model-generator](https://github.com/JAlexoid/android-json-model-generator) - A simple JSON Object Model generator for Android (JSON to Java)
 - [json-to-avro-schema-generator](https://github.com/sgmarghade/json-to-avro-schema-generator) - This will help you to generate AVRO schema from JSON schema.
@@ -658,6 +659,7 @@
 
 ## Python 
 
+- [repositorytools](https://github.com/stardust85/repositorytools) - Python API and command-line interface for working with artifact repositoriess
 - [spilo](https://github.com/zalando/spilo) - Highly available elephant herd: HA PostgreSQL cluster using Docker
 - [aws_role_credentials](https://github.com/ThoughtWorksInc/aws_role_credentials) - Generates AWS credentials for roles using STS
 - [awsie](https://github.com/flomotlik/awsie) - CloudFormation aware wrapper for the AWSCLI
@@ -788,6 +790,7 @@
 
 ## Ruby 
 
+- [nexus_cli](https://github.com/RiotGamesMinions/nexus_cli) - A CLI wrapper and library for interacting with Sonatype's Nexus
 - [rezept](https://github.com/serverworks/rezept) - A tool to manage EC2 Systems Manager Documents.
 - [aws-codedeploy-agent](https://github.com/aws/aws-codedeploy-agent) - Host Agent for AWS CodeDeploy
 - [appear](https://github.com/airbnb/appear) - reveal terminal programs in the gui

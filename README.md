@@ -126,7 +126,7 @@
 - [awless](https://github.com/wallix/awless) - A Mighty CLI for AWS
 - [rclone](https://github.com/ncw/rclone) - "rsync for cloud storage" - Google Drive, Amazon Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Cloudfiles, Google Cloud Storage, Yandex Files
 - [terraform-provider-packer](https://github.com/gsaslis/terraform-provider-packer) - A Terraform provider plugin for Packer
-- [jennifer](https://github.com/davelondon/jennifer) - Jennifer is a code generator for go
+- [jennifer](https://github.com/dave/jennifer) - Jennifer is a code generator for go
 - [easyjson](https://github.com/mailru/easyjson) - Fast JSON serializer for golang.
 - [srclib](https://github.com/sourcegraph/srclib) - srclib is a polyglot code analysis library, built for hackability. It consists of language analysis toolchains (currently for Go and Java, with Python, JavaScript, and Ruby in beta) with a common output format, and a CLI tool for running the analysis.
 - [s3cli](https://github.com/pivotal-golang/s3cli) - Go CLI for S3

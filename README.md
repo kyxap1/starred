@@ -112,7 +112,7 @@
 
 ## Elixir 
 
-- [awesomo](https://github.com/lk-geimfari/awesomo) - The really big list of really interesting open source projects in С, C++, Clojure, Common/Emacs Lisp, Elixir, Erlang, Golang, Haskell, JavaScript, Lua, OCaml, Python, R, Ruby, Rust, Scala and etc.
+- [awesomo](https://github.com/lk-geimfari/awesomo) - An extensive list of interesting open source projects written in С, C++, Clojure, Common/Emacs Lisp, Elixir, Erlang, Golang, Haskell, JavaScript, Lua, OCaml, Python, R, Ruby, Rust, Scala etc.
 - [exhcl](https://github.com/asakura/exhcl) - Configuration language inspired by HCL
 
 ## Gherkin 
@@ -121,6 +121,8 @@
 
 ## Go 
 
+- [semaphore](https://github.com/ansible-semaphore/semaphore) - Open Source alternative to Ansible Tower
+- [zabbixctl](https://github.com/kovetskiy/zabbixctl) - Most effective way for operating in Zabbix Server
 - [s5cmd](https://github.com/peakgames/s5cmd) - Parallel S3 and local filesystem execution tool.
 - [terraform-gen](https://github.com/radeksimko/terraform-gen) - Terraform generator(s)
 - [awless](https://github.com/wallix/awless) - A Mighty CLI for AWS
@@ -463,6 +465,8 @@
 
 ## JavaScript 
 
+- [nci-ansible-ui](https://github.com/node-ci/nci-ansible-ui) - Simple web interface for run ansible playbooks
+- [custom-slack-integration](https://github.com/brendajin/custom-slack-integration) - Use webhooks and stateless middleware to set up custom Slack notifications in minutes!
 - [seagull](https://github.com/tobegit3hub/seagull) - Friendly Web UI to manage and monitor docker
 - [aws-lambda-fanout](https://github.com/awslabs/aws-lambda-fanout) - A sample AWS Lambda function that accepts messages from an Amazon Kinesis Stream and transfers the messages to another data transport.
 - [scope](https://github.com/serverless/scope) - Scope - Customizable birdeye's view of your Github project
@@ -661,6 +665,7 @@
 
 ## Python 
 
+- [zabbix-cli](https://github.com/usit-gd/zabbix-cli) - Command-line interface for Zabbix
 - [slacker](https://github.com/os/slacker) - Full-featured Python interface for the Slack API
 - [system-design-primer](https://github.com/donnemartin/system-design-primer) - Learn how to design large scale systems. Prep for the system design interview.
 - [repositorytools](https://github.com/stardust85/repositorytools) - Python API and command-line interface for working with artifact repositoriess
@@ -766,7 +771,7 @@
 - [awesome-aws](https://github.com/donnemartin/awesome-aws) - A curated list of awesome Amazon Web Services (AWS) libraries, open source repos, guides, blogs, and other resources.  Featuring the Fiery Meter of AWSome.
 - [jbosscli](https://github.com/raphaelpaiva/jbosscli) - A python front-end for the Jboss wildfly REST management interface
 - [st2contrib](https://github.com/StackStorm/st2contrib) - StackStorm integration packs for many common tools and services. It also contains helpful tools to build integrations and automations with StackStorm.
-- [st2](https://github.com/StackStorm/st2) - StackStorm (aka "IFTTT for Ops") is event-driven automation commonly used for auto-remediation, security responses, facilitated troubleshooting, complex deployments, and more. Includes rules engine, workflow,1800+ integrations (see /st2contrib), native ChatOps and so forth.  Installer available at http://docs.stackstorm.com/install/index.html. Ping us on slack - https://stackstorm-community.slack.com/.
+- [st2](https://github.com/StackStorm/st2) - StackStorm (aka "IFTTT for Ops") is event-driven automation commonly used for auto-remediation, security responses, facilitated troubleshooting, complex deployments, and more. Includes rules engine, workflow, 1800+ integrations (see /st2contrib), native ChatOps and so forth. Installer available at http://docs.stackstorm.com/install/index.html. Ping us on slack - https://stackstorm-community.slack.com/.
 - [Skype4Py](https://github.com/Skype4Py/Skype4Py) - Platform independent Python wrapper for the Skype Desktop API
 - [sevabot](https://github.com/dafiti/sevabot) - A Skype bot supporting integration with external services
 - [sevabot](https://github.com/shinglyu/sevabot) - A Skype bot supporting integration with external services
@@ -794,7 +799,6 @@
 
 ## Ruby 
 
-- [nexus_cli](https://github.com/RiotGamesMinions/nexus_cli) - A CLI wrapper and library for interacting with Sonatype's Nexus
 - [rezept](https://github.com/serverworks/rezept) - A tool to manage EC2 Systems Manager Documents.
 - [aws-codedeploy-agent](https://github.com/aws/aws-codedeploy-agent) - Host Agent for AWS CodeDeploy
 - [appear](https://github.com/airbnb/appear) - reveal terminal programs in the gui
@@ -860,6 +864,7 @@
 
 ## Rust 
 
+- [wsta](https://github.com/esphen/wsta) - A CLI development tool for WebSocket APIs
 - [alacritty](https://github.com/jwilm/alacritty) - A cross-platform, GPU-accelerated terminal emulator
 - [habitat](https://github.com/habitat-sh/habitat) - Modern applications with built-in automation
 
@@ -875,6 +880,7 @@
 
 ## Shell 
 
+- [ansible-completion](https://github.com/dysosmus/ansible-completion) - Basic bash completion for Ansible
 - [takeover.sh](https://github.com/marcan/takeover.sh) - Wipe and reinstall a running Linux system via SSH, without rebooting. You know you want to.
 - [setup-ipsec-vpn](https://github.com/hwdsl2/setup-ipsec-vpn) - Scripts to build your own IPsec VPN server, with IPsec/L2TP and Cisco IPsec on Ubuntu, Debian and CentOS
 - [kostyrevaa.consul-template](https://github.com/akostyrev/kostyrevaa.consul-template) - 

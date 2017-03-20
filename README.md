@@ -667,7 +667,7 @@
 
 - [zabbix-cli](https://github.com/usit-gd/zabbix-cli) - Command-line interface for Zabbix
 - [slacker](https://github.com/os/slacker) - Full-featured Python interface for the Slack API
-- [system-design-primer](https://github.com/donnemartin/system-design-primer) - Learn how to design large scale systems. Prep for the system design interview.
+- [system-design-primer](https://github.com/donnemartin/system-design-primer) - Learn how to design large-scale systems. Prep for the system design interview.
 - [repositorytools](https://github.com/stardust85/repositorytools) - Python API and command-line interface for working with artifact repositoriess
 - [spilo](https://github.com/zalando/spilo) - Highly available elephant herd: HA PostgreSQL cluster using Docker
 - [aws_role_credentials](https://github.com/ThoughtWorksInc/aws_role_credentials) - Generates AWS credentials for roles using STS

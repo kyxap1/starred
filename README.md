@@ -112,7 +112,7 @@
 
 ## Elixir 
 
-- [awesomo](https://github.com/lk-geimfari/awesomo) - An extensive list of interesting open source projects written in С, C++, Clojure, Common/Emacs Lisp, Elixir, Erlang, Golang, Haskell, JavaScript, Lua, OCaml, Python, R, Ruby, Rust, Scala etc.
+- [awesomo](https://github.com/lk-geimfari/awesomo) - An extensive list of interesting open source projects written in С, C++, Clojure, Lisp (Common/Emacs), Elixir, Erlang, Golang, Haskell, JavaScript, Lua, OCaml, Python, R, Ruby, Rust, Scala etc.
 - [exhcl](https://github.com/asakura/exhcl) - Configuration language inspired by HCL
 
 ## Gherkin 
@@ -491,7 +491,7 @@
 - [doT](https://github.com/olado/doT) - The fastest + concise javascript template engine for nodejs and browsers. Partials, custom delimiters and more.
 - [JSV](https://github.com/garycourt/JSV) - A JavaScript implementation of an extendable, fully compliant JSON Schema validator.
 - [diffr](https://github.com/nijikokun/diffr) - CLI diff tool for files, text, and JSON with human readable output.
-- [markdown-to-json](https://github.com/scottstanfield/markdown-to-json) - Convert YAML front-matter in Markdown files to JSON.
+- [markdown-to-json](https://github.com/scottstanfield/markdown-to-json) - Convert YAML front-matter in Markdown files to JSON. v0.5.1 is published on NPM.
 - [json-schema-generator](https://github.com/krg7880/json-schema-generator) - Generates draft v4 schema from a local file or a remote JSON url.
 - [generate-schema](https://github.com/nijikokun/generate-schema) - Convert a JSON Object to JSON Schema, Mongoose Schema, or a Generic template for quick documentation / upstart.
 - [wildfly-swarm-examples](https://github.com/wildfly-swarm/wildfly-swarm-examples) - Examples of how to write applications using Swarm.
@@ -657,7 +657,6 @@
 - [aws](https://github.com/timkay/aws) - Easy command line access to Amazon EC2, S3, SQS, ELB, and SDB (new!)
 - [ec2-consistent-snapshot](https://github.com/alestic/ec2-consistent-snapshot) - Initiate consistent EBS snapshots in Amazon EC2
 - [dotfiles](https://github.com/jessfraz/dotfiles) - My dotfiles. Buyer beware ;)
-- [ffmpeg-static](https://github.com/zimbatm/ffmpeg-static) - Scripts to build ffmpeg with all the deps statically (webm + h264 included)
 
 ## PowerShell 
 
@@ -973,6 +972,7 @@
 - [bangsh](https://github.com/bangsh/bangsh) - A Bash4 Framework for easy app creation
 - [bangsh](https://github.com/bellthoven/bangsh) - Offical repository is now at
 - [bashful](https://github.com/jmcantrell/bashful) - A collection of modules to simplify writing bash scripts.
+- [ffmpeg-static](https://github.com/zimbatm/ffmpeg-static) - Scripts to build ffmpeg with all the deps statically (webm + h264 included)
 - [dockr](https://github.com/crccheck/dockr) - A Docker CLI wrapper for lazy people
 
 ## TypeScript 

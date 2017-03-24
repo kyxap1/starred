@@ -121,6 +121,7 @@
 
 ## Go 
 
+- [ec2-ls-hosts](https://github.com/ReSTARTR/ec2-ls-hosts) - an alternative tool for describing ec2 instances
 - [semaphore](https://github.com/ansible-semaphore/semaphore) - Open Source alternative to Ansible Tower
 - [zabbixctl](https://github.com/kovetskiy/zabbixctl) - Most effective way for operating in Zabbix Server
 - [s5cmd](https://github.com/peakgames/s5cmd) - Parallel S3 and local filesystem execution tool.

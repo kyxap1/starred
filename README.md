@@ -84,6 +84,7 @@
 
 ## CSS 
 
+- [assembly](https://github.com/mapbox/assembly) - Making the hard parts of designing for the web easy.
 - [dagobah](https://github.com/thieman/dagobah) - Simple DAG-based job scheduler in Python
 - [pelias](https://github.com/pelias/pelias) - Pelias is a modular open-source geocoder using ElasticSearch for fast geocoding.
 - [nomad-ci](https://github.com/iverberk/nomad-ci) - A fully featured CI setup based on Nomad, Jenkins, Selenium, Consul and Docker
@@ -121,6 +122,8 @@
 
 ## Go 
 
+- [dnscontrol](https://github.com/StackExchange/dnscontrol) - Synchronize your DNS to multiple providers from a simple DSL
+- [teleport](https://github.com/gravitational/teleport) - Modern SSH server for clusters and teams.
 - [ec2-ls-hosts](https://github.com/ReSTARTR/ec2-ls-hosts) - an alternative tool for describing ec2 instances
 - [semaphore](https://github.com/ansible-semaphore/semaphore) - Open Source alternative to Ansible Tower
 - [zabbixctl](https://github.com/kovetskiy/zabbixctl) - Most effective way for operating in Zabbix Server
@@ -448,7 +451,6 @@
 - [hazelcast-aws](https://github.com/hazelcast/hazelcast-aws) - AWS EC2 discovery plugin for hazelcast
 - [jaxrs-analyzer](https://github.com/sdaschner/jaxrs-analyzer) - Creates REST documentation for JAX-RS projects
 - [genie](https://github.com/Netflix/genie) - Federated Big Data Orchestration Service
-- [tvarit-maven](https://github.com/sdole/tvarit-maven) - AWS DevOps automation tools to run JEE apps on AWS
 - [aegisthus](https://github.com/Netflix/aegisthus) - A Bulk Data Pipeline out of Cassandra
 - [mutagen-cassandra](https://github.com/toddfast/mutagen-cassandra) - Mutate your Cassandra schema for fun and profit.
 - [cassandra-migration](https://github.com/Contrast-Security-OSS/cassandra-migration) - Database migration (evolution) tool for Apache Cassandra
@@ -466,6 +468,7 @@
 
 ## JavaScript 
 
+- [normalizr](https://github.com/paularmstrong/normalizr) - Normalizes nested JSON according to a schema
 - [nci-ansible-ui](https://github.com/node-ci/nci-ansible-ui) - Simple web interface for run ansible playbooks
 - [custom-slack-integration](https://github.com/brendajin/custom-slack-integration) - Use webhooks and stateless middleware to set up custom Slack notifications in minutes!
 - [seagull](https://github.com/tobegit3hub/seagull) - Friendly Web UI to manage and monitor docker
@@ -575,6 +578,7 @@
 
 ## Others 
 
+- [sense](https://github.com/cheics/sense) - a json aware ElasticSearch front end
 - [ansible-barman](https://github.com/alexey-medvedchikov/ansible-barman) - Ansible role for barman PostgreSQL backup utility
 - [ansible-pgbouncer](https://github.com/alexey-medvedchikov/ansible-pgbouncer) - This ansible role configures PgBouncer PostgreSQL connection mux utility.
 - [design-patterns-for-humans](https://github.com/kamranahmedse/design-patterns-for-humans) - Design Patterns for Humans™ - An ultra-simplified explanation
@@ -799,6 +803,7 @@
 
 ## Ruby 
 
+- [graphql-ruby](https://github.com/rmosolgo/graphql-ruby) - Ruby implementation of GraphQL: https://rmosolgo.github.io/graphql-ruby/
 - [rezept](https://github.com/serverworks/rezept) - A tool to manage EC2 Systems Manager Documents.
 - [aws-codedeploy-agent](https://github.com/aws/aws-codedeploy-agent) - Host Agent for AWS CodeDeploy
 - [appear](https://github.com/airbnb/appear) - reveal terminal programs in the gui
@@ -808,7 +813,6 @@
 - [yutani](https://github.com/leg100/yutani) - An expressive and principled Terraform DSL
 - [buildpacks-ci](https://github.com/cloudfoundry/buildpacks-ci) - Concourse CI pipelines for the buildpacks team
 - [bosh-deployment-resource](https://github.com/concourse/bosh-deployment-resource) - deploy bosh releases as part of your pipeline
-- [ego](https://github.com/cloud66/ego) - name generator
 - [interferon](https://github.com/airbnb/interferon) - Signaling you about infrastructure or application issues
 - [kafkat](https://github.com/airbnb/kafkat) - KafkaT-ool
 - [logstash-input-kinesis](https://github.com/logstash-plugins/logstash-input-kinesis) - Logstash Plugin for AWS Kinesis Input
@@ -880,6 +884,7 @@
 
 ## Shell 
 
+- [nodejs-bower-grunt](https://github.com/dockerfile/nodejs-bower-grunt) - Node.js w/ Bower & Grunt Dockerfile for trusted automated Docker builds.
 - [ansible-completion](https://github.com/dysosmus/ansible-completion) - Basic bash completion for Ansible
 - [takeover.sh](https://github.com/marcan/takeover.sh) - Wipe and reinstall a running Linux system via SSH, without rebooting. You know you want to.
 - [setup-ipsec-vpn](https://github.com/hwdsl2/setup-ipsec-vpn) - Scripts to build your own IPsec VPN server, with IPsec/L2TP and Cisco IPsec on Ubuntu, Debian and CentOS
@@ -887,7 +892,7 @@
 - [posixcube](https://github.com/myplaceonline/posixcube) - posixcube.sh is a POSIX compliant, shell script-based server automation framework.
 - [sshag](https://github.com/intuited/sshag) - hook up with an operating or new SSH agent
 - [packer-templates](https://github.com/kwilczynski/packer-templates) - Packer templates for creating Amazon EC2 images and Vagrant boxes.
-- [algo](https://github.com/trailofbits/algo) - 1-click IPSEC VPN in the Cloud
+- [algo](https://github.com/trailofbits/algo) - Set up a personal IPSEC VPN in the cloud
 - [nexusoss3-docker](https://github.com/JAlexoid/nexusoss3-docker) - Sonatype Nexus 3 Images
 - [official-images](https://github.com/docker-library/official-images) - Primary source of truth for the Docker "Official Images" program
 - [docker-consul](https://github.com/hashicorp/docker-consul) - Official Docker images for Consul.
@@ -978,6 +983,8 @@
 
 ## TypeScript 
 
+- [learnapollo](https://github.com/learnapollo/learnapollo) - Learn Apollo - A hands-on tutorial for Apollo GraphQL Client (created by Graphcool)
+- [graphql-tools](https://github.com/apollographql/graphql-tools) - :wrench: Build and mock your GraphQL.js schema using the schema language
 - [pulpo](https://github.com/docker/pulpo) - Configuration mechanism for Node
 
 ## Vim script 

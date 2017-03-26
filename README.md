@@ -297,6 +297,7 @@
 
 ## HCL 
 
+- [terraform-example](https://github.com/threatstack/terraform-example) - Terraform Example setup root repository
 - [tf-ses-demo](https://github.com/knakayama/tf-ses-demo) - 
 - [terraform-config](https://github.com/travis-infrastructure/terraform-config) - Terraform bits in the process of replacing travis-infrastructure/terraform-stuff and friends.
 - [tf-sfn-demo](https://github.com/knakayama/tf-sfn-demo) - 
@@ -409,6 +410,8 @@
 
 ## Java 
 
+- [java-properties-to-json](https://github.com/mikolajmitura/java-properties-to-json) - 
+- [redisson](https://github.com/redisson/redisson) - Redisson - distributed Java objects and services (Set, Multimap, SortedSet, Map, List, Queue, BlockingQueue, Deque, BlockingDeque, Semaphore, Lock, AtomicLong, CountDownLatch, Publish / Subscribe, Bloom filter, Spring Cache, Executor service, Tomcat Session Manager, Scheduler service, JCache API) on top of Redis server.
 - [plantuml-gist](https://github.com/linux-china/plantuml-gist) - PlantUML with Github Gist and Gitlab Support
 - [spoon](https://github.com/INRIA/spoon) - Spoon is a library to analyze, rewrite, transform, transpile Java source code (incl Java 8). It parses source files to build a well-designed AST with powerful analysis and transformation API. Made at Inria with :heart:, :beers: and :sparkles:.
 - [JJSchema](https://github.com/reinert/JJSchema) - A generator from Java Types to JSON-Schema using Jackson.
@@ -468,6 +471,7 @@
 
 ## JavaScript 
 
+- [graphql-toolbox](https://github.com/OlegIlyenko/graphql-toolbox) - GraphQL Toolbox - a set of GraphQL tools to help with GraphQL server and client development.
 - [normalizr](https://github.com/paularmstrong/normalizr) - Normalizes nested JSON according to a schema
 - [nci-ansible-ui](https://github.com/node-ci/nci-ansible-ui) - Simple web interface for run ansible playbooks
 - [custom-slack-integration](https://github.com/brendajin/custom-slack-integration) - Use webhooks and stateless middleware to set up custom Slack notifications in minutes!
@@ -669,6 +673,7 @@
 
 ## Python 
 
+- [localstack](https://github.com/atlassian/localstack) - A fully functional local AWS cloud stack. Develop and test your cloud apps offline!
 - [zabbix-cli](https://github.com/usit-gd/zabbix-cli) - Command-line interface for Zabbix
 - [slacker](https://github.com/os/slacker) - Full-featured Python interface for the Slack API
 - [system-design-primer](https://github.com/donnemartin/system-design-primer) - Learn how to design large-scale systems. Prep for the system design interview.

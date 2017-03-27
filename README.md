@@ -11,6 +11,7 @@
   - [CSS](#css)
   - [Clojure](#clojure)
   - [CoffeeScript](#coffeescript)
+  - [Common Lisp](#common lisp)
   - [Elixir](#elixir)
   - [Gherkin](#gherkin)
   - [Go](#go)
@@ -28,7 +29,6 @@
   - [Objective-C](#objective-c)
   - [Others](#others)
   - [PHP](#php)
-  - [PLpgSQL](#plpgsql)
   - [Perl](#perl)
   - [PowerShell](#powershell)
   - [Python](#python)
@@ -111,6 +111,10 @@
 - [aglio](https://github.com/danielgtaylor/aglio) - An API Blueprint renderer with theme support that outputs static HTML
 - [hubot](https://github.com/github/hubot) - A customizable life embetterment robot.
 
+## Common Lisp 
+
+- [pgloader](https://github.com/dimitri/pgloader) - Loading data into PostgreSQL
+
 ## Elixir 
 
 - [awesomo](https://github.com/lk-geimfari/awesomo) - An extensive list of interesting open source projects written in С, C++, Clojure, Lisp (Common/Emacs), Elixir, Erlang, Golang, Haskell, JavaScript, Lua, OCaml, Python, R, Ruby, Rust, Scala etc.
@@ -122,6 +126,7 @@
 
 ## Go 
 
+- [drone](https://github.com/drone/drone) - Drone is a Continuous Delivery platform built on Docker, written in Go
 - [dnscontrol](https://github.com/StackExchange/dnscontrol) - Synchronize your DNS to multiple providers from a simple DSL
 - [teleport](https://github.com/gravitational/teleport) - Modern SSH server for clusters and teams.
 - [ec2-ls-hosts](https://github.com/ReSTARTR/ec2-ls-hosts) - an alternative tool for describing ec2 instances
@@ -297,6 +302,7 @@
 
 ## HCL 
 
+- [labs-devops](https://github.com/nearform/labs-devops) - Devops repo
 - [terraform-example](https://github.com/threatstack/terraform-example) - Terraform Example setup root repository
 - [tf-ses-demo](https://github.com/knakayama/tf-ses-demo) - 
 - [terraform-config](https://github.com/travis-infrastructure/terraform-config) - Terraform bits in the process of replacing travis-infrastructure/terraform-stuff and friends.
@@ -307,7 +313,7 @@
 - [terraform-consul-cluster](https://github.com/dwmkerr/terraform-consul-cluster) - Demonstrates how to create a resilient Consul cluster on AWS, using Terraform. Companion to my article on dwmkerr.com.
 - [nubis-terraform](https://github.com/nubisproject/nubis-terraform) - 
 - [tf_prometheus](https://github.com/EmpaticoOrg/tf_prometheus) - A Prometheus module for Terraform
-- [awstack](https://github.com/mhmdio/awstack) - dev, stage and prod environments on AWS using Terraform, packer, vagrant and ansible
+- [awstack](https://github.com/mhmdio/awstack) - dev, stage and prod environments on AWS using Terraform, packer, vagrant and ansible - NEW Version will be updated
 - [awesome-nomad](https://github.com/jippi/awesome-nomad) - 
 - [multiple-envs](https://github.com/hashicorp/multiple-envs) - 
 - [c1m](https://github.com/hashicorp/c1m) - Nomad, Terraform, and Packer configurations for the Million Container Challenge (C1M)
@@ -471,6 +477,7 @@
 
 ## JavaScript 
 
+- [volkswagen](https://github.com/auchenberg/volkswagen) - :see_no_evil: Volkswagen detects when your tests are being run in a CI server, and makes them pass.
 - [graphql-toolbox](https://github.com/OlegIlyenko/graphql-toolbox) - GraphQL Toolbox - a set of GraphQL tools to help with GraphQL server and client development.
 - [normalizr](https://github.com/paularmstrong/normalizr) - Normalizes nested JSON according to a schema
 - [nci-ansible-ui](https://github.com/node-ci/nci-ansible-ui) - Simple web interface for run ansible playbooks
@@ -656,10 +663,6 @@
 - [selfoss](https://github.com/SSilence/selfoss) - selfoss: The multipurpose rss reader, live stream, mashup, aggregation web application
 - [zimg-host](https://github.com/ziggi/zimg-host) - Simple image hosting service
 
-## PLpgSQL 
-
-- [pgloader](https://github.com/dimitri/pgloader) - Loading data into PostgreSQL
-
 ## Perl 
 
 - [lua-resty-jwt](https://github.com/SkyLothar/lua-resty-jwt) - JWT For The Great Openresty
@@ -673,6 +676,7 @@
 
 ## Python 
 
+- [lambda-runcommand-configuration-management](https://github.com/awslabs/lambda-runcommand-configuration-management) - Serverless, SSHless, Continuous Configuration Management
 - [localstack](https://github.com/atlassian/localstack) - A fully functional local AWS cloud stack. Develop and test your cloud apps offline!
 - [zabbix-cli](https://github.com/usit-gd/zabbix-cli) - Command-line interface for Zabbix
 - [slacker](https://github.com/os/slacker) - Full-featured Python interface for the Slack API
@@ -808,6 +812,7 @@
 
 ## Ruby 
 
+- [janky](https://github.com/github/janky) - Continuous integration server built on top of Jenkins and Hubot
 - [graphql-ruby](https://github.com/rmosolgo/graphql-ruby) - Ruby implementation of GraphQL: https://rmosolgo.github.io/graphql-ruby/
 - [rezept](https://github.com/serverworks/rezept) - A tool to manage EC2 Systems Manager Documents.
 - [aws-codedeploy-agent](https://github.com/aws/aws-codedeploy-agent) - Host Agent for AWS CodeDeploy
@@ -988,6 +993,7 @@
 
 ## TypeScript 
 
+- [subscriptions-transport-ws](https://github.com/apollographql/subscriptions-transport-ws) - :arrows_clockwise: A WebSocket client + server for GraphQL subscriptions
 - [learnapollo](https://github.com/learnapollo/learnapollo) - Learn Apollo - A hands-on tutorial for Apollo GraphQL Client (created by Graphcool)
 - [graphql-tools](https://github.com/apollographql/graphql-tools) - :wrench: Build and mock your GraphQL.js schema using the schema language
 - [pulpo](https://github.com/docker/pulpo) - Configuration mechanism for Node

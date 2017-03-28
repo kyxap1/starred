@@ -445,7 +445,7 @@
 - [feign](https://github.com/OpenFeign/feign) - Feign makes writing java http clients easier
 - [logstash-logback-encoder](https://github.com/logstash/logstash-logback-encoder) - Logback encoder which creates JSON for use with Logstash
 - [cassandra-health-check](https://github.com/lookout/cassandra-health-check) - Cassandra Health Check
-- [kumuluzee](https://github.com/kumuluz/kumuluzee) - Lightweight framework for creating small standalone Java EE applications in a micro service way.
+- [kumuluzee](https://github.com/kumuluz/kumuluzee) - Lightweight open-source framework for developing microservices using standard Java EE technologies and migrating Java EE to cloud-native architecture.
 - [cassandra-metrics-collector](https://github.com/wikimedia/cassandra-metrics-collector) - Cassandra JMX metrics collector
 - [cassandra-reaper](https://github.com/spotify/cassandra-reaper) - Software to run automated repairs of cassandra
 - [consultant](https://github.com/Magnetme/consultant) - A library to retrieve your service's configuration from Consul, and subscribe to changes.

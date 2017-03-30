@@ -248,7 +248,7 @@
 - [terraform-provider-gzip](https://github.com/jakexks/terraform-provider-gzip) - A very simple Terraform plugin that gzip+base64s its input
 - [terraform-provider-bitbucket](https://github.com/webdevwilson/terraform-provider-bitbucket) - a bitbucket provider for terraform
 - [habitus](https://github.com/cloud66/habitus) - A Build Flow Tool for Docker
-- [traefik](https://github.com/containous/traefik) - Træfɪk, a modern reverse proxy
+- [traefik](https://github.com/containous/traefik) - Træfik, a modern reverse proxy
 - [terraform-provider-writefile](https://github.com/DreamHostData/terraform-provider-writefile) - 
 - [terraform-provider-gitfile](https://github.com/Yelp/terraform-provider-gitfile) - Terraform provider for checking out git repositories and making changes
 - [blade](https://github.com/otm/blade) - Blade is a task runner designed to be easy, small, highly powerful, and with built in Bash completion and documentation. It is portable and easy to install, only a single binary.
@@ -614,6 +614,7 @@
 - [Sqoop](https://github.com/SriGovindGutala/Sqoop) - This repo contains all the different ways you can ingest data from RDBMS to HDFS and vice versa using Sqoop.
 - [awesome-graphql](https://github.com/chentsulin/awesome-graphql) - Awesome list of GraphQL & Relay
 - [terraform-aws-ecs](https://github.com/unifio/terraform-aws-ecs) - Terraform AWS ECS stack
+- [wildfly](https://github.com/inkatze/wildfly) - Ansible role for wildfly
 - [tool-repos](https://github.com/monitoringsucks/tool-repos) - Tracking various tools that fit in the monitoring and metrics space
 - [dockerfile-transcrypt](https://github.com/unifio/dockerfile-transcrypt) - Dockerfile for creation of a Transcrypt container
 - [ansible-vault](https://github.com/MiLk/ansible-vault) - Ansible Vault role
@@ -926,7 +927,6 @@
 - [ami-baker](https://github.com/stakater/ami-baker) - Stakater tool to create CoreOS based custom AMI (Amazon Machine Image). Stakater is an Infrastructure-as-Code DevOps solution to automate the creation of web infrastructure stack on AWS. Stakater is based on Docker, CoreOS, Terraform, Packer, Docker Compose, GoCD, Fleet, ETCD, and more.
 - [devops-demo](https://github.com/dimapod/devops-demo) - DevOps Demo - Packer / Ansible / Terraform / AWS
 - [dockerfile-ci](https://github.com/unifio/dockerfile-ci) - 
-- [wildfly](https://github.com/inkatze/wildfly) - Ansible role for wildfly
 - [bats](https://github.com/sstephenson/bats) - Bash Automated Testing System
 - [dockerfile-terraform](https://github.com/unifio/dockerfile-terraform) - Dockerfile for creation of a HashiCorp Terraform container
 - [terrafirm](https://github.com/elocnatsirt/terrafirm) - A project proposing best practices for Terraform

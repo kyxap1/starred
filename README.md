@@ -697,7 +697,7 @@
 - [sillyfacter](https://github.com/hihellobolke/sillyfacter) - A silly python facter with JSON output, has process, open files, connection information too. They say Facts do not change, but hey Silly Facts can ;-)
 - [ansible-lint](https://github.com/willthames/ansible-lint) - Best practices checker for Ansible
 - [validator.vim](https://github.com/maralla/validator.vim) - Check syntax on the fly asynchronously.
-- [ansible-role-datastax-ddc](https://github.com/akostyrev/ansible-role-datastax-ddc) - 
+- [ansible-role-datastax-ddc](https://github.com/kostyrev/ansible-role-datastax-ddc) - 
 - [xmltodict](https://github.com/martinblech/xmltodict) - Python module that makes working with XML feel like you are working with JSON
 - [ansigenome](https://github.com/nickjj/ansigenome) - A tool to help you gather information and manage your Ansible roles.
 - [aws-ansible-cassandra](https://github.com/oliverlockwood/aws-ansible-cassandra) - Simple Ansible script to set up a minimal Cassandra cluster
@@ -899,7 +899,7 @@
 - [ansible-completion](https://github.com/dysosmus/ansible-completion) - Basic bash completion for Ansible
 - [takeover.sh](https://github.com/marcan/takeover.sh) - Wipe and reinstall a running Linux system via SSH, without rebooting. You know you want to.
 - [setup-ipsec-vpn](https://github.com/hwdsl2/setup-ipsec-vpn) - Scripts to build your own IPsec VPN server, with IPsec/L2TP and Cisco IPsec on Ubuntu, Debian and CentOS
-- [kostyrevaa.consul-template](https://github.com/akostyrev/kostyrevaa.consul-template) - 
+- [kostyrevaa.consul-template](https://github.com/kostyrev/kostyrevaa.consul-template) - 
 - [posixcube](https://github.com/myplaceonline/posixcube) - posixcube.sh is a POSIX compliant, shell script-based server automation framework.
 - [sshag](https://github.com/intuited/sshag) - hook up with an operating or new SSH agent
 - [packer-templates](https://github.com/kwilczynski/packer-templates) - Packer templates for creating Amazon EC2 images and Vagrant boxes.
@@ -1010,6 +1010,7 @@
 
 ## VimL 
 
+- [molokai](https://github.com/tomasr/molokai) - Molokai color scheme for Vim
 - [vim-openresty](https://github.com/hexchain/vim-openresty) - Openresty configuration highlight for Vim
 - [vim-colors-solarized](https://github.com/altercation/vim-colors-solarized) - precision colorscheme for the vim text editor
 - [vim-monokai](https://github.com/sickill/vim-monokai) - Monokai color scheme for Vim converted from Textmate theme

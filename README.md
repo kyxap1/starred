@@ -125,6 +125,7 @@
 
 ## Go 
 
+- [gogs](https://github.com/gogits/gogs) - Gogs is a painless self-hosted Git service.
 - [drone](https://github.com/drone/drone) - Drone is a Continuous Delivery platform built on Docker, written in Go
 - [dnscontrol](https://github.com/StackExchange/dnscontrol) - Synchronize your DNS to multiple providers from a simple DSL
 - [teleport](https://github.com/gravitational/teleport) - Modern SSH server for clusters and teams.
@@ -326,7 +327,7 @@
 - [prod-deployment-reference](https://github.com/stakater/prod-deployment-reference) - Stakater sub-module for infrastructure-reference and a practical reference implementation of Production deployment using custom AMI. Stakater is an Infrastructure-as-Code DevOps solution to automate the creation of web infrastructure stack on AWS, based on Docker, Terraform, and more.
 - [blueprint-network-aws](https://github.com/stakater/blueprint-network-aws) - Stakater Blueprint for creating best-practices network on AWS. Stakater is an Infrastructure-as-Code DevOps solution to automate the creation of web infrastructure stack on AWS. Stakater is based on Docker, CoreOS, Terraform, Packer, Docker Compose, GoCD, Fleet, ETCD, and more.
 - [aws-terraform-template](https://github.com/ntk1000/aws-terraform-template) - write, plan, and create "aws" infrastructure as code via terraform
-- [do-stack-template](https://github.com/barajasfab/do-stack-template) - Terraform files which can be used in addition to Ansible roles to deploy on DigitalOcean
+- [do-stack-template](https://github.com/cmndr-sp0ck/do-stack-template) - Terraform files which can be used in addition to Ansible roles to deploy on DigitalOcean
 - [terraform-example](https://github.com/robert-stuttaford/terraform-example) - Terraform, Ansible, sticky tape and magic
 - [ECS-Terraform-Example](https://github.com/chrisguitarguy/ECS-Terraform-Example) - Code for a presentation I'm doing on deploying things using ECS and terraform.
 - [tf-force-fail](https://github.com/ajcrites/tf-force-fail) - 
@@ -895,6 +896,8 @@
 
 ## Shell 
 
+- [LS_COLORS](https://github.com/trapd00r/LS_COLORS) - A collection of LS_COLORS definitions; needs your contribution!
+- [dotfiles](https://github.com/maksimr/dotfiles) - ❤
 - [nodejs-bower-grunt](https://github.com/dockerfile/nodejs-bower-grunt) - Node.js w/ Bower & Grunt Dockerfile for trusted automated Docker builds.
 - [ansible-completion](https://github.com/dysosmus/ansible-completion) - Basic bash completion for Ansible
 - [takeover.sh](https://github.com/marcan/takeover.sh) - Wipe and reinstall a running Linux system via SSH, without rebooting. You know you want to.

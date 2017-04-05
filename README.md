@@ -93,6 +93,7 @@
 
 ## Clojure 
 
+- [roll](https://github.com/juxt/roll) - AWS Blue/Green deployment using Clojure flavoured devops
 - [dorothy](https://github.com/daveray/dorothy) - Hiccup-style generation of Graphviz graphs in Clojure
 - [specter](https://github.com/nathanmarz/specter) - Clojure(Script)'s missing piece
 - [GraphQLviz](https://github.com/Macroz/GraphQLviz) - GraphQLviz marries GraphQL (schemas) with Graphviz.
@@ -290,7 +291,7 @@
 - [goa](https://github.com/goadesign/goa) - Design-based APIs and microservices in Go
 - [cobra](https://github.com/spf13/cobra) - A Commander for modern Go CLI interactions
 - [license](https://github.com/nishanths/license) - Command-line license generator. Supports all the licenses available on GitHub.
-- [packer](https://github.com/mitchellh/packer) - Packer is a tool for creating identical machine images for multiple platforms from a single source configuration.
+- [packer](https://github.com/hashicorp/packer) - Packer is a tool for creating identical machine images for multiple platforms from a single source configuration.
 - [terraform](https://github.com/hashicorp/terraform) - Terraform is a tool for building, changing, and combining infrastructure safely and efficiently.
 - [bosun](https://github.com/bosun-monitor/bosun) - Time Series Alerting Framework
 - [httpdiff](https://github.com/jgrahamc/httpdiff) - Perform the same request against two HTTP servers and diff the results
@@ -326,6 +327,7 @@
 - [blueprint-utilities-aws](https://github.com/stakater/blueprint-utilities-aws) - Stakater Blueprint for small utility modules on AWS. Stakater is an Infrastructure-as-Code DevOps solution to automate the creation of web infrastructure stack on AWS. Stakater is based on Docker, CoreOS, Terraform, Packer, Docker Compose, GoCD, Fleet, ETCD, and more.
 - [prod-deployment-reference](https://github.com/stakater/prod-deployment-reference) - Stakater sub-module for infrastructure-reference and a practical reference implementation of Production deployment using custom AMI. Stakater is an Infrastructure-as-Code DevOps solution to automate the creation of web infrastructure stack on AWS, based on Docker, Terraform, and more.
 - [blueprint-network-aws](https://github.com/stakater/blueprint-network-aws) - Stakater Blueprint for creating best-practices network on AWS. Stakater is an Infrastructure-as-Code DevOps solution to automate the creation of web infrastructure stack on AWS. Stakater is based on Docker, CoreOS, Terraform, Packer, Docker Compose, GoCD, Fleet, ETCD, and more.
+- [terraform-aws-ecs](https://github.com/unifio/terraform-aws-ecs) - Terraform AWS ECS stack
 - [aws-terraform-template](https://github.com/ntk1000/aws-terraform-template) - write, plan, and create "aws" infrastructure as code via terraform
 - [do-stack-template](https://github.com/cmndr-sp0ck/do-stack-template) - Terraform files which can be used in addition to Ansible roles to deploy on DigitalOcean
 - [terraform-example](https://github.com/robert-stuttaford/terraform-example) - Terraform, Ansible, sticky tape and magic
@@ -614,7 +616,6 @@
 - [ansible-role-packer](https://github.com/patrick-hill/ansible-role-packer) - 
 - [Sqoop](https://github.com/SriGovindGutala/Sqoop) - This repo contains all the different ways you can ingest data from RDBMS to HDFS and vice versa using Sqoop.
 - [awesome-graphql](https://github.com/chentsulin/awesome-graphql) - Awesome list of GraphQL & Relay
-- [terraform-aws-ecs](https://github.com/unifio/terraform-aws-ecs) - Terraform AWS ECS stack
 - [wildfly](https://github.com/inkatze/wildfly) - Ansible role for wildfly
 - [tool-repos](https://github.com/monitoringsucks/tool-repos) - Tracking various tools that fit in the monitoring and metrics space
 - [dockerfile-transcrypt](https://github.com/unifio/dockerfile-transcrypt) - Dockerfile for creation of a Transcrypt container

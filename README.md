@@ -511,7 +511,7 @@
 - [diffr](https://github.com/nijikokun/diffr) - CLI diff tool for files, text, and JSON with human readable output.
 - [markdown-to-json](https://github.com/scottstanfield/markdown-to-json) - Convert YAML front-matter in Markdown files to JSON. v0.5.1 is published on NPM.
 - [json-schema-generator](https://github.com/krg7880/json-schema-generator) - Generates draft v4 schema from a local file or a remote JSON url.
-- [generate-schema](https://github.com/nijikokun/generate-schema) - Convert JSON Objects to JSON Schema, Mongoose Schema, Google BigQuery, or a Generic template for Swagger files, documentation, code generation, and more.
+- [generate-schema](https://github.com/nijikokun/generate-schema) - Convert JSON Objects to MySQL Schema, JSON Schema, Mongoose Schema, Google BigQuery, or a Generic template for Swagger files, documentation, code generation, and more.
 - [wildfly-swarm-examples](https://github.com/wildfly-swarm/wildfly-swarm-examples) - Examples of how to write applications using Swarm.
 - [github](https://github.com/nestor-powers/github) - Control Github with Nestor
 - [sax-js](https://github.com/isaacs/sax-js) - A sax style parser for JS
@@ -740,7 +740,7 @@
 - [data-pipeline-samples](https://github.com/awslabs/data-pipeline-samples) - This repository hosts sample pipelines
 - [barman](https://github.com/2ndquadrant-it/barman) - BaRMan - Backup and Recovery Manager for PostgreSQL
 - [ptolemy](https://github.com/cloudreach/ptolemy) - Write terse AWS DMS table mappings.
-- [terraform.py](https://github.com/CiscoCloud/terraform.py) - Ansible dynamic inventory script for parsing Terraform state files
+- [terraform.py](https://github.com/mantl/terraform.py) - Ansible dynamic inventory script for parsing Terraform state files
 - [kubeform](https://github.com/Capgemini/kubeform) - Form your :boat: Kubernetes :anchor: cluster anywhere using CoreOS, Terraform and Ansible
 - [paasta](https://github.com/Yelp/paasta) - An open, distributed platform as a service
 - [aws_pwn](https://github.com/dagrz/aws_pwn) - A collection of AWS penetration testing junk

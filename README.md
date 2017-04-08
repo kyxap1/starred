@@ -354,7 +354,6 @@
 - [cassandra-cloud](https://github.com/allanlang/cassandra-cloud) - Deploy Cassandra to various cloud environments with automation
 - [aws-lambda-playground](https://github.com/knakayama/aws-lambda-playground) - 
 - [terraform-rolling-deploys](https://github.com/robmorgan/terraform-rolling-deploys) - Rolling ASG deployments with Terraform
-- [IaC-dcos](https://github.com/microservices-today/IaC-dcos) - IaC: DCOS setup in AWS with Terraform
 - [terraform-coreos-user-data](https://github.com/jwaldrip/terraform-coreos-user-data) - CoreOS cloud config generation via Terraform variables
 - [aws-terraform-playground](https://github.com/knakayama/aws-terraform-playground) - terraform examples on AWS
 - [lambda-auto-update-cloudfront-ips](https://github.com/knakayama/lambda-auto-update-cloudfront-ips) - 
@@ -494,7 +493,7 @@
 - [tfsoa](https://github.com/sepulworld/tfsoa) - Terraform State of Awareness Dashboard
 - [github-to-s3-lambda-deployer](https://github.com/RafalWilinski/github-to-s3-lambda-deployer) - ⚓️ GitHub webhook extension for uploading static pages to AWS S3 directly after commiting to master via Lambda
 - [aws-lambda-deploy](https://github.com/maxbeatty/aws-lambda-deploy) - An automated, opinionated way to deploy to AWS Lambda
-- [hashi-ui](https://github.com/jippi/hashi-ui) - A user interface for the @hashicorp Consul & Nomad
+- [hashi-ui](https://github.com/jippi/hashi-ui) - A modern user interface for @hashicorp Consul & Nomad
 - [viz.js](https://github.com/mdaines/viz.js) - A hack to put Graphviz on the web.
 - [vis](https://github.com/almende/vis) - Dynamic, browser-based visualization library
 - [remark](https://github.com/gnab/remark) - A simple, in-browser, markdown-driven slideshow tool.

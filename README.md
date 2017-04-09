@@ -45,6 +45,7 @@
 
 ## C 
 
+- [pgreplay](https://github.com/laurenz/pgreplay) - pgreplay reads a PostgreSQL log file (*not* a WAL file), extracts the SQL statements and executes them in the same order and relative time against a PostgreSQL database cluster.
 - [snzip](https://github.com/kubo/snzip) - Snzip, a compression/decompression tool based on snappy
 - [tcpcopy](https://github.com/session-replay-tools/tcpcopy) - An online request replication tool, also a tcp stream replay tool, fit for real testing, performance testing, stability testing, stress testing, load testing, smoke testing, etc
 - [ultragrep](https://github.com/zendesk/ultragrep) - the grep that greps the hardest.
@@ -126,6 +127,7 @@
 
 ## Go 
 
+- [gobetween](https://github.com/yyyar/gobetween) - :cloud: Modern & minimalistic load balancer for the Сloud era
 - [gogs](https://github.com/gogits/gogs) - Gogs is a painless self-hosted Git service.
 - [drone](https://github.com/drone/drone) - Drone is a Continuous Delivery platform built on Docker, written in Go
 - [dnscontrol](https://github.com/StackExchange/dnscontrol) - Synchronize your DNS to multiple providers from a simple DSL
@@ -574,6 +576,7 @@
 ## Makefile 
 
 - [json-schema-spec](https://github.com/json-schema-org/json-schema-spec) - The JSON Schema I-D sources
+- [wildfly](https://github.com/inkatze/wildfly) - Ansible role for wildfly
 - [nomad-docker](https://github.com/sjourdan/nomad-docker) - This is a Docker container for Nomad based on Busybox
 - [go-build-template](https://github.com/thockin/go-build-template) - A Makefile/Dockerfile example for Go projects.
 - [docker-nginx-s3](https://github.com/grahamgilbert/docker-nginx-s3) - An nginx image with ngx_aws_auth
@@ -591,6 +594,7 @@
 
 ## Others 
 
+- [awesome-pentest](https://github.com/enaqx/awesome-pentest) - A collection of awesome penetration testing resources, tools and other shiny things
 - [sense](https://github.com/cheics/sense) - a json aware ElasticSearch front end
 - [ansible-barman](https://github.com/alexey-medvedchikov/ansible-barman) - Ansible role for barman PostgreSQL backup utility
 - [ansible-pgbouncer](https://github.com/alexey-medvedchikov/ansible-pgbouncer) - This ansible role configures PgBouncer PostgreSQL connection mux utility.
@@ -615,7 +619,6 @@
 - [ansible-role-packer](https://github.com/patrick-hill/ansible-role-packer) - 
 - [Sqoop](https://github.com/SriGovindGutala/Sqoop) - This repo contains all the different ways you can ingest data from RDBMS to HDFS and vice versa using Sqoop.
 - [awesome-graphql](https://github.com/chentsulin/awesome-graphql) - Awesome list of GraphQL & Relay
-- [wildfly](https://github.com/inkatze/wildfly) - Ansible role for wildfly
 - [tool-repos](https://github.com/monitoringsucks/tool-repos) - Tracking various tools that fit in the monitoring and metrics space
 - [dockerfile-transcrypt](https://github.com/unifio/dockerfile-transcrypt) - Dockerfile for creation of a Transcrypt container
 - [ansible-vault](https://github.com/MiLk/ansible-vault) - Ansible Vault role

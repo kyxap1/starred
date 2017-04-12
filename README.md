@@ -189,7 +189,7 @@
 - [koding](https://github.com/koding/koding) - The Simplest Way to Manage Your Entire Dev Infrastructure!
 - [properties](https://github.com/magiconair/properties) - Java properties scanner for Go
 - [gotty](https://github.com/yudai/gotty) - Share your terminal as a web application
-- [gollum](https://github.com/trivago/gollum) - A n:m message multiplexer written in Go
+- [gollum](https://github.com/trivago/gollum) - An n:m message multiplexer written in Go
 - [syncthing](https://github.com/syncthing/syncthing) - Open Source Continuous File Synchronization
 - [ccat](https://github.com/jingweno/ccat) - Colorizing `cat`
 - [vault-client](https://github.com/adfinis-sygroup/vault-client) - A command-line interface to HashiCorp's Vault
@@ -509,7 +509,7 @@
 - [doT](https://github.com/olado/doT) - The fastest + concise javascript template engine for nodejs and browsers. Partials, custom delimiters and more.
 - [JSV](https://github.com/garycourt/JSV) - A JavaScript implementation of an extendable, fully compliant JSON Schema validator.
 - [diffr](https://github.com/nijikokun/diffr) - CLI diff tool for files, text, and JSON with human readable output.
-- [markdown-to-json](https://github.com/scottstanfield/markdown-to-json) - Convert YAML front-matter in Markdown files to JSON. v0.5.1 is published on NPM.
+- [markdown-to-json](https://github.com/scottstanfield/markdown-to-json) - 🕹️ Convert YAML front-matter in Markdown files to JSON. v0.5.1 is published on NPM.
 - [json-schema-generator](https://github.com/krg7880/json-schema-generator) - Generates draft v4 schema from a local file or a remote JSON url.
 - [generate-schema](https://github.com/nijikokun/generate-schema) - Convert JSON Objects to MySQL Schema, JSON Schema, Mongoose Schema, Google BigQuery, or a Generic template for Swagger files, documentation, code generation, and more.
 - [wildfly-swarm-examples](https://github.com/wildfly-swarm/wildfly-swarm-examples) - Examples of how to write applications using Swarm.

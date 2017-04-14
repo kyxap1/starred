@@ -26,7 +26,6 @@
   - [Lua](#lua)
   - [Makefile](#makefile)
   - [Nginx](#nginx)
-  - [OCaml](#ocaml)
   - [Objective-C](#objective-c)
   - [Others](#others)
   - [PHP](#php)
@@ -587,10 +586,6 @@
 - [nginx-s3-upload](https://github.com/jamescmartinez/nginx-s3-upload) - S3 file upload proxy using Nginx, complete with AWS authentication.
 - [nginx-boilerplate](https://github.com/nginx-boilerplate/nginx-boilerplate) - Awesome Nginx configuration template
 
-## OCaml 
-
-- [awesomo](https://github.com/lk-geimfari/awesomo) - An extensive list of interesting open source projects written in С, C++, Clojure, Lisp (Common/Emacs), Elixir, Erlang, Elm, Golang, Haskell, JavaScript, Lua, OCaml, Python, R, Ruby, Rust, Scala etc.
-
 ## Objective-C 
 
 - [GitUp](https://github.com/git-up/GitUp) - The Git interface you've been missing all your life has finally arrived.
@@ -895,6 +890,7 @@
 - [gatling](https://github.com/gatling/gatling) - Async Scala-Akka-Netty based Load Test Tool
 - [snowplow](https://github.com/snowplow/snowplow) - Enterprise-strength web, mobile and event analytics, powered by Hadoop, Kafka, Kinesis, Redshift and Elasticsearch
 - [hive-serde-schema-gen](https://github.com/strelec/hive-serde-schema-gen) - :clipboard: Generate Hive SerDe schema from a .json file.
+- [awesomo](https://github.com/lk-geimfari/awesomo) - An extensive list of interesting open source projects written in С, C++, Clojure, Lisp (Common/Emacs), Elixir, Erlang, Elm, Golang, Haskell, JavaScript, Lua, OCaml, Python, R, Ruby, Rust, Scala etc.
 - [rudder](https://github.com/Normation/rudder) - Continuous configuration for effective compliance
 - [spark-cassandra-connector](https://github.com/datastax/spark-cassandra-connector) - DataStax Spark Cassandra Connector
 - [s3_website](https://github.com/laurilehmijoki/s3_website) - Manage an S3 website: sync, deliver via CloudFront, benefit from advanced S3 website features.

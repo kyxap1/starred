@@ -209,7 +209,7 @@
 - [rexdep](https://github.com/itchyny/rexdep) - Roughly extract dependency relation from source code
 - [terrahelp](https://github.com/opencredo/terrahelp) - Terraform helper. Terrahelp is as a command line utility written in Go and is aimed at providing supplementary functionality which can sometimes prove useful when working with Terraform.
 - [nomad](https://github.com/hashicorp/nomad) - A Distributed, Highly Available, Datacenter-Aware Scheduler
-- [consul](https://github.com/hashicorp/consul) - Consul is a tool for service discovery, monitoring and configuration.
+- [consul](https://github.com/hashicorp/consul) - Service Discovery and Configuration Made Easy
 - [micro](https://github.com/micro/micro) - A microservice toolkit for distributed systems development
 - [acme](https://github.com/google/acme) - A simple ACME command line tool without 3rd party deps!
 - [hashiapp](https://github.com/kelseyhightower/hashiapp) - Demo 12 Factor application that utilizes Hashicorp tools.
@@ -232,7 +232,7 @@
 - [registrator](https://github.com/gliderlabs/registrator) - Service registry bridge for Docker with pluggable adapters
 - [consul-alerts](https://github.com/AcalephStorage/consul-alerts) - A simple daemon to send notifications based on Consul health checks
 - [AWSnycast](https://github.com/bobtfish/AWSnycast) - 'Anycast' in AWS
-- [fabio](https://github.com/eBay/fabio) - A fast, modern, zero-conf load balancing HTTP(S) router for deploying microservices managed by consul.
+- [fabio](https://github.com/fabiolb/fabio) - A fast, modern, zero-conf load balancing HTTP(S) router for deploying microservices managed by consul.
 - [consul-template](https://github.com/hashicorp/consul-template) - Generic template rendering and notifications with Consul
 - [ahoy](https://github.com/ahoy-cli/ahoy) - Create self-documenting cli programs from YAML files. Easily wrap bash, grunt, npm, docker, (anything) to standardize your processes and make the lives of the people working on your project better.
 - [ctop](https://github.com/chrusty/ctop) - CTOP ("top" for Cassandra) - See what's going on in real-time

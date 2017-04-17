@@ -140,7 +140,7 @@
 - [awless](https://github.com/wallix/awless) - A Mighty CLI for AWS
 - [rclone](https://github.com/ncw/rclone) - "rsync for cloud storage" - Google Drive, Amazon Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Cloudfiles, Google Cloud Storage, Yandex Files
 - [terraform-provider-packer](https://github.com/gsaslis/terraform-provider-packer) - A Terraform provider plugin for Packer
-- [jennifer](https://github.com/dave/jennifer) - Jennifer is a code generator for go
+- [jennifer](https://github.com/dave/jennifer) - Jennifer is a code generator for Go
 - [easyjson](https://github.com/mailru/easyjson) - Fast JSON serializer for golang.
 - [srclib](https://github.com/sourcegraph/srclib) - srclib is a polyglot code analysis library, built for hackability. It consists of language analysis toolchains (currently for Go and Java, with Python, JavaScript, and Ruby in beta) with a common output format, and a CLI tool for running the analysis.
 - [s3cli](https://github.com/pivotal-golang/s3cli) - Go CLI for S3
@@ -479,6 +479,7 @@
 
 ## JavaScript 
 
+- [uBlock](https://github.com/gorhill/uBlock) - uBlock Origin - An efficient blocker for Chromium and Firefox. Fast and lean.
 - [volkswagen](https://github.com/auchenberg/volkswagen) - :see_no_evil: Volkswagen detects when your tests are being run in a CI server, and makes them pass.
 - [graphql-toolbox](https://github.com/OlegIlyenko/graphql-toolbox) - GraphQL Toolbox - a set of GraphQL tools to help with GraphQL server and client development.
 - [normalizr](https://github.com/paularmstrong/normalizr) - Normalizes nested JSON according to a schema
@@ -569,7 +570,7 @@
 ## Lua 
 
 - [lua-resty-hmac](https://github.com/jamesmarlowe/lua-resty-hmac) - Lua driver for making and receiving hmac signed requests
-- [kong](https://github.com/Mashape/kong) - :monkey: The API Gateway & Microservice Management Layer, built on NGINX
+- [kong](https://github.com/Mashape/kong) - :monkey: The API Gateway & Microservice APIs Management Layer, built on NGINX
 
 ## Makefile 
 

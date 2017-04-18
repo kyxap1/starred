@@ -241,7 +241,7 @@
 - [autospotting](https://github.com/cristim/autospotting) - Pay up to 10 times less on EC2 by automatically replacing on-demand AutoScaling group members with similar or larger identically configured spot instances.
 - [oauth2_proxy](https://github.com/bitly/oauth2_proxy) - A reverse proxy that provides authentication with Google, Github or other provider
 - [bashcomp](https://github.com/omakoto/bashcomp) - 
-- [sh](https://github.com/mvdan/sh) - A shell/bash parser and formatter
+- [sh](https://github.com/mvdan/sh) - A shell parser, formatter and interpreter (POSIX/Bash)
 - [go-flags](https://github.com/jessevdk/go-flags) - go command line option parser
 - [sup](https://github.com/pressly/sup) - Super simple deployment tool - just Unix - think of it like 'make' for a network of servers
 - [imageproxy](https://github.com/willnorris/imageproxy) - A caching, resizing image proxy written in Go
@@ -966,7 +966,7 @@
 - [repository](https://github.com/ulyaoth/repository) - Ulyaoth Repository
 - [gvm](https://github.com/moovweb/gvm) - Go Version Manager
 - [wtf](https://github.com/wasdefn/wtf) - Wrappers for Terraform
-- [concourse](https://github.com/concourse/concourse) - BOSH Release
+- [concourse](https://github.com/concourse/concourse) - BOSH release and development workspace for Concourse
 - [docker-cleanup](https://github.com/meltwater/docker-cleanup) - Automatic Docker image, container and volume cleanup
 - [terraform-remote-locking](https://github.com/downneck/terraform-remote-locking) - use an s3 bucket to hold remote locks to prevent corruption of remote tfstate
 - [docker-nginx-elb-websocket](https://github.com/Stockflare/docker-nginx-elb-websocket) - NGinx proxy pass configuration designed for Websockets load balanced through ELB, running on ECS

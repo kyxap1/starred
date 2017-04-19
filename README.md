@@ -95,6 +95,7 @@
 ## Clojure 
 
 - [roll](https://github.com/juxt/roll) - AWS Blue/Green deployment using Clojure flavoured devops
+- [awesomo](https://github.com/lk-geimfari/awesomo) - An extensive list of interesting open source projects written in С, C++, Clojure, Lisp (Common/Emacs), Elixir, Erlang, Elm, Golang, Haskell, JavaScript, Lua, OCaml, Python, R, Ruby, Rust, Scala etc.
 - [dorothy](https://github.com/daveray/dorothy) - Hiccup-style generation of Graphviz graphs in Clojure
 - [specter](https://github.com/nathanmarz/specter) - Clojure(Script)'s missing piece
 - [GraphQLviz](https://github.com/Macroz/GraphQLviz) - GraphQLviz marries GraphQL (schemas) with Graphviz.
@@ -461,7 +462,7 @@
 - [hazelcast-cli](https://github.com/hazelcast/hazelcast-cli) - 
 - [hazelcast-aws](https://github.com/hazelcast/hazelcast-aws) - AWS EC2 discovery plugin for hazelcast
 - [jaxrs-analyzer](https://github.com/sdaschner/jaxrs-analyzer) - Creates REST documentation for JAX-RS projects
-- [genie](https://github.com/Netflix/genie) - Federated Big Data Orchestration Service
+- [genie](https://github.com/Netflix/genie) - Distributed Big Data Orchestration Service
 - [aegisthus](https://github.com/Netflix/aegisthus) - A Bulk Data Pipeline out of Cassandra
 - [mutagen-cassandra](https://github.com/toddfast/mutagen-cassandra) - Mutate your Cassandra schema for fun and profit.
 - [cassandra-migration](https://github.com/Contrast-Security-OSS/cassandra-migration) - Database migration (evolution) tool for Apache Cassandra
@@ -891,7 +892,6 @@
 - [gatling](https://github.com/gatling/gatling) - Async Scala-Akka-Netty based Load Test Tool
 - [snowplow](https://github.com/snowplow/snowplow) - Enterprise-strength web, mobile and event analytics, powered by Hadoop, Kafka, Kinesis, Redshift and Elasticsearch
 - [hive-serde-schema-gen](https://github.com/strelec/hive-serde-schema-gen) - :clipboard: Generate Hive SerDe schema from a .json file.
-- [awesomo](https://github.com/lk-geimfari/awesomo) - An extensive list of interesting open source projects written in С, C++, Clojure, Lisp (Common/Emacs), Elixir, Erlang, Elm, Golang, Haskell, JavaScript, Lua, OCaml, Python, R, Ruby, Rust, Scala etc.
 - [rudder](https://github.com/Normation/rudder) - Continuous configuration for effective compliance
 - [spark-cassandra-connector](https://github.com/datastax/spark-cassandra-connector) - DataStax Spark Cassandra Connector
 - [s3_website](https://github.com/laurilehmijoki/s3_website) - Manage an S3 website: sync, deliver via CloudFront, benefit from advanced S3 website features.

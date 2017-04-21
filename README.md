@@ -201,7 +201,7 @@
 - [blox](https://github.com/blox/blox) - Open source tools for building custom schedulers on Amazon ECS
 - [tflint](https://github.com/wata727/tflint) - TFLint is Terraform linter for detecting errors that can not be detected by `terraform plan`
 - [go-openvpn-mgmt](https://github.com/apparentlymart/go-openvpn-mgmt) - [WIP] Go client library for OpenVPN's management protocol
-- [terragrunt](https://github.com/gruntwork-io/terragrunt) - Terragrunt is a thin wrapper for Terraform that supports locking for Terraform state and enforces best practices.
+- [terragrunt](https://github.com/gruntwork-io/terragrunt) - Terragrunt is a thin wrapper for Terraform that provides extra tools for working with multiple Terraform modules, remote state, and locking.
 - [terraform](https://github.com/VladRassokhin/terraform) - Terraform is a tool for building, changing, and combining infrastructure safely and efficiently.
 - [packer-provisioner-serverspec](https://github.com/unifio/packer-provisioner-serverspec) - Packer Serverspec remote provisioner
 - [heka](https://github.com/mozilla-services/heka) - DEPRECATED: Data collection and processing made easy.
@@ -575,6 +575,7 @@
 
 ## Makefile 
 
+- [ansible-role-datastax-ddc](https://github.com/kostyrev/ansible-role-datastax-ddc) - 
 - [json-schema-spec](https://github.com/json-schema-org/json-schema-spec) - The JSON Schema I-D sources
 - [wildfly](https://github.com/inkatze/wildfly) - Ansible role for wildfly
 - [nomad-docker](https://github.com/sjourdan/nomad-docker) - This is a Docker container for Nomad based on Busybox
@@ -701,7 +702,6 @@
 - [sillyfacter](https://github.com/hihellobolke/sillyfacter) - A silly python facter with JSON output, has process, open files, connection information too. They say Facts do not change, but hey Silly Facts can ;-)
 - [ansible-lint](https://github.com/willthames/ansible-lint) - Best practices checker for Ansible
 - [validator.vim](https://github.com/maralla/validator.vim) - Check syntax on the fly asynchronously.
-- [ansible-role-datastax-ddc](https://github.com/kostyrev/ansible-role-datastax-ddc) - 
 - [xmltodict](https://github.com/martinblech/xmltodict) - Python module that makes working with XML feel like you are working with JSON
 - [ansigenome](https://github.com/nickjj/ansigenome) - A tool to help you gather information and manage your Ansible roles.
 - [aws-ansible-cassandra](https://github.com/oliverlockwood/aws-ansible-cassandra) - Simple Ansible script to set up a minimal Cassandra cluster

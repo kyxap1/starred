@@ -500,7 +500,7 @@
 - [vis](https://github.com/almende/vis) - Dynamic, browser-based visualization library
 - [remark](https://github.com/gnab/remark) - A simple, in-browser, markdown-driven slideshow tool.
 - [mermaid](https://github.com/knsv/mermaid) - Generation of diagram and flowchart from text in a similar manner as markdown
-- [osm-feature-extract](https://github.com/lukasmartinelli/osm-feature-extract) - Extract GeoJSON features from OSM
+- [osm-qa-filter](https://github.com/lukasmartinelli/osm-qa-filter) - Extract GeoJSON features from OSM QA tiles
 - [hotel](https://github.com/typicode/hotel) - :love_hotel: A simple process manager for developers. Start apps from your browser and access them using local .dev domains
 - [togetherjs](https://github.com/mozilla/togetherjs) - A service for your website that makes it surprisingly easy to collaborate in real-time.
 - [ContentTools](https://github.com/GetmeUK/ContentTools) - A JS library for building WYSIWYG editors for HTML content.
@@ -921,7 +921,7 @@
 - [aws](https://github.com/swoodford/aws) - A collection of shell scripts for automating various tasks with AWS (Amazon Web Services)
 - [ecs-refarch-continuous-deployment](https://github.com/awslabs/ecs-refarch-continuous-deployment) - ECS Reference Architecture for creating a flexible and scalable deployment pipeline to Amazon ECS using AWS CodePipeline
 - [boxcutter_ubuntu](https://github.com/patrick-hill/boxcutter_ubuntu) - Virtual machine templates for Ubuntu
-- [postgresql](https://github.com/ANXS/postgresql) - Ansible role for PostgreSQL
+- [postgresql](https://github.com/ANXS/postgresql) - Fairly full featured Ansible role for Postgresql.
 - [slack-notification-resource](https://github.com/cloudfoundry-community/slack-notification-resource) - Concourse CI resource for sending notifications to Slack.
 - [ansible-examples](https://github.com/ansible/ansible-examples) - A few starter examples of ansible playbooks, to show features and how they work together.  See http://galaxy.ansible.com for example roles from the Ansible community for deploying many popular applications.
 - [circleci-packer-example](https://github.com/nabeken/circleci-packer-example) - Example: packer image builder on CircleCI

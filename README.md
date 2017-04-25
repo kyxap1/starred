@@ -128,6 +128,7 @@
 
 ## Go 
 
+- [drone-terraform](https://github.com/jmccann/drone-terraform) - Drone plugin for triggering Terraform deployments
 - [gobetween](https://github.com/yyyar/gobetween) - :cloud: Modern & minimalistic load balancer for the Сloud era
 - [gogs](https://github.com/gogits/gogs) - Gogs is a painless self-hosted Git service.
 - [drone](https://github.com/drone/drone) - Drone is a Continuous Delivery platform built on Docker, written in Go
@@ -300,6 +301,7 @@
 
 ## Groovy 
 
+- [rundeck](https://github.com/rundeck/rundeck) - Job scheduler and runbook automation. Enable self-service access to existing scripts and tools.
 - [tf_pipeline](https://github.com/benwtr/tf_pipeline) - Jenkins Pipeline jobs for Terraform with remote state locking, pull request integration and chat notifications
 - [gradle-capsule-plugin](https://github.com/danthegoodman/gradle-capsule-plugin) - A Gradle plugin for Capsule, the packaging and deployment tool for JVM apps.
 
@@ -908,7 +910,7 @@
 - [kostyrevaa.consul-template](https://github.com/kostyrev/kostyrevaa.consul-template) - 
 - [posixcube](https://github.com/myplaceonline/posixcube) - posixcube.sh is a POSIX compliant, shell script-based server automation framework.
 - [sshag](https://github.com/intuited/sshag) - hook up with an operating or new SSH agent
-- [packer-templates](https://github.com/kwilczynski/packer-templates) - Packer templates for creating Amazon EC2 images and Vagrant boxes.
+- [packer-templates](https://github.com/kwilczynski/packer-templates) - Packer templates for creating Amazon EC2 images and Vagrant boxes
 - [algo](https://github.com/trailofbits/algo) - Set up a personal IPSEC VPN in the cloud
 - [nexusoss3-docker](https://github.com/JAlexoid/nexusoss3-docker) - Sonatype Nexus 3 Images
 - [official-images](https://github.com/docker-library/official-images) - Primary source of truth for the Docker "Official Images" program

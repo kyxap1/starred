@@ -666,7 +666,7 @@
 - [hashicorp](https://github.com/jkkitakita/hashicorp) - repo related to hashicorp
 - [labs](https://github.com/docker/labs) - This is a collection of tutorials for learning how to use Docker with various tools. Contributions welcome.
 - [FreshRSS](https://github.com/FreshRSS/FreshRSS) - A free, self-hostable aggregator…
-- [Hugopit](https://github.com/sjardim/Hugopit) - A web based editor for Hugo
+- [Hugopit](https://github.com/sjardim/Hugopit) - An EXPERIMENTAL web based editor for Hugo
 - [CliGenerator](https://github.com/enxebre/CliGenerator) - A Command-Line User Interface generator for Symfony Console Component.
 - [guzzle](https://github.com/guzzle/guzzle) - Guzzle, an extensible PHP HTTP client
 - [ffmpeg-php](https://github.com/tony2001/ffmpeg-php) - PHP extension for video editing, wrapping ffmpeg

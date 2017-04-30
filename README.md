@@ -1004,7 +1004,7 @@
 ## TypeScript 
 
 - [subscriptions-transport-ws](https://github.com/apollographql/subscriptions-transport-ws) - :arrows_clockwise: A WebSocket client + server for GraphQL subscriptions
-- [learnapollo](https://github.com/learnapollo/learnapollo) - Learn Apollo - A hands-on tutorial for Apollo GraphQL Client (created by Graphcool)
+- [learnapollo](https://github.com/learnapollo/learnapollo) - 👩🏻‍🏫   Learn Apollo - A hands-on tutorial for Apollo GraphQL Client (created by Graphcool)
 - [graphql-tools](https://github.com/apollographql/graphql-tools) - :wrench: Build and mock your GraphQL.js schema using the schema language
 - [pulpo](https://github.com/docker/pulpo) - Configuration mechanism for Node
 

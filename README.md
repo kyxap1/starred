@@ -422,6 +422,7 @@
 
 ## Java 
 
+- [s3proxy](https://github.com/andrewgaul/s3proxy) - Access other storage backends via the S3 API
 - [test-automation-quickstart](https://github.com/opencredo/test-automation-quickstart) - Quickstart project for test automation, covering performance, ui acceptance and api acceptance testing
 - [java-properties-to-json](https://github.com/mikolajmitura/java-properties-to-json) - 
 - [redisson](https://github.com/redisson/redisson) - Redisson - distributed Java objects and services (Set, Multimap, SortedSet, Map, List, Queue, BlockingQueue, Deque, BlockingDeque, Semaphore, Lock, AtomicLong, CountDownLatch, Publish / Subscribe, Bloom filter, Spring Cache, Executor service, Tomcat Session Manager, Scheduler service, JCache API) on top of Redis server.
@@ -484,6 +485,8 @@
 
 ## JavaScript 
 
+- [pkg](https://github.com/zeit/pkg) - Package your Node.js project into an executable
+- [faaslang](https://github.com/faaslang/faaslang) - FaaSlang defines FaaS execution semantics and type-safety mechanisms
 - [uBlock](https://github.com/gorhill/uBlock) - uBlock Origin - An efficient blocker for Chromium and Firefox. Fast and lean.
 - [volkswagen](https://github.com/auchenberg/volkswagen) - :see_no_evil: Volkswagen detects when your tests are being run in a CI server, and makes them pass.
 - [graphql-toolbox](https://github.com/OlegIlyenko/graphql-toolbox) - GraphQL Toolbox - a set of GraphQL tools to help with GraphQL server and client development.
@@ -497,7 +500,7 @@
 - [aws-data-lake-solution](https://github.com/awslabs/aws-data-lake-solution) - A deployable reference implementation intended to address pain points around conceptualizing data lake architectures that automatically configures the core AWS services necessary to easily tag, search, share, and govern specific subsets of data across a business or with other external businesses.
 - [pinball](https://github.com/pinterest/pinball) - Pinball is a scalable workflow manager
 - [tfsoa](https://github.com/sepulworld/tfsoa) - Terraform State of Awareness Dashboard
-- [github-to-s3-lambda-deployer](https://github.com/RafalWilinski/github-to-s3-lambda-deployer) - ⚓️ GitHub webhook extension for uploading static pages to AWS S3 directly after commiting to master via Lambda
+- [github-to-s3-lambda-deployer](https://github.com/RafalWilinski/github-to-s3-lambda-deployer) - ⚓️ GitHub webhook extension for uploading static pages to AWS S3 directly after commiting to master via Lambda written in Node.js
 - [aws-lambda-deploy](https://github.com/maxbeatty/aws-lambda-deploy) - An automated, opinionated way to deploy to AWS Lambda
 - [hashi-ui](https://github.com/jippi/hashi-ui) - A modern user interface for @hashicorp Consul & Nomad
 - [viz.js](https://github.com/mdaines/viz.js) - A hack to put Graphviz on the web.

@@ -52,7 +52,7 @@
 - [yajl](https://github.com/lloyd/yajl) - A fast streaming JSON parsing library in C.
 - [stty](https://github.com/tenderlove/stty) - A wrapper around termios
 - [pgbouncer-rr-patch](https://github.com/awslabs/pgbouncer-rr-patch) - Adds query routing and rewriting extensions to pgbouncer
-- [citus](https://github.com/citusdata/citus) - Scalable PostgreSQL for real-time workloads
+- [citus](https://github.com/citusdata/citus) - Scalable PostgreSQL for multi-tenant and real-time workloads
 - [bottledwater-pg](https://github.com/confluentinc/bottledwater-pg) - Change data capture from PostgreSQL into Kafka
 - [jq](https://github.com/stedolan/jq) - Command-line JSON processor
 - [jo](https://github.com/jpmens/jo) - JSON output from a shell
@@ -151,7 +151,7 @@
 - [gestalt](https://github.com/asteris-llc/gestalt) - 
 - [lego](https://github.com/xenolf/lego) - Let's Encrypt client and ACME library written in Go
 - [hammer](https://github.com/asteris-llc/hammer) - Build packages from a simple spec
-- [scipipe](https://github.com/scipipe/scipipe) - A Scientific workflow system written in pure Go (Golang) inspired by Flow-based Programming
+- [scipipe](https://github.com/scipipe/scipipe) - A library for writing scientific workflows in Go / Golang, inspired by Flow-Based Programming. For docs, see:
 - [converge](https://github.com/asteris-llc/converge) - A powerful and easy-to-use configuration management system.
 - [tablewriter](https://github.com/olekukonko/tablewriter) - ASCII table in golang
 - [colonize](https://github.com/craigmonson/colonize) - A terraform tool to manage environment driven templating.

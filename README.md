@@ -129,6 +129,20 @@
 
 ## Go 
 
+- [awless-scheduler](https://github.com/wallix/awless-scheduler) - Schedule runs and reverts of awless templates
+- [awless-templates](https://github.com/wallix/awless-templates) - Repository of verified templates for wallix/awless
+- [awesome-go](https://github.com/avelino/awesome-go) - A curated list of awesome Go frameworks, libraries and software
+- [terraform-provider-zabbix](https://github.com/dainis/terraform-provider-zabbix) - 
+- [terraform-provider-awsplus](https://github.com/BWITS/terraform-provider-awsplus) - missing resources in terraform aws provider
+- [terraform-ci](https://github.com/webdevwilson/terraform-ci) - CI tool for Terraform
+- [tftest](https://github.com/quintilesims/tftest) - Integration for testing with Terraform
+- [sabaviz](https://github.com/tom--bo/sabaviz) - Create dot files for graphviz which visualize servers connections by netstat output
+- [graphviz](https://github.com/k8sp/graphviz) - A Golang GraphViz server used to generate inline images from .dot files.
+- [dcsg](https://github.com/andreaskoch/dcsg) - dcsg is a command-line utility for Linux that generates systemd services for Docker Compose projects
+- [ponzu](https://github.com/ponzu-cms/ponzu) - Headless CMS with automatic JSON API. Featuring auto HTTPS, HTTP/2 Server Push, and flexible server framework written in Go.
+- [groupcache](https://github.com/golang/groupcache) - groupcache is a caching and cache-filling library, intended as a replacement for memcached in many cases.
+- [hivemind](https://github.com/DarthSim/hivemind) - Process manager for Procfile-based applications
+- [oklog](https://github.com/oklog/oklog) - A distributed and coördination-free log management system
 - [kubegen](https://github.com/errordeveloper/kubegen) - kubegen – simple way to describe Kubernetes resources
 - [terraform-index](https://github.com/mauve/terraform-index) - 
 - [drone-terraform](https://github.com/jmccann/drone-terraform) - Drone plugin for triggering Terraform deployments
@@ -311,6 +325,8 @@
 
 ## HCL 
 
+- [oreno-terraform](https://github.com/shogomuranushi/oreno-terraform) - 
+- [terraform-cassandra-seeds](https://github.com/DevOp5/terraform-cassandra-seeds) - Terraform module to create a set of Cassandra seed nodes spanning multiple availability zones
 - [labs-devops](https://github.com/nearform/labs-devops) - Devops repo
 - [terraform-example](https://github.com/threatstack/terraform-example) - Terraform Example setup root repository
 - [tf-ses-demo](https://github.com/knakayama/tf-ses-demo) - 
@@ -425,6 +441,7 @@
 
 ## Java 
 
+- [archi](https://github.com/archimatetool/archi) - Archi: ArchiMate Modelling Tool
 - [s3proxy](https://github.com/andrewgaul/s3proxy) - Access other storage backends via the S3 API
 - [test-automation-quickstart](https://github.com/opencredo/test-automation-quickstart) - Quickstart project for test automation, covering performance, ui acceptance and api acceptance testing
 - [java-properties-to-json](https://github.com/mikolajmitura/java-properties-to-json) - 
@@ -488,6 +505,8 @@
 
 ## JavaScript 
 
+- [kingraph](https://github.com/rstacruz/kingraph) - Plots family trees using JavaScript and Graphviz
+- [admin](https://github.com/qor/admin) - Qor Admin - Instantly create a beautiful, cross platform, configurable Admin Interface and API for managing your data in minutes.
 - [db-diayaml](https://github.com/forbesmyester/db-diayaml) - Draw DB diagrams using GraphViz / Dot from a very simple YAML file
 - [simple-oauth2](https://github.com/lelylan/simple-oauth2) - A simple Node.js client library for Oauth2
 - [pkg](https://github.com/zeit/pkg) - Package your Node.js project into an executable
@@ -607,6 +626,7 @@
 
 ## Others 
 
+- [dockerfile-terraform](https://github.com/uzyexe/dockerfile-terraform) - Terraform Dockerfile
 - [awesome-pentest](https://github.com/enaqx/awesome-pentest) - A collection of awesome penetration testing resources, tools and other shiny things
 - [sense](https://github.com/cheics/sense) - a json aware ElasticSearch front end
 - [ansible-barman](https://github.com/alexey-medvedchikov/ansible-barman) - Ansible role for barman PostgreSQL backup utility
@@ -693,6 +713,8 @@
 
 ## Python 
 
+- [codebom](https://github.com/codebom/codebom) - Command-line tool to create, validate and analyze a Bill of Materials
+- [foremast](https://github.com/gogoair/foremast) - Spinnaker pipeline and infrastructure configuration and templating tool - Pipelines as Code.
 - [botoform](https://github.com/russellballestrini/botoform) - Architect infrastructure on AWS using YAML
 - [nginx-proxy](https://github.com/jwilder/nginx-proxy) - Automated nginx proxy for Docker containers using docker-gen
 - [terraform_validate](https://github.com/elmundio87/terraform_validate) - Assists in the enforcement of user-defined standards in Terraform
@@ -831,6 +853,8 @@
 
 ## Ruby 
 
+- [certman](https://github.com/k1LoW/certman) - CLI tool for AWS Certificate Manager.
+- [terraform-landscape](https://github.com/coinbase/terraform-landscape) - Landscaping Terraform: Improving Terraform plan output to be easier to read and understand
 - [janky](https://github.com/github/janky) - Continuous integration server built on top of Jenkins and Hubot
 - [graphql-ruby](https://github.com/rmosolgo/graphql-ruby) - Ruby implementation of GraphQL: https://rmosolgo.github.io/graphql-ruby/
 - [rezept](https://github.com/serverworks/rezept) - A tool to manage EC2 Systems Manager Documents.
@@ -913,6 +937,8 @@
 
 ## Shell 
 
+- [cloudwatch-logmonitoring](https://github.com/shogomuranushi/cloudwatch-logmonitoring) - Log file monitoring for cloudwatch.
+- [docker-elk](https://github.com/DevOp5/docker-elk) - The ELK stack powered by Docker and Compose.
 - [LS_COLORS](https://github.com/trapd00r/LS_COLORS) - A collection of LS_COLORS definitions; needs your contribution!
 - [dotfiles](https://github.com/maksimr/dotfiles) - ❤
 - [nodejs-bower-grunt](https://github.com/dockerfile/nodejs-bower-grunt) - Node.js w/ Bower & Grunt Dockerfile for trusted automated Docker builds.

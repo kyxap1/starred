@@ -765,7 +765,7 @@
 - [glances](https://github.com/nicolargo/glances) - Glances an Eye on your system. A top/htop alternative.
 - [locust](https://github.com/locustio/locust) - Scalable user load testing tool written in Python
 - [compose](https://github.com/docker/compose) - Define and run multi-container applications with Docker
-- [superset](https://github.com/airbnb/superset) - Superset is a data exploration platform designed to be visual, intuitive, and interactive
+- [superset](https://github.com/airbnb/superset) - Superset is a modern, enterprise-ready business intelligence web application
 - [http-prompt](https://github.com/eliangcs/http-prompt) - HTTPie + prompt_toolkit = an interactive command-line HTTP client featuring autocomplete and syntax highlighting
 - [rds-pgbadger](https://github.com/fpietka/rds-pgbadger) - Fetch logs from RDS instance, and process them with pgBadger
 - [pgcli](https://github.com/dbcli/pgcli) - Postgres CLI with autocompletion and syntax highlighting
@@ -1016,7 +1016,6 @@
 - [docker-node](https://github.com/nodejs/docker-node) - Official Docker Image for Node.js :whale: :turtle: :rocket:
 - [docker-desktop](https://github.com/rogaha/docker-desktop) - Docker Desktop enables you to create virtual desktops that can be accessed remotely. It comes with Firefox and Libreoffice already installed!
 - [WildFlyApp](https://github.com/BITFORCE-IT/WildFlyApp) - An example Docker Container running an JEE App on WildFly 10 Using oficial JBoss Docker image and useful enhancements.
-- [wildfly](https://github.com/imixs-docker/wildfly) - Dockerfile for Wildfly Container
 - [showcase-ansible-chatops](https://github.com/StackStorm/showcase-ansible-chatops) - Vagrant Demo showing ChatOps with Ansible
 - [sevabot_modules](https://github.com/vkavun/sevabot_modules) - This repo holds sevabot modules needed for a day-to-day work
 - [docker-postgres-pgpool2](https://github.com/dperetti/docker-postgres-pgpool2) - 

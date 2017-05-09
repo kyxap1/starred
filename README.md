@@ -824,7 +824,7 @@
 - [ansible-custom-jython-module](https://github.com/fareliner/ansible-custom-jython-module) - Example custom ansible module to manage WildFly/JBoss AS through jython cli
 - [awesome-aws](https://github.com/donnemartin/awesome-aws) - A curated list of awesome Amazon Web Services (AWS) libraries, open source repos, guides, blogs, and other resources.  Featuring the Fiery Meter of AWSome.
 - [jbosscli](https://github.com/raphaelpaiva/jbosscli) - A python front-end for the Jboss wildfly REST management interface
-- [st2contrib](https://github.com/StackStorm/st2contrib) - StackStorm integration packs for many common tools and services. It also contains helpful tools to build integrations and automations with StackStorm.
+- [st2contrib](https://github.com/StackStorm/st2contrib) - MOVED! See StackStorm Exchange
 - [st2](https://github.com/StackStorm/st2) - StackStorm (aka "IFTTT for Ops") is event-driven automation commonly used for auto-remediation, security responses, facilitated troubleshooting, complex deployments, and more. Includes rules engine, workflow, 1800+ integrations (see /st2contrib), native ChatOps and so forth. Installer available at http://docs.stackstorm.com/install/index.html. Ping us on slack - https://stackstorm-community.slack.com/.
 - [Skype4Py](https://github.com/Skype4Py/Skype4Py) - Platform independent Python wrapper for the Skype Desktop API
 - [sevabot](https://github.com/dafiti/sevabot) - A Skype bot supporting integration with external services

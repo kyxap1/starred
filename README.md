@@ -258,7 +258,7 @@
 - [ctop](https://github.com/chrusty/ctop) - CTOP ("top" for Cassandra) - See what's going on in real-time
 - [go-priam](https://github.com/alext29/go-priam) - Backup and restore Cassandra DB to AWS S3
 - [terraform-multipart-userdata](https://github.com/chrusty/terraform-multipart-userdata) - Cruft for Terraform
-- [autospotting](https://github.com/cristim/autospotting) - Pay up to 10 times less on EC2 by automatically replacing on-demand AutoScaling group members with similar or larger identically configured spot instances.
+- [autospotting](https://github.com/cristim/autospotting) - Easy to use tool that automatically replaces some or even all on-demand AutoScaling group members with similar or larger identically configured spot instances in order to generate significant cost savings on AWS EC2.
 - [oauth2_proxy](https://github.com/bitly/oauth2_proxy) - A reverse proxy that provides authentication with Google, Github or other provider
 - [bashcomp](https://github.com/omakoto/bashcomp) - 
 - [sh](https://github.com/mvdan/sh) - A shell parser, formatter and interpreter (POSIX/Bash)
@@ -289,7 +289,6 @@
 - [terraform-aws-vars](https://github.com/drmdrew/terraform-aws-vars) - Generates Terraform AWS configuration variables suitable for the currently configured AWS account.
 - [terraform-plan-decoder](https://github.com/pearkes/terraform-plan-decoder) - A small utility to decode Terraform plan files.
 - [tholos](https://github.com/mhlias/tholos) - Prototype Terraform wrapper
-- [concourse](https://github.com/concourse/concourse) - BOSH release and development workspace for Concourse
 - [terraform-provisioner-makefile](https://github.com/jtopjian/terraform-provisioner-makefile) - A Makefile / make provisioner for Terraform
 - [terrastache](https://github.com/cbroglie/terrastache) - Use terraform variables and mustache templates to generate terraform configs
 - [terraform-provider-localfile](https://github.com/mcoffin/terraform-provider-localfile) - Simple terraform provider plugin to give access to local files.
@@ -714,6 +713,7 @@
 
 ## Python 
 
+- [howdoi](https://github.com/gleitz/howdoi) - instant coding answers via the command line
 - [codebom](https://github.com/codebom/codebom) - Command-line tool to create, validate and analyze a Bill of Materials
 - [foremast](https://github.com/gogoair/foremast) - Spinnaker pipeline and infrastructure configuration and templating tool - Pipelines as Code.
 - [botoform](https://github.com/russellballestrini/botoform) - Architect infrastructure on AWS using YAML
@@ -1007,6 +1007,7 @@
 - [repository](https://github.com/ulyaoth/repository) - Ulyaoth Repository
 - [gvm](https://github.com/moovweb/gvm) - Go Version Manager
 - [wtf](https://github.com/wasdefn/wtf) - Wrappers for Terraform
+- [concourse](https://github.com/concourse/concourse) - BOSH release and development workspace for Concourse
 - [docker-cleanup](https://github.com/meltwater/docker-cleanup) - Automatic Docker image, container and volume cleanup
 - [terraform-remote-locking](https://github.com/downneck/terraform-remote-locking) - use an s3 bucket to hold remote locks to prevent corruption of remote tfstate
 - [docker-nginx-elb-websocket](https://github.com/Stockflare/docker-nginx-elb-websocket) - NGinx proxy pass configuration designed for Websockets load balanced through ELB, running on ECS

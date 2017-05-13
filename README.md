@@ -96,7 +96,6 @@
 ## Clojure 
 
 - [roll](https://github.com/juxt/roll) - AWS Blue/Green deployment using Clojure flavoured devops
-- [awesomo](https://github.com/lk-geimfari/awesomo) - An extensive list of interesting open source projects written in С, C++, Clojure, Lisp (Common/Emacs), Elixir, Erlang, Elm, Golang, Haskell, JavaScript, Lua, OCaml, Python, R, Ruby, Rust, Scala etc.
 - [dorothy](https://github.com/daveray/dorothy) - Hiccup-style generation of Graphviz graphs in Clojure
 - [specter](https://github.com/nathanmarz/specter) - Clojure(Script)'s missing piece
 - [GraphQLviz](https://github.com/Macroz/GraphQLviz) - GraphQLviz marries GraphQL (schemas) with Graphviz.
@@ -325,6 +324,8 @@
 
 ## HCL 
 
+- [terraform-aws-starterkit-mirror](https://github.com/carrete/terraform-aws-starterkit-mirror) - This is only a mirror. Please see the official repository on GitLab.
+- [AWS-Infrasetup](https://github.com/naikajah/AWS-Infrasetup) - Building AWS infrastructure with Terraform
 - [oreno-terraform](https://github.com/shogomuranushi/oreno-terraform) - 
 - [terraform-cassandra-seeds](https://github.com/DevOp5/terraform-cassandra-seeds) - Terraform module to create a set of Cassandra seed nodes spanning multiple availability zones
 - [labs-devops](https://github.com/nearform/labs-devops) - Devops repo
@@ -445,7 +446,7 @@
 - [s3proxy](https://github.com/andrewgaul/s3proxy) - Access other storage backends via the S3 API
 - [test-automation-quickstart](https://github.com/opencredo/test-automation-quickstart) - Quickstart project for test automation, covering performance, ui acceptance and api acceptance testing
 - [java-properties-to-json](https://github.com/mikolajmitura/java-properties-to-json) - 
-- [redisson](https://github.com/redisson/redisson) - Redisson - distributed Java objects and services (Set, Multimap, SortedSet, Map, List, Queue, BlockingQueue, Deque, BlockingDeque, Semaphore, Lock, AtomicLong, CountDownLatch, Publish / Subscribe, Bloom filter, Spring Cache, Executor service, Tomcat Session Manager, Scheduler service, JCache API) on top of Redis server. Advanced Redis client
+- [redisson](https://github.com/redisson/redisson) - Redisson - distributed Java objects and services (Set, Multimap, SortedSet, Map, List, Queue, BlockingQueue, Deque, BlockingDeque, Semaphore, Lock, AtomicLong, CountDownLatch, Publish / Subscribe, Bloom filter, Spring Cache, Executor service, Tomcat Session Manager, Scheduler service, JCache API) on top of Redis server. Rich Redis client
 - [plantuml-gist](https://github.com/linux-china/plantuml-gist) - PlantUML with Github Gist and Gitlab Support
 - [spoon](https://github.com/INRIA/spoon) - Spoon is a library to analyze, transform, rewrite, transpile Java source code (incl Java 8). It parses source files to build a well-designed AST with powerful analysis and transformation API. Made at Inria with :heart:, :beers: and :sparkles:.
 - [JJSchema](https://github.com/reinert/JJSchema) - A generator from Java Types to JSON-Schema using Jackson.
@@ -505,6 +506,7 @@
 
 ## JavaScript 
 
+- [cd-maturity-model](https://github.com/garystafford/cd-maturity-model) - Continuous Delivery Maturity Model - Gap Analysis Visualization Tool, using d3
 - [kingraph](https://github.com/rstacruz/kingraph) - Plots family trees using JavaScript and Graphviz
 - [admin](https://github.com/qor/admin) - Qor Admin - Instantly create a beautiful, cross platform, configurable Admin Interface and API for managing your data in minutes.
 - [db-diayaml](https://github.com/forbesmyester/db-diayaml) - Draw DB diagrams using GraphViz / Dot from a very simple YAML file
@@ -713,6 +715,7 @@
 
 ## Python 
 
+- [terratools](https://github.com/Crapworks/terratools) - Some tools to enhance your terraform experience
 - [howdoi](https://github.com/gleitz/howdoi) - instant coding answers via the command line
 - [codebom](https://github.com/codebom/codebom) - Command-line tool to create, validate and analyze a Bill of Materials
 - [foremast](https://github.com/gogoair/foremast) - Spinnaker pipeline and infrastructure configuration and templating tool - Pipelines as Code.
@@ -768,6 +771,7 @@
 - [compose](https://github.com/docker/compose) - Define and run multi-container applications with Docker
 - [superset](https://github.com/airbnb/superset) - Superset is a modern, enterprise-ready business intelligence web application
 - [http-prompt](https://github.com/eliangcs/http-prompt) - HTTPie + prompt_toolkit = an interactive command-line HTTP client featuring autocomplete and syntax highlighting
+- [awesomo](https://github.com/lk-geimfari/awesomo) - An extensive list of interesting open source projects written in С, C++, Clojure, Lisp (Common/Emacs), Elixir, Erlang, Elm, Golang, Haskell, JavaScript, Lua, OCaml, Python, R, Ruby, Rust, Scala etc.
 - [rds-pgbadger](https://github.com/fpietka/rds-pgbadger) - Fetch logs from RDS instance, and process them with pgBadger
 - [pgcli](https://github.com/dbcli/pgcli) - Postgres CLI with autocompletion and syntax highlighting
 - [source-code-pro](https://github.com/adobe-fonts/source-code-pro) - Monospaced font family for user interface and coding environments
@@ -854,6 +858,9 @@
 
 ## Ruby 
 
+- [kitchen-terraform](https://github.com/newcontext-oss/kitchen-terraform) - Test Kitchen plugins for testing Terraform configurations
+- [serverspec](https://github.com/mizzy/serverspec) - RSpec tests for your servers configured by CFEngine, Puppet, Chef, Ansible, Itamae or anything else even by hand
+- [hashicorptools](https://github.com/controlshift/hashicorptools) - a set of ruby utilities for interacting with and wrapping packer and terraform
 - [certman](https://github.com/k1LoW/certman) - CLI tool for AWS Certificate Manager.
 - [terraform-landscape](https://github.com/coinbase/terraform-landscape) - Landscaping Terraform: Improving Terraform plan output to be easier to read and understand
 - [janky](https://github.com/github/janky) - Continuous integration server built on top of Jenkins and Hubot
@@ -1047,6 +1054,7 @@
 
 ## Vim script 
 
+- [Vim-Jinja2-Syntax](https://github.com/Glench/Vim-Jinja2-Syntax) - An up-to-date jinja2 syntax file.
 - [syntastic](https://github.com/vim-syntastic/syntastic) - Syntax checking hacks for vim
 - [utilities](https://github.com/VladRassokhin/utilities) - Micro helpers
 - [auto-pairs](https://github.com/jiangmiao/auto-pairs) - Vim plugin, insert or delete brackets, parens, quotes in pair

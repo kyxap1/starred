@@ -129,6 +129,7 @@
 
 ## Go 
 
+- [gotools](https://github.com/Mykolaichenko/gotools) - Go Tools
 - [terraform_cashier](https://github.com/Bjorn248/terraform_cashier) - Designed to analyze terraform template files and return a cost estimate of running the infrastructure, assuming AWS is the target cloud. Perhaps other clouds can be supported going forward?
 - [k6](https://github.com/loadimpact/k6) - A modern load testing tool, using Go and JavaScript - https://k6.io
 - [awless-scheduler](https://github.com/wallix/awless-scheduler) - Schedule runs and reverts of awless templates
@@ -507,6 +508,7 @@
 
 ## JavaScript 
 
+- [vault-ui](https://github.com/djenriquez/vault-ui) - Vault-UI — A beautiful UI to manage your Vault, written in React
 - [cd-maturity-model](https://github.com/garystafford/cd-maturity-model) - Continuous Delivery Maturity Model - Gap Analysis Visualization Tool, using d3
 - [kingraph](https://github.com/rstacruz/kingraph) - Plots family trees using JavaScript and Graphviz
 - [admin](https://github.com/qor/admin) - Qor Admin - Instantly create a beautiful, cross platform, configurable Admin Interface and API for managing your data in minutes.

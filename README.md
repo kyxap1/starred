@@ -72,6 +72,7 @@
 
 ## C# # 
 
+- [NoCableLauncher](https://github.com/Maxx53/NoCableLauncher) - Rocksmith 2014 Launcher for playing without RealTone cable (nocable fix)
 - [superputty](https://github.com/jimradford/superputty) - The SuperPuTTY Window Manager for putty sessions
 - [VisualStudioUninstaller](https://github.com/Microsoft/VisualStudioUninstaller) - Visual Studio Uninstallation sometimes can be unreliable and often leave out a lot of unwanted artifacts. Visual Studio Uninstaller is designed to thoroughly and reliably remove these unwanted artifacts.
 
@@ -1062,6 +1063,7 @@
 
 ## Vim script 
 
+- [vim-jsonnet](https://github.com/google/vim-jsonnet) - Jsonnet filetype plugin for Vim.
 - [vim-repeat](https://github.com/tpope/vim-repeat) - repeat.vim: enable repeating supported plugin maps with "."
 - [Vim-Jinja2-Syntax](https://github.com/Glench/Vim-Jinja2-Syntax) - An up-to-date jinja2 syntax file.
 - [syntastic](https://github.com/vim-syntastic/syntastic) - Syntax checking hacks for vim

@@ -46,6 +46,7 @@
 
 ## C 
 
+- [netdata](https://github.com/firehol/netdata) - Get control of your servers. Simple. Effective. Awesome. https://my-netdata.io/
 - [kafkacat](https://github.com/edenhill/kafkacat) - Generic command line non-JVM Apache Kafka producer and consumer
 - [pgreplay](https://github.com/laurenz/pgreplay) - pgreplay reads a PostgreSQL log file (*not* a WAL file), extracts the SQL statements and executes them in the same order and relative time against a PostgreSQL database cluster.
 - [snzip](https://github.com/kubo/snzip) - Snzip, a compression/decompression tool based on snappy
@@ -72,6 +73,7 @@
 
 ## C# # 
 
+- [ShareX](https://github.com/ShareX/ShareX) - ShareX is a free and open source program that lets you capture or record any area of your screen and share it with a single press of a key. It also allows uploading images, text or other types of files to over 80 supported destinations you can choose from.
 - [NoCableLauncher](https://github.com/Maxx53/NoCableLauncher) - Rocksmith 2014 Launcher for playing without RealTone cable (nocable fix)
 - [superputty](https://github.com/jimradford/superputty) - The SuperPuTTY Window Manager for putty sessions
 - [VisualStudioUninstaller](https://github.com/Microsoft/VisualStudioUninstaller) - Visual Studio Uninstallation sometimes can be unreliable and often leave out a lot of unwanted artifacts. Visual Studio Uninstaller is designed to thoroughly and reliably remove these unwanted artifacts.
@@ -328,6 +330,7 @@
 
 ## HCL 
 
+- [mastodon-terraform](https://github.com/r7kamura/mastodon-terraform) - Boilerplate for running Mastodon on AWS using Terraform and CircleCI.
 - [terraform-aws-starterkit-mirror](https://github.com/carrete/terraform-aws-starterkit-mirror) - This is only a mirror. Please see the official repository on GitLab.
 - [AWS-Infrasetup](https://github.com/naikajah/AWS-Infrasetup) - Building AWS infrastructure with Terraform
 - [oreno-terraform](https://github.com/shogomuranushi/oreno-terraform) - 
@@ -953,6 +956,7 @@
 
 ## Shell 
 
+- [packer](https://github.com/subutai-io/packer) - 
 - [cloudwatch-logmonitoring](https://github.com/shogomuranushi/cloudwatch-logmonitoring) - Log file monitoring for cloudwatch.
 - [docker-elk](https://github.com/DevOp5/docker-elk) - The ELK stack powered by Docker and Compose.
 - [LS_COLORS](https://github.com/trapd00r/LS_COLORS) - A collection of LS_COLORS definitions; needs your contribution!

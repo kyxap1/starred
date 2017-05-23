@@ -512,6 +512,7 @@
 
 ## JavaScript 
 
+- [underscore-cli](https://github.com/ddopson/underscore-cli) - Command-line utility-belt for hacking JSON and Javascript.
 - [vault-ui](https://github.com/djenriquez/vault-ui) - Vault-UI — A beautiful UI to manage your Vault, written in React
 - [cd-maturity-model](https://github.com/garystafford/cd-maturity-model) - Continuous Delivery Maturity Model - Gap Analysis Visualization Tool, using d3
 - [kingraph](https://github.com/rstacruz/kingraph) - Plots family trees using JavaScript and Graphviz
@@ -757,7 +758,7 @@
 - [xmltodict](https://github.com/martinblech/xmltodict) - Python module that makes working with XML feel like you are working with JSON
 - [ansigenome](https://github.com/nickjj/ansigenome) - A tool to help you gather information and manage your Ansible roles.
 - [aws-ansible-cassandra](https://github.com/oliverlockwood/aws-ansible-cassandra) - Simple Ansible script to set up a minimal Cassandra cluster
-- [debops-tools](https://github.com/debops/debops-tools) - Your Debian-based data center in a box -
+- [debops-tools](https://github.com/debops/debops-tools) - Your Debian-based data center in a box
 - [luigi](https://github.com/spotify/luigi) - Luigi is a Python module that helps you build complex pipelines of batch jobs. It handles dependency resolution, workflow management, visualization etc. It also comes with Hadoop support built in.
 - [incubator-airflow](https://github.com/apache/incubator-airflow) - Apache Airflow (Incubating)
 - [celery](https://github.com/celery/celery) - Distributed Task Queue (development branch)

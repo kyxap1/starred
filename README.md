@@ -132,6 +132,7 @@
 
 ## Go 
 
+- [ec2-metadatafs](https://github.com/jszwedko/ec2-metadatafs) - EC2 metadata and tags as a filesystem
 - [gotools](https://github.com/Mykolaichenko/gotools) - Go Tools
 - [terraform_cashier](https://github.com/Bjorn248/terraform_cashier) - Designed to analyze terraform template files and return a cost estimate of running the infrastructure, assuming AWS is the target cloud. Perhaps other clouds can be supported going forward?
 - [k6](https://github.com/loadimpact/k6) - A modern load testing tool, using Go and JavaScript - https://k6.io
@@ -266,7 +267,7 @@
 - [autospotting](https://github.com/cristim/autospotting) - Easy to use tool that automatically replaces some or even all on-demand AutoScaling group members with similar or larger identically configured spot instances in order to generate significant cost savings on AWS EC2.
 - [oauth2_proxy](https://github.com/bitly/oauth2_proxy) - A reverse proxy that provides authentication with Google, Github or other provider
 - [bashcomp](https://github.com/omakoto/bashcomp) - 
-- [sh](https://github.com/mvdan/sh) - A shell parser, formatter and interpreter (POSIX/Bash)
+- [sh](https://github.com/mvdan/sh) - A shell parser, formatter and interpreter (POSIX/Bash/mksh)
 - [go-flags](https://github.com/jessevdk/go-flags) - go command line option parser
 - [sup](https://github.com/pressly/sup) - Super simple deployment tool - just Unix - think of it like 'make' for a network of servers
 - [imageproxy](https://github.com/willnorris/imageproxy) - A caching, resizing image proxy written in Go
@@ -330,6 +331,7 @@
 
 ## HCL 
 
+- [tf_aws_openvpn](https://github.com/terraform-community-modules/tf_aws_openvpn) - Terraform module which creates OpenVPN on AWS
 - [mastodon-terraform](https://github.com/r7kamura/mastodon-terraform) - Boilerplate for running Mastodon on AWS using Terraform and CircleCI.
 - [terraform-aws-starterkit-mirror](https://github.com/carrete/terraform-aws-starterkit-mirror) - This is only a mirror. Please see the official repository on GitLab.
 - [AWS-Infrasetup](https://github.com/naikajah/AWS-Infrasetup) - Building AWS infrastructure with Terraform
@@ -461,7 +463,7 @@
 - [flyway](https://github.com/flyway/flyway) - Flyway by Boxfuse • Database Migrations Made Easy.
 - [swagger-core](https://github.com/swagger-api/swagger-core) - Examples and server integrations for generating the Swagger API Specification, which enables easy access to your REST API
 - [grakn](https://github.com/graknlabs/grakn) - The Database for AI
-- [bazel](https://github.com/bazelbuild/bazel) - Correct, reproducible, and fast builds for everyone.
+- [bazel](https://github.com/bazelbuild/bazel) - a fast, scalable, multi-language and extensible build system
 - [android-json-model-generator](https://github.com/JAlexoid/android-json-model-generator) - A simple JSON Object Model generator for Android (JSON to Java)
 - [json-to-avro-schema-generator](https://github.com/sgmarghade/json-to-avro-schema-generator) - This will help you to generate AVRO schema from JSON schema.
 - [json-data-generator](https://github.com/acesinc/json-data-generator) - A robust, generic, streaming random json data generator for your data
@@ -512,6 +514,8 @@
 
 ## JavaScript 
 
+- [LambStatus](https://github.com/ks888/LambStatus) - Serverless Status Page System
+- [c3vis](https://github.com/ExpediaDotCom/c3vis) - Visualize the resource utilisation of Amazon ECS clusters
 - [underscore-cli](https://github.com/ddopson/underscore-cli) - Command-line utility-belt for hacking JSON and Javascript.
 - [vault-ui](https://github.com/djenriquez/vault-ui) - Vault-UI — A beautiful UI to manage your Vault, written in React
 - [cd-maturity-model](https://github.com/garystafford/cd-maturity-model) - Continuous Delivery Maturity Model - Gap Analysis Visualization Tool, using d3
@@ -587,7 +591,7 @@
 - [serverless](https://github.com/serverless/serverless) - Serverless Framework – Build web, mobile and IoT applications with serverless architectures using AWS Lambda, Azure Functions, Google CloudFunctions & more! –
 - [lambda](https://github.com/AWSinAction/lambda) - AWS in Action: Lambda
 - [terraform2md](https://github.com/shambarick/terraform2md) - 
-- [frey](https://github.com/freyproject/frey) - :rocket: An end-to-end tool for launching infrastructure, provisioning, and deploying your app to it. VERY MUCH ALPHA. FREY WILL CURRENTLY HAPPILY DESTROY YOUR PLATFORM AND CAREER. THANKS!
+- [frey](https://github.com/freyproject/frey) - I fell in love with Kubernetes, and Frey is now deprecated
 - [aws-lambda-image](https://github.com/ysugimoto/aws-lambda-image) - Automatic image resize/reduce on AWS Lambda
 - [csv](https://github.com/segmentio/csv) - Uber simple CSV formatting/parsing for node
 - [nginx-jwt](https://github.com/auth0/nginx-jwt) - Lua script for Nginx that performs reverse proxy auth using JWT's
@@ -612,7 +616,7 @@
 ## Lua 
 
 - [lua-resty-hmac](https://github.com/jamesmarlowe/lua-resty-hmac) - Lua driver for making and receiving hmac signed requests
-- [kong](https://github.com/Mashape/kong) - :monkey: The API Gateway & Microservice APIs Management Layer
+- [kong](https://github.com/Mashape/kong) - :monkey: The Microservice API Gateway
 
 ## M4 
 
@@ -727,6 +731,7 @@
 
 ## Python 
 
+- [shyaml](https://github.com/0k/shyaml) - YAML for command line
 - [terratools](https://github.com/Crapworks/terratools) - Some tools to enhance your terraform experience
 - [howdoi](https://github.com/gleitz/howdoi) - instant coding answers via the command line
 - [codebom](https://github.com/codebom/codebom) - Command-line tool to create, validate and analyze a Bill of Materials

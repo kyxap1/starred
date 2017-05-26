@@ -325,6 +325,7 @@
 
 ## Groovy 
 
+- [henka](https://github.com/rokudev/henka) - Henka (Terraform Gradle Plugin)
 - [rundeck](https://github.com/rundeck/rundeck) - Job scheduler and runbook automation. Enable self-service access to existing scripts and tools.
 - [tf_pipeline](https://github.com/benwtr/tf_pipeline) - Jenkins Pipeline jobs for Terraform with remote state locking, pull request integration and chat notifications
 - [gradle-capsule-plugin](https://github.com/danthegoodman/gradle-capsule-plugin) - A Gradle plugin for Capsule, the packaging and deployment tool for JVM apps.
@@ -644,6 +645,7 @@
 
 ## Others 
 
+- [ansible-role-docker](https://github.com/geerlingguy/ansible-role-docker) - Ansible Role - Docker
 - [dockerfile-terraform](https://github.com/uzyexe/dockerfile-terraform) - Terraform Dockerfile
 - [awesome-pentest](https://github.com/enaqx/awesome-pentest) - A collection of awesome penetration testing resources, tools and other shiny things
 - [sense](https://github.com/cheics/sense) - a json aware ElasticSearch front end
@@ -727,10 +729,12 @@
 
 ## PowerShell 
 
+- [packer-ami-pipeline](https://github.com/rackerlabs/packer-ami-pipeline) - Blog post and sample code for using Packer and CodeBuild & CodePipeline to make AMIs
 - [blue-green-aws-asg](https://github.com/JamesWoolfenden/blue-green-aws-asg) - 
 
 ## Python 
 
+- [packergen](https://github.com/mkheironimus/packergen) - Generate JSON files for Packer (http://packer.io/) from human-friendly YAML sources.
 - [shyaml](https://github.com/0k/shyaml) - YAML for command line
 - [terratools](https://github.com/Crapworks/terratools) - Some tools to enhance your terraform experience
 - [howdoi](https://github.com/gleitz/howdoi) - instant coding answers via the command line

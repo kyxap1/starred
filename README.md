@@ -46,7 +46,7 @@
 
 ## C 
 
-- [netdata](https://github.com/firehol/netdata) - Get control of your servers. Simple. Effective. Awesome. https://my-netdata.io/
+- [netdata](https://github.com/firehol/netdata) - Get control of your servers. Simple. Effective. Awesome! https://my-netdata.io/
 - [kafkacat](https://github.com/edenhill/kafkacat) - Generic command line non-JVM Apache Kafka producer and consumer
 - [pgreplay](https://github.com/laurenz/pgreplay) - pgreplay reads a PostgreSQL log file (*not* a WAL file), extracts the SQL statements and executes them in the same order and relative time against a PostgreSQL database cluster.
 - [snzip](https://github.com/kubo/snzip) - Snzip, a compression/decompression tool based on snappy
@@ -453,6 +453,7 @@
 
 ## Java 
 
+- [localstack-spring-boot](https://github.com/smartupio/localstack-spring-boot) - Atlassian LocalStack autoconfiguration for Spring Boot based Java projects
 - [archi](https://github.com/archimatetool/archi) - Archi: ArchiMate Modelling Tool
 - [s3proxy](https://github.com/andrewgaul/s3proxy) - Access other storage backends via the S3 API
 - [test-automation-quickstart](https://github.com/opencredo/test-automation-quickstart) - Quickstart project for test automation, covering performance, ui acceptance and api acceptance testing
@@ -517,6 +518,7 @@
 
 ## JavaScript 
 
+- [drone-starter](https://github.com/maqpie/drone-starter) - Make a first build with Drone CI in under 10 minutes
 - [LambStatus](https://github.com/ks888/LambStatus) - Serverless Status Page System
 - [c3vis](https://github.com/ExpediaDotCom/c3vis) - Visualize the resource utilisation of Amazon ECS clusters
 - [underscore-cli](https://github.com/ddopson/underscore-cli) - Command-line utility-belt for hacking JSON and Javascript.
@@ -736,6 +738,7 @@
 
 ## Python 
 
+- [wait-for-it](https://github.com/vishnubob/wait-for-it) - Pure bash script to test and wait on the availability of a TCP host and port
 - [packergen](https://github.com/mkheironimus/packergen) - Generate JSON files for Packer (http://packer.io/) from human-friendly YAML sources.
 - [shyaml](https://github.com/0k/shyaml) - YAML for command line
 - [terratools](https://github.com/Crapworks/terratools) - Some tools to enhance your terraform experience
@@ -881,6 +884,7 @@
 
 ## Ruby 
 
+- [asciinema.org](https://github.com/asciinema/asciinema.org) - asciinema hosting web app
 - [kitchen-terraform](https://github.com/newcontext-oss/kitchen-terraform) - Test Kitchen plugins for testing Terraform configurations
 - [serverspec](https://github.com/mizzy/serverspec) - RSpec tests for your servers configured by CFEngine, Puppet, Chef, Ansible, Itamae or anything else even by hand
 - [hashicorptools](https://github.com/controlshift/hashicorptools) - a set of ruby utilities for interacting with and wrapping packer and terraform
@@ -968,6 +972,9 @@
 
 ## Shell 
 
+- [deploy-drone](https://github.com/maqpie/deploy-drone) - Deploy amazing Drone CI in production ready and local envrionments
+- [cassandra-cluster](https://github.com/dmitry-zhuravlev/cassandra-cluster) - Cassandra cluster with Docker Compose.
+- [initcassandra](https://github.com/ansrivas/initcassandra) - A super hacky way to initialize keyspaces and tables in cassandra using docker-compose.
 - [oh-my-zsh](https://github.com/robbyrussell/oh-my-zsh) - A delightful community-driven (with 1,000+ contributors) framework for managing your zsh configuration. Includes 200+ optional plugins (rails, git, OSX, hub, capistrano, brew, ant, php, python, etc), over 140 themes to spice up your morning, and an auto-update tool so that makes it easy to keep up with the latest updates from the community.
 - [packer](https://github.com/subutai-io/packer) - 
 - [cloudwatch-logmonitoring](https://github.com/shogomuranushi/cloudwatch-logmonitoring) - Log file monitoring for cloudwatch.

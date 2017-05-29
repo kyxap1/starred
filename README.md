@@ -132,7 +132,8 @@
 
 ## Go 
 
-- [kraken](https://github.com/sevagh/kraken) - attach and mount EBS volumes from EC2
+- [ksonnet-lib](https://github.com/ksonnet/ksonnet-lib) - (technical preview) Simplify working with Kubernetes
+- [ebs_raid_wizard](https://github.com/sevagh/ebs_raid_wizard) - attach and mount EBS volumes from EC2
 - [drone-mvn](https://github.com/thomasf/drone-mvn) - Maven repository artifact publisher for Drone CI
 - [ec2-metadatafs](https://github.com/jszwedko/ec2-metadatafs) - EC2 metadata and tags as a filesystem
 - [gotools](https://github.com/Mykolaichenko/gotools) - Go Tools

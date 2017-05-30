@@ -41,6 +41,7 @@
   - [TypeScript](#typescript)
   - [Vim script](#vim script)
   - [VimL](#viml)
+  - [Vue](#vue)
   - [Web Ontology Language](#web ontology language)
   - [XSLT](#xslt)
 
@@ -132,8 +133,9 @@
 
 ## Go 
 
+- [swarmkit](https://github.com/docker/swarmkit) - A toolkit for orchestrating distributed systems at any scale. It includes primitives for node discovery, raft-based consensus, task scheduling and more.
 - [ksonnet-lib](https://github.com/ksonnet/ksonnet-lib) - (technical preview) Simplify working with Kubernetes
-- [ebs_raid_wizard](https://github.com/sevagh/ebs_raid_wizard) - attach and mount EBS volumes from EC2
+- [goat](https://github.com/sevagh/goat) - attach and mount EBS volumes with go
 - [drone-mvn](https://github.com/thomasf/drone-mvn) - Maven repository artifact publisher for Drone CI
 - [ec2-metadatafs](https://github.com/jszwedko/ec2-metadatafs) - EC2 metadata and tags as a filesystem
 - [gotools](https://github.com/Mykolaichenko/gotools) - Go Tools
@@ -519,6 +521,7 @@
 
 ## JavaScript 
 
+- [git2consul](https://github.com/Cimpress-MCP/git2consul) - Mirrors the contents of a git repository into Consul KVs.
 - [drone-starter](https://github.com/maqpie/drone-starter) - Make a first build with Drone CI in under 10 minutes
 - [LambStatus](https://github.com/ks888/LambStatus) - Serverless Status Page System
 - [c3vis](https://github.com/ExpediaDotCom/c3vis) - Visualize the resource utilisation of Amazon ECS clusters
@@ -650,6 +653,7 @@
 
 ## Others 
 
+- [awesome-docker](https://github.com/veggiemonk/awesome-docker) - :whale: A curated list of Docker resources and projects
 - [ansible-role-docker](https://github.com/geerlingguy/ansible-role-docker) - Ansible Role - Docker
 - [dockerfile-terraform](https://github.com/uzyexe/dockerfile-terraform) - Terraform Dockerfile
 - [awesome-pentest](https://github.com/enaqx/awesome-pentest) - A collection of awesome penetration testing resources, tools and other shiny things
@@ -739,6 +743,7 @@
 
 ## Python 
 
+- [cassandra-migrate](https://github.com/Cobliteam/cassandra-migrate) - Simple Cassandra schema migration tool written in Python
 - [wait-for-it](https://github.com/vishnubob/wait-for-it) - Pure bash script to test and wait on the availability of a TCP host and port
 - [packergen](https://github.com/mkheironimus/packergen) - Generate JSON files for Packer (http://packer.io/) from human-friendly YAML sources.
 - [shyaml](https://github.com/0k/shyaml) - YAML for command line
@@ -892,7 +897,7 @@
 - [certman](https://github.com/k1LoW/certman) - CLI tool for AWS Certificate Manager.
 - [terraform-landscape](https://github.com/coinbase/terraform-landscape) - Landscaping Terraform: Improving Terraform plan output to be easier to read and understand
 - [janky](https://github.com/github/janky) - Continuous integration server built on top of Jenkins and Hubot
-- [graphql-ruby](https://github.com/rmosolgo/graphql-ruby) - Ruby implementation of GraphQL: https://rmosolgo.github.io/graphql-ruby/
+- [graphql-ruby](https://github.com/rmosolgo/graphql-ruby) - Ruby implementation of GraphQL
 - [rezept](https://github.com/serverworks/rezept) - A tool to manage EC2 Systems Manager Documents.
 - [aws-codedeploy-agent](https://github.com/aws/aws-codedeploy-agent) - Host Agent for AWS CodeDeploy
 - [appear](https://github.com/airbnb/appear) - reveal terminal programs in the gui
@@ -973,6 +978,7 @@
 
 ## Shell 
 
+- [elastic-ci-stack-for-aws](https://github.com/buildkite/elastic-ci-stack-for-aws) - A simple, flexible, auto-scaling cluster of build agents running in your own AWS VPC
 - [deploy-drone](https://github.com/maqpie/deploy-drone) - Deploy amazing Drone CI in production ready and local envrionments
 - [cassandra-cluster](https://github.com/dmitry-zhuravlev/cassandra-cluster) - Cassandra cluster with Docker Compose.
 - [initcassandra](https://github.com/ansrivas/initcassandra) - A super hacky way to initialize keyspaces and tables in cassandra using docker-compose.
@@ -1109,6 +1115,10 @@
 - [vim-hclfmt](https://github.com/fatih/vim-hclfmt) - Vim plugin for hclfmt
 - [spf13-vim](https://github.com/spf13/spf13-vim) - The ultimate vim distribution
 - [vim-go-ide](https://github.com/farazdagi/vim-go-ide) - Ready to use, fully configured for Go development.
+
+## Vue 
+
+- [goldfish](https://github.com/Caiyeon/goldfish) - A HashiCorp Vault UI panel written with VueJS and Vault native Go API
 
 ## Web Ontology Language 
 

@@ -135,7 +135,7 @@
 
 - [swarmkit](https://github.com/docker/swarmkit) - A toolkit for orchestrating distributed systems at any scale. It includes primitives for node discovery, raft-based consensus, task scheduling and more.
 - [ksonnet-lib](https://github.com/ksonnet/ksonnet-lib) - (technical preview) Simplify working with Kubernetes
-- [goat](https://github.com/sevagh/goat) - attach and mount EBS volumes with go
+- [goat](https://github.com/sevagh/goat) - GO-ATtach :goat: : attach, mount, and RAID EBS volumes
 - [drone-mvn](https://github.com/thomasf/drone-mvn) - Maven repository artifact publisher for Drone CI
 - [ec2-metadatafs](https://github.com/jszwedko/ec2-metadatafs) - EC2 metadata and tags as a filesystem
 - [gotools](https://github.com/Mykolaichenko/gotools) - Go Tools

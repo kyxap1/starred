@@ -763,7 +763,7 @@
 - [spilo](https://github.com/zalando/spilo) - Highly available elephant herd: HA PostgreSQL cluster using Docker
 - [aws_role_credentials](https://github.com/ThoughtWorksInc/aws_role_credentials) - Generates AWS credentials for roles using STS
 - [awsie](https://github.com/flomotlik/awsie) - CloudFormation aware wrapper for the AWSCLI
-- [stacker](https://github.com/remind101/stacker) - An opinionated AWS CloudFormation Stack builder.
+- [stacker](https://github.com/remind101/stacker) - An AWS CloudFormation Stack orchestrator/manager.
 - [sceptre](https://github.com/cloudreach/sceptre) - Build better AWS infrastructure
 - [stethoscope](https://github.com/Netflix/stethoscope) - Personalized, user-focused recommendations for employee information security.
 - [ansible-pgbouncer](https://github.com/alexey-medvedchikov/ansible-pgbouncer) - This ansible role configures PgBouncer PostgreSQL connection mux utility.

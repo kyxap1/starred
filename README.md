@@ -133,6 +133,8 @@
 
 ## Go 
 
+- [kops](https://github.com/kubernetes/kops) - Kubernetes Operations (kops) - Production Grade K8s Installation, Upgrades, and Management
+- [gomplate](https://github.com/hairyhenderson/gomplate) - A commandline Golang template processor
 - [swarmkit](https://github.com/docker/swarmkit) - A toolkit for orchestrating distributed systems at any scale. It includes primitives for node discovery, raft-based consensus, task scheduling and more.
 - [ksonnet-lib](https://github.com/ksonnet/ksonnet-lib) - (technical preview) Simplify working with Kubernetes
 - [goat](https://github.com/sevagh/goat) - GO-ATtach :goat: : attach, mount, and RAID EBS volumes
@@ -337,6 +339,8 @@
 
 ## HCL 
 
+- [hashidays-nyc](https://github.com/jen20/hashidays-nyc) - Code accompanying my talk at HashiDays New York, 2017
+- [terraform-rancher](https://github.com/cloudnautique/terraform-rancher) - 
 - [tf_aws_openvpn](https://github.com/terraform-community-modules/tf_aws_openvpn) - Terraform module which creates OpenVPN on AWS
 - [mastodon-terraform](https://github.com/r7kamura/mastodon-terraform) - Boilerplate for running Mastodon on AWS using Terraform and CircleCI.
 - [terraform-aws-starterkit-mirror](https://github.com/carrete/terraform-aws-starterkit-mirror) - This is only a mirror. Please see the official repository on GitLab.
@@ -456,6 +460,7 @@
 
 ## Java 
 
+- [cdm](https://github.com/rustyrazorblade/cdm) - Cassandra Dataset Manager
 - [localstack-spring-boot](https://github.com/smartupio/localstack-spring-boot) - Atlassian LocalStack autoconfiguration for Spring Boot based Java projects
 - [archi](https://github.com/archimatetool/archi) - Archi: ArchiMate Modelling Tool
 - [s3proxy](https://github.com/andrewgaul/s3proxy) - Access other storage backends via the S3 API
@@ -743,6 +748,8 @@
 
 ## Python 
 
+- [pentagon](https://github.com/reactiveops/pentagon) - A framework for building repeatable, containerized, cloud-based infrastructure as code with Kubernetes.
+- [molecule](https://github.com/metacloud/molecule) - Molecule aids in the development and testing of Ansible roles.
 - [cassandra-migrate](https://github.com/Cobliteam/cassandra-migrate) - Simple Cassandra schema migration tool written in Python
 - [wait-for-it](https://github.com/vishnubob/wait-for-it) - Pure bash script to test and wait on the availability of a TCP host and port
 - [packergen](https://github.com/mkheironimus/packergen) - Generate JSON files for Packer (http://packer.io/) from human-friendly YAML sources.
@@ -890,6 +897,7 @@
 
 ## Ruby 
 
+- [github-changelog-generator](https://github.com/skywinder/github-changelog-generator) - Automatically generate change log from your tags, issues, labels and pull requests on GitHub.
 - [asciinema.org](https://github.com/asciinema/asciinema.org) - asciinema hosting web app
 - [kitchen-terraform](https://github.com/newcontext-oss/kitchen-terraform) - Test Kitchen plugins for testing Terraform configurations
 - [serverspec](https://github.com/mizzy/serverspec) - RSpec tests for your servers configured by CFEngine, Puppet, Chef, Ansible, Itamae or anything else even by hand
@@ -1108,6 +1116,7 @@
 
 ## VimL 
 
+- [vim-expand-region](https://github.com/terryma/vim-expand-region) - Vim plugin that allows you to visually select increasingly larger regions of text using the same key combination.
 - [molokai](https://github.com/tomasr/molokai) - Molokai color scheme for Vim
 - [vim-openresty](https://github.com/hexchain/vim-openresty) - Openresty configuration highlight for Vim
 - [vim-colors-solarized](https://github.com/altercation/vim-colors-solarized) - precision colorscheme for the vim text editor

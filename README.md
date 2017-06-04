@@ -1102,6 +1102,8 @@
 
 ## Vim script 
 
+- [neomake](https://github.com/neomake/neomake) - Asynchronous linting and make framework for Neovim/Vim
+- [vim-terraform-completion](https://github.com/juliosueiras/vim-terraform-completion) - A (Neo)Vim Autocompletion and linter for Terraform, a HashiCorp tool
 - [vim-jsonnet](https://github.com/google/vim-jsonnet) - Jsonnet filetype plugin for Vim.
 - [vim-repeat](https://github.com/tpope/vim-repeat) - repeat.vim: enable repeating supported plugin maps with "."
 - [Vim-Jinja2-Syntax](https://github.com/Glench/Vim-Jinja2-Syntax) - An up-to-date jinja2 syntax file.

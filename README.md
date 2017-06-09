@@ -149,7 +149,7 @@
 - [terraform-provider-zabbix](https://github.com/dainis/terraform-provider-zabbix) - 
 - [terraform-provider-awsplus](https://github.com/BWITS/terraform-provider-awsplus) - missing resources in terraform aws provider
 - [terraform-ci](https://github.com/webdevwilson/terraform-ci) - CI tool for Terraform
-- [tftest](https://github.com/quintilesims/tftest) - Integration for testing with Terraform
+- [tftest](https://github.com/quintilesims/tftest) - Tool for Go testing with Terraform
 - [sabaviz](https://github.com/tom--bo/sabaviz) - Create dot files for graphviz which visualize servers connections by netstat output
 - [graphviz](https://github.com/k8sp/graphviz) - A Golang GraphViz server used to generate inline images from .dot files.
 - [dcsg](https://github.com/andreaskoch/dcsg) - dcsg is a command-line utility for Linux that generates systemd services for Docker Compose projects
@@ -658,6 +658,7 @@
 
 ## Others 
 
+- [awesome-design-systems](https://github.com/alexpate/awesome-design-systems) - 💅🏻 ⚒ A collection of awesome design systems
 - [awesome-docker](https://github.com/veggiemonk/awesome-docker) - :whale: A curated list of Docker resources and projects
 - [ansible-role-docker](https://github.com/geerlingguy/ansible-role-docker) - Ansible Role - Docker
 - [dockerfile-terraform](https://github.com/uzyexe/dockerfile-terraform) - Terraform Dockerfile
@@ -808,7 +809,7 @@
 - [glances](https://github.com/nicolargo/glances) - Glances an Eye on your system. A top/htop alternative.
 - [locust](https://github.com/locustio/locust) - Scalable user load testing tool written in Python
 - [compose](https://github.com/docker/compose) - Define and run multi-container applications with Docker
-- [superset](https://github.com/airbnb/superset) - Superset is a modern, enterprise-ready business intelligence web application
+- [superset](https://github.com/airbnb/superset) - Apache Superset (incubating) is a modern, enterprise-ready business intelligence web application
 - [http-prompt](https://github.com/eliangcs/http-prompt) - HTTPie + prompt_toolkit = an interactive command-line HTTP client featuring autocomplete and syntax highlighting
 - [awesomo](https://github.com/lk-geimfari/awesomo) - An extensive list of interesting open source projects written in С, C++, Clojure, Lisp (Common/Emacs), Elixir, Erlang, Elm, Golang, Haskell, JavaScript, Lua, OCaml, Python, R, Ruby, Rust, Scala etc.
 - [rds-pgbadger](https://github.com/fpietka/rds-pgbadger) - Fetch logs from RDS instance, and process them with pgBadger

@@ -117,7 +117,6 @@
 - [language-hcl](https://github.com/fd/language-hcl) - A grammar for the HashiCorp Configuration Language.
 - [hcl-to-json](https://github.com/gokmen/hcl-to-json) - HCL to JSON converter in CoffeeScript
 - [aglio](https://github.com/danielgtaylor/aglio) - An API Blueprint renderer with theme support that outputs static HTML
-- [hubot](https://github.com/github/hubot) - A customizable life embetterment robot.
 
 ## Common Lisp 
 
@@ -133,6 +132,7 @@
 
 ## Go 
 
+- [module-security-public](https://github.com/gruntwork-io/module-security-public) - The public documentation for the gruntwork-io/module-security repo, which contains packages for setting up best practices for managing secrets, credentials, and servers
 - [kops](https://github.com/kubernetes/kops) - Kubernetes Operations (kops) - Production Grade K8s Installation, Upgrades, and Management
 - [gomplate](https://github.com/hairyhenderson/gomplate) - A commandline Golang template processor
 - [swarmkit](https://github.com/docker/swarmkit) - A toolkit for orchestrating distributed systems at any scale. It includes primitives for node discovery, raft-based consensus, task scheduling and more.
@@ -612,6 +612,7 @@
 - [mr-data-converter](https://github.com/shancarter/mr-data-converter) - Takes CSV or tab-delimited data from Excel and converts it into several web-friendly formats, include JSON and XML.
 - [wide](https://github.com/b3log/wide) - :fireworks: A Web-based IDE for Teams using Go programming language/Golang. 一个基于 Web 的 Go 语言 IDE。https://wide.b3log.org
 - [GetOptGenerator](https://github.com/dafuer/GetOptGenerator) - Easy way to start a C project
+- [hubot](https://github.com/github/hubot) - A customizable life embetterment robot.
 - [foresight.js](https://github.com/adamdbradley/foresight.js) - DEPRECATED: Prior to recent developments with the picture element, Foresight.js gaves webpages the ability to tell if the user's device is capable of viewing high-resolution images before the image is requested from the server. Additionally, it judges if the user's device currently has a fast enough network connection for high-resolution images. Depending on device display and network connectivity, foresight.js will request the appropriate image for the webpage.
 - [zabbixGrapher](https://github.com/sepich/zabbixGrapher) - Quick search/view zabbix graphs
 - [opsworks-cli](https://github.com/skyebook/opsworks-cli) - Perform common OpsWorks tasks from the command line
@@ -658,6 +659,7 @@
 
 ## Others 
 
+- [awesome-sre](https://github.com/dastergon/awesome-sre) - A curated list of awesome Site Reliability and Production Engineering resources.
 - [awesome-design-systems](https://github.com/alexpate/awesome-design-systems) - 💅🏻 ⚒ A collection of awesome design systems
 - [awesome-docker](https://github.com/veggiemonk/awesome-docker) - :whale: A curated list of Docker resources and projects
 - [ansible-role-docker](https://github.com/geerlingguy/ansible-role-docker) - Ansible Role - Docker
@@ -987,6 +989,7 @@
 
 ## Shell 
 
+- [aui](https://github.com/helmuthdu/aui) - Archlinux Ultimate Install
 - [elastic-ci-stack-for-aws](https://github.com/buildkite/elastic-ci-stack-for-aws) - A simple, flexible, auto-scaling cluster of build agents running in your own AWS VPC
 - [deploy-drone](https://github.com/maqpie/deploy-drone) - Deploy amazing Drone CI in production ready and local envrionments
 - [cassandra-cluster](https://github.com/dmitry-zhuravlev/cassandra-cluster) - Cassandra cluster with Docker Compose.

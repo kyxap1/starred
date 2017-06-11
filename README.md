@@ -13,6 +13,7 @@
   - [CoffeeScript](#coffeescript)
   - [Common Lisp](#common lisp)
   - [Elixir](#elixir)
+  - [Erlang](#erlang)
   - [Gherkin](#gherkin)
   - [Go](#go)
   - [Groovy](#groovy)
@@ -120,11 +121,15 @@
 
 ## Common Lisp 
 
-- [pgloader](https://github.com/dimitri/pgloader) - Loading data into PostgreSQL
+- [pgloader](https://github.com/dimitri/pgloader) - Migrate to PostgreSQL in a single command!
 
 ## Elixir 
 
 - [exhcl](https://github.com/asakura/exhcl) - Configuration language inspired by HCL
+
+## Erlang 
+
+- [awesomo](https://github.com/lk-geimfari/awesomo) - An extensive list of interesting open source projects written in С, C++, Clojure, Lisp (Common/Emacs), Elixir, Erlang, Elm, Golang, Haskell, JavaScript, Lua, OCaml, Python, R, Ruby, Rust, Scala etc.
 
 ## Gherkin 
 
@@ -813,7 +818,6 @@
 - [compose](https://github.com/docker/compose) - Define and run multi-container applications with Docker
 - [superset](https://github.com/airbnb/superset) - Apache Superset (incubating) is a modern, enterprise-ready business intelligence web application
 - [http-prompt](https://github.com/eliangcs/http-prompt) - HTTPie + prompt_toolkit = an interactive command-line HTTP client featuring autocomplete and syntax highlighting
-- [awesomo](https://github.com/lk-geimfari/awesomo) - An extensive list of interesting open source projects written in С, C++, Clojure, Lisp (Common/Emacs), Elixir, Erlang, Elm, Golang, Haskell, JavaScript, Lua, OCaml, Python, R, Ruby, Rust, Scala etc.
 - [rds-pgbadger](https://github.com/fpietka/rds-pgbadger) - Fetch logs from RDS instance, and process them with pgBadger
 - [pgcli](https://github.com/dbcli/pgcli) - Postgres CLI with autocompletion and syntax highlighting
 - [source-code-pro](https://github.com/adobe-fonts/source-code-pro) - Monospaced font family for user interface and coding environments
@@ -900,6 +904,7 @@
 
 ## Ruby 
 
+- [packer-config](https://github.com/ianchesal/packer-config) - A Ruby way to generate packer.io configurations
 - [github-changelog-generator](https://github.com/skywinder/github-changelog-generator) - Automatically generate change log from your tags, issues, labels and pull requests on GitHub.
 - [asciinema.org](https://github.com/asciinema/asciinema.org) - asciinema hosting web app
 - [kitchen-terraform](https://github.com/newcontext-oss/kitchen-terraform) - Test Kitchen plugins for testing Terraform configurations

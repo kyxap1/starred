@@ -617,7 +617,7 @@
 - [mr-data-converter](https://github.com/shancarter/mr-data-converter) - Takes CSV or tab-delimited data from Excel and converts it into several web-friendly formats, include JSON and XML.
 - [wide](https://github.com/b3log/wide) - :fireworks: A Web-based IDE for Teams using Go programming language/Golang. 一个基于 Web 的 Go 语言 IDE。https://wide.b3log.org
 - [GetOptGenerator](https://github.com/dafuer/GetOptGenerator) - Easy way to start a C project
-- [hubot](https://github.com/github/hubot) - A customizable life embetterment robot.
+- [hubot](https://github.com/hubotio/hubot) - A customizable life embetterment robot.
 - [foresight.js](https://github.com/adamdbradley/foresight.js) - DEPRECATED: Prior to recent developments with the picture element, Foresight.js gaves webpages the ability to tell if the user's device is capable of viewing high-resolution images before the image is requested from the server. Additionally, it judges if the user's device currently has a fast enough network connection for high-resolution images. Depending on device display and network connectivity, foresight.js will request the appropriate image for the webpage.
 - [zabbixGrapher](https://github.com/sepich/zabbixGrapher) - Quick search/view zabbix graphs
 - [opsworks-cli](https://github.com/skyebook/opsworks-cli) - Perform common OpsWorks tasks from the command line

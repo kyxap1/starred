@@ -181,7 +181,7 @@
 - [jennifer](https://github.com/dave/jennifer) - Jennifer is a code generator for Go
 - [easyjson](https://github.com/mailru/easyjson) - Fast JSON serializer for golang.
 - [srclib](https://github.com/sourcegraph/srclib) - srclib is a polyglot code analysis library, built for hackability. It consists of language analysis toolchains (currently for Go and Java, with Python, JavaScript, and Ruby in beta) with a common output format, and a CLI tool for running the analysis.
-- [s3cli](https://github.com/pivotal-golang/s3cli) - Go CLI for S3
+- [bosh-s3cli](https://github.com/cloudfoundry/bosh-s3cli) - Go CLI for S3
 - [stretcher](https://github.com/fujiwara/stretcher) - Deployment tool with consul/serf event notification.
 - [go-nitro](https://github.com/chiradeep/go-nitro) - A Golang client to the Citrix NetScaler API
 - [gestalt](https://github.com/asteris-llc/gestalt) - 
@@ -326,7 +326,7 @@
 - [s3git](https://github.com/s3git/s3git) - s3git: git for Cloud Storage. Distributed Version Control for Data. Create decentralized and versioned repos that scale infinitely to 100s of millions of files. Clone huge PB-scale repos on your local SSD to make changes, commit and push back. Oh yeah, it dedupes too and offers directory versioning.
 - [godef](https://github.com/rogpeppe/godef) - Print where symbols are defined in Go source code
 - [viper](https://github.com/spf13/viper) - Go configuration with fangs
-- [hugo](https://github.com/spf13/hugo) - A Fast and Flexible Static Site Generator built with love in GoLang
+- [hugo](https://github.com/gohugoio/hugo) - A Fast and Flexible Static Site Generator built with love in GoLang.
 - [goa](https://github.com/goadesign/goa) - Design-based APIs and microservices in Go
 - [cobra](https://github.com/spf13/cobra) - A Commander for modern Go CLI interactions
 - [license](https://github.com/nishanths/license) - Command-line license generator. Supports all the licenses available on GitHub.
@@ -510,7 +510,6 @@
 - [apigateway](https://github.com/AWSinAction/apigateway) - AWS in Action: API Gateway
 - [elasticsearch-knapsack](https://github.com/jprante/elasticsearch-knapsack) - Knapsack plugin is an import/export tool for Elasticsearch
 - [jgroups-aws](https://github.com/meltmedia/jgroups-aws) - An AWS Discovery Component for JGroups
-- [hazelcast-cli](https://github.com/hazelcast/hazelcast-cli) - 
 - [hazelcast-aws](https://github.com/hazelcast/hazelcast-aws) - AWS EC2 discovery plugin for hazelcast
 - [jaxrs-analyzer](https://github.com/sdaschner/jaxrs-analyzer) - Creates REST documentation for JAX-RS projects
 - [genie](https://github.com/Netflix/genie) - Distributed Big Data Orchestration Service

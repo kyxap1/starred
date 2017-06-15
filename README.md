@@ -153,7 +153,7 @@
 - [awesome-go](https://github.com/avelino/awesome-go) - A curated list of awesome Go frameworks, libraries and software
 - [terraform-provider-zabbix](https://github.com/dainis/terraform-provider-zabbix) - 
 - [terraform-provider-awsplus](https://github.com/BWITS/terraform-provider-awsplus) - missing resources in terraform aws provider
-- [terraform-ci](https://github.com/webdevwilson/terraform-ci) - CI tool for Terraform
+- [tfwatch](https://github.com/webdevwilson/tfwatch) - CI tool for Terraform
 - [tftest](https://github.com/quintilesims/tftest) - Tool for Go testing with Terraform
 - [sabaviz](https://github.com/tom--bo/sabaviz) - Create dot files for graphviz which visualize servers connections by netstat output
 - [graphviz](https://github.com/k8sp/graphviz) - A Golang GraphViz server used to generate inline images from .dot files.
@@ -276,7 +276,7 @@
 - [ctop](https://github.com/chrusty/ctop) - CTOP ("top" for Cassandra) - See what's going on in real-time
 - [go-priam](https://github.com/alext29/go-priam) - Backup and restore Cassandra DB to AWS S3
 - [terraform-multipart-userdata](https://github.com/chrusty/terraform-multipart-userdata) - Cruft for Terraform
-- [autospotting](https://github.com/cristim/autospotting) - Easy to use tool that automatically replaces some or even all on-demand AutoScaling group members with similar or larger identically configured spot instances in order to generate significant cost savings on AWS EC2.
+- [autospotting](https://github.com/cristim/autospotting) - Easy to use tool that automatically replaces some or even all on-demand AutoScaling group members with similar or larger identically configured spot instances in order to generate significant cost savings on AWS EC2, behaving much like an AutoScaling-backed spot fleet.
 - [oauth2_proxy](https://github.com/bitly/oauth2_proxy) - A reverse proxy that provides authentication with Google, Github or other provider
 - [bashcomp](https://github.com/omakoto/bashcomp) - 
 - [sh](https://github.com/mvdan/sh) - A shell parser, formatter and interpreter (POSIX/Bash/mksh)
@@ -993,6 +993,7 @@
 
 ## Shell 
 
+- [nginxse-virtualhost-generator](https://github.com/hishriTaha/nginxse-virtualhost-generator) - A CLI-based tool that helps you generate NGINX server block configuration files in a few seconds.
 - [aui](https://github.com/helmuthdu/aui) - Archlinux Ultimate Install
 - [elastic-ci-stack-for-aws](https://github.com/buildkite/elastic-ci-stack-for-aws) - A simple, flexible, auto-scaling cluster of build agents running in your own AWS VPC
 - [deploy-drone](https://github.com/maqpie/deploy-drone) - Deploy amazing Drone CI in production ready and local envrionments

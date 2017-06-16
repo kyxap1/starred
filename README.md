@@ -153,7 +153,7 @@
 - [awesome-go](https://github.com/avelino/awesome-go) - A curated list of awesome Go frameworks, libraries and software
 - [terraform-provider-zabbix](https://github.com/dainis/terraform-provider-zabbix) - 
 - [terraform-provider-awsplus](https://github.com/BWITS/terraform-provider-awsplus) - missing resources in terraform aws provider
-- [tfwatch](https://github.com/webdevwilson/tfwatch) - CI tool for Terraform
+- [tfwatch](https://github.com/webdevwilson/tfwatch) - Continuous infrastructure tool
 - [tftest](https://github.com/quintilesims/tftest) - Tool for Go testing with Terraform
 - [sabaviz](https://github.com/tom--bo/sabaviz) - Create dot files for graphviz which visualize servers connections by netstat output
 - [graphviz](https://github.com/k8sp/graphviz) - A Golang GraphViz server used to generate inline images from .dot files.
@@ -530,6 +530,7 @@
 
 ## JavaScript 
 
+- [staticrypt](https://github.com/robinmoisson/staticrypt) - Password protect a static HTML page
 - [git2consul](https://github.com/Cimpress-MCP/git2consul) - Mirrors the contents of a git repository into Consul KVs.
 - [drone-starter](https://github.com/maqpie/drone-starter) - Make a first build with Drone CI in under 10 minutes
 - [LambStatus](https://github.com/ks888/LambStatus) - Serverless Status Page System
@@ -925,7 +926,7 @@
 - [interferon](https://github.com/airbnb/interferon) - Signaling you about infrastructure or application issues
 - [kafkat](https://github.com/airbnb/kafkat) - KafkaT-ool
 - [logstash-input-kinesis](https://github.com/logstash-plugins/logstash-input-kinesis) - Logstash Plugin for AWS Kinesis Input
-- [pgsync](https://github.com/ankane/pgsync) - Postgres data -&gt; your local machine
+- [pgsync](https://github.com/ankane/pgsync) - Sync Postgres data between databases
 - [lbrt](https://github.com/codenize-tools/lbrt) - A tool to manage Librato. It defines the state of Librato using DSL, and updates Librato according to DSL.
 - [miam](https://github.com/codenize-tools/miam) - Miam is a tool to manage IAM. It defines the state of IAM using DSL, and updates IAM according to DSL.
 - [posgra](https://github.com/codenize-tools/posgra) - Posgra is a tool to manage PostgreSQL roles/permissions.

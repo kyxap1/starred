@@ -439,6 +439,7 @@
 
 ## HTML 
 
+- [staticrypt](https://github.com/robinmoisson/staticrypt) - Password protect a static HTML page
 - [node-red-dashboard](https://github.com/node-red/node-red-dashboard) - A dashboard UI for Node-RED
 - [pup](https://github.com/ericchiang/pup) - Parsing HTML at the command line
 - [vega](https://github.com/vega/vega) - A visualization grammar.
@@ -530,7 +531,6 @@
 
 ## JavaScript 
 
-- [staticrypt](https://github.com/robinmoisson/staticrypt) - Password protect a static HTML page
 - [git2consul](https://github.com/Cimpress-MCP/git2consul) - Mirrors the contents of a git repository into Consul KVs.
 - [drone-starter](https://github.com/maqpie/drone-starter) - Make a first build with Drone CI in under 10 minutes
 - [LambStatus](https://github.com/ks888/LambStatus) - Serverless Status Page System
@@ -615,7 +615,7 @@
 - [csv](https://github.com/segmentio/csv) - Uber simple CSV formatting/parsing for node
 - [nginx-jwt](https://github.com/auth0/nginx-jwt) - Lua script for Nginx that performs reverse proxy auth using JWT's
 - [mr-data-converter](https://github.com/shancarter/mr-data-converter) - Takes CSV or tab-delimited data from Excel and converts it into several web-friendly formats, include JSON and XML.
-- [wide](https://github.com/b3log/wide) - :fireworks: A Web-based IDE for Teams using Go programming language/Golang. 一个基于 Web 的 Go 语言 IDE。https://wide.b3log.org
+- [wide](https://github.com/b3log/wide) - :fireworks: A Web-based IDE for teams using Go programming language/Golang. 一个基于 Web 的 Go 语言 IDE。https://wide.b3log.org
 - [GetOptGenerator](https://github.com/dafuer/GetOptGenerator) - Easy way to start a C project
 - [hubot](https://github.com/hubotio/hubot) - A customizable life embetterment robot.
 - [foresight.js](https://github.com/adamdbradley/foresight.js) - DEPRECATED: Prior to recent developments with the picture element, Foresight.js gaves webpages the ability to tell if the user's device is capable of viewing high-resolution images before the image is requested from the server. Additionally, it judges if the user's device currently has a fast enough network connection for high-resolution images. Depending on device display and network connectivity, foresight.js will request the appropriate image for the webpage.
@@ -859,7 +859,7 @@
 - [Zappa](https://github.com/Miserlou/Zappa) - Serverless Python Web Services
 - [thumbnail-service](https://github.com/Schweigi/thumbnail-service) - Thumbnail API service
 - [python-lambder](https://github.com/LeafSoftware/python-lambder) - Create and manage scheduled AWS Lambdas from the CLI
-- [aws-lambda-python-local](https://github.com/sportarchive/aws-lambda-python-local) - Run and Test locally, Dist and Deploy online your AWS Lambda Python functions with a simple Makefile. Deploy, Stage and Test you API Gateway calls too!
+- [aws-lambda-python-local](https://github.com/bfansports/aws-lambda-python-local) - Run and Test locally, Dist and Deploy online your AWS Lambda Python functions with a simple Makefile. Deploy, Stage and Test you API Gateway calls too!
 - [s3redirect](https://github.com/nathangrigg/s3redirect) - Provides a command line tool to synchronize web site redirects with an Amazon S3 bucket.
 - [ComboAMI](https://github.com/riptano/ComboAMI) - The AMI takes a set of input parameters via the EC2 user-data to install, RAID, ring, and launch a DataStax Enterprise/Community cluster.
 - [cct](https://github.com/containers-tools/cct) - containers configuration tool

@@ -137,6 +137,7 @@
 
 ## Go 
 
+- [amazon-ecr-credential-helper](https://github.com/awslabs/amazon-ecr-credential-helper) - Automatically gets credentials for Amazon ECR on docker push/docker pull
 - [module-security-public](https://github.com/gruntwork-io/module-security-public) - The public documentation for the gruntwork-io/module-security repo, which contains packages for setting up best practices for managing secrets, credentials, and servers
 - [kops](https://github.com/kubernetes/kops) - Kubernetes Operations (kops) - Production Grade K8s Installation, Upgrades, and Management
 - [gomplate](https://github.com/hairyhenderson/gomplate) - A commandline Golang template processor

@@ -188,7 +188,7 @@
 - [gestalt](https://github.com/asteris-llc/gestalt) - 
 - [lego](https://github.com/xenolf/lego) - Let's Encrypt client and ACME library written in Go
 - [hammer](https://github.com/asteris-llc/hammer) - Build packages from a simple spec
-- [scipipe](https://github.com/scipipe/scipipe) - A library for writing scientific workflows in Go / Golang, inspired by Flow-Based Programming. For docs, see:
+- [scipipe](https://github.com/scipipe/scipipe) - SciPipe is a library for writing scientific workflows (sometimes also called "pipelines") of shell commands that depend on each other, in the Go programming languages. It was initially designed for problems in cheminformatics and bioinformatics, but applies equally well to any domain involving complex pipelines of interdependent shell commands.
 - [converge](https://github.com/asteris-llc/converge) - A powerful and easy-to-use configuration management system.
 - [tablewriter](https://github.com/olekukonko/tablewriter) - ASCII table in golang
 - [colonize](https://github.com/craigmonson/colonize) - A terraform tool to manage environment driven templating.
@@ -308,6 +308,7 @@
 - [terraform-aws-vars](https://github.com/drmdrew/terraform-aws-vars) - Generates Terraform AWS configuration variables suitable for the currently configured AWS account.
 - [terraform-plan-decoder](https://github.com/pearkes/terraform-plan-decoder) - A small utility to decode Terraform plan files.
 - [tholos](https://github.com/mhlias/tholos) - Prototype Terraform wrapper
+- [concourse](https://github.com/concourse/concourse) - BOSH release and development workspace for Concourse
 - [terraform-provisioner-makefile](https://github.com/jtopjian/terraform-provisioner-makefile) - A Makefile / make provisioner for Terraform
 - [terrastache](https://github.com/cbroglie/terrastache) - Use terraform variables and mustache templates to generate terraform configs
 - [terraform-provider-localfile](https://github.com/mcoffin/terraform-provider-localfile) - Simple terraform provider plugin to give access to local files.
@@ -345,6 +346,7 @@
 
 ## HCL 
 
+- [terraform-modules](https://github.com/uniiverse/terraform-modules) - 
 - [hashidays-nyc](https://github.com/jen20/hashidays-nyc) - Code accompanying my talk at HashiDays New York, 2017
 - [terraform-rancher](https://github.com/cloudnautique/terraform-rancher) - 
 - [tf_aws_openvpn](https://github.com/terraform-community-modules/tf_aws_openvpn) - Terraform module which creates OpenVPN on AWS
@@ -675,7 +677,7 @@
 - [ansible-barman](https://github.com/alexey-medvedchikov/ansible-barman) - Ansible role for barman PostgreSQL backup utility
 - [design-patterns-for-humans](https://github.com/kamranahmedse/design-patterns-for-humans) - Design Patterns for Humans™ - An ultra-simplified explanation
 - [awesome-osx-command-line](https://github.com/herrbischoff/awesome-osx-command-line) - Use your OS X terminal shell to do awesome things.
-- [awesome-java](https://github.com/akullpp/awesome-java) - A curated list of awesome Java frameworks, libraries and software.
+- [awesome-java](https://github.com/akullpp/awesome-java) - A curated list of awesome frameworks, libraries and software for the Java programming language.
 - [awesome-pipeline](https://github.com/pditommaso/awesome-pipeline) - A curated list of awesome pipeline toolkits inspired by Awesome Sysadmin
 - [mylinks](https://github.com/smdocs/mylinks) - 
 - [generating-certs](https://github.com/jason-riddle/generating-certs) - Guides on generating, installing, and rotating SSL certs.
@@ -1073,7 +1075,6 @@
 - [repository](https://github.com/ulyaoth/repository) - Ulyaoth Repository
 - [gvm](https://github.com/moovweb/gvm) - Go Version Manager
 - [wtf](https://github.com/wasdefn/wtf) - Wrappers for Terraform
-- [concourse](https://github.com/concourse/concourse) - BOSH release and development workspace for Concourse
 - [docker-cleanup](https://github.com/meltwater/docker-cleanup) - Automatic Docker image, container and volume cleanup
 - [terraform-remote-locking](https://github.com/downneck/terraform-remote-locking) - use an s3 bucket to hold remote locks to prevent corruption of remote tfstate
 - [docker-nginx-elb-websocket](https://github.com/Stockflare/docker-nginx-elb-websocket) - NGinx proxy pass configuration designed for Websockets load balanced through ELB, running on ECS

@@ -244,7 +244,7 @@
 - [packer-provisioner-serverspec](https://github.com/unifio/packer-provisioner-serverspec) - Packer Serverspec remote provisioner
 - [heka](https://github.com/mozilla-services/heka) - DEPRECATED: Data collection and processing made easy.
 - [gru](https://github.com/dnaeon/gru) - Orchestration made easy with Go and Lua
-- [mgmt](https://github.com/purpleidea/mgmt) - Next generation config management!
+- [mgmt](https://github.com/purpleidea/mgmt) - Next generation distributed, event-driven, parallel config management!
 - [rexdep](https://github.com/itchyny/rexdep) - Roughly extract dependency relation from source code
 - [terrahelp](https://github.com/opencredo/terrahelp) - Terraform helper. Terrahelp is as a command line utility written in Go and is aimed at providing supplementary functionality which can sometimes prove useful when working with Terraform.
 - [nomad](https://github.com/hashicorp/nomad) - A Distributed, Highly Available, Datacenter-Aware Scheduler
@@ -412,7 +412,7 @@
 - [tf-alb-demo](https://github.com/knakayama/tf-alb-demo) - 
 - [terraform-blue-green-deployment-with-alb-example](https://github.com/wata727/terraform-blue-green-deployment-with-alb-example) - 
 - [tf_aws_route53_redirect](https://github.com/SmartThingsOSS/tf_aws_route53_redirect) - A Terraform module to create HTTP redirects using Route 53 and S3.
-- [terraform-cassandra-multinode](https://github.com/Jagatveersingh/terraform-cassandra-multinode) - Sets up 3 node Cassandra cluster using terraform
+- [terraform-cassandra-multinode](https://github.com/Jagatveer/terraform-cassandra-multinode) - Sets up 3 node Cassandra cluster using terraform
 - [terraform_blue_green](https://github.com/takuwan0405/terraform_blue_green) - Terraform sample to make basic blue green architecture on AWS.
 - [terraform-microservice](https://github.com/cartest/terraform-microservice) - Microservice terraform module
 - [terraform-cidr-subnets](https://github.com/mitel/terraform-cidr-subnets) - Terraform module for generating your subnets in CIDR format, starting from a base value.

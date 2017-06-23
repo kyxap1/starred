@@ -739,6 +739,7 @@
 - [labs](https://github.com/docker/labs) - This is a collection of tutorials for learning how to use Docker with various tools. Contributions welcome.
 - [FreshRSS](https://github.com/FreshRSS/FreshRSS) - A free, self-hostable aggregator…
 - [Hugopit](https://github.com/sjardim/Hugopit) - An EXPERIMENTAL web based editor for Hugo
+- [hazelcast-docker](https://github.com/hazelcast/hazelcast-docker) - This repository contains docker image for Hazelcast open-source in-memory data-grid.
 - [CliGenerator](https://github.com/enxebre/CliGenerator) - A Command-Line User Interface generator for Symfony Console Component.
 - [guzzle](https://github.com/guzzle/guzzle) - Guzzle, an extensible PHP HTTP client
 - [ffmpeg-php](https://github.com/tony2001/ffmpeg-php) - PHP extension for video editing, wrapping ffmpeg
@@ -1081,7 +1082,6 @@
 - [cassandra-cloud-backup](https://github.com/GoogleCloudPlatform/cassandra-cloud-backup) - Cassandra backups to Google Cloud Storage
 - [hornetq](https://github.com/dougtoppin/hornetq) - Useful tools associated with using HornetQ in the JBoss Fuse Service Works distribution
 - [dockerfiles](https://github.com/jessfraz/dockerfiles) - Various Dockerfiles I use on the desktop and on servers.
-- [hazelcast-docker](https://github.com/hazelcast/hazelcast-docker) - This repository contains docker image for Hazelcast open-source in-memory data-grid.
 - [docker-node](https://github.com/nodejs/docker-node) - Official Docker Image for Node.js :whale: :turtle: :rocket:
 - [docker-desktop](https://github.com/rogaha/docker-desktop) - Docker Desktop enables you to create virtual desktops that can be accessed remotely. It comes with Firefox and Libreoffice already installed!
 - [WildFlyApp](https://github.com/BITFORCE-IT/WildFlyApp) - An example Docker Container running an JEE App on WildFly 10 Using oficial JBoss Docker image and useful enhancements.

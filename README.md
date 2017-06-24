@@ -239,7 +239,7 @@
 - [blox](https://github.com/blox/blox) - Open source tools for building custom schedulers on Amazon ECS
 - [tflint](https://github.com/wata727/tflint) - TFLint is Terraform linter for detecting errors that can not be detected by `terraform plan`
 - [go-openvpn-mgmt](https://github.com/apparentlymart/go-openvpn-mgmt) - [WIP] Go client library for OpenVPN's management protocol
-- [terragrunt](https://github.com/gruntwork-io/terragrunt) - Terragrunt is a thin wrapper for Terraform that provides extra tools for working with multiple Terraform modules, remote state, and locking.
+- [terragrunt](https://github.com/gruntwork-io/terragrunt) - Terragrunt is a thin wrapper for Terraform that provides extra tools for working with multiple Terraform modules.
 - [terraform](https://github.com/VladRassokhin/terraform) - Terraform is a tool for building, changing, and combining infrastructure safely and efficiently.
 - [packer-provisioner-serverspec](https://github.com/unifio/packer-provisioner-serverspec) - Packer Serverspec remote provisioner
 - [heka](https://github.com/mozilla-services/heka) - DEPRECATED: Data collection and processing made easy.

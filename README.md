@@ -137,6 +137,7 @@
 
 ## Go 
 
+- [terraform-ebs-attachmentizer](https://github.com/heap/terraform-ebs-attachmentizer) - Convert ebs_block_device blocks in aws_instance resource to aws_ebs_volume and aws_volume_attachment resources
 - [amazon-ecr-credential-helper](https://github.com/awslabs/amazon-ecr-credential-helper) - Automatically gets credentials for Amazon ECR on docker push/docker pull
 - [module-security-public](https://github.com/gruntwork-io/module-security-public) - The public documentation for the gruntwork-io/module-security repo, which contains packages for setting up best practices for managing secrets, credentials, and servers
 - [kops](https://github.com/kubernetes/kops) - Kubernetes Operations (kops) - Production Grade K8s Installation, Upgrades, and Management
@@ -346,6 +347,7 @@
 
 ## HCL 
 
+- [terraform-ecs](https://github.com/arminc/terraform-ecs) - AWS ECS terraform module
 - [terraform-modules](https://github.com/uniiverse/terraform-modules) - 
 - [hashidays-nyc](https://github.com/jen20/hashidays-nyc) - Code accompanying my talk at HashiDays New York, 2017
 - [terraform-rancher](https://github.com/cloudnautique/terraform-rancher) - 
@@ -760,6 +762,7 @@
 
 ## Python 
 
+- [bossimage](https://github.com/cloudboss/bossimage) - 
 - [pentagon](https://github.com/reactiveops/pentagon) - A framework for building repeatable, containerized, cloud-based infrastructure as code with Kubernetes.
 - [molecule](https://github.com/metacloud/molecule) - Molecule aids in the development and testing of Ansible roles.
 - [cassandra-migrate](https://github.com/Cobliteam/cassandra-migrate) - Simple Cassandra schema migration tool written in Python
@@ -820,7 +823,7 @@
 - [glances](https://github.com/nicolargo/glances) - Glances an Eye on your system. A top/htop alternative.
 - [locust](https://github.com/locustio/locust) - Scalable user load testing tool written in Python
 - [compose](https://github.com/docker/compose) - Define and run multi-container applications with Docker
-- [superset](https://github.com/airbnb/superset) - Apache Superset (incubating) is a modern, enterprise-ready business intelligence web application
+- [superset](https://github.com/ApacheInfra/superset) - Apache Superset (incubating) is a modern, enterprise-ready business intelligence web application
 - [http-prompt](https://github.com/eliangcs/http-prompt) - HTTPie + prompt_toolkit = an interactive command-line HTTP client featuring autocomplete and syntax highlighting
 - [rds-pgbadger](https://github.com/fpietka/rds-pgbadger) - Fetch logs from RDS instance, and process them with pgBadger
 - [pgcli](https://github.com/dbcli/pgcli) - Postgres CLI with autocompletion and syntax highlighting

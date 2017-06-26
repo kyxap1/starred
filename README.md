@@ -137,6 +137,10 @@
 
 ## Go 
 
+- [prest](https://github.com/nuveo/prest) - A fully RESTful API from any existing PostgreSQL database written in Go
+- [terraform-provider-aws](https://github.com/terraform-providers/terraform-provider-aws) - Terraform aws provider
+- [duplicacy](https://github.com/gilbertchen/duplicacy) - A new generation cloud backup tool
+- [cli53](https://github.com/barnybug/cli53) - Command line tool for Amazon Route 53
 - [terraform-ebs-attachmentizer](https://github.com/heap/terraform-ebs-attachmentizer) - Convert ebs_block_device blocks in aws_instance resource to aws_ebs_volume and aws_volume_attachment resources
 - [amazon-ecr-credential-helper](https://github.com/awslabs/amazon-ecr-credential-helper) - Automatically gets credentials for Amazon ECR on docker push/docker pull
 - [module-security-public](https://github.com/gruntwork-io/module-security-public) - The public documentation for the gruntwork-io/module-security repo, which contains packages for setting up best practices for managing secrets, credentials, and servers
@@ -347,6 +351,8 @@
 
 ## HCL 
 
+- [terraform-init](https://github.com/aguamala/terraform-init) - 
+- [tf_aws_redshift](https://github.com/terraform-community-modules/tf_aws_redshift) - Terraform module which creates AWS Redshift resources
 - [terraform-ecs](https://github.com/arminc/terraform-ecs) - AWS ECS terraform module
 - [terraform-modules](https://github.com/uniiverse/terraform-modules) - 
 - [hashidays-nyc](https://github.com/jen20/hashidays-nyc) - Code accompanying my talk at HashiDays New York, 2017
@@ -471,6 +477,7 @@
 
 ## Java 
 
+- [YCSB](https://github.com/brianfrankcooper/YCSB) - Yahoo! Cloud Serving Benchmark
 - [cdm](https://github.com/rustyrazorblade/cdm) - Cassandra Dataset Manager
 - [localstack-spring-boot](https://github.com/smartupio/localstack-spring-boot) - Atlassian LocalStack autoconfiguration for Spring Boot based Java projects
 - [archi](https://github.com/archimatetool/archi) - Archi: ArchiMate Modelling Tool
@@ -536,6 +543,14 @@
 
 ## JavaScript 
 
+- [aws-vpc-flow-log-appender](https://github.com/awslabs/aws-vpc-flow-log-appender) - Sample code to append additional information (e.g. Security Group IDs and geolocation data) to VPC Flow Logs for analysis in Elasticsearch.
+- [aws-lambda-redshift-loader](https://github.com/awslabs/aws-lambda-redshift-loader) - Amazon Redshift Database Loader implemented in AWS Lambda
+- [nodemon](https://github.com/remy/nodemon) - Monitor for any changes in your node.js application and automatically restart the server - perfect for development
+- [lambdalogs](https://github.com/seeebiii/lambdalogs) - A CLI tool to trace AWS Lambda calls over multiple CloudWatch log groups.
+- [kinesis-streams-fan-out-kinesis-analytics](https://github.com/alexcasalboni/kinesis-streams-fan-out-kinesis-analytics) - Amazon Kinesis Streams fan-out via Kinesis Analytics (powered by the Serverless Framework)
+- [jsonschema](https://github.com/tdegrunt/jsonschema) - jsonschema
+- [distributed](https://github.com/funretro/distributed) - :thumbsup: Easy to use and beautiful restrospective tool
+- [aws-iam-manager](https://github.com/netguru/aws-iam-manager) - 💳 AWS IAM Manager as a Code using Serverless framework
 - [git2consul](https://github.com/Cimpress-MCP/git2consul) - Mirrors the contents of a git repository into Consul KVs.
 - [drone-starter](https://github.com/maqpie/drone-starter) - Make a first build with Drone CI in under 10 minutes
 - [LambStatus](https://github.com/ks888/LambStatus) - Serverless Status Page System
@@ -649,6 +664,7 @@
 
 ## Makefile 
 
+- [terraform-spec](https://github.com/johnrengelman/terraform-spec) - Docker container of utilities for testing Terraform modules
 - [ansible-role-datastax-ddc](https://github.com/kostyrev/ansible-role-datastax-ddc) - 
 - [json-schema-spec](https://github.com/json-schema-org/json-schema-spec) - The JSON Schema I-D sources
 - [wildfly](https://github.com/inkatze/wildfly) - Ansible role for wildfly
@@ -669,6 +685,7 @@
 
 ## Others 
 
+- [ami-builder-packer](https://github.com/awslabs/ami-builder-packer) - An example of an AMI Builder using CI/CD with AWS CodePipeline, AWS CodeBuild, Hashicorp Packer and Ansible.
 - [awesome-sre](https://github.com/dastergon/awesome-sre) - A curated list of awesome Site Reliability and Production Engineering resources.
 - [awesome-design-systems](https://github.com/alexpate/awesome-design-systems) - 💅🏻 ⚒ A collection of awesome design systems
 - [awesome-docker](https://github.com/veggiemonk/awesome-docker) - :whale: A curated list of Docker resources and projects
@@ -737,6 +754,7 @@
 
 ## PHP 
 
+- [phinx](https://github.com/cakephp/phinx) - PHP Database Migrations for Everyone
 - [hashicorp](https://github.com/jkkitakita/hashicorp) - repo related to hashicorp
 - [labs](https://github.com/docker/labs) - This is a collection of tutorials for learning how to use Docker with various tools. Contributions welcome.
 - [FreshRSS](https://github.com/FreshRSS/FreshRSS) - A free, self-hostable aggregator…
@@ -762,6 +780,10 @@
 
 ## Python 
 
+- [ec2-spot-labs](https://github.com/awslabs/ec2-spot-labs) - Collection of tools and code examples to demonstrate best practices in using Amazon EC2 Spot Instances.
+- [ebs-snapshot-scheduler](https://github.com/awslabs/ebs-snapshot-scheduler) - A solution to automatically take a snapshot of all the EBS volumes of a tagged instance on a schedule in any region
+- [aws-s3snapshot](https://github.com/awslabs/aws-s3snapshot) - S3 Snapshot script to run from command-line or scheduled in Lambda.
+- [ec2-scheduler](https://github.com/awslabs/ec2-scheduler) - The EC2 Scheduler uses a recurring Lambda function to automatically start and stop EC2 instances based on either default schedule or custom schedule defined per EC2 instance.
 - [bossimage](https://github.com/cloudboss/bossimage) - 
 - [pentagon](https://github.com/reactiveops/pentagon) - A framework for building repeatable, containerized, cloud-based infrastructure as code with Kubernetes.
 - [molecule](https://github.com/metacloud/molecule) - Molecule aids in the development and testing of Ansible roles.
@@ -911,6 +933,8 @@
 
 ## Ruby 
 
+- [sfn](https://github.com/sparkleformation/sfn) - SparkleFormation CLI
+- [terraform-aws-base-networking](https://github.com/tobyclemson/terraform-aws-base-networking) - Terraform module for building base networking in AWS
 - [packer-config](https://github.com/ianchesal/packer-config) - A Ruby way to generate packer.io configurations
 - [github-changelog-generator](https://github.com/skywinder/github-changelog-generator) - Automatically generate change log from your tags, issues, labels and pull requests on GitHub.
 - [asciinema.org](https://github.com/asciinema/asciinema.org) - asciinema hosting web app
@@ -1001,6 +1025,7 @@
 
 ## Shell 
 
+- [ecs-logs-collector](https://github.com/awslabs/ecs-logs-collector) - The script will be used to collect general os logs as well as Docker and ecs-agent logs, it also support to enable debug mode for docker and ecs-agent in Amazon Linux.
 - [nginxse-virtualhost-generator](https://github.com/hishriTaha/nginxse-virtualhost-generator) - A CLI-based tool that helps you generate NGINX server block configuration files in a few seconds.
 - [aui](https://github.com/helmuthdu/aui) - Archlinux Ultimate Install
 - [elastic-ci-stack-for-aws](https://github.com/buildkite/elastic-ci-stack-for-aws) - A simple, flexible, auto-scaling cluster of build agents running in your own AWS VPC
@@ -1110,6 +1135,7 @@
 
 ## TypeScript 
 
+- [vscode-terraform](https://github.com/mauve/vscode-terraform) - A Visual Studio Code plugin which contributes syntax highlighting, linting, formatting, and validation for Hashicorp's Terraform
 - [subscriptions-transport-ws](https://github.com/apollographql/subscriptions-transport-ws) - :arrows_clockwise: A WebSocket client + server for GraphQL subscriptions
 - [learnapollo](https://github.com/learnapollo/learnapollo) - 👩🏻‍🏫   Learn Apollo - A hands-on tutorial for Apollo GraphQL Client (created by Graphcool)
 - [graphql-tools](https://github.com/apollographql/graphql-tools) - :wrench: Build and mock your GraphQL.js schema using the schema language

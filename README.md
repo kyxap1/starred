@@ -313,7 +313,6 @@
 - [terraform-aws-vars](https://github.com/drmdrew/terraform-aws-vars) - Generates Terraform AWS configuration variables suitable for the currently configured AWS account.
 - [terraform-plan-decoder](https://github.com/pearkes/terraform-plan-decoder) - A small utility to decode Terraform plan files.
 - [tholos](https://github.com/mhlias/tholos) - Prototype Terraform wrapper
-- [concourse](https://github.com/concourse/concourse) - BOSH release and development workspace for Concourse
 - [terraform-provisioner-makefile](https://github.com/jtopjian/terraform-provisioner-makefile) - A Makefile / make provisioner for Terraform
 - [terrastache](https://github.com/cbroglie/terrastache) - Use terraform variables and mustache templates to generate terraform configs
 - [terraform-provider-localfile](https://github.com/mcoffin/terraform-provider-localfile) - Simple terraform provider plugin to give access to local files.
@@ -351,6 +350,11 @@
 
 ## HCL 
 
+- [tf_aws_elasticsearch](https://github.com/terraform-community-modules/tf_aws_elasticsearch) - Terraform module which creates AWS Elasticsearch resources
+- [aws-docker-swarm](https://github.com/mrjgreen/aws-docker-swarm) - Terraform and helper resources for running a production Docker Swarm on AWS
+- [terraform-firehose](https://github.com/Placester/terraform-firehose) - 
+- [hashidays-london](https://github.com/paddycarver/hashidays-london) - Code used for the demo of Going Multi-Cloud with Terraform and Nomad
+- [terraform-module-aws-zookeeper](https://github.com/fscm/terraform-module-aws-zookeeper) - Terraform Module to create a Apache Zookeeper cluster on AWS
 - [terraform-init](https://github.com/aguamala/terraform-init) - 
 - [tf_aws_redshift](https://github.com/terraform-community-modules/tf_aws_redshift) - Terraform module which creates AWS Redshift resources
 - [terraform-ecs](https://github.com/arminc/terraform-ecs) - AWS ECS terraform module
@@ -685,6 +689,7 @@
 
 ## Others 
 
+- [terraplate](https://github.com/rjayroach/terraplate) - use ansible templates to easily generate terraform modules, components and tfvars files
 - [ami-builder-packer](https://github.com/awslabs/ami-builder-packer) - An example of an AMI Builder using CI/CD with AWS CodePipeline, AWS CodeBuild, Hashicorp Packer and Ansible.
 - [awesome-sre](https://github.com/dastergon/awesome-sre) - A curated list of awesome Site Reliability and Production Engineering resources.
 - [awesome-design-systems](https://github.com/alexpate/awesome-design-systems) - 💅🏻 ⚒ A collection of awesome design systems
@@ -1104,6 +1109,7 @@
 - [repository](https://github.com/ulyaoth/repository) - Ulyaoth Repository
 - [gvm](https://github.com/moovweb/gvm) - Go Version Manager
 - [wtf](https://github.com/wasdefn/wtf) - Wrappers for Terraform
+- [concourse](https://github.com/concourse/concourse) - BOSH release and development workspace for Concourse
 - [docker-cleanup](https://github.com/meltwater/docker-cleanup) - Automatic Docker image, container and volume cleanup
 - [terraform-remote-locking](https://github.com/downneck/terraform-remote-locking) - use an s3 bucket to hold remote locks to prevent corruption of remote tfstate
 - [docker-nginx-elb-websocket](https://github.com/Stockflare/docker-nginx-elb-websocket) - NGinx proxy pass configuration designed for Websockets load balanced through ELB, running on ECS

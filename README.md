@@ -137,6 +137,8 @@
 
 ## Go 
 
+- [terraform-provider-proxmox](https://github.com/Telmate/terraform-provider-proxmox) - Terraform provider plugin for proxmox
+- [terraform-provider-libvirt](https://github.com/dmacvicar/terraform-provider-libvirt) - terraform provider for libvirt
 - [prest](https://github.com/nuveo/prest) - A fully RESTful API from any existing PostgreSQL database written in Go
 - [terraform-provider-aws](https://github.com/terraform-providers/terraform-provider-aws) - Terraform aws provider
 - [duplicacy](https://github.com/gilbertchen/duplicacy) - A new generation cloud backup tool
@@ -547,6 +549,7 @@
 
 ## JavaScript 
 
+- [gitbook](https://github.com/GitbookIO/gitbook) - 📝 Modern documentation format and toolchain using Git and Markdown
 - [aws-vpc-flow-log-appender](https://github.com/awslabs/aws-vpc-flow-log-appender) - Sample code to append additional information (e.g. Security Group IDs and geolocation data) to VPC Flow Logs for analysis in Elasticsearch.
 - [aws-lambda-redshift-loader](https://github.com/awslabs/aws-lambda-redshift-loader) - Amazon Redshift Database Loader implemented in AWS Lambda
 - [nodemon](https://github.com/remy/nodemon) - Monitor for any changes in your node.js application and automatically restart the server - perfect for development
@@ -1030,6 +1033,7 @@
 
 ## Shell 
 
+- [docker-roj](https://github.com/dmstr/docker-roj) - Portable environments for Docker swarms and stacks
 - [ecs-logs-collector](https://github.com/awslabs/ecs-logs-collector) - The script will be used to collect general os logs as well as Docker and ecs-agent logs, it also support to enable debug mode for docker and ecs-agent in Amazon Linux.
 - [nginxse-virtualhost-generator](https://github.com/hishriTaha/nginxse-virtualhost-generator) - A CLI-based tool that helps you generate NGINX server block configuration files in a few seconds.
 - [aui](https://github.com/helmuthdu/aui) - Archlinux Ultimate Install

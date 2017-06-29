@@ -456,6 +456,7 @@
 
 ## HTML 
 
+- [portainer](https://github.com/portainer/portainer) - Simple management UI for Docker
 - [staticrypt](https://github.com/robinmoisson/staticrypt) - Password protect a static HTML page
 - [node-red-dashboard](https://github.com/node-red/node-red-dashboard) - A dashboard UI for Node-RED
 - [pup](https://github.com/ericchiang/pup) - Parsing HTML at the command line
@@ -1033,6 +1034,7 @@
 
 ## Shell 
 
+- [postgres-docker-cluster](https://github.com/paunin/postgres-docker-cluster) - Postgres docker cluster setup with docker-compose and kubernetes examples
 - [docker-roj](https://github.com/dmstr/docker-roj) - Portable environments for Docker swarms and stacks
 - [ecs-logs-collector](https://github.com/awslabs/ecs-logs-collector) - The script will be used to collect general os logs as well as Docker and ecs-agent logs, it also support to enable debug mode for docker and ecs-agent in Amazon Linux.
 - [nginxse-virtualhost-generator](https://github.com/hishriTaha/nginxse-virtualhost-generator) - A CLI-based tool that helps you generate NGINX server block configuration files in a few seconds.

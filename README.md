@@ -352,6 +352,8 @@
 
 ## HCL 
 
+- [terraform_pritunl](https://github.com/opsgang/terraform_pritunl) - Pritunl VPN Server for your public/private like VPC on AWS
+- [terraform-scheduled-batch-job](https://github.com/turnerlabs/terraform-scheduled-batch-job) - A Terraform module representing a scheduled Batch job
 - [tf_aws_elasticsearch](https://github.com/terraform-community-modules/tf_aws_elasticsearch) - Terraform module which creates AWS Elasticsearch resources
 - [aws-docker-swarm](https://github.com/mrjgreen/aws-docker-swarm) - Terraform and helper resources for running a production Docker Swarm on AWS
 - [terraform-firehose](https://github.com/Placester/terraform-firehose) - 

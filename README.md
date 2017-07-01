@@ -352,6 +352,7 @@
 
 ## HCL 
 
+- [docker-swarm-terraform](https://github.com/knpwrs/docker-swarm-terraform) - Set up a Docker Swarm Cluster on Digital Ocean using Terraform
 - [terraform_pritunl](https://github.com/opsgang/terraform_pritunl) - Pritunl VPN Server for your public/private like VPC on AWS
 - [terraform-scheduled-batch-job](https://github.com/turnerlabs/terraform-scheduled-batch-job) - A Terraform module representing a scheduled Batch job
 - [tf_aws_elasticsearch](https://github.com/terraform-community-modules/tf_aws_elasticsearch) - Terraform module which creates AWS Elasticsearch resources
@@ -552,6 +553,7 @@
 
 ## JavaScript 
 
+- [terraform_firehose](https://github.com/roshpr/terraform_firehose) - AWS Firehose implementation for VPCFlow, ELK & Lambda integration to analyse VPC network data flow & monitoring dashboard
 - [gitbook](https://github.com/GitbookIO/gitbook) - 📝 Modern documentation format and toolchain using Git and Markdown
 - [aws-vpc-flow-log-appender](https://github.com/awslabs/aws-vpc-flow-log-appender) - Sample code to append additional information (e.g. Security Group IDs and geolocation data) to VPC Flow Logs for analysis in Elasticsearch.
 - [aws-lambda-redshift-loader](https://github.com/awslabs/aws-lambda-redshift-loader) - Amazon Redshift Database Loader implemented in AWS Lambda
@@ -1037,7 +1039,6 @@
 ## Shell 
 
 - [postgres-docker-cluster](https://github.com/paunin/postgres-docker-cluster) - Postgres docker cluster setup with docker-compose and kubernetes examples
-- [docker-roj](https://github.com/dmstr/docker-roj) - Portable environments for Docker swarms and stacks
 - [ecs-logs-collector](https://github.com/awslabs/ecs-logs-collector) - The script will be used to collect general os logs as well as Docker and ecs-agent logs, it also support to enable debug mode for docker and ecs-agent in Amazon Linux.
 - [nginxse-virtualhost-generator](https://github.com/hishriTaha/nginxse-virtualhost-generator) - A CLI-based tool that helps you generate NGINX server block configuration files in a few seconds.
 - [aui](https://github.com/helmuthdu/aui) - Archlinux Ultimate Install

@@ -157,7 +157,6 @@
 - [terraform_cashier](https://github.com/Bjorn248/terraform_cashier) - Designed to analyze terraform template files and return a cost estimate of running the infrastructure, assuming AWS is the target cloud. Perhaps other clouds can be supported going forward?
 - [k6](https://github.com/loadimpact/k6) - A modern load testing tool, using Go and JavaScript - https://k6.io
 - [awless-scheduler](https://github.com/wallix/awless-scheduler) - Schedule runs and reverts of awless templates
-- [awless-templates](https://github.com/wallix/awless-templates) - Repository of verified templates for wallix/awless
 - [awesome-go](https://github.com/avelino/awesome-go) - A curated list of awesome Go frameworks, libraries and software
 - [terraform-provider-zabbix](https://github.com/dainis/terraform-provider-zabbix) - 
 - [terraform-provider-awsplus](https://github.com/BWITS/terraform-provider-awsplus) - missing resources in terraform aws provider
@@ -812,11 +811,11 @@
 - [nginx-proxy](https://github.com/jwilder/nginx-proxy) - Automated nginx proxy for Docker containers using docker-gen
 - [terraform_validate](https://github.com/elmundio87/terraform_validate) - Assists in the enforcement of user-defined standards in Terraform
 - [lambda-runcommand-configuration-management](https://github.com/awslabs/lambda-runcommand-configuration-management) - Serverless, SSHless, Continuous Configuration Management
-- [localstack](https://github.com/atlassian/localstack) - A fully functional local AWS cloud stack. Develop and test your cloud apps offline!
+- [localstack](https://github.com/localstack/localstack) - A fully functional local AWS cloud stack. Develop and test your cloud apps offline!
 - [zabbix-cli](https://github.com/usit-gd/zabbix-cli) - Command-line interface for Zabbix
 - [slacker](https://github.com/os/slacker) - Full-featured Python interface for the Slack API
 - [system-design-primer](https://github.com/donnemartin/system-design-primer) - Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards.
-- [repositorytools](https://github.com/stardust85/repositorytools) - Python API and command-line interface for working with artifact repositoriess
+- [repositorytools](https://github.com/stardust85/repositorytools) - Python API and command-line interface for working with artifact repositories like sonatype nexus
 - [spilo](https://github.com/zalando/spilo) - Highly available elephant herd: HA PostgreSQL cluster using Docker
 - [aws_role_credentials](https://github.com/ThoughtWorksInc/aws_role_credentials) - Generates AWS credentials for roles using STS
 - [awsie](https://github.com/flomotlik/awsie) - CloudFormation aware wrapper for the AWSCLI
@@ -1050,6 +1049,7 @@
 - [packer](https://github.com/subutai-io/packer) - 
 - [cloudwatch-logmonitoring](https://github.com/shogomuranushi/cloudwatch-logmonitoring) - Log file monitoring for cloudwatch.
 - [docker-elk](https://github.com/DevOp5/docker-elk) - The ELK stack powered by Docker and Compose.
+- [awless-templates](https://github.com/wallix/awless-templates) - Repository of verified templates for wallix/awless
 - [LS_COLORS](https://github.com/trapd00r/LS_COLORS) - A collection of LS_COLORS definitions; needs your contribution!
 - [dotfiles](https://github.com/maksimr/dotfiles) - ❤
 - [nodejs-bower-grunt](https://github.com/dockerfile/nodejs-bower-grunt) - Node.js w/ Bower & Grunt Dockerfile for trusted automated Docker builds.

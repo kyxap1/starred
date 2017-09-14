@@ -42,12 +42,12 @@
   - [TypeScript](#typescript)
   - [Vim script](#vim script)
   - [VimL](#viml)
-  - [Vue](#vue)
   - [Web Ontology Language](#web ontology language)
   - [XSLT](#xslt)
 
 ## C 
 
+- [nginx-module-sts](https://github.com/vozlt/nginx-module-sts) - Nginx stream server traffic status module
 - [netdata](https://github.com/firehol/netdata) - Get control of your servers. Simple. Effective. Awesome! https://my-netdata.io/
 - [kafkacat](https://github.com/edenhill/kafkacat) - Generic command line non-JVM Apache Kafka producer and consumer
 - [pgreplay](https://github.com/laurenz/pgreplay) - pgreplay reads a PostgreSQL log file (*not* a WAL file), extracts the SQL statements and executes them in the same order and relative time against a PostgreSQL database cluster.
@@ -82,6 +82,7 @@
 
 ## C++ 
 
+- [veles](https://github.com/codilime/veles) - Binary data analysis and visualization tool
 - [osquery](https://github.com/facebook/osquery) - SQL powered operating system instrumentation, monitoring, and analytics.
 - [pushpin](https://github.com/fanout/pushpin) - Reverse proxy for realtime web services
 - [AEBL](https://github.com/krattai/AEBL) - AEBL is a mobile multimedia distribution and playback platform.
@@ -129,7 +130,7 @@
 
 ## Erlang 
 
-- [awesomo](https://github.com/lk-geimfari/awesomo) - An extensive list of interesting open source projects written in С, C++, Clojure, Lisp (Common/Emacs), Elixir, Erlang, Elm, Golang, Haskell, JavaScript, Lua, OCaml, Python, R, Ruby, Rust, Scala etc.
+- [awesomo](https://github.com/lk-geimfari/awesomo) - An extensive list of interesting open source projects written in С, C++, Clojure, Lisp, Elixir, Erlang, Elm, Golang, Haskell, JavaScript, Lua, OCaml, Python, R, Ruby, Rust, Scala etc.
 
 ## Gherkin 
 
@@ -137,9 +138,15 @@
 
 ## Go 
 
+- [mtail](https://github.com/google/mtail) - extract whitebox monitoring data from application logs for collection in a timeseries database
+- [oas2](https://github.com/hypnoglow/oas2) - OpenAPI 2.0 (aka Swagger) utils for Golang.
+- [terraboard](https://github.com/camptocamp/terraboard) - :earth_africa: 📋  A web dashboard to inspect Terraform States
+- [atlantis](https://github.com/hootsuite/atlantis) - A unified workflow for collaborating on Terraform through GitHub
+- [prometheus](https://github.com/prometheus/prometheus) - The Prometheus monitoring system and time series database.
+- [toxiproxy](https://github.com/Shopify/toxiproxy) - :alarm_clock: :fire: A TCP proxy to simulate network and system conditions for chaos and resiliency testing
+- [jsoned](https://github.com/tidwall/jsoned) - JSON Stream Editor (command line utility)
 - [terraform-provider-proxmox](https://github.com/Telmate/terraform-provider-proxmox) - Terraform provider plugin for proxmox
 - [terraform-provider-libvirt](https://github.com/dmacvicar/terraform-provider-libvirt) - terraform provider for libvirt
-- [prest](https://github.com/nuveo/prest) - A fully RESTful API from any existing PostgreSQL database written in Go
 - [terraform-provider-aws](https://github.com/terraform-providers/terraform-provider-aws) - Terraform aws provider
 - [duplicacy](https://github.com/gilbertchen/duplicacy) - A new generation cloud backup tool
 - [cli53](https://github.com/barnybug/cli53) - Command line tool for Amazon Route 53
@@ -147,10 +154,11 @@
 - [amazon-ecr-credential-helper](https://github.com/awslabs/amazon-ecr-credential-helper) - Automatically gets credentials for Amazon ECR on docker push/docker pull
 - [module-security-public](https://github.com/gruntwork-io/module-security-public) - The public documentation for the gruntwork-io/module-security repo, which contains packages for setting up best practices for managing secrets, credentials, and servers
 - [kops](https://github.com/kubernetes/kops) - Kubernetes Operations (kops) - Production Grade K8s Installation, Upgrades, and Management
-- [gomplate](https://github.com/hairyhenderson/gomplate) - A commandline Golang template processor
+- [gomplate](https://github.com/hairyhenderson/gomplate) - A flexible commandline tool for template rendering. Supports lots of local and remote datasources.
 - [swarmkit](https://github.com/docker/swarmkit) - A toolkit for orchestrating distributed systems at any scale. It includes primitives for node discovery, raft-based consensus, task scheduling and more.
+- [goldfish](https://github.com/Caiyeon/goldfish) - A HashiCorp Vault UI panel written with VueJS and Vault native Go API
 - [ksonnet-lib](https://github.com/ksonnet/ksonnet-lib) - (technical preview) Simplify working with Kubernetes
-- [goat](https://github.com/sevagh/goat) - GO-ATtach: attach, mount, and RAID EBS volumes
+- [goat](https://github.com/sevagh/goat) - GO-ATtach: attach EBS and ENI on the fly
 - [drone-mvn](https://github.com/thomasf/drone-mvn) - Maven repository artifact publisher for Drone CI
 - [ec2-metadatafs](https://github.com/jszwedko/ec2-metadatafs) - EC2 metadata and tags as a filesystem
 - [gotools](https://github.com/Mykolaichenko/gotools) - Go Tools
@@ -194,7 +202,7 @@
 - [gestalt](https://github.com/asteris-llc/gestalt) - 
 - [lego](https://github.com/xenolf/lego) - Let's Encrypt client and ACME library written in Go
 - [hammer](https://github.com/asteris-llc/hammer) - Build packages from a simple spec
-- [scipipe](https://github.com/scipipe/scipipe) - SciPipe is a library for writing scientific workflows (sometimes also called "pipelines") of shell commands that depend on each other, in the Go programming languages. It was initially designed for problems in cheminformatics and bioinformatics, but applies equally well to any domain involving complex pipelines of interdependent shell commands.
+- [scipipe](https://github.com/scipipe/scipipe) - SciPipe is a library for writing scientific workflows (sometimes also called "pipelines") of shell commands that depend on each other, in the Go programming languages (aka golang). It was initially designed for problems in cheminformatics and bioinformatics, but applies equally well to any domain involving complex pipelines of interdependent shell commands.
 - [converge](https://github.com/asteris-llc/converge) - A powerful and easy-to-use configuration management system.
 - [tablewriter](https://github.com/olekukonko/tablewriter) - ASCII table in golang
 - [colonize](https://github.com/craigmonson/colonize) - A terraform tool to manage environment driven templating.
@@ -203,7 +211,7 @@
 - [hyperfox](https://github.com/malfunkt/hyperfox) - HTTP/HTTPs MITM proxy and traffic recorder with on-the-fly TLS cert generation.
 - [comcast](https://github.com/tylertreat/comcast) - Simulating shitty network connections so you can build better systems.
 - [goreplay](https://github.com/buger/goreplay) - GoReplay is an open-source tool for capturing and replaying live HTTP traffic into a test environment in order to continuously test your system with real data. It can be used to increase confidence in code deployments, configuration changes and infrastructure changes.
-- [pachyderm](https://github.com/pachyderm/pachyderm) - Containerized Data Analytics
+- [pachyderm](https://github.com/pachyderm/pachyderm) - Reproducible Data Science at Scale!
 - [vuls](https://github.com/future-architect/vuls) - Vulnerability scanner for Linux/FreeBSD, agentless, written in Go
 - [banshee](https://github.com/eleme/banshee) - Anomalies detection system for periodic metrics.
 - [stack-docs-search](https://github.com/devrim/stack-docs-search) - terraform doc creator and autocomplete
@@ -220,7 +228,6 @@
 - [rack](https://github.com/convox/rack) - Open-source PaaS. Built entirely on AWS cloud services for maximum privacy and minimum upkeep.
 - [janitor](https://github.com/cloud66/janitor) - Clean up unwanted servers
 - [goavro](https://github.com/linkedin/goavro) - 
-- [expectjq](https://github.com/threatgrid/expectjq) - JSON Data Testing Using JQ Queries
 - [jose](https://github.com/SermoDigital/jose) - A comprehensive set of JWT, JWS, and JWE libraries.
 - [objconv](https://github.com/segmentio/objconv) - A Go package exposing encoder and decoders that support data streaming to and from multiple formats.
 - [consul-router](https://github.com/segmentio/consul-router) - HTTP proxy with service discovery capabilities based on consul
@@ -242,7 +249,6 @@
 - [pgclimb](https://github.com/lukasmartinelli/pgclimb) - Export data from PostgreSQL into different data formats
 - [pgfutter](https://github.com/lukasmartinelli/pgfutter) - Import CSV and JSON into PostgreSQL the easy way
 - [beanform](https://github.com/jritsema/beanform) - Reverse engineer an AWS Elasticbeanstalk app into Terraform source code
-- [blox](https://github.com/blox/blox) - Open source tools for building custom schedulers on Amazon ECS
 - [tflint](https://github.com/wata727/tflint) - TFLint is Terraform linter for detecting errors that can not be detected by `terraform plan`
 - [go-openvpn-mgmt](https://github.com/apparentlymart/go-openvpn-mgmt) - [WIP] Go client library for OpenVPN's management protocol
 - [terragrunt](https://github.com/gruntwork-io/terragrunt) - Terragrunt is a thin wrapper for Terraform that provides extra tools for working with multiple Terraform modules.
@@ -253,7 +259,7 @@
 - [mgmt](https://github.com/purpleidea/mgmt) - Next generation distributed, event-driven, parallel config management!
 - [rexdep](https://github.com/itchyny/rexdep) - Roughly extract dependency relation from source code
 - [terrahelp](https://github.com/opencredo/terrahelp) - Terraform helper. Terrahelp is as a command line utility written in Go and is aimed at providing supplementary functionality which can sometimes prove useful when working with Terraform.
-- [nomad](https://github.com/hashicorp/nomad) - A Distributed, Highly Available, Datacenter-Aware Scheduler
+- [nomad](https://github.com/hashicorp/nomad) - Nomad is a highly available, distributed, data-center aware cluster and application scheduler designed to support the modern datacenter with support for long-running services, batch jobs, and much more.
 - [consul](https://github.com/hashicorp/consul) - Service Discovery and Configuration Made Easy
 - [micro](https://github.com/micro/micro) - A microservice toolkit for distributed systems development
 - [acme](https://github.com/google/acme) - A simple ACME command line tool without 3rd party deps!
@@ -278,12 +284,12 @@
 - [consul-alerts](https://github.com/AcalephStorage/consul-alerts) - A simple daemon to send notifications based on Consul health checks
 - [AWSnycast](https://github.com/bobtfish/AWSnycast) - 'Anycast' in AWS
 - [fabio](https://github.com/fabiolb/fabio) - A fast, modern, zero-conf load balancing HTTP(S) router for deploying microservices managed by consul.
-- [consul-template](https://github.com/hashicorp/consul-template) - Template rendering, notifier, and supervisor for @HashiCorp Consul and Vault data
+- [consul-template](https://github.com/hashicorp/consul-template) - Template rendering, notifier, and supervisor for @HashiCorp Consul and Vault data.
 - [ahoy](https://github.com/ahoy-cli/ahoy) - Create self-documenting cli programs from YAML files. Easily wrap bash, grunt, npm, docker, (anything) to standardize your processes and make the lives of the people working on your project better.
 - [ctop](https://github.com/chrusty/ctop) - CTOP ("top" for Cassandra) - See what's going on in real-time
 - [go-priam](https://github.com/alext29/go-priam) - Backup and restore Cassandra DB to AWS S3
 - [terraform-multipart-userdata](https://github.com/chrusty/terraform-multipart-userdata) - Cruft for Terraform
-- [autospotting](https://github.com/cristim/autospotting) - Easy to use tool that automatically replaces some or even all on-demand AutoScaling group members with similar or larger identically configured spot instances in order to generate significant cost savings on AWS EC2, behaving much like an AutoScaling-backed spot fleet.
+- [autospotting](https://github.com/cristim/autospotting) - Generate up to 90% savings on AWS EC2 by converting existing AutoScaling groups into reliable fleets of mixed spot and on-demand instances, with easy and minimalistic configuration changes
 - [oauth2_proxy](https://github.com/bitly/oauth2_proxy) - A reverse proxy that provides authentication with Google, Github or other provider
 - [bashcomp](https://github.com/omakoto/bashcomp) - 
 - [sh](https://github.com/mvdan/sh) - A shell parser, formatter and interpreter (POSIX/Bash/mksh)
@@ -336,7 +342,7 @@
 - [hugo](https://github.com/gohugoio/hugo) - A Fast and Flexible Static Site Generator built with love in GoLang.
 - [goa](https://github.com/goadesign/goa) - Design-based APIs and microservices in Go
 - [cobra](https://github.com/spf13/cobra) - A Commander for modern Go CLI interactions
-- [license](https://github.com/nishanths/license) - Command-line license generator. Supports all the licenses available on GitHub.
+- [license](https://github.com/nishanths/license) - Command-line license file generator
 - [packer](https://github.com/hashicorp/packer) - Packer is a tool for creating identical machine images for multiple platforms from a single source configuration.
 - [terraform](https://github.com/hashicorp/terraform) - Terraform is a tool for building, changing, and combining infrastructure safely and efficiently.
 - [bosun](https://github.com/bosun-monitor/bosun) - Time Series Alerting Framework
@@ -344,6 +350,7 @@
 
 ## Groovy 
 
+- [docker-registry-web](https://github.com/mkuchin/docker-registry-web) - Web UI for private docker registry v2
 - [henka](https://github.com/rokudev/henka) - Henka (Terraform Gradle Plugin)
 - [rundeck](https://github.com/rundeck/rundeck) - Job scheduler and runbook automation. Enable self-service access to existing scripts and tools.
 - [tf_pipeline](https://github.com/benwtr/tf_pipeline) - Jenkins Pipeline jobs for Terraform with remote state locking, pull request integration and chat notifications
@@ -351,6 +358,8 @@
 
 ## HCL 
 
+- [fpco-terraform-aws](https://github.com/fpco/fpco-terraform-aws) - 
+- [nomad-auto-join](https://github.com/hashicorp/nomad-auto-join) - Terraform config to automatically bootstrap a Nomad cluster
 - [docker-swarm-terraform](https://github.com/knpwrs/docker-swarm-terraform) - Set up a Docker Swarm Cluster on Digital Ocean using Terraform
 - [terraform_pritunl](https://github.com/opsgang/terraform_pritunl) - Pritunl VPN Server for your public/private like VPC on AWS
 - [terraform-scheduled-batch-job](https://github.com/turnerlabs/terraform-scheduled-batch-job) - A Terraform module representing a scheduled Batch job
@@ -371,10 +380,10 @@
 - [AWS-Infrasetup](https://github.com/naikajah/AWS-Infrasetup) - Building AWS infrastructure with Terraform
 - [oreno-terraform](https://github.com/shogomuranushi/oreno-terraform) - 
 - [terraform-cassandra-seeds](https://github.com/DevOp5/terraform-cassandra-seeds) - Terraform module to create a set of Cassandra seed nodes spanning multiple availability zones
-- [labs-devops](https://github.com/nearform/labs-devops) - Devops repo
+- [devops](https://github.com/nearform/devops) - Devops repo
 - [terraform-example](https://github.com/threatstack/terraform-example) - Terraform Example setup root repository
 - [tf-ses-demo](https://github.com/knakayama/tf-ses-demo) - 
-- [terraform-config](https://github.com/travis-infrastructure/terraform-config) - Terraform bits in the process of replacing travis-infrastructure/terraform-stuff and friends.
+- [terraform-config](https://github.com/travis-infrastructure/terraform-config) - Terraform bits
 - [tf-sfn-demo](https://github.com/knakayama/tf-sfn-demo) - 
 - [tf-inspector-demo](https://github.com/knakayama/tf-inspector-demo) - 
 - [tf_aws_bastion_s3_keys](https://github.com/sclausson/tf_aws_bastion_s3_keys) - A Terraform module for creating bastion host on AWS EC2 and populate its ~/.ssh/authorized_keys with public keys from bucket
@@ -383,7 +392,6 @@
 - [nubis-terraform](https://github.com/nubisproject/nubis-terraform) - 
 - [tf_prometheus](https://github.com/EmpaticoOrg/tf_prometheus) - A Prometheus module for Terraform
 - [awstack](https://github.com/mhmdio/awstack) - dev, stage and prod environments on AWS using Terraform, packer, vagrant and ansible - NEW Version will be updated
-- [awesome-nomad](https://github.com/jippi/awesome-nomad) - 
 - [multiple-envs](https://github.com/hashicorp/multiple-envs) - 
 - [c1m](https://github.com/hashicorp/c1m) - Nomad, Terraform, and Packer configurations for the Million Container Challenge (C1M)
 - [atlas-examples](https://github.com/hashicorp/atlas-examples) - Public examples for using Atlas by HashiCorp
@@ -421,7 +429,7 @@
 - [nomad-openstack-terraform](https://github.com/moss2k13/nomad-openstack-terraform) - Nomad cluster with consul on coreos deployed on openstack
 - [cassandra-cloud](https://github.com/allanlang/cassandra-cloud) - Deploy Cassandra to various cloud environments with automation
 - [aws-lambda-playground](https://github.com/knakayama/aws-lambda-playground) - 
-- [terraform-rolling-deploys](https://github.com/robmorgan/terraform-rolling-deploys) - Rolling ASG deployments with Terraform
+- [terraform-rolling-deploys](https://github.com/robmorgan/terraform-rolling-deploys) - Rolling ASG deployments with Terraform on AWS
 - [terraform-coreos-user-data](https://github.com/jwaldrip/terraform-coreos-user-data) - CoreOS cloud config generation via Terraform variables
 - [aws-terraform-playground](https://github.com/knakayama/aws-terraform-playground) - terraform examples on AWS
 - [lambda-auto-update-cloudfront-ips](https://github.com/knakayama/lambda-auto-update-cloudfront-ips) - 
@@ -458,6 +466,7 @@
 
 ## HTML 
 
+- [iproute2-cheatsheet](https://github.com/dmbaturin/iproute2-cheatsheet) - iproute2 command reference
 - [portainer](https://github.com/portainer/portainer) - Simple management UI for Docker
 - [staticrypt](https://github.com/robinmoisson/staticrypt) - Password protect a static HTML page
 - [node-red-dashboard](https://github.com/node-red/node-red-dashboard) - A dashboard UI for Node-RED
@@ -476,7 +485,7 @@
 ## Haskell 
 
 - [sproxy2](https://github.com/ip1981/sproxy2) - HTTP proxy for authenticating users via OAuth2
-- [sproxy](https://github.com/zalora/sproxy) - Obsolete. See http://hackage.haskell.org/package/sproxy2
+- [sproxy](https://github.com/zalora/sproxy) - See http://hackage.haskell.org/package/sproxy2
 - [compleat](https://github.com/mbrubeck/compleat) - Generate command-line completions using a simple DSL.
 
 ## JSONiq 
@@ -487,18 +496,17 @@
 ## Java 
 
 - [YCSB](https://github.com/brianfrankcooper/YCSB) - Yahoo! Cloud Serving Benchmark
-- [cdm](https://github.com/rustyrazorblade/cdm) - Cassandra Dataset Manager
 - [localstack-spring-boot](https://github.com/smartupio/localstack-spring-boot) - Atlassian LocalStack autoconfiguration for Spring Boot based Java projects
 - [archi](https://github.com/archimatetool/archi) - Archi: ArchiMate Modelling Tool
 - [s3proxy](https://github.com/andrewgaul/s3proxy) - Access other storage backends via the S3 API
 - [test-automation-quickstart](https://github.com/opencredo/test-automation-quickstart) - Quickstart project for test automation, covering performance, ui acceptance and api acceptance testing
 - [java-properties-to-json](https://github.com/mikolajmitura/java-properties-to-json) - 
-- [redisson](https://github.com/redisson/redisson) - Redisson - distributed Java objects and services (Set, Multimap, SortedSet, Map, List, Queue, BlockingQueue, Deque, BlockingDeque, Semaphore, Lock, AtomicLong, CountDownLatch, Publish / Subscribe, Bloom filter, Spring Cache, Executor service, Tomcat Session Manager, Scheduler service, JCache API) on top of Redis server. Rich Redis client
+- [redisson](https://github.com/redisson/redisson) - Redisson - distributed Java objects and services (Set, Multimap, SortedSet, Map, List, Queue, BlockingQueue, Deque, BlockingDeque, Semaphore, Lock, AtomicLong, Map Reduce, Publish / Subscribe, Bloom filter, Spring Cache, Executor service, Tomcat Session Manager, Scheduler service, JCache API) on top of Redis server. Rich Redis client
 - [plantuml-gist](https://github.com/linux-china/plantuml-gist) - PlantUML with Github Gist and Gitlab Support
 - [spoon](https://github.com/INRIA/spoon) - Spoon is a library to analyze, transform, rewrite, transpile Java source code (incl Java 8). It parses source files to build a well-designed AST with powerful analysis and transformation API. Made at Inria with :heart:, :beers: and :sparkles:.
 - [JJSchema](https://github.com/reinert/JJSchema) - A generator from Java Types to JSON-Schema using Jackson.
 - [gephi](https://github.com/gephi/gephi) - Gephi - The Open Graph Viz Platform
-- [elassandra](https://github.com/strapdata/elassandra) - Elassandra = cassandra + elasticsearch
+- [elassandra](https://github.com/strapdata/elassandra) - Elassandra = Elasticsearch + Cassandra
 - [flyway](https://github.com/flyway/flyway) - Flyway by Boxfuse • Database Migrations Made Easy.
 - [swagger-core](https://github.com/swagger-api/swagger-core) - Examples and server integrations for generating the Swagger API Specification, which enables easy access to your REST API
 - [grakn](https://github.com/graknlabs/grakn) - The Database for AI
@@ -510,12 +518,13 @@
 - [consul-api](https://github.com/Ecwid/consul-api) - Java client for Consul HTTP API
 - [WhereHows](https://github.com/linkedin/WhereHows) - Data Discovery and Lineage for Big Data Ecosystem
 - [ambry](https://github.com/linkedin/ambry) - Distributed object store
-- [gobblin](https://github.com/linkedin/gobblin) - Gobblin is a distributed big data integration framework (ingestion, replication, compliance, retention)  for batch and streaming systems. Gobblin features integrations with Apache Hadoop, Apache Kafka, Salesforce, S3, MySQL, Google etc.
+- [incubator-gobblin](https://github.com/apache/incubator-gobblin) - Gobblin is a distributed big data integration framework (ingestion, replication, compliance, retention)  for batch and streaming systems. Gobblin features integrations with Apache Hadoop, Apache Kafka, Salesforce, S3, MySQL, Google etc.
 - [airpal](https://github.com/airbnb/airpal) - Web UI for PrestoDB.
 - [amazon-kinesis-connectors](https://github.com/awslabs/amazon-kinesis-connectors) - 
 - [Hive-Pig-Hbase](https://github.com/Re1tReddy/Hive-Pig-Hbase) - Hive,Pig,Hbase,Sqoop examples
 - [oryx](https://github.com/OryxProject/oryx) - Oryx 2: Lambda architecture on Apache Spark, Apache Kafka for real-time large scale machine learning
 - [graphql-java](https://github.com/graphql-java/graphql-java) - GraphQL Java implementation
+- [blox](https://github.com/blox/blox) - Open source tools for building custom schedulers on Amazon ECS
 - [terrapose](https://github.com/spaceshaker/terrapose) - A Groovy-based DSL that is translated to Terraform
 - [storm](https://github.com/nathanmarz/storm) - Distributed and fault-tolerant realtime computation: stream processing, continuous computation, distributed RPC, and more
 - [feign](https://github.com/OpenFeign/feign) - Feign makes writing java http clients easier
@@ -552,6 +561,8 @@
 
 ## JavaScript 
 
+- [HackMyResume](https://github.com/hacksalot/HackMyResume) - Generate polished résumés and CVs in HTML, Markdown, LaTeX, MS Word, PDF, plain text, JSON, XML, YAML, smoke signal, and carrier pigeon.
+- [staticgen](https://github.com/netlify/staticgen) - StaticGen.com, A leaderboard of top open-source static site generators
 - [terraform_firehose](https://github.com/roshpr/terraform_firehose) - AWS Firehose implementation for VPCFlow, ELK & Lambda integration to analyse VPC network data flow & monitoring dashboard
 - [gitbook](https://github.com/GitbookIO/gitbook) - 📝 Modern documentation format and toolchain using Git and Markdown
 - [aws-vpc-flow-log-appender](https://github.com/awslabs/aws-vpc-flow-log-appender) - Sample code to append additional information (e.g. Security Group IDs and geolocation data) to VPC Flow Logs for analysis in Elasticsearch.
@@ -559,10 +570,10 @@
 - [nodemon](https://github.com/remy/nodemon) - Monitor for any changes in your node.js application and automatically restart the server - perfect for development
 - [lambdalogs](https://github.com/seeebiii/lambdalogs) - A CLI tool to trace AWS Lambda calls over multiple CloudWatch log groups.
 - [kinesis-streams-fan-out-kinesis-analytics](https://github.com/alexcasalboni/kinesis-streams-fan-out-kinesis-analytics) - Amazon Kinesis Streams fan-out via Kinesis Analytics (powered by the Serverless Framework)
-- [jsonschema](https://github.com/tdegrunt/jsonschema) - jsonschema
+- [jsonschema](https://github.com/tdegrunt/jsonschema) - JSON Schema validation
 - [distributed](https://github.com/funretro/distributed) - :thumbsup: Easy to use and beautiful restrospective tool
 - [aws-iam-manager](https://github.com/netguru/aws-iam-manager) - 💳 AWS IAM Manager as a Code using Serverless framework
-- [git2consul](https://github.com/Cimpress-MCP/git2consul) - Mirrors the contents of a git repository into Consul KVs.
+- [git2consul](https://github.com/breser/git2consul) - Mirrors the contents of a git repository into Consul KVs.
 - [drone-starter](https://github.com/maqpie/drone-starter) - Make a first build with Drone CI in under 10 minutes
 - [LambStatus](https://github.com/ks888/LambStatus) - Serverless Status Page System
 - [c3vis](https://github.com/ExpediaDotCom/c3vis) - Visualize the resource utilisation of Amazon ECS clusters
@@ -583,7 +594,7 @@
 - [custom-slack-integration](https://github.com/brendajin/custom-slack-integration) - Use webhooks and stateless middleware to set up custom Slack notifications in minutes!
 - [seagull](https://github.com/tobegit3hub/seagull) - Friendly Web UI to manage and monitor docker
 - [aws-lambda-fanout](https://github.com/awslabs/aws-lambda-fanout) - A sample AWS Lambda function that accepts messages from an Amazon Kinesis Stream and transfers the messages to another data transport.
-- [scope](https://github.com/serverless/scope) - Scope - Customizable birdeye's view of your Github project
+- [scope](https://github.com/serverless/scope) - 🔭 Scope - Create a birdeye's view of your Github project and embed on your site
 - [s3-lambda](https://github.com/littlstar/s3-lambda) - Lambda functions over S3 objects with concurrency control (each, map, reduce, filter)
 - [aws-data-lake-solution](https://github.com/awslabs/aws-data-lake-solution) - A deployable reference implementation intended to address pain points around conceptualizing data lake architectures that automatically configures the core AWS services necessary to easily tag, search, share, and govern specific subsets of data across a business or with other external businesses.
 - [pinball](https://github.com/pinterest/pinball) - Pinball is a scalable workflow manager
@@ -594,6 +605,7 @@
 - [viz.js](https://github.com/mdaines/viz.js) - A hack to put Graphviz on the web.
 - [vis](https://github.com/almende/vis) - Dynamic, browser-based visualization library
 - [remark](https://github.com/gnab/remark) - A simple, in-browser, markdown-driven slideshow tool.
+- [vscode-terraform-snippets](https://github.com/rixrix/vscode-terraform-snippets) - Advanced Terraform Snippets for Visual Studio Code
 - [mermaid](https://github.com/knsv/mermaid) - Generation of diagram and flowchart from text in a similar manner as markdown
 - [osm-qa-filter](https://github.com/lukasmartinelli/osm-qa-filter) - Extract GeoJSON features from OSM QA tiles
 - [hotel](https://github.com/typicode/hotel) - :love_hotel: A simple process manager for developers. Start apps from your browser and access them using local .dev domains
@@ -662,6 +674,7 @@
 
 ## Kotlin 
 
+- [cdm](https://github.com/rustyrazorblade/cdm) - Cassandra Dataset Manager
 - [intellij-hcl](https://github.com/VladRassokhin/intellij-hcl) - HCL language support for IntelliJ platform based IDEs
 
 ## Lua 
@@ -696,6 +709,9 @@
 
 ## Others 
 
+- [my-mac-os](https://github.com/nikitavoloboev/my-mac-os) - 💻 a list of applications, alfred workflows and various tools that make my macOS experience even more amazing
+- [linux-sysadmin-interview-questions](https://github.com/chassing/linux-sysadmin-interview-questions) - Collection of Linux Sysadmin/DevOps interview questions
+- [consul](https://github.com/thechane/consul) - Docker compose file and other resources for running Consul as a service in Docker
 - [terraplate](https://github.com/rjayroach/terraplate) - use ansible templates to easily generate terraform modules, components and tfvars files
 - [ami-builder-packer](https://github.com/awslabs/ami-builder-packer) - An example of an AMI Builder using CI/CD with AWS CodePipeline, AWS CodeBuild, Hashicorp Packer and Ansible.
 - [awesome-sre](https://github.com/dastergon/awesome-sre) - A curated list of awesome Site Reliability and Production Engineering resources.
@@ -713,9 +729,9 @@
 - [mylinks](https://github.com/smdocs/mylinks) - 
 - [generating-certs](https://github.com/jason-riddle/generating-certs) - Guides on generating, installing, and rotating SSL certs.
 - [awesome-bigdata](https://github.com/onurakpolat/awesome-bigdata) - A curated list of awesome big data frameworks, ressources and other awesomeness.
-- [vscode-terraform-snippets](https://github.com/rixrix/vscode-terraform-snippets) - Advanced Terraform Snippets for Visual Studio Code
 - [ansible-cassandra](https://github.com/deimosfr/ansible-cassandra) - Ansible role to deploy Cassandra
 - [awesome-analytics](https://github.com/onurakpolat/awesome-analytics) - A curated list of analytics frameworks, software and other tools.
+- [awesome-nomad](https://github.com/jippi/awesome-nomad) - A curated list of amazingly awesome Nomad tools and shiny things.
 - [awesome-ciandcd](https://github.com/ciandcd/awesome-ciandcd) - continuous integration and continuous delivery
 - [packer-schema](https://github.com/lostintangent/packer-schema) - A JSON schema for validating and providing editor support when authoring Packer templates
 - [hornetq](https://github.com/hornetq/hornetq) - HornetQ is an open source project to build a multi-protocol, embeddable, very high performance, clustered, asynchronous messaging system.
@@ -743,7 +759,7 @@
 - [bigtop-centos](https://github.com/tzolov/bigtop-centos) - Ready to use Docker environment for Apache Bigtop. Based on CentOS and equipped with all necessary tools and libraries.
 - [cassandra-monitoring](https://github.com/softwaremill/cassandra-monitoring) - Scripts for the Cassandra Monitoring blog miniseries
 - [awesome-db](https://github.com/numetriclabz/awesome-db) - A curated list of amazingly awesome database libraries, resources and shiny things by https://www.numetriclabz.com/
-- [awesome-public-datasets](https://github.com/caesar0301/awesome-public-datasets) - An awesome list of high-quality open datasets in public domains (on-going). By everyone, for everyone!
+- [awesome-public-datasets](https://github.com/caesar0301/awesome-public-datasets) - A topic-centric list of high-quality open datasets in public domains. By everyone, for everyone!
 - [onmetal-fast-docker](https://github.com/jayofdoom/onmetal-fast-docker) - Contains example cloud-config.yml files for mounting /var/lib/docker onto fast storage on OnMetal
 - [ntiered-aws-docker-terraform-guide](https://github.com/airpair/ntiered-aws-docker-terraform-guide) - 
 - [awesome-postgres](https://github.com/dhamaniasad/awesome-postgres) - A curated list of awesome PostgreSQL software, libraries, tools and resources, inspired by awesome-mysql
@@ -771,7 +787,6 @@
 - [labs](https://github.com/docker/labs) - This is a collection of tutorials for learning how to use Docker with various tools. Contributions welcome.
 - [FreshRSS](https://github.com/FreshRSS/FreshRSS) - A free, self-hostable aggregator…
 - [Hugopit](https://github.com/sjardim/Hugopit) - An EXPERIMENTAL web based editor for Hugo
-- [hazelcast-docker](https://github.com/hazelcast/hazelcast-docker) - This repository contains docker image for Hazelcast open-source in-memory data-grid.
 - [CliGenerator](https://github.com/enxebre/CliGenerator) - A Command-Line User Interface generator for Symfony Console Component.
 - [guzzle](https://github.com/guzzle/guzzle) - Guzzle, an extensible PHP HTTP client
 - [ffmpeg-php](https://github.com/tony2001/ffmpeg-php) - PHP extension for video editing, wrapping ffmpeg
@@ -792,6 +807,10 @@
 
 ## Python 
 
+- [grafcli](https://github.com/m110/grafcli) - Grafana CLI for quick and easy dashboards management.
+- [deoplete.nvim](https://github.com/Shougo/deoplete.nvim) - :stars: Dark powered asynchronous completion framework for neovim
+- [promgen](https://github.com/line/promgen) - Promgen is a configuration file generator for Prometheus
+- [pysc2](https://github.com/deepmind/pysc2) - StarCraft II Learning Environment
 - [ec2-spot-labs](https://github.com/awslabs/ec2-spot-labs) - Collection of tools and code examples to demonstrate best practices in using Amazon EC2 Spot Instances.
 - [ebs-snapshot-scheduler](https://github.com/awslabs/ebs-snapshot-scheduler) - A solution to automatically take a snapshot of all the EBS volumes of a tagged instance on a schedule in any region
 - [aws-s3snapshot](https://github.com/awslabs/aws-s3snapshot) - S3 Snapshot script to run from command-line or scheduled in Lambda.
@@ -811,11 +830,11 @@
 - [nginx-proxy](https://github.com/jwilder/nginx-proxy) - Automated nginx proxy for Docker containers using docker-gen
 - [terraform_validate](https://github.com/elmundio87/terraform_validate) - Assists in the enforcement of user-defined standards in Terraform
 - [lambda-runcommand-configuration-management](https://github.com/awslabs/lambda-runcommand-configuration-management) - Serverless, SSHless, Continuous Configuration Management
-- [localstack](https://github.com/localstack/localstack) - A fully functional local AWS cloud stack. Develop and test your cloud apps offline!
+- [localstack](https://github.com/localstack/localstack) - 💻  A fully functional local AWS cloud stack. Develop and test your cloud apps offline!
 - [zabbix-cli](https://github.com/usit-gd/zabbix-cli) - Command-line interface for Zabbix
 - [slacker](https://github.com/os/slacker) - Full-featured Python interface for the Slack API
 - [system-design-primer](https://github.com/donnemartin/system-design-primer) - Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards.
-- [repositorytools](https://github.com/stardust85/repositorytools) - Python API and command-line interface for working with artifact repositories like sonatype nexus
+- [repositorytools](https://github.com/packagemgmt/repositorytools) - Python API and command-line interface for working with artifact repositories like sonatype nexus
 - [spilo](https://github.com/zalando/spilo) - Highly available elephant herd: HA PostgreSQL cluster using Docker
 - [aws_role_credentials](https://github.com/ThoughtWorksInc/aws_role_credentials) - Generates AWS credentials for roles using STS
 - [awsie](https://github.com/flomotlik/awsie) - CloudFormation aware wrapper for the AWSCLI
@@ -857,7 +876,7 @@
 - [glances](https://github.com/nicolargo/glances) - Glances an Eye on your system. A top/htop alternative.
 - [locust](https://github.com/locustio/locust) - Scalable user load testing tool written in Python
 - [compose](https://github.com/docker/compose) - Define and run multi-container applications with Docker
-- [superset](https://github.com/ApacheInfra/superset) - Apache Superset (incubating) is a modern, enterprise-ready business intelligence web application
+- [incubator-superset](https://github.com/apache/incubator-superset) - Apache Superset (incubating) is a modern, enterprise-ready business intelligence web application
 - [http-prompt](https://github.com/eliangcs/http-prompt) - HTTPie + prompt_toolkit = an interactive command-line HTTP client featuring autocomplete and syntax highlighting
 - [rds-pgbadger](https://github.com/fpietka/rds-pgbadger) - Fetch logs from RDS instance, and process them with pgBadger
 - [pgcli](https://github.com/dbcli/pgcli) - Postgres CLI with autocompletion and syntax highlighting
@@ -896,7 +915,7 @@
 - [cloud-init](https://github.com/number5/cloud-init) - unofficial mirror of Ubuntu's  cloud-init
 - [sshuttle](https://github.com/apenwarr/sshuttle) - Transparent proxy server that works as a poor man's VPN.  Forwards over ssh.  Doesn't require admin.  Works with Linux and MacOS.  Supports DNS tunneling.
 - [cassandralauncher](https://github.com/joaquincasares/cassandralauncher) - Allows for the DataStax AMI to run from the command line while removing common user errors. End-to-end time to a cluster of any size is ~5 minutes. 22,000+ PyPI downloads.
-- [chalice](https://github.com/awslabs/chalice) - Python Serverless Microframework for AWS
+- [chalice](https://github.com/aws/chalice) - Python Serverless Microframework for AWS
 - [Zappa](https://github.com/Miserlou/Zappa) - Serverless Python Web Services
 - [thumbnail-service](https://github.com/Schweigi/thumbnail-service) - Thumbnail API service
 - [python-lambder](https://github.com/LeafSoftware/python-lambder) - Create and manage scheduled AWS Lambdas from the CLI
@@ -917,7 +936,7 @@
 - [awesome-aws](https://github.com/donnemartin/awesome-aws) - A curated list of awesome Amazon Web Services (AWS) libraries, open source repos, guides, blogs, and other resources.  Featuring the Fiery Meter of AWSome.
 - [jbosscli](https://github.com/raphaelpaiva/jbosscli) - A python front-end for the Jboss wildfly REST management interface
 - [st2contrib](https://github.com/StackStorm/st2contrib) - MOVED! See StackStorm Exchange
-- [st2](https://github.com/StackStorm/st2) - StackStorm (aka "IFTTT for Ops") is event-driven automation commonly used for auto-remediation, security responses, facilitated troubleshooting, complex deployments, and more. Includes rules engine, workflow, 1800+ integrations (see /st2contrib), native ChatOps and so forth. Installer available at http://docs.stackstorm.com/install/index.html. Ping us on slack - https://stackstorm-community.slack.com/.
+- [st2](https://github.com/StackStorm/st2) - StackStorm (aka "IFTTT for Ops") is event-driven automation commonly used for auto-remediation, security responses, facilitated troubleshooting, complex deployments, and more. Includes rules engine, workflow, 1800+ integrations (see https://exchange.stackstorm.org), native ChatOps and so forth. Installer available at http://docs.stackstorm.com/install/index.html. Ping us on slack - https://stackstorm-community.slack.com/.
 - [Skype4Py](https://github.com/Skype4Py/Skype4Py) - Platform independent Python wrapper for the Skype Desktop API
 - [sevabot](https://github.com/dafiti/sevabot) - A Skype bot supporting integration with external services
 - [sevabot](https://github.com/shinglyu/sevabot) - A Skype bot supporting integration with external services
@@ -946,10 +965,10 @@
 ## Ruby 
 
 - [sfn](https://github.com/sparkleformation/sfn) - SparkleFormation CLI
-- [terraform-aws-base-networking](https://github.com/tobyclemson/terraform-aws-base-networking) - Terraform module for building base networking in AWS
+- [terraform-aws-base-networking](https://github.com/infrablocks/terraform-aws-base-networking) - Terraform module for building base networking in AWS
 - [packer-config](https://github.com/ianchesal/packer-config) - A Ruby way to generate packer.io configurations
 - [github-changelog-generator](https://github.com/skywinder/github-changelog-generator) - Automatically generate change log from your tags, issues, labels and pull requests on GitHub.
-- [asciinema.org](https://github.com/asciinema/asciinema.org) - asciinema hosting web app
+- [asciinema-server](https://github.com/asciinema/asciinema-server) - asciinema hosting web app
 - [kitchen-terraform](https://github.com/newcontext-oss/kitchen-terraform) - Test Kitchen plugins for testing Terraform configurations
 - [serverspec](https://github.com/mizzy/serverspec) - RSpec tests for your servers configured by CFEngine, Puppet, Chef, Ansible, Itamae or anything else even by hand
 - [hashicorptools](https://github.com/controlshift/hashicorptools) - a set of ruby utilities for interacting with and wrapping packer and terraform
@@ -975,9 +994,8 @@
 - [posgra](https://github.com/codenize-tools/posgra) - Posgra is a tool to manage PostgreSQL roles/permissions.
 - [ansible-vagrant-examples](https://github.com/geerlingguy/ansible-vagrant-examples) - Ansible examples using Vagrant to deploy to local VMs.
 - [vagrant-aws](https://github.com/mitchellh/vagrant-aws) - Use Vagrant to manage your EC2 and VPC instances.
-- [wildfly-buildpack](https://github.com/myminseok/wildfly-buildpack) - Cloud Foundry buildpack for running Java applications
 - [wildfly-buildpack](https://github.com/thomasdarimont/wildfly-buildpack) - 
-- [pullrequest-resource](https://github.com/jtarchie/pullrequest-resource) - Provides a pull request resource for concourse CI.
+- [github-pullrequest-resource](https://github.com/jtarchie/github-pullrequest-resource) - Provides a pull request resource for concourse CI.
 - [geoengineer](https://github.com/coinbase/geoengineer) - Infrastructure As Code
 - [ruby-tfoutputs](https://github.com/jae2/ruby-tfoutputs) - Use Terraform outputs in your ruby code.
 - [dockerfile-packer](https://github.com/unifio/dockerfile-packer) - Dockerfile for creation of a HashiCorp Packer container
@@ -994,11 +1012,12 @@
 - [biosphere](https://github.com/UnityTech/biosphere) - 
 - [shipmate](https://github.com/tmecklem/shipmate) - A web application similar to testflight for private hosting and distribution of mobile apps for testing.
 - [backup](https://github.com/backup/backup) - Easy full stack backup operations on UNIX-like systems.
+- [bashcached](https://github.com/MakeNowJust/bashcached) - memcached server built on bash + socat
 - [lhm](https://github.com/soundcloud/lhm) - Online MySQL schema migrations
 - [homebrew-terraforms](https://github.com/Yleisradio/homebrew-terraforms) - Terraform version switcher and Homebrew Casks for Terraform versions
 - [dpl](https://github.com/travis-ci/dpl) - Dpl (dee-pee-ell) is a deploy tool made for continuous deployment.
 - [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness) - A curated list of awesome awesomeness
-- [cassandra](https://github.com/locp/cassandra) - Installs Cassandra & DataStax Agent on RHEL/Ubuntu/Debian.
+- [cassandra](https://github.com/voxpupuli/cassandra) - Installs Cassandra & DataStax Agent on RHEL/Ubuntu/Debian.
 - [s3urlsigner](https://github.com/stevejmason/s3urlsigner) - API "proxy" that redirects requests to a signed-URL for accessing private objects in AWS S3.
 - [samson](https://github.com/zendesk/samson) - Web interface for deployments
 - [cassandra-chef-cookbook](https://github.com/wsh/cassandra-chef-cookbook) - Chef cookbook for Apache Cassandra, DataStax Enterprise (DSE) and DataStax agent
@@ -1037,8 +1056,14 @@
 
 ## Shell 
 
-- [postgres-docker-cluster](https://github.com/paunin/postgres-docker-cluster) - Postgres docker cluster setup with docker-compose and kubernetes examples
+- [ansible-role-mysql](https://github.com/geerlingguy/ansible-role-mysql) - Ansible Role - MySQL
+- [bash-it](https://github.com/Bash-it/bash-it) - A community Bash framework.
+- [mariadb-galera-swarm](https://github.com/colinmollenhour/mariadb-galera-swarm) - Easy to use MariaDb Galera Cluster container based on official mariadb image with support for Docker Swarm Mode.
+- [packer-template-builder](https://github.com/ljdelight/packer-template-builder) - From a base ISO, build a collection of template OVA images to automate all the things
+- [homelab](https://github.com/cgarciaarano/homelab) - Provision of a home laboratory to test infrastructure tools
+- [PostDock](https://github.com/paunin/PostDock) - PostDock - Postgres & Docker - Postgres streaming replication cluster for any docker environment
 - [ecs-logs-collector](https://github.com/awslabs/ecs-logs-collector) - The script will be used to collect general os logs as well as Docker and ecs-agent logs, it also support to enable debug mode for docker and ecs-agent in Amazon Linux.
+- [prest](https://github.com/prest/prest) - A fully RESTful API from any existing PostgreSQL database written in Go
 - [nginxse-virtualhost-generator](https://github.com/hishriTaha/nginxse-virtualhost-generator) - A CLI-based tool that helps you generate NGINX server block configuration files in a few seconds.
 - [aui](https://github.com/helmuthdu/aui) - Archlinux Ultimate Install
 - [elastic-ci-stack-for-aws](https://github.com/buildkite/elastic-ci-stack-for-aws) - A simple, flexible, auto-scaling cluster of build agents running in your own AWS VPC
@@ -1091,14 +1116,13 @@
 - [centos7-ami](https://github.com/claranet/centos7-ami) - Shell script to build CentOS 7 AMI
 - [dockerfiles](https://github.com/kelseyhightower/dockerfiles) - Docker files
 - [hashiconf-eu-2016](https://github.com/kelseyhightower/hashiconf-eu-2016) - HashiConf EU 2016
-- [Dockerfiles](https://github.com/HariSekhon/Dockerfiles) - DockerHub public images - Hadoop, Kafka, ZooKeeper, HBase, Cassandra, Solr / SolrCloud, Apache Drill, Nifi, Serf, Consul, Mesos, Spark standalone, Riak, Alluxio, Jython, Advanced Nagios Plugins Collection / PyTools / Tools repos on CentOS / Ubuntu / Debian / Alpine
+- [Dockerfiles](https://github.com/HariSekhon/Dockerfiles) - DockerHub public images - Hadoop, Kafka, ZooKeeper, HBase, Cassandra, Solr / SolrCloud, Presto, Apache Drill, Nifi, Spark, Superset, H2O, Mesos, Serf, Consul, Riak, Alluxio, Jython, Advanced Nagios Plugins Collection / PyTools / Tools repos on CentOS / Ubuntu / Debian / Alpine
 - [terraform-multi-env](https://github.com/bkc1/terraform-multi-env) - Terraform wrapper script for handling multi-environment, multi-region deployments
 - [terraform-aws-wrapper](https://github.com/antonbabenko/terraform-aws-wrapper) - Terraform AWS wrapper script (not ready for production, yet!)
 - [phinx.deb](https://github.com/Vitexus/phinx.deb) - Debian package for SQL Migrating tool Phinx
 - [baseimage-amzn](https://github.com/lambda-linux/baseimage-amzn) - A minimal Docker Base Image based on Amazon Linux
 - [ota-tools](https://github.com/RichardBronosky/ota-tools) - A burgeoning collection of tools for Over-The-Air distribution of mobile applications.
 - [terraform-consul-service-discovery-example](https://github.com/bltavares/terraform-consul-service-discovery-example) - 
-- [bashcached](https://github.com/MakeNowJust/bashcached) - memcached built on bash + socat
 - [consul-terraform](https://github.com/immutability-io/consul-terraform) - 
 - [distributed-playground](https://github.com/jvandevelde/distributed-playground) - Distributed service playground with Vagrant, Consul, Docker & ASP.NET Core
 - [consul-rpm](https://github.com/tomhillable/consul-rpm) - Spec file and sources needed to package consul
@@ -1125,6 +1149,7 @@
 - [cassandra-cloud-backup](https://github.com/GoogleCloudPlatform/cassandra-cloud-backup) - Cassandra backups to Google Cloud Storage
 - [hornetq](https://github.com/dougtoppin/hornetq) - Useful tools associated with using HornetQ in the JBoss Fuse Service Works distribution
 - [dockerfiles](https://github.com/jessfraz/dockerfiles) - Various Dockerfiles I use on the desktop and on servers.
+- [hazelcast-docker](https://github.com/hazelcast/hazelcast-docker) - This repository contains docker image for Hazelcast open-source in-memory data-grid.
 - [docker-node](https://github.com/nodejs/docker-node) - Official Docker Image for Node.js :whale: :turtle: :rocket:
 - [docker-desktop](https://github.com/rogaha/docker-desktop) - Docker Desktop enables you to create virtual desktops that can be accessed remotely. It comes with Firefox and Libreoffice already installed!
 - [WildFlyApp](https://github.com/BITFORCE-IT/WildFlyApp) - An example Docker Container running an JEE App on WildFly 10 Using oficial JBoss Docker image and useful enhancements.
@@ -1182,10 +1207,6 @@
 - [vim-hclfmt](https://github.com/fatih/vim-hclfmt) - Vim plugin for hclfmt
 - [spf13-vim](https://github.com/spf13/spf13-vim) - The ultimate vim distribution
 - [vim-go-ide](https://github.com/farazdagi/vim-go-ide) - Ready to use, fully configured for Go development.
-
-## Vue 
-
-- [goldfish](https://github.com/Caiyeon/goldfish) - A HashiCorp Vault UI panel written with VueJS and Vault native Go API
 
 ## Web Ontology Language 
 

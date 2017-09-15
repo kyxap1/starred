@@ -138,6 +138,7 @@
 
 ## Go 
 
+- [minio](https://github.com/minio/minio) - Minio is an open source object storage server compatible with Amazon S3 APIs
 - [stolon](https://github.com/sorintlab/stolon) - PostgreSQL cloud native High Availability and more.
 - [mtail](https://github.com/google/mtail) - extract whitebox monitoring data from application logs for collection in a timeseries database
 - [oas2](https://github.com/hypnoglow/oas2) - OpenAPI 2.0 (aka Swagger) utils for Golang.
@@ -517,7 +518,6 @@
 - [json-data-generator](https://github.com/acesinc/json-data-generator) - A robust, generic, streaming random json data generator for your data
 - [node-info](https://github.com/goldmann/node-info) - A simple web app (servlet only) that show the node/host name of the JBoss EAP/Wildfly server
 - [consul-api](https://github.com/Ecwid/consul-api) - Java client for Consul HTTP API
-- [WhereHows](https://github.com/linkedin/WhereHows) - Data Discovery and Lineage for Big Data Ecosystem
 - [ambry](https://github.com/linkedin/ambry) - Distributed object store
 - [incubator-gobblin](https://github.com/apache/incubator-gobblin) - Gobblin is a distributed big data integration framework (ingestion, replication, compliance, retention)  for batch and streaming systems. Gobblin features integrations with Apache Hadoop, Apache Kafka, Salesforce, S3, MySQL, Google etc.
 - [airpal](https://github.com/airbnb/airpal) - Web UI for PrestoDB.
@@ -710,6 +710,7 @@
 
 ## Others 
 
+- [mysql](https://github.com/bennojoy/mysql) - ansible role for mysql
 - [my-mac-os](https://github.com/nikitavoloboev/my-mac-os) - 💻 a list of applications, alfred workflows and various tools that make my macOS experience even more amazing
 - [linux-sysadmin-interview-questions](https://github.com/chassing/linux-sysadmin-interview-questions) - Collection of Linux Sysadmin/DevOps interview questions
 - [consul](https://github.com/thechane/consul) - Docker compose file and other resources for running Consul as a service in Docker
@@ -868,6 +869,7 @@
 - [dogen](https://github.com/jboss-dockerfiles/dogen) - Simple Dockerfile generator
 - [cstar_perf](https://github.com/datastax/cstar_perf) - Apache Cassandra performance testing platform
 - [ansible-python-lambda](https://github.com/YPlan/ansible-python-lambda) - Example deployment of an AWS Lambda function with Ansible
+- [WhereHows](https://github.com/linkedin/WhereHows) - Data Discovery and Lineage for Big Data Ecosystem
 - [kafka-tools](https://github.com/linkedin/kafka-tools) - A collection of tools for working with Apache Kafka.
 - [python-prompt-toolkit](https://github.com/jonathanslenders/python-prompt-toolkit) - Library for building powerful interactive command lines in Python
 - [s3cmd](https://github.com/s3tools/s3cmd) - Official s3cmd repo -- Command line tool for managing Amazon S3 and CloudFront services
@@ -1111,6 +1113,7 @@
 - [ami-baker](https://github.com/stakater/ami-baker) - Stakater tool to create CoreOS based custom AMI (Amazon Machine Image). Stakater is an Infrastructure-as-Code DevOps solution to automate the creation of web infrastructure stack on AWS. Stakater is based on Docker, CoreOS, Terraform, Packer, Docker Compose, GoCD, Fleet, ETCD, and more.
 - [devops-demo](https://github.com/dimapod/devops-demo) - DevOps Demo - Packer / Ansible / Terraform / AWS
 - [dockerfile-ci](https://github.com/unifio/dockerfile-ci) - 
+- [utilities](https://github.com/VladRassokhin/utilities) - Micro helpers
 - [bats](https://github.com/sstephenson/bats) - Bash Automated Testing System
 - [dockerfile-terraform](https://github.com/unifio/dockerfile-terraform) - Dockerfile for creation of a HashiCorp Terraform container
 - [terrafirm](https://github.com/elocnatsirt/terrafirm) - A project proposing best practices for Terraform
@@ -1190,7 +1193,6 @@
 - [vim-repeat](https://github.com/tpope/vim-repeat) - repeat.vim: enable repeating supported plugin maps with "."
 - [Vim-Jinja2-Syntax](https://github.com/Glench/Vim-Jinja2-Syntax) - An up-to-date jinja2 syntax file.
 - [syntastic](https://github.com/vim-syntastic/syntastic) - Syntax checking hacks for vim
-- [utilities](https://github.com/VladRassokhin/utilities) - Micro helpers
 - [auto-pairs](https://github.com/jiangmiao/auto-pairs) - Vim plugin, insert or delete brackets, parens, quotes in pair
 - [nerdtree-git-plugin](https://github.com/Xuyuanp/nerdtree-git-plugin) - A plugin of NERDTree showing git status
 - [vim-terraform](https://github.com/hashivim/vim-terraform) - basic vim/terraform integration

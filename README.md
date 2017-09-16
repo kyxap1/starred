@@ -518,6 +518,7 @@
 - [json-data-generator](https://github.com/acesinc/json-data-generator) - A robust, generic, streaming random json data generator for your data
 - [node-info](https://github.com/goldmann/node-info) - A simple web app (servlet only) that show the node/host name of the JBoss EAP/Wildfly server
 - [consul-api](https://github.com/Ecwid/consul-api) - Java client for Consul HTTP API
+- [WhereHows](https://github.com/linkedin/WhereHows) - Data Discovery and Lineage for Big Data Ecosystem
 - [ambry](https://github.com/linkedin/ambry) - Distributed object store
 - [incubator-gobblin](https://github.com/apache/incubator-gobblin) - Gobblin is a distributed big data integration framework (ingestion, replication, compliance, retention)  for batch and streaming systems. Gobblin features integrations with Apache Hadoop, Apache Kafka, Salesforce, S3, MySQL, Google etc.
 - [airpal](https://github.com/airbnb/airpal) - Web UI for PrestoDB.
@@ -869,13 +870,12 @@
 - [dogen](https://github.com/jboss-dockerfiles/dogen) - Simple Dockerfile generator
 - [cstar_perf](https://github.com/datastax/cstar_perf) - Apache Cassandra performance testing platform
 - [ansible-python-lambda](https://github.com/YPlan/ansible-python-lambda) - Example deployment of an AWS Lambda function with Ansible
-- [WhereHows](https://github.com/linkedin/WhereHows) - Data Discovery and Lineage for Big Data Ecosystem
 - [kafka-tools](https://github.com/linkedin/kafka-tools) - A collection of tools for working with Apache Kafka.
 - [python-prompt-toolkit](https://github.com/jonathanslenders/python-prompt-toolkit) - Library for building powerful interactive command lines in Python
 - [s3cmd](https://github.com/s3tools/s3cmd) - Official s3cmd repo -- Command line tool for managing Amazon S3 and CloudFront services
 - [schema](https://github.com/keleshev/schema) - Schema validation just got Pythonic
 - [mailinabox](https://github.com/mail-in-a-box/mailinabox) - Mail-in-a-Box helps individuals take back control of their email by defining a one-click, easy-to-deploy SMTP+everything else server: a mail server in a box.
-- [asciinema](https://github.com/asciinema/asciinema) - Terminal session recorder
+- [asciinema](https://github.com/asciinema/asciinema) - Terminal session recorder 📹
 - [glances](https://github.com/nicolargo/glances) - Glances an Eye on your system. A top/htop alternative.
 - [locust](https://github.com/locustio/locust) - Scalable user load testing tool written in Python
 - [compose](https://github.com/docker/compose) - Define and run multi-container applications with Docker
@@ -971,7 +971,7 @@
 - [terraform-aws-base-networking](https://github.com/infrablocks/terraform-aws-base-networking) - Terraform module for building base networking in AWS
 - [packer-config](https://github.com/ianchesal/packer-config) - A Ruby way to generate packer.io configurations
 - [github-changelog-generator](https://github.com/skywinder/github-changelog-generator) - Automatically generate change log from your tags, issues, labels and pull requests on GitHub.
-- [asciinema-server](https://github.com/asciinema/asciinema-server) - asciinema hosting web app
+- [asciinema-server](https://github.com/asciinema/asciinema-server) - Web app for hosting asciicasts
 - [kitchen-terraform](https://github.com/newcontext-oss/kitchen-terraform) - Test Kitchen plugins for testing Terraform configurations
 - [serverspec](https://github.com/mizzy/serverspec) - RSpec tests for your servers configured by CFEngine, Puppet, Chef, Ansible, Itamae or anything else even by hand
 - [hashicorptools](https://github.com/controlshift/hashicorptools) - a set of ruby utilities for interacting with and wrapping packer and terraform

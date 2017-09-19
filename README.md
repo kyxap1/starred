@@ -42,6 +42,7 @@
   - [TypeScript](#typescript)
   - [Vim script](#vim script)
   - [VimL](#viml)
+  - [Vue](#vue)
   - [Web Ontology Language](#web ontology language)
   - [XSLT](#xslt)
 
@@ -158,7 +159,6 @@
 - [kops](https://github.com/kubernetes/kops) - Kubernetes Operations (kops) - Production Grade K8s Installation, Upgrades, and Management
 - [gomplate](https://github.com/hairyhenderson/gomplate) - A flexible commandline tool for template rendering. Supports lots of local and remote datasources.
 - [swarmkit](https://github.com/docker/swarmkit) - A toolkit for orchestrating distributed systems at any scale. It includes primitives for node discovery, raft-based consensus, task scheduling and more.
-- [goldfish](https://github.com/Caiyeon/goldfish) - A HashiCorp Vault UI panel written with VueJS and Vault native Go API
 - [ksonnet-lib](https://github.com/ksonnet/ksonnet-lib) - (technical preview) Simplify working with Kubernetes
 - [goat](https://github.com/sevagh/goat) - GO-ATtach: attach EBS and ENI on the fly
 - [drone-mvn](https://github.com/thomasf/drone-mvn) - Maven repository artifact publisher for Drone CI
@@ -857,6 +857,7 @@
 - [ansigenome](https://github.com/nickjj/ansigenome) - A tool to help you gather information and manage your Ansible roles.
 - [aws-ansible-cassandra](https://github.com/oliverlockwood/aws-ansible-cassandra) - Simple Ansible script to set up a minimal Cassandra cluster
 - [debops-tools](https://github.com/debops/debops-tools) - Your Debian-based data center in a box
+- [learning-tools](https://github.com/lowescott/learning-tools) - A collection of tools and files for learning new technologies
 - [luigi](https://github.com/spotify/luigi) - Luigi is a Python module that helps you build complex pipelines of batch jobs. It handles dependency resolution, workflow management, visualization etc. It also comes with Hadoop support built in.
 - [incubator-airflow](https://github.com/apache/incubator-airflow) - Apache Airflow (Incubating)
 - [celery](https://github.com/celery/celery) - Distributed Task Queue (development branch)
@@ -984,7 +985,6 @@
 - [appear](https://github.com/airbnb/appear) - reveal terminal programs in the gui
 - [jbuilder](https://github.com/rails/jbuilder) - Jbuilder: generate JSON objects with a Builder-style DSL
 - [vagrant-docker-baseimages](https://github.com/tknerr/vagrant-docker-baseimages) - A collection of Vagrant-friendly docker base images
-- [learning-tools](https://github.com/lowescott/learning-tools) - A collection of tools and files for learning new technologies
 - [yutani](https://github.com/leg100/yutani) - An expressive and principled Terraform DSL
 - [buildpacks-ci](https://github.com/cloudfoundry/buildpacks-ci) - Concourse CI pipelines for the buildpacks team
 - [bosh-deployment-resource](https://github.com/concourse/bosh-deployment-resource) - deploy bosh releases as part of your pipeline
@@ -998,7 +998,7 @@
 - [ansible-vagrant-examples](https://github.com/geerlingguy/ansible-vagrant-examples) - Ansible examples using Vagrant to deploy to local VMs.
 - [vagrant-aws](https://github.com/mitchellh/vagrant-aws) - Use Vagrant to manage your EC2 and VPC instances.
 - [wildfly-buildpack](https://github.com/thomasdarimont/wildfly-buildpack) - 
-- [github-pullrequest-resource](https://github.com/jtarchie/github-pullrequest-resource) - Provides a pull request resource for concourse CI.
+- [github-pullrequest-resource](https://github.com/jtarchie/github-pullrequest-resource) - Provides a Github pull request resource for concourse CI.
 - [geoengineer](https://github.com/coinbase/geoengineer) - Infrastructure As Code
 - [ruby-tfoutputs](https://github.com/jae2/ruby-tfoutputs) - Use Terraform outputs in your ruby code.
 - [dockerfile-packer](https://github.com/unifio/dockerfile-packer) - Dockerfile for creation of a HashiCorp Packer container
@@ -1210,6 +1210,10 @@
 - [vim-hclfmt](https://github.com/fatih/vim-hclfmt) - Vim plugin for hclfmt
 - [spf13-vim](https://github.com/spf13/spf13-vim) - The ultimate vim distribution
 - [vim-go-ide](https://github.com/farazdagi/vim-go-ide) - Ready to use, fully configured for Go development.
+
+## Vue 
+
+- [goldfish](https://github.com/Caiyeon/goldfish) - A HashiCorp Vault UI panel written with VueJS and Vault native Go API
 
 ## Web Ontology Language 
 

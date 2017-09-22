@@ -65,7 +65,7 @@
 - [libzbxpgsql](https://github.com/cavaliercoder/libzbxpgsql) - Monitor PostgreSQL with Zabbix
 - [yank](https://github.com/mptre/yank) - Yank terminal output to clipboard
 - [mod_auth_mysql](https://github.com/vstakhov/mod_auth_mysql) - Updated version of mod_auth_mysql taken from https://sourceforge.net/p/modauthmysql
-- [graphviz](https://github.com/ellson/graphviz) - Graph Visualization Tools
+- [MOTHBALLED-graphviz](https://github.com/ellson/MOTHBALLED-graphviz) - Moved to https://gitlab.com/graphviz/graphviz
 - [ngx_aws_auth](https://github.com/anomalizer/ngx_aws_auth) - nginx module to proxy to authenticated AWS services
 - [ngx_small_light](https://github.com/cubicdaiya/ngx_small_light) - Dynamic Image Transformation Module For nginx.
 - [Remmina](https://github.com/FreeRDP/Remmina) - The GTK+ Remmina Remote Desktop Client
@@ -267,7 +267,7 @@
 - [acme](https://github.com/google/acme) - A simple ACME command line tool without 3rd party deps!
 - [hashiapp](https://github.com/kelseyhightower/hashiapp) - Demo 12 Factor application that utilizes Hashicorp tools.
 - [terminus](https://github.com/kelseyhightower/terminus) - Get facts about a Linux system.
-- [vault](https://github.com/hashicorp/vault) - A tool for managing secrets.
+- [vault](https://github.com/hashicorp/vault) - A tool for secrets management, encryption as a service, and privileged access management
 - [permissions2](https://github.com/xyproto/permissions2) - :closed_lock_with_key: Middleware for keeping track of users, login states and permissions
 - [go-jose](https://github.com/square/go-jose) - An implementation of JOSE standards (JWE, JWS, JWT) in Go
 - [terraform-provider-kafka](https://github.com/packetloop/terraform-provider-kafka) - Terraform provider for kafka
@@ -381,7 +381,6 @@
 - [terraform-aws-starterkit-mirror](https://github.com/carrete/terraform-aws-starterkit-mirror) - This is only a mirror. Please see the official repository on GitLab.
 - [AWS-Infrasetup](https://github.com/naikajah/AWS-Infrasetup) - Building AWS infrastructure with Terraform
 - [oreno-terraform](https://github.com/shogomuranushi/oreno-terraform) - 
-- [terraform-cassandra-seeds](https://github.com/DevOp5/terraform-cassandra-seeds) - Terraform module to create a set of Cassandra seed nodes spanning multiple availability zones
 - [devops](https://github.com/nearform/devops) - Devops repo
 - [terraform-example](https://github.com/threatstack/terraform-example) - Terraform Example setup root repository
 - [tf-ses-demo](https://github.com/knakayama/tf-ses-demo) - 
@@ -607,7 +606,7 @@
 - [viz.js](https://github.com/mdaines/viz.js) - A hack to put Graphviz on the web.
 - [vis](https://github.com/almende/vis) - Dynamic, browser-based visualization library
 - [remark](https://github.com/gnab/remark) - A simple, in-browser, markdown-driven slideshow tool.
-- [vscode-terraform-snippets](https://github.com/rixrix/vscode-terraform-snippets) - Advanced Terraform Snippets for Visual Studio Code
+- [vscode-terraform-snippets](https://github.com/rixrix/vscode-terraform-snippets) - Advanced Terraform Snippets for Visual Studio Code. It has at least 9.5k downloads from the marketplace.
 - [mermaid](https://github.com/knsv/mermaid) - Generation of diagram and flowchart from text in a similar manner as markdown
 - [osm-qa-filter](https://github.com/lukasmartinelli/osm-qa-filter) - Extract GeoJSON features from OSM QA tiles
 - [hotel](https://github.com/typicode/hotel) - :love_hotel: A simple process manager for developers. Start apps from your browser and access them using local .dev domains
@@ -977,7 +976,7 @@
 - [serverspec](https://github.com/mizzy/serverspec) - RSpec tests for your servers configured by CFEngine, Puppet, Chef, Ansible, Itamae or anything else even by hand
 - [hashicorptools](https://github.com/controlshift/hashicorptools) - a set of ruby utilities for interacting with and wrapping packer and terraform
 - [certman](https://github.com/k1LoW/certman) - CLI tool for AWS Certificate Manager.
-- [terraform-landscape](https://github.com/coinbase/terraform-landscape) - Landscaping Terraform: Improving Terraform plan output to be easier to read and understand
+- [terraform-landscape](https://github.com/coinbase/terraform-landscape) - Improve Terraform's plan output to be easier to read and understand
 - [janky](https://github.com/github/janky) - Continuous integration server built on top of Jenkins and Hubot
 - [graphql-ruby](https://github.com/rmosolgo/graphql-ruby) - Ruby implementation of GraphQL
 - [rezept](https://github.com/serverworks/rezept) - A tool to manage EC2 Systems Manager Documents.
@@ -1077,7 +1076,7 @@
 - [packer](https://github.com/subutai-io/packer) - 
 - [cloudwatch-logmonitoring](https://github.com/shogomuranushi/cloudwatch-logmonitoring) - Log file monitoring for cloudwatch.
 - [docker-elk](https://github.com/DevOp5/docker-elk) - The ELK stack powered by Docker and Compose.
-- [awless-templates](https://github.com/wallix/awless-templates) - Repository of verified templates for wallix/awless
+- [awless-templates](https://github.com/wallix/awless-templates) - Repository of verified templates for https://github.com/wallix/awless
 - [LS_COLORS](https://github.com/trapd00r/LS_COLORS) - A collection of LS_COLORS definitions; needs your contribution!
 - [dotfiles](https://github.com/maksimr/dotfiles) - ❤
 - [nodejs-bower-grunt](https://github.com/dockerfile/nodejs-bower-grunt) - Node.js w/ Bower & Grunt Dockerfile for trusted automated Docker builds.

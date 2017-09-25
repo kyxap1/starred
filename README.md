@@ -139,6 +139,8 @@
 
 ## Go 
 
+- [terraformctl](https://github.com/kris-nova/terraformctl) - Running Terraform in Kubernetes as a controller
+- [jaeger](https://github.com/jaegertracing/jaeger) - Jaeger, a Distributed Tracing System
 - [minio](https://github.com/minio/minio) - Minio is an open source object storage server compatible with Amazon S3 APIs
 - [stolon](https://github.com/sorintlab/stolon) - PostgreSQL cloud native High Availability and more.
 - [mtail](https://github.com/google/mtail) - extract whitebox monitoring data from application logs for collection in a timeseries database
@@ -706,6 +708,7 @@
 
 ## Objective-C 
 
+- [LuLu](https://github.com/objective-see/LuLu) - LuLu is the free open-source macOS firewall that aims to block unauthorized (outgoing) network traffic
 - [GitUp](https://github.com/git-up/GitUp) - The Git interface you've been missing all your life has finally arrived.
 
 ## Others 

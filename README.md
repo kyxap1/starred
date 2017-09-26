@@ -462,7 +462,7 @@
 - [opsworks-with-terraform](https://github.com/aibou/opsworks-with-terraform) - 仕事で使う部分の自動化
 - [tf_aws_elasticsearch](https://github.com/TrueCar/tf_aws_elasticsearch) - A Terraform module to create an Elasticsearch cluster.
 - [tf_efs_mount](https://github.com/manheim/tf_efs_mount) - Terraform module that provides an EFS file system, mount targets and security groups.
-- [tf_aws_vpc](https://github.com/terraform-community-modules/tf_aws_vpc) - A terraform module to provide a VPC in AWS.
+- [tf_aws_vpc](https://github.com/terraform-community-modules/tf_aws_vpc) - [DEPRECATED] Use https://github.com/terraform-aws-modules/terraform-aws-vpc
 - [terraform-elasticsearch](https://github.com/nadnerb/terraform-elasticsearch) - Terraform elasticsearch cluster
 - [tf_aws_sg](https://github.com/terraform-community-modules/tf_aws_sg) - A Terraform module with a collection of common security group settings.
 - [terraform-aws-opsworks](https://github.com/yamaza520/terraform-aws-opsworks) - terraform-aws-opsworks

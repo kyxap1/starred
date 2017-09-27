@@ -501,7 +501,7 @@
 - [YCSB](https://github.com/brianfrankcooper/YCSB) - Yahoo! Cloud Serving Benchmark
 - [localstack-spring-boot](https://github.com/smartupio/localstack-spring-boot) - Atlassian LocalStack autoconfiguration for Spring Boot based Java projects
 - [archi](https://github.com/archimatetool/archi) - Archi: ArchiMate Modelling Tool
-- [s3proxy](https://github.com/andrewgaul/s3proxy) - Access other storage backends via the S3 API
+- [s3proxy](https://github.com/gaul/s3proxy) - Access other storage backends via the S3 API
 - [test-automation-quickstart](https://github.com/opencredo/test-automation-quickstart) - Quickstart project for test automation, covering performance, ui acceptance and api acceptance testing
 - [java-properties-to-json](https://github.com/mikolajmitura/java-properties-to-json) - 
 - [redisson](https://github.com/redisson/redisson) - Redisson - distributed Java objects and services (Set, Multimap, SortedSet, Map, List, Queue, BlockingQueue, Deque, BlockingDeque, Semaphore, Lock, AtomicLong, Map Reduce, Publish / Subscribe, Bloom filter, Spring Cache, Executor service, Tomcat Session Manager, Scheduler service, JCache API) on top of Redis server. Rich Redis client
@@ -812,6 +812,7 @@
 
 ## Python 
 
+- [beeswithmachineguns](https://github.com/newsapps/beeswithmachineguns) - A utility for arming (creating) many bees (micro EC2 instances) to attack (load test) targets (web applications).
 - [grafcli](https://github.com/m110/grafcli) - Grafana CLI for quick and easy dashboards management.
 - [deoplete.nvim](https://github.com/Shougo/deoplete.nvim) - :stars: Dark powered asynchronous completion framework for neovim
 - [promgen](https://github.com/line/promgen) - Promgen is a configuration file generator for Prometheus

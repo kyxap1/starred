@@ -564,6 +564,7 @@
 
 ## JavaScript 
 
+- [etcher](https://github.com/resin-io/etcher) - Flash OS images to SD cards & USB drives, safely and easily.
 - [HackMyResume](https://github.com/hacksalot/HackMyResume) - Generate polished résumés and CVs in HTML, Markdown, LaTeX, MS Word, PDF, plain text, JSON, XML, YAML, smoke signal, and carrier pigeon.
 - [staticgen](https://github.com/netlify/staticgen) - StaticGen.com, A leaderboard of top open-source static site generators
 - [terraform_firehose](https://github.com/roshpr/terraform_firehose) - AWS Firehose implementation for VPCFlow, ELK & Lambda integration to analyse VPC network data flow & monitoring dashboard

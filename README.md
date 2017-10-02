@@ -94,6 +94,7 @@
 
 ## CSS 
 
+- [awesome-mysql](https://github.com/shlomi-noach/awesome-mysql) - A curated list of awesome MySQL software, libraries, tools and resources
 - [assembly](https://github.com/mapbox/assembly) - Making the hard parts of designing for the web easy.
 - [dagobah](https://github.com/thieman/dagobah) - Simple DAG-based job scheduler in Python
 - [pelias](https://github.com/pelias/pelias) - Pelias is a modular open-source geocoder using ElasticSearch for fast geocoding.
@@ -714,6 +715,9 @@
 
 ## Others 
 
+- [mariadb-ansible-galera-cluster](https://github.com/adfinis-sygroup/mariadb-ansible-galera-cluster) - Automated installation of MariaDB Galera Cluster using Ansible
+- [ansible-quickref](https://github.com/lorin/ansible-quickref) - Quick reference for Ansible variables
+- [awesome-ansible](https://github.com/jdauphant/awesome-ansible) - A collaborative curated list of awesome Ansible resources
 - [debops](https://github.com/debops/debops) - DebOps - Your Debian-based data center in a box
 - [mysql](https://github.com/bennojoy/mysql) - ansible role for mysql
 - [my-mac-os](https://github.com/nikitavoloboev/my-mac-os) - 💻 a list of applications, alfred workflows and various tools that make my macOS experience even more amazing
@@ -814,6 +818,8 @@
 
 ## Python 
 
+- [playbook](https://github.com/bonovoxly/playbook) - A collection of Ansible playbooks, roles, and ansible-container playbooks.
+- [sovereign](https://github.com/sovereign/sovereign) - A set of Ansible playbooks to build and maintain your own private cloud: email, calendar, contacts, file sync, IRC bouncer, VPN, and more.
 - [debops-playbooks](https://github.com/debops/debops-playbooks) - Ansible playbooks used by DebOps project
 - [beeswithmachineguns](https://github.com/newsapps/beeswithmachineguns) - A utility for arming (creating) many bees (micro EC2 instances) to attack (load test) targets (web applications).
 - [grafcli](https://github.com/m110/grafcli) - Grafana CLI for quick and easy dashboards management.
@@ -893,7 +899,6 @@
 - [source-code-pro](https://github.com/adobe-fonts/source-code-pro) - Monospaced font family for user interface and coding environments
 - [coala](https://github.com/coala/coala) - coala provides a unified command-line interface for linting and fixing all your code, regardless of the programming languages you use.
 - [jungle](https://github.com/achiku/jungle) - AWS operations by cli should be simpler
-- [playbook](https://github.com/bonovoxly/playbook) - A collection of Ansible playbooks, roles, and ansible-container playbooks.
 - [ansible-container](https://github.com/ansible/ansible-container) - Ansible Container is a tool to build Docker images and orchestrate containers using only Ansible playbooks.
 - [ansible-packer-vagrant-openstack-ec2](https://github.com/rosmo/ansible-packer-vagrant-openstack-ec2) - Ansible scripts to build images using Packer and Vagrant, exporting to Openstack, AMI or OVF image
 - [dataduct](https://github.com/coursera/dataduct) - DataPipeline for humans.
@@ -1065,6 +1070,8 @@
 
 ## Shell 
 
+- [ansible-mysql](https://github.com/HanXHX/ansible-mysql) - Ansible role for Debian : MySQL, MariaDB (Galera Cluster) or Percona Server
+- [showcase-ansible-chatops](https://github.com/StackStorm/showcase-ansible-chatops) - Vagrant Demo showing ChatOps with Ansible
 - [ansible-role-mysql](https://github.com/geerlingguy/ansible-role-mysql) - Ansible Role - MySQL
 - [bash-it](https://github.com/Bash-it/bash-it) - A community Bash framework.
 - [mariadb-galera-swarm](https://github.com/colinmollenhour/mariadb-galera-swarm) - Easy to use MariaDb Galera Cluster container based on official mariadb image with support for Docker Swarm Mode.
@@ -1163,7 +1170,6 @@
 - [docker-node](https://github.com/nodejs/docker-node) - Official Docker Image for Node.js :whale: :turtle: :rocket:
 - [docker-desktop](https://github.com/rogaha/docker-desktop) - Docker Desktop enables you to create virtual desktops that can be accessed remotely. It comes with Firefox and Libreoffice already installed!
 - [WildFlyApp](https://github.com/BITFORCE-IT/WildFlyApp) - An example Docker Container running an JEE App on WildFly 10 Using oficial JBoss Docker image and useful enhancements.
-- [showcase-ansible-chatops](https://github.com/StackStorm/showcase-ansible-chatops) - Vagrant Demo showing ChatOps with Ansible
 - [sevabot_modules](https://github.com/vkavun/sevabot_modules) - This repo holds sevabot modules needed for a day-to-day work
 - [docker-postgres-pgpool2](https://github.com/dperetti/docker-postgres-pgpool2) - 
 - [Dockerfile](https://github.com/webdevops/Dockerfile) - :package: Dockerfiles from WebDevOps for PHP, Apache and Nginx (with PHP5 and PHP7)

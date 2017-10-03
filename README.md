@@ -48,6 +48,7 @@
 
 ## C 
 
+- [Entware-ng](https://github.com/Entware-ng/Entware-ng) - Ultimate repo for embedded devices
 - [nginx-module-sts](https://github.com/vozlt/nginx-module-sts) - Nginx stream server traffic status module
 - [netdata](https://github.com/firehol/netdata) - Get control of your servers. Simple. Effective. Awesome! https://my-netdata.io/
 - [kafkacat](https://github.com/edenhill/kafkacat) - Generic command line non-JVM Apache Kafka producer and consumer
@@ -153,6 +154,7 @@
 - [jsoned](https://github.com/tidwall/jsoned) - JSON Stream Editor (command line utility)
 - [terraform-provider-proxmox](https://github.com/Telmate/terraform-provider-proxmox) - Terraform provider plugin for proxmox
 - [terraform-provider-libvirt](https://github.com/dmacvicar/terraform-provider-libvirt) - terraform provider for libvirt
+- [prest](https://github.com/prest/prest) - A fully RESTful API from any existing PostgreSQL database written in Go
 - [terraform-provider-aws](https://github.com/terraform-providers/terraform-provider-aws) - Terraform aws provider
 - [duplicacy](https://github.com/gilbertchen/duplicacy) - A new generation cloud backup tool
 - [cli53](https://github.com/barnybug/cli53) - Command line tool for Amazon Route 53
@@ -1079,7 +1081,6 @@
 - [homelab](https://github.com/cgarciaarano/homelab) - Provision of a home laboratory to test infrastructure tools
 - [PostDock](https://github.com/paunin/PostDock) - PostDock - Postgres & Docker - Postgres streaming replication cluster for any docker environment
 - [ecs-logs-collector](https://github.com/awslabs/ecs-logs-collector) - The script will be used to collect general os logs as well as Docker and ecs-agent logs, it also support to enable debug mode for docker and ecs-agent in Amazon Linux.
-- [prest](https://github.com/prest/prest) - A fully RESTful API from any existing PostgreSQL database written in Go
 - [nginxse-virtualhost-generator](https://github.com/hishriTaha/nginxse-virtualhost-generator) - A CLI-based tool that helps you generate NGINX server block configuration files in a few seconds.
 - [aui](https://github.com/helmuthdu/aui) - Archlinux Ultimate Install
 - [elastic-ci-stack-for-aws](https://github.com/buildkite/elastic-ci-stack-for-aws) - A simple, flexible, auto-scaling cluster of build agents running in your own AWS VPC

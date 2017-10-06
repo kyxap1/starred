@@ -511,7 +511,7 @@
 - [elassandra](https://github.com/strapdata/elassandra) - Elassandra = Elasticsearch + Cassandra
 - [flyway](https://github.com/flyway/flyway) - Flyway by Boxfuse • Database Migrations Made Easy.
 - [swagger-core](https://github.com/swagger-api/swagger-core) - Examples and server integrations for generating the Swagger API Specification, which enables easy access to your REST API
-- [grakn](https://github.com/graknlabs/grakn) - The Database for AI
+- [grakn](https://github.com/graknlabs/grakn) - A Hyper-Relational Database for Knowledge-Oriented System
 - [bazel](https://github.com/bazelbuild/bazel) - a fast, scalable, multi-language and extensible build system
 - [android-json-model-generator](https://github.com/JAlexoid/android-json-model-generator) - A simple JSON Object Model generator for Android (JSON to Java)
 - [json-to-avro-schema-generator](https://github.com/sgmarghade/json-to-avro-schema-generator) - This will help you to generate AVRO schema from JSON schema.
@@ -582,7 +582,7 @@
 - [c3vis](https://github.com/ExpediaDotCom/c3vis) - Visualize the resource utilisation of Amazon ECS clusters
 - [underscore-cli](https://github.com/ddopson/underscore-cli) - Command-line utility-belt for hacking JSON and Javascript.
 - [vault-ui](https://github.com/djenriquez/vault-ui) - Vault-UI — A beautiful UI to manage your Vault, written in React
-- [cd-maturity-model](https://github.com/garystafford/cd-maturity-model) - Continuous Delivery Maturity Model - Gap Analysis Visualization Tool, using d3
+- [cd-maturity-model](https://github.com/garystafford/cd-maturity-model) - Continuous Delivery Maturity Model - Gap Analysis Visualization Tool, using D3.js
 - [kingraph](https://github.com/rstacruz/kingraph) - Plots family trees using JavaScript and Graphviz
 - [admin](https://github.com/qor/admin) - Qor Admin - Instantly create a beautiful, cross platform, configurable Admin Interface and API for managing your data in minutes.
 - [db-diayaml](https://github.com/forbesmyester/db-diayaml) - Draw DB diagrams using GraphViz / Dot from a very simple YAML file
@@ -1094,7 +1094,7 @@
 - [nodejs-bower-grunt](https://github.com/dockerfile/nodejs-bower-grunt) - Node.js w/ Bower & Grunt Dockerfile for trusted automated Docker builds.
 - [ansible-completion](https://github.com/dysosmus/ansible-completion) - Basic bash completion for Ansible
 - [takeover.sh](https://github.com/marcan/takeover.sh) - Wipe and reinstall a running Linux system via SSH, without rebooting. You know you want to.
-- [streisand](https://github.com/jlund/streisand) - Streisand sets up a new server running L2TP/IPsec, OpenConnect, OpenSSH, OpenVPN, Shadowsocks, sslh, Stunnel, a Tor bridge, and WireGuard. It also generates custom instructions for all of these services. At the end of the run you are given an HTML file with instructions that can be shared with friends, family members, and fellow activists.
+- [streisand](https://github.com/StreisandEffect/streisand) - Streisand sets up a new server running L2TP/IPsec, OpenConnect, OpenSSH, OpenVPN, Shadowsocks, sslh, Stunnel, a Tor bridge, and WireGuard. It also generates custom instructions for all of these services. At the end of the run you are given an HTML file with instructions that can be shared with friends, family members, and fellow activists.
 - [setup-ipsec-vpn](https://github.com/hwdsl2/setup-ipsec-vpn) - Scripts to build your own IPsec VPN server, with IPsec/L2TP and Cisco IPsec on Ubuntu, Debian and CentOS
 - [kostyrevaa.consul-template](https://github.com/kostyrev/kostyrevaa.consul-template) - 
 - [posixcube](https://github.com/myplaceonline/posixcube) - posixcube.sh is a POSIX compliant, shell script-based server automation framework.
@@ -1121,7 +1121,7 @@
 - [ansible-role-hashicorp](https://github.com/kurron/ansible-role-hashicorp) - Ansible role that installs the HashiCorp suite of tools including Vagrant, Packer and Terraform.
 - [sqoop2hive](https://github.com/gwenshap/sqoop2hive) - Few scripts to automate daily data loads from RDBMS to Partitioned Avro Hive table
 - [infrastructure-reference](https://github.com/stakater/infrastructure-reference) - Reference infrastructure for Stakater blueprints. Stakater is an Infrastructure-as-Code DevOps solution to automate the creation of web infrastructure stack on AWS. Stakater is based on Docker, CoreOS, Terraform, Packer, Docker Compose, GoCD, Fleet, ETCD, and more.
-- [ami-baker](https://github.com/stakater/ami-baker) - Stakater tool to create CoreOS based custom AMI (Amazon Machine Image). Stakater is an Infrastructure-as-Code DevOps solution to automate the creation of web infrastructure stack on AWS. Stakater is based on Docker, CoreOS, Terraform, Packer, Docker Compose, GoCD, Fleet, ETCD, and more.
+- [ami-baker](https://github.com/stakater/ami-baker) - Build custom AMI (Amazon Machine Image) on top of CoreOs
 - [devops-demo](https://github.com/dimapod/devops-demo) - DevOps Demo - Packer / Ansible / Terraform / AWS
 - [dockerfile-ci](https://github.com/unifio/dockerfile-ci) - 
 - [utilities](https://github.com/VladRassokhin/utilities) - Micro helpers

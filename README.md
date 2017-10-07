@@ -1121,7 +1121,7 @@
 - [ansible-role-hashicorp](https://github.com/kurron/ansible-role-hashicorp) - Ansible role that installs the HashiCorp suite of tools including Vagrant, Packer and Terraform.
 - [sqoop2hive](https://github.com/gwenshap/sqoop2hive) - Few scripts to automate daily data loads from RDBMS to Partitioned Avro Hive table
 - [infrastructure-reference](https://github.com/stakater/infrastructure-reference) - Reference infrastructure for Stakater blueprints. Stakater is an Infrastructure-as-Code DevOps solution to automate the creation of web infrastructure stack on AWS. Stakater is based on Docker, CoreOS, Terraform, Packer, Docker Compose, GoCD, Fleet, ETCD, and more.
-- [ami-baker](https://github.com/stakater/ami-baker) - Build custom AMI (Amazon Machine Image) on top of CoreOs
+- [ami-baker](https://github.com/stakater/ami-baker) - Build custom AMI (Amazon Machine Image) on top of CoreOS
 - [devops-demo](https://github.com/dimapod/devops-demo) - DevOps Demo - Packer / Ansible / Terraform / AWS
 - [dockerfile-ci](https://github.com/unifio/dockerfile-ci) - 
 - [utilities](https://github.com/VladRassokhin/utilities) - Micro helpers

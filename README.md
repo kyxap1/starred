@@ -816,6 +816,7 @@
 
 ## Python 
 
+- [ps_mem](https://github.com/pixelb/ps_mem) - A utility to accurately report the in core memory usage for a program
 - [playbook](https://github.com/bonovoxly/playbook) - A collection of Ansible playbooks, roles, and ansible-container playbooks.
 - [sovereign](https://github.com/sovereign/sovereign) - A set of Ansible playbooks to build and maintain your own private cloud: email, calendar, contacts, file sync, IRC bouncer, VPN, and more.
 - [debops-playbooks](https://github.com/debops/debops-playbooks) - Ansible playbooks used by DebOps project
@@ -1068,6 +1069,8 @@
 
 ## Shell 
 
+- [scripts](https://github.com/pixelb/scripts) - scripts from pixelbeat.org
+- [dotfiles](https://github.com/mathiasbynens/dotfiles) - :wrench: .files, including ~/.macos — sensible hacker defaults for macOS
 - [build.vagrant](https://github.com/Dalee/build.vagrant) - General purpose Web-development Vagrant box.
 - [ansible-mysql](https://github.com/HanXHX/ansible-mysql) - Ansible role for Debian : MySQL, MariaDB (Galera Cluster) or Percona Server
 - [showcase-ansible-chatops](https://github.com/StackStorm/showcase-ansible-chatops) - Vagrant Demo showing ChatOps with Ansible

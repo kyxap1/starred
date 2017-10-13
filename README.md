@@ -143,7 +143,7 @@
 - [stolon](https://github.com/sorintlab/stolon) - PostgreSQL cloud native High Availability and more.
 - [mtail](https://github.com/google/mtail) - extract whitebox monitoring data from application logs for collection in a timeseries database
 - [oas2](https://github.com/hypnoglow/oas2) - OpenAPI 2.0 (aka Swagger) utils for Golang.
-- [terraboard](https://github.com/camptocamp/terraboard) - :earth_africa: 📋  A web dashboard to inspect Terraform States
+- [terraboard](https://github.com/camptocamp/terraboard) - :earth_africa: :clipboard:  A web dashboard to inspect Terraform States
 - [atlantis](https://github.com/hootsuite/atlantis) - A unified workflow for collaborating on Terraform through GitHub
 - [prometheus](https://github.com/prometheus/prometheus) - The Prometheus monitoring system and time series database.
 - [toxiproxy](https://github.com/Shopify/toxiproxy) - :alarm_clock: :fire: A TCP proxy to simulate network and system conditions for chaos and resiliency testing
@@ -252,7 +252,7 @@
 - [pgclimb](https://github.com/lukasmartinelli/pgclimb) - Export data from PostgreSQL into different data formats
 - [pgfutter](https://github.com/lukasmartinelli/pgfutter) - Import CSV and JSON into PostgreSQL the easy way
 - [beanform](https://github.com/jritsema/beanform) - Reverse engineer an AWS Elasticbeanstalk app into Terraform source code
-- [tflint](https://github.com/wata727/tflint) - TFLint is Terraform linter for detecting errors that can not be detected by `terraform plan`
+- [tflint](https://github.com/wata727/tflint) - TFLint is a Terraform linter for detecting errors that can not be detected by `terraform plan`
 - [go-openvpn-mgmt](https://github.com/apparentlymart/go-openvpn-mgmt) - [WIP] Go client library for OpenVPN's management protocol
 - [terragrunt](https://github.com/gruntwork-io/terragrunt) - Terragrunt is a thin wrapper for Terraform that provides extra tools for working with multiple Terraform modules.
 - [terraform](https://github.com/VladRassokhin/terraform) - Terraform is a tool for building, changing, and combining infrastructure safely and efficiently.

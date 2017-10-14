@@ -1060,7 +1060,7 @@
 ## Scala 
 
 - [gatling](https://github.com/gatling/gatling) - Async Scala-Akka-Netty based Load Test Tool
-- [snowplow](https://github.com/snowplow/snowplow) - Cloud-native web, mobile and event analytics, available for AWS and on-premise with Kafka
+- [snowplow](https://github.com/snowplow/snowplow) - Cloud-native web, mobile and event analytics, running on AWS and on-premise with Kafka
 - [hive-serde-schema-gen](https://github.com/strelec/hive-serde-schema-gen) - :clipboard: Generate Hive SerDe schema from a .json file.
 - [rudder](https://github.com/Normation/rudder) - Continuous configuration for effective compliance
 - [spark-cassandra-connector](https://github.com/datastax/spark-cassandra-connector) - DataStax Spark Cassandra Connector

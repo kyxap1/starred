@@ -13,6 +13,7 @@
   - [CoffeeScript](#coffeescript)
   - [Common Lisp](#common lisp)
   - [Elixir](#elixir)
+  - [Erlang](#erlang)
   - [Gherkin](#gherkin)
   - [Go](#go)
   - [Groovy](#groovy)
@@ -105,7 +106,6 @@
 ## Clojure 
 
 - [roll](https://github.com/juxt/roll) - AWS Blue/Green deployment using Clojure flavoured devops
-- [awesomo](https://github.com/lk-geimfari/awesomo) - An extensive list of interesting open source projects written in С, C++, Clojure, Lisp, Elixir, Erlang, Elm, Golang, Haskell, JavaScript, Lua, OCaml, Python, R, Ruby, Rust, Scala etc.
 - [dorothy](https://github.com/daveray/dorothy) - Hiccup-style generation of Graphviz graphs in Clojure
 - [specter](https://github.com/nathanmarz/specter) - Clojure(Script)'s missing piece
 - [GraphQLviz](https://github.com/Macroz/GraphQLviz) - GraphQLviz marries GraphQL (schemas) with Graphviz.
@@ -130,6 +130,10 @@
 ## Elixir 
 
 - [exhcl](https://github.com/asakura/exhcl) - Configuration language inspired by HCL
+
+## Erlang 
+
+- [awesomo](https://github.com/lk-geimfari/awesomo) - An extensive list of interesting open source projects written in С, C++, Clojure, Lisp, Elixir, Erlang, Elm, Golang, Haskell, JavaScript, Lua, OCaml, Python, R, Ruby, Rust, Scala etc.
 
 ## Gherkin 
 

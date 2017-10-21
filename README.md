@@ -512,7 +512,7 @@
 - [spoon](https://github.com/INRIA/spoon) - Spoon is a library to analyze, transform, rewrite, transpile Java source code (incl Java 8). It parses source files to build a well-designed AST with powerful analysis and transformation API. Made at Inria with :heart:, :beers: and :sparkles:.
 - [JJSchema](https://github.com/reinert/JJSchema) - A generator from Java Types to JSON-Schema using Jackson.
 - [gephi](https://github.com/gephi/gephi) - Gephi - The Open Graph Viz Platform
-- [elassandra](https://github.com/strapdata/elassandra) - Elassandra = Elasticsearch + Cassandra
+- [elassandra](https://github.com/strapdata/elassandra) - Elassandra = Elasticsearch + Apache Cassandra
 - [flyway](https://github.com/flyway/flyway) - Flyway by Boxfuse • Database Migrations Made Easy.
 - [swagger-core](https://github.com/swagger-api/swagger-core) - Examples and server integrations for generating the Swagger API Specification, which enables easy access to your REST API
 - [grakn](https://github.com/graknlabs/grakn) - A Hyper-Relational Database for Knowledge-Oriented System
@@ -720,7 +720,6 @@
 - [mariadb-ansible-galera-cluster](https://github.com/adfinis-sygroup/mariadb-ansible-galera-cluster) - Automated installation of MariaDB Galera Cluster using Ansible
 - [ansible-quickref](https://github.com/lorin/ansible-quickref) - Quick reference for Ansible variables
 - [awesome-ansible](https://github.com/jdauphant/awesome-ansible) - A collaborative curated list of awesome Ansible resources
-- [debops](https://github.com/debops/debops) - DebOps - Your Debian-based data center in a box
 - [mysql](https://github.com/bennojoy/mysql) - ansible role for mysql
 - [my-mac-os](https://github.com/nikitavoloboev/my-mac-os) - 💻 a list of applications, alfred workflows and various tools that make my macOS experience even more amazing
 - [linux-sysadmin-interview-questions](https://github.com/chassing/linux-sysadmin-interview-questions) - Collection of Linux Sysadmin/DevOps interview questions
@@ -1078,6 +1077,7 @@
 - [build.vagrant](https://github.com/Dalee/build.vagrant) - General purpose Web-development Vagrant box.
 - [ansible-mysql](https://github.com/HanXHX/ansible-mysql) - Ansible role for Debian : MySQL, MariaDB (Galera Cluster) or Percona Server
 - [showcase-ansible-chatops](https://github.com/StackStorm/showcase-ansible-chatops) - Vagrant Demo showing ChatOps with Ansible
+- [debops](https://github.com/debops/debops) - DebOps - Your Debian-based data center in a box
 - [ansible-role-mysql](https://github.com/geerlingguy/ansible-role-mysql) - Ansible Role - MySQL
 - [bash-it](https://github.com/Bash-it/bash-it) - A community Bash framework.
 - [mariadb-galera-swarm](https://github.com/colinmollenhour/mariadb-galera-swarm) - Easy to use MariaDb Galera Cluster container based on official mariadb image with support for Docker Swarm Mode.

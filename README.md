@@ -825,7 +825,7 @@
 - [debops-playbooks](https://github.com/debops/debops-playbooks) - Ansible playbooks used by DebOps project
 - [beeswithmachineguns](https://github.com/newsapps/beeswithmachineguns) - A utility for arming (creating) many bees (micro EC2 instances) to attack (load test) targets (web applications).
 - [grafcli](https://github.com/m110/grafcli) - Grafana CLI for quick and easy dashboards management.
-- [deoplete.nvim](https://github.com/Shougo/deoplete.nvim) - :stars: Dark powered asynchronous completion framework for neovim
+- [deoplete.nvim](https://github.com/Shougo/deoplete.nvim) - :stars: Dark powered asynchronous completion framework for neovim/Vim8
 - [promgen](https://github.com/line/promgen) - Promgen is a configuration file generator for Prometheus
 - [pysc2](https://github.com/deepmind/pysc2) - StarCraft II Learning Environment
 - [ec2-spot-labs](https://github.com/awslabs/ec2-spot-labs) - Collection of tools and code examples to demonstrate best practices in using Amazon EC2 Spot Instances.

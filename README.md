@@ -861,6 +861,7 @@
 - [ansible-pgbouncer](https://github.com/alexey-medvedchikov/ansible-pgbouncer) - This ansible role configures PgBouncer PostgreSQL connection mux utility.
 - [s3env](https://github.com/cameronmaske/s3env) - Manipulate a simple key/value JSON object file in an S3 bucket
 - [AWS-PlantUML](https://github.com/milo-minderbinder/AWS-PlantUML) - PlantUML sprites, macros, and other includes for AWS components.
+- [common-workflow-language](https://github.com/common-workflow-language/common-workflow-language) - Repository for CWL Specifications. Use https://www.biostars.org/t/cwl/ for support.
 - [streamalert](https://github.com/airbnb/streamalert) - StreamAlert is a serverless, realtime data analysis framework which empowers you to ingest, analyze, and alert on data from any environment, using datasources and alerting logic you define.
 - [pandas](https://github.com/pandas-dev/pandas) - Flexible and powerful data analysis / manipulation library for Python, providing labeled data structures similar to R data.frame objects, statistical functions, and much more
 - [ianitor](https://github.com/ClearcodeHQ/ianitor) - Doorkeeper for consul discovered services
@@ -1234,7 +1235,6 @@
 
 ## Web Ontology Language 
 
-- [common-workflow-language](https://github.com/common-workflow-language/common-workflow-language) - Repository for CWL Specifications. Use https://www.biostars.org/t/cwl/ for support.
 - [sample-projects](https://github.com/graknlabs/sample-projects) - Sample Java Projects for GRAKN.AI
 - [sample-datasets](https://github.com/graknlabs/sample-datasets) - Sample Graql Datasets for GRAKN.AI
 

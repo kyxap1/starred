@@ -154,7 +154,7 @@
 - [jsoned](https://github.com/tidwall/jsoned) - JSON Stream Editor (command line utility)
 - [terraform-provider-proxmox](https://github.com/Telmate/terraform-provider-proxmox) - Terraform provider plugin for proxmox
 - [terraform-provider-libvirt](https://github.com/dmacvicar/terraform-provider-libvirt) - terraform provider for libvirt
-- [terraform-provider-aws](https://github.com/terraform-providers/terraform-provider-aws) - Terraform aws provider
+- [terraform-provider-aws](https://github.com/terraform-providers/terraform-provider-aws) - Terraform AWS provider
 - [duplicacy](https://github.com/gilbertchen/duplicacy) - A new generation cloud backup tool
 - [cli53](https://github.com/barnybug/cli53) - Command line tool for Amazon Route 53
 - [terraform-ebs-attachmentizer](https://github.com/heap/terraform-ebs-attachmentizer) - Convert ebs_block_device blocks in aws_instance resource to aws_ebs_volume and aws_volume_attachment resources
@@ -716,6 +716,7 @@
 
 ## Others 
 
+- [research](https://github.com/ssllabs/research) - 
 - [mariadb-ansible-galera-cluster](https://github.com/adfinis-sygroup/mariadb-ansible-galera-cluster) - Automated installation of MariaDB Galera Cluster using Ansible
 - [ansible-quickref](https://github.com/lorin/ansible-quickref) - Quick reference for Ansible variables
 - [awesome-ansible](https://github.com/jdauphant/awesome-ansible) - A collaborative curated list of awesome Ansible resources

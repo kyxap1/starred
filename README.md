@@ -48,6 +48,7 @@
 
 ## C 
 
+- [mydumper](https://github.com/maxbube/mydumper) - Official mydumper project
 - [Entware-ng](https://github.com/Entware-ng/Entware-ng) - Ultimate repo for embedded devices
 - [nginx-module-sts](https://github.com/vozlt/nginx-module-sts) - Nginx stream server traffic status module
 - [netdata](https://github.com/firehol/netdata) - Get control of your servers. Simple. Effective. Awesome! https://my-netdata.io/
@@ -276,7 +277,7 @@
 - [go-jose](https://github.com/square/go-jose) - An implementation of JOSE standards (JWE, JWS, JWT) in Go
 - [terraform-provider-kafka](https://github.com/packetloop/terraform-provider-kafka) - Terraform provider for kafka
 - [consul-zombie](https://github.com/myENA/consul-zombie) - Hunt and kill consul zombie services.
-- [consul-backinator](https://github.com/myENA/consul-backinator) - Command line Consul KV backup and restore utility
+- [consul-backinator](https://github.com/myENA/consul-backinator) - Command line Consul backup and restore utility supporting KVs, ACLs and Queries
 - [terraform-markdown-extractor](https://github.com/kchugalinskiy/terraform-markdown-extractor) - Extract json resource description from terraform repository
 - [aws-lambda-go](https://github.com/eawsy/aws-lambda-go) - A fast and clean way to execute Go on AWS Lambda.
 - [terraform-hierarchy](https://github.com/kchugalinskiy/terraform-hierarchy) - Take terraform API json + root dir and return toml with module relations
@@ -716,6 +717,7 @@
 
 ## Others 
 
+- [ansible-symfony2](https://github.com/servergrove/ansible-symfony2) - Ansible role to deploy Symfony2 applications
 - [research](https://github.com/ssllabs/research) - 
 - [mariadb-ansible-galera-cluster](https://github.com/adfinis-sygroup/mariadb-ansible-galera-cluster) - Automated installation of MariaDB Galera Cluster using Ansible
 - [ansible-quickref](https://github.com/lorin/ansible-quickref) - Quick reference for Ansible variables

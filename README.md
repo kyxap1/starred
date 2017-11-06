@@ -1054,7 +1054,7 @@
 - [fpm](https://github.com/jordansissel/fpm) - Effing package management! Build packages for multiple platforms (deb, rpm, etc) with great ease and sanity.
 - [terraform-sample](https://github.com/mikeclarke/terraform-sample) - Example of using terraform with chef to provision a VPC and deploy custom AMIs from scratch
 - [artifact-deployer](https://github.com/Alfresco/artifact-deployer) - A Chef Cookbook that provides a simple way to download, unpack and configure artifacts
-- [cfndsl](https://github.com/stevenjack/cfndsl) - A DSL for generating Amazon Web Services CloudFormation templates.
+- [cfndsl](https://github.com/cfndsl/cfndsl) - A DSL for generating Amazon Web Services CloudFormation templates.
 - [opsworks-cli](https://github.com/aptible/opsworks-cli) - An alternative CLI for Amazon OpsWorks
 - [pleaserun](https://github.com/jordansissel/pleaserun) - An attempt to abstract this "init" script madness.
 

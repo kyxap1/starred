@@ -822,6 +822,7 @@
 
 ## Python 
 
+- [fiat](https://github.com/richiverse/fiat) - Firehose to Athena
 - [ps_mem](https://github.com/pixelb/ps_mem) - A utility to accurately report the in core memory usage for a program
 - [playbook](https://github.com/bonovoxly/playbook) - A collection of Ansible playbooks, complete with roles and inventory examples.
 - [sovereign](https://github.com/sovereign/sovereign) - A set of Ansible playbooks to build and maintain your own private cloud: email, calendar, contacts, file sync, IRC bouncer, VPN, and more.

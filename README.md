@@ -268,7 +268,7 @@
 - [terrahelp](https://github.com/opencredo/terrahelp) - Terraform helper. Terrahelp is as a command line utility written in Go and is aimed at providing supplementary functionality which can sometimes prove useful when working with Terraform.
 - [nomad](https://github.com/hashicorp/nomad) - Nomad is a highly available, distributed, data-center aware cluster and application scheduler designed to support the modern datacenter with support for long-running services, batch jobs, and much more.
 - [consul](https://github.com/hashicorp/consul) - Service Discovery and Configuration Made Easy
-- [micro](https://github.com/micro/micro) - A microservice toolkit for distributed systems development
+- [micro](https://github.com/micro/micro) - A microservice toolkit
 - [acme](https://github.com/google/acme) - A simple ACME command line tool without 3rd party deps!
 - [hashiapp](https://github.com/kelseyhightower/hashiapp) - Demo 12 Factor application that utilizes Hashicorp tools.
 - [terminus](https://github.com/kelseyhightower/terminus) - Get facts about a Linux system.
@@ -1077,6 +1077,7 @@
 
 ## Shell 
 
+- [pre-commit](https://github.com/kintoandar/pre-commit) - pre-commit hook terraform; pre-commit hook prometheus
 - [scripts](https://github.com/pixelb/scripts) - scripts from pixelbeat.org
 - [dotfiles](https://github.com/mathiasbynens/dotfiles) - :wrench: .files, including ~/.macos — sensible hacker defaults for macOS
 - [build.vagrant](https://github.com/Dalee/build.vagrant) - General purpose Web-development Vagrant box.

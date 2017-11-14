@@ -165,7 +165,7 @@
 - [gomplate](https://github.com/hairyhenderson/gomplate) - A flexible commandline tool for template rendering. Supports lots of local and remote datasources.
 - [swarmkit](https://github.com/docker/swarmkit) - A toolkit for orchestrating distributed systems at any scale. It includes primitives for node discovery, raft-based consensus, task scheduling and more.
 - [ksonnet-lib](https://github.com/ksonnet/ksonnet-lib) - (technical preview) Simplify working with Kubernetes
-- [goat](https://github.com/sevagh/goat) - GO-ATtach: attach EBS and ENI on the fly
+- [goat](https://github.com/sevagh/goat) - GO-ATtach: attach and RAID EBS volumes + ENIs
 - [drone-mvn](https://github.com/thomasf/drone-mvn) - Maven repository artifact publisher for Drone CI
 - [ec2-metadatafs](https://github.com/jszwedko/ec2-metadatafs) - EC2 metadata and tags as a filesystem
 - [gotools](https://github.com/Mykolaichenko/gotools) - Go Tools
@@ -296,7 +296,7 @@
 - [ctop](https://github.com/chrusty/ctop) - CTOP ("top" for Cassandra) - See what's going on in real-time
 - [go-priam](https://github.com/alext29/go-priam) - Backup and restore Cassandra DB to AWS S3
 - [terraform-multipart-userdata](https://github.com/chrusty/terraform-multipart-userdata) - Cruft for Terraform
-- [autospotting](https://github.com/cristim/autospotting) - Generate up to 90% savings on AWS EC2 by converting existing AutoScaling groups into reliable fleets of mixed spot and on-demand instances, with easy and minimalistic configuration changes
+- [autospotting](https://github.com/cristim/autospotting) - Automatically replace AWS EC2 instances in AutoScaling groups with identically configured but up to 90% cheaper spot instances
 - [oauth2_proxy](https://github.com/bitly/oauth2_proxy) - A reverse proxy that provides authentication with Google, Github or other provider
 - [bashcomp](https://github.com/omakoto/bashcomp) - 
 - [sh](https://github.com/mvdan/sh) - A shell parser, formatter and interpreter (POSIX/Bash/mksh)
@@ -365,6 +365,7 @@
 
 ## HCL 
 
+- [terraform-null-assert](https://github.com/kchugalinskiy/terraform-null-assert) - Terraform assertion module
 - [fpco-terraform-aws](https://github.com/fpco/fpco-terraform-aws) - 
 - [nomad-auto-join](https://github.com/hashicorp/nomad-auto-join) - Terraform config to automatically bootstrap a Nomad cluster
 - [docker-swarm-terraform](https://github.com/knpwrs/docker-swarm-terraform) - Set up a Docker Swarm Cluster on Digital Ocean using Terraform

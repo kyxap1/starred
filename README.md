@@ -149,7 +149,7 @@
 - [mtail](https://github.com/google/mtail) - extract whitebox monitoring data from application logs for collection in a timeseries database
 - [oas2](https://github.com/hypnoglow/oas2) - OpenAPI 2.0 (aka Swagger) utils for Golang.
 - [terraboard](https://github.com/camptocamp/terraboard) - :earth_africa: :clipboard:  A web dashboard to inspect Terraform States
-- [atlantis](https://github.com/hootsuite/atlantis) - A unified workflow for collaborating on Terraform through GitHub
+- [atlantis](https://github.com/hootsuite/atlantis) - A unified workflow for collaborating on Terraform through GitHub and GitLab
 - [prometheus](https://github.com/prometheus/prometheus) - The Prometheus monitoring system and time series database.
 - [toxiproxy](https://github.com/Shopify/toxiproxy) - :alarm_clock: :fire: A TCP proxy to simulate network and system conditions for chaos and resiliency testing
 - [jsoned](https://github.com/tidwall/jsoned) - JSON Stream Editor (command line utility)

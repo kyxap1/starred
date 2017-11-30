@@ -1163,7 +1163,7 @@
 - [awsp](https://github.com/antonbabenko/awsp) - AWS credential profile changer
 - [pre-commit-terraform](https://github.com/antonbabenko/pre-commit-terraform) - pre-commit git hook for Terraform
 - [og-aws](https://github.com/open-guides/og-aws) - 📙 Amazon Web Services — a practical guide
-- [cassandra-top](https://github.com/jamesbriggs/cassandra-top) - Cassandra top command to monitor cluster cass_top
+- [cassandra-top](https://github.com/jamesbriggs/cassandra-top) - Cassandra top command to monitor cluster cass_top and log nodetool commands
 - [container-storage-setup](https://github.com/projectatomic/container-storage-setup) - Service to set up storage for Docker and other container systems
 - [bitpocket](https://github.com/sickill/bitpocket) - "DIY Dropbox" or "2-way directory (r)sync with proper deletion"
 - [quick-secure](https://github.com/marshyski/quick-secure) - Quickly secure UNIX/Linux systems

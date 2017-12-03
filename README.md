@@ -31,6 +31,7 @@
   - [Objective-C](#objective-c)
   - [Others](#others)
   - [PHP](#php)
+  - [PLpgSQL](#plpgsql)
   - [Perl](#perl)
   - [PowerShell](#powershell)
   - [Python](#python)
@@ -569,6 +570,8 @@
 
 ## JavaScript 
 
+- [destiny2](https://github.com/Jake-Ruston/destiny2) - An API wrapper for Destiny 2.
+- [DIM](https://github.com/DestinyItemManager/DIM) - Destiny Item Manager
 - [etcher](https://github.com/resin-io/etcher) - Flash OS images to SD cards & USB drives, safely and easily.
 - [HackMyResume](https://github.com/hacksalot/HackMyResume) - Generate polished résumés and CVs in HTML, Markdown, LaTeX, MS Word, PDF, plain text, JSON, XML, YAML, smoke signal, and carrier pigeon.
 - [staticgen](https://github.com/netlify/staticgen) - StaticGen.com, A leaderboard of top open-source static site generators
@@ -810,6 +813,10 @@
 - [selfoss](https://github.com/SSilence/selfoss) - selfoss: The multipurpose rss reader, live stream, mashup, aggregation web application
 - [zimg-host](https://github.com/ziggi/zimg-host) - Simple image hosting service
 
+## PLpgSQL 
+
+- [destiny-clan-member-manager](https://github.com/dad2cl3/destiny-clan-member-manager) - Database and web server scripts for managing Destiny clan membership within Postgres
+
 ## Perl 
 
 - [lua-resty-jwt](https://github.com/SkyLothar/lua-resty-jwt) - JWT For The Great Openresty
@@ -824,6 +831,7 @@
 
 ## Python 
 
+- [spirit](https://github.com/jgayfer/spirit) - Spirit is a Discord chat bot designed to assist Destiny 2 players with everything from clan management to keeping track of in game events.
 - [cloud-inquisitor](https://github.com/RiotGames/cloud-inquisitor) - Cloud Inquisitor - tool to enforce ownership and data security within AWS
 - [ansible-human_log](https://github.com/n0ts/ansible-human_log) - This Ansible callback plugin for human-readable result logging for Ansible 1.9/2.0-2.4.
 - [fiat](https://github.com/richiverse/fiat) - Firehose to Athena
@@ -1020,6 +1028,7 @@
 - [vagrant-aws](https://github.com/mitchellh/vagrant-aws) - Use Vagrant to manage your EC2 and VPC instances.
 - [wildfly-buildpack](https://github.com/thomasdarimont/wildfly-buildpack) - 
 - [github-pullrequest-resource](https://github.com/jtarchie/github-pullrequest-resource) - Provides a Github pull request resource for concourse CI.
+- [dockerfile-ci](https://github.com/unifio/dockerfile-ci) - 
 - [geoengineer](https://github.com/coinbase/geoengineer) - Infrastructure As Code
 - [ruby-tfoutputs](https://github.com/jedops/ruby-tfoutputs) - Use Terraform outputs in your ruby code.
 - [dockerfile-packer](https://github.com/unifio/dockerfile-packer) - Dockerfile for creation of a HashiCorp Packer container
@@ -1139,7 +1148,6 @@
 - [infrastructure-reference](https://github.com/stakater/infrastructure-reference) - Reference infrastructure for Stakater blueprints. Stakater is an Infrastructure-as-Code DevOps solution to automate the creation of web infrastructure stack on AWS. Stakater is based on Docker, CoreOS, Terraform, Packer, Docker Compose, GoCD, Fleet, ETCD, and more.
 - [ami-baker](https://github.com/stakater/ami-baker) - Build custom AMI (Amazon Machine Image) on top of CoreOS
 - [devops-demo](https://github.com/dimapod/devops-demo) - DevOps Demo - Packer / Ansible / Terraform / AWS
-- [dockerfile-ci](https://github.com/unifio/dockerfile-ci) - 
 - [utilities](https://github.com/VladRassokhin/utilities) - Micro helpers
 - [bats](https://github.com/sstephenson/bats) - Bash Automated Testing System
 - [dockerfile-terraform](https://github.com/unifio/dockerfile-terraform) - Dockerfile for creation of a HashiCorp Terraform container

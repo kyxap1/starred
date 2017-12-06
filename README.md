@@ -144,6 +144,7 @@
 
 ## Go 
 
+- [freegeoip](https://github.com/fiorix/freegeoip) - IP geolocation web server
 - [terraformctl](https://github.com/kris-nova/terraformctl) - Running Terraform in Kubernetes as a controller
 - [jaeger](https://github.com/jaegertracing/jaeger) - Jaeger, a Distributed Tracing System
 - [minio](https://github.com/minio/minio) - Minio is an open source object storage server compatible with Amazon S3 APIs
@@ -292,7 +293,7 @@
 - [registrator](https://github.com/gliderlabs/registrator) - Service registry bridge for Docker with pluggable adapters
 - [consul-alerts](https://github.com/AcalephStorage/consul-alerts) - A simple daemon to send notifications based on Consul health checks
 - [AWSnycast](https://github.com/bobtfish/AWSnycast) - 'Anycast' in AWS
-- [fabio](https://github.com/fabiolb/fabio) - A fast, modern, zero-conf load balancing HTTP(S) router for deploying microservices managed by consul.
+- [fabio](https://github.com/fabiolb/fabio) - Fast, zero-conf HTTP and TCP reverse proxy for Consul
 - [consul-template](https://github.com/hashicorp/consul-template) - Template rendering, notifier, and supervisor for @HashiCorp Consul and Vault data.
 - [ahoy](https://github.com/ahoy-cli/ahoy) - Create self-documenting cli programs from YAML files. Easily wrap bash, grunt, npm, docker, (anything) to standardize your processes and make the lives of the people working on your project better.
 - [ctop](https://github.com/chrusty/ctop) - CTOP ("top" for Cassandra) - See what's going on in real-time
@@ -317,7 +318,6 @@
 - [blade](https://github.com/otm/blade) - Blade is a task runner designed to be easy, small, highly powerful, and with built in Bash completion and documentation. It is portable and easy to install, only a single binary.
 - [odin](https://github.com/jwaldrip/odin) - A go-lang library to help build self documenting command line applications.
 - [cli](https://github.com/urfave/cli) - A simple, fast, and fun package for building command line apps in Go
-- [ec2-exec](https://github.com/segmentio/ec2-exec) - Run commands on EC2 nodes without more complicated configuration management tools.
 - [ec2c](https://github.com/dtan4/ec2c) - Simple AWS EC2 CLI
 - [tfstate](https://github.com/oogway/tfstate) - Restful Terraform remote state server
 - [terraform-provider-static](https://github.com/dindinoh/terraform-provider-static) - 
@@ -475,6 +475,7 @@
 
 ## HTML 
 
+- [aws-amplify](https://github.com/aws/aws-amplify) - A declarative library for application development using Cloud services with JavaScript
 - [iproute2-cheatsheet](https://github.com/dmbaturin/iproute2-cheatsheet) - iproute2 command reference
 - [portainer](https://github.com/portainer/portainer) - Simple management UI for Docker
 - [staticrypt](https://github.com/robinmoisson/staticrypt) - Password protect a static HTML page
@@ -487,7 +488,6 @@
 - [haskell-language-hcl](https://github.com/beijaflor-io/haskell-language-hcl) - language-hcl contains HCL (Hashicorp Configuration Language) parsers and pretty-printers for the Haskell programming language
 - [vault-crowdsource](https://github.com/sethvargo/vault-crowdsource) - 
 - [node-red-contrib-aws](https://github.com/joeartsea/node-red-contrib-aws) - A collection of Node-RED nodes for AWS.
-- [amazing-deployment](https://github.com/delirehberi/amazing-deployment) - A curated list of amazing Deployment libraries, library distributions, scripts, tools and resources.
 - [styleguide](https://github.com/google/styleguide) - Style guides for Google-originated open-source projects
 - [hugo-material-docs](https://github.com/digitalcraftsman/hugo-material-docs) - Port of Martin Donath's mkdocs-material theme to Hugo
 
@@ -518,7 +518,7 @@
 - [elassandra](https://github.com/strapdata/elassandra) - Elassandra = Elasticsearch + Apache Cassandra
 - [flyway](https://github.com/flyway/flyway) - Flyway by Boxfuse • Database Migrations Made Easy.
 - [swagger-core](https://github.com/swagger-api/swagger-core) - Examples and server integrations for generating the Swagger API Specification, which enables easy access to your REST API
-- [grakn](https://github.com/graknlabs/grakn) - A Hyper-Relational Database for Knowledge-Oriented System
+- [grakn](https://github.com/graknlabs/grakn) - A Hyper-Relational Database for Knowledge Engineering
 - [bazel](https://github.com/bazelbuild/bazel) - a fast, scalable, multi-language and extensible build system
 - [android-json-model-generator](https://github.com/JAlexoid/android-json-model-generator) - A simple JSON Object Model generator for Android (JSON to Java)
 - [json-to-avro-schema-generator](https://github.com/sgmarghade/json-to-avro-schema-generator) - This will help you to generate AVRO schema from JSON schema.
@@ -570,6 +570,8 @@
 
 ## JavaScript 
 
+- [graphql-compose-aws](https://github.com/graphql-compose/graphql-compose-aws) - AWS Cloud API via GraphQL
+- [kuzzle](https://github.com/kuzzleio/kuzzle) - Open-source Back-end, self-hostable & ready to use - Real-time, storage, advanced search - Web, Apps, Mobile, IoT -
 - [destiny2](https://github.com/Jake-Ruston/destiny2) - An API wrapper for Destiny 2.
 - [DIM](https://github.com/DestinyItemManager/DIM) - Destiny Item Manager
 - [etcher](https://github.com/resin-io/etcher) - Flash OS images to SD cards & USB drives, safely and easily.
@@ -782,6 +784,7 @@
 - [onmetal-fast-docker](https://github.com/jayofdoom/onmetal-fast-docker) - Contains example cloud-config.yml files for mounting /var/lib/docker onto fast storage on OnMetal
 - [ntiered-aws-docker-terraform-guide](https://github.com/airpair/ntiered-aws-docker-terraform-guide) - 
 - [awesome-postgres](https://github.com/dhamaniasad/awesome-postgres) - A curated list of awesome PostgreSQL software, libraries, tools and resources, inspired by awesome-mysql
+- [amazing-deployment](https://github.com/delirehberi/amazing-deployment) - A curated list of amazing Deployment libraries, library distributions, scripts, tools and resources.
 - [awesome-learning](https://github.com/TheRemoteLab/awesome-learning) - A curated list for DevOps learning resources. Join the slack channel to discuss more.
 - [awesome-resty](https://github.com/bungle/awesome-resty) - A List of Quality OpenResty Libraries, and Resources.
 - [awesome](https://github.com/sindresorhus/awesome) - :sunglasses: Curated list of awesome lists
@@ -1089,6 +1092,7 @@
 
 ## Shell 
 
+- [aws-servicebroker-documentation](https://github.com/awslabs/aws-servicebroker-documentation) - AWS Service Broker documentation
 - [pre-commit](https://github.com/kintoandar/pre-commit) - pre-commit hook terraform; pre-commit hook prometheus
 - [scripts](https://github.com/pixelb/scripts) - scripts from pixelbeat.org
 - [dotfiles](https://github.com/mathiasbynens/dotfiles) - :wrench: .files, including ~/.macos — sensible hacker defaults for macOS

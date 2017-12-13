@@ -518,7 +518,7 @@
 - [elassandra](https://github.com/strapdata/elassandra) - Elassandra = Elasticsearch + Apache Cassandra
 - [flyway](https://github.com/flyway/flyway) - Flyway by Boxfuse • Database Migrations Made Easy.
 - [swagger-core](https://github.com/swagger-api/swagger-core) - Examples and server integrations for generating the Swagger API Specification, which enables easy access to your REST API
-- [grakn](https://github.com/graknlabs/grakn) - A Hyper-Relational Database for Knowledge Engineering
+- [grakn](https://github.com/graknlabs/grakn) - The Hyper-Relational Database for Knowledge Engineering
 - [bazel](https://github.com/bazelbuild/bazel) - a fast, scalable, multi-language and extensible build system
 - [android-json-model-generator](https://github.com/JAlexoid/android-json-model-generator) - A simple JSON Object Model generator for Android (JSON to Java)
 - [json-to-avro-schema-generator](https://github.com/sgmarghade/json-to-avro-schema-generator) - This will help you to generate AVRO schema from JSON schema.
@@ -1092,6 +1092,8 @@
 
 ## Shell 
 
+- [scripts](https://github.com/kref/scripts) - This project attempts to improve DSM's compatibility
+- [rear](https://github.com/rear/rear) - Relax-and-Recover - Linux bare metal disaster recovery and system migration solution (cfr. mksysb, ignite)
 - [aws-servicebroker-documentation](https://github.com/awslabs/aws-servicebroker-documentation) - AWS Service Broker documentation
 - [pre-commit](https://github.com/kintoandar/pre-commit) - pre-commit hook terraform; pre-commit hook prometheus
 - [scripts](https://github.com/pixelb/scripts) - scripts from pixelbeat.org
@@ -1220,7 +1222,7 @@
 - [vscode-terraform](https://github.com/mauve/vscode-terraform) - A Visual Studio Code plugin which contributes syntax highlighting, linting, formatting, and validation for Hashicorp's Terraform
 - [subscriptions-transport-ws](https://github.com/apollographql/subscriptions-transport-ws) - :arrows_clockwise: A WebSocket client + server for GraphQL subscriptions
 - [learnapollo](https://github.com/learnapollo/learnapollo) - 👩🏻‍🏫   Learn Apollo - A hands-on tutorial for Apollo GraphQL Client (created by Graphcool)
-- [graphql-tools](https://github.com/apollographql/graphql-tools) - :wrench: Build and mock your GraphQL.js schema using the schema language
+- [graphql-tools](https://github.com/apollographql/graphql-tools) - :wrench: Build, mock, and stitch a GraphQL schema using the schema language
 - [pulpo](https://github.com/docker/pulpo) - Configuration mechanism for Node
 
 ## Vim script 

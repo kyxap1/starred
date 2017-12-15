@@ -348,7 +348,7 @@
 - [s3git](https://github.com/s3git/s3git) - s3git: git for Cloud Storage. Distributed Version Control for Data. Create decentralized and versioned repos that scale infinitely to 100s of millions of files. Clone huge PB-scale repos on your local SSD to make changes, commit and push back. Oh yeah, it dedupes too and offers directory versioning.
 - [godef](https://github.com/rogpeppe/godef) - Print where symbols are defined in Go source code
 - [viper](https://github.com/spf13/viper) - Go configuration with fangs
-- [hugo](https://github.com/gohugoio/hugo) - A Fast and Flexible Static Site Generator built with love in GoLang.
+- [hugo](https://github.com/gohugoio/hugo) - Hugo is one of the most popular open-source static site generators. With its amazing speed and flexibility, Hugo makes building websites fun again.
 - [goa](https://github.com/goadesign/goa) - Design-based APIs and microservices in Go
 - [cobra](https://github.com/spf13/cobra) - A Commander for modern Go CLI interactions
 - [license](https://github.com/nishanths/license) - Create license files
@@ -534,7 +534,6 @@
 - [oryx](https://github.com/OryxProject/oryx) - Oryx 2: Lambda architecture on Apache Spark, Apache Kafka for real-time large scale machine learning
 - [graphql-java](https://github.com/graphql-java/graphql-java) - GraphQL Java implementation
 - [blox](https://github.com/blox/blox) - Open source tools for building custom schedulers on Amazon ECS
-- [terrapose](https://github.com/spaceshaker/terrapose) - A Groovy-based DSL that is translated to Terraform
 - [storm](https://github.com/nathanmarz/storm) - Distributed and fault-tolerant realtime computation: stream processing, continuous computation, distributed RPC, and more
 - [feign](https://github.com/OpenFeign/feign) - Feign makes writing java http clients easier
 - [logstash-logback-encoder](https://github.com/logstash/logstash-logback-encoder) - Logback encoder which creates JSON for use with Logstash
@@ -1005,6 +1004,7 @@
 - [packer-config](https://github.com/ianchesal/packer-config) - A Ruby way to generate packer.io configurations
 - [github-changelog-generator](https://github.com/skywinder/github-changelog-generator) - Automatically generate change log from your tags, issues, labels and pull requests on GitHub.
 - [asciinema-server](https://github.com/asciinema/asciinema-server) - Web app for hosting asciicasts
+- [packer](https://github.com/subutai-io/packer) - 
 - [kitchen-terraform](https://github.com/newcontext-oss/kitchen-terraform) - Test Kitchen plugins for testing Terraform configurations
 - [serverspec](https://github.com/mizzy/serverspec) - RSpec tests for your servers configured by CFEngine, Puppet, Chef, Ansible, Itamae or anything else even by hand
 - [hashicorptools](https://github.com/controlshift/hashicorptools) - a set of ruby utilities for interacting with and wrapping packer and terraform
@@ -1116,7 +1116,6 @@
 - [cassandra-cluster](https://github.com/dmitry-zhuravlev/cassandra-cluster) - Cassandra cluster with Docker Compose.
 - [initcassandra](https://github.com/ansrivas/initcassandra) - A super hacky way to initialize keyspaces and tables in cassandra using docker-compose.
 - [oh-my-zsh](https://github.com/robbyrussell/oh-my-zsh) - A delightful community-driven (with 1,000+ contributors) framework for managing your zsh configuration. Includes 200+ optional plugins (rails, git, OSX, hub, capistrano, brew, ant, php, python, etc), over 140 themes to spice up your morning, and an auto-update tool so that makes it easy to keep up with the latest updates from the community.
-- [packer](https://github.com/subutai-io/packer) - 
 - [cloudwatch-logmonitoring](https://github.com/shogomuranushi/cloudwatch-logmonitoring) - Log file monitoring for cloudwatch.
 - [docker-elk](https://github.com/DevOp5/docker-elk) - The ELK stack powered by Docker and Compose.
 - [awless-templates](https://github.com/wallix/awless-templates) - Repository of examples for awless templates (see https://github.com/wallix/awless)

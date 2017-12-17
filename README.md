@@ -349,7 +349,7 @@
 - [s3git](https://github.com/s3git/s3git) - s3git: git for Cloud Storage. Distributed Version Control for Data. Create decentralized and versioned repos that scale infinitely to 100s of millions of files. Clone huge PB-scale repos on your local SSD to make changes, commit and push back. Oh yeah, it dedupes too and offers directory versioning.
 - [godef](https://github.com/rogpeppe/godef) - Print where symbols are defined in Go source code
 - [viper](https://github.com/spf13/viper) - Go configuration with fangs
-- [hugo](https://github.com/gohugoio/hugo) - Hugo is one of the most popular open-source static site generators. With its amazing speed and flexibility, Hugo makes building websites fun again.
+- [hugo](https://github.com/gohugoio/hugo) - The world’s fastest framework for building websites.
 - [goa](https://github.com/goadesign/goa) - Design-based APIs and microservices in Go
 - [cobra](https://github.com/spf13/cobra) - A Commander for modern Go CLI interactions
 - [license](https://github.com/nishanths/license) - Create license files
@@ -361,7 +361,6 @@
 ## Groovy 
 
 - [docker-registry-web](https://github.com/mkuchin/docker-registry-web) - Web UI for private docker registry v2
-- [henka](https://github.com/rokudev/henka) - Henka (Terraform Gradle Plugin)
 - [rundeck](https://github.com/rundeck/rundeck) - Job scheduler and runbook automation. Enable self-service access to existing scripts and tools.
 - [tf_pipeline](https://github.com/benwtr/tf_pipeline) - Jenkins Pipeline jobs for Terraform with remote state locking, pull request integration and chat notifications
 - [gradle-capsule-plugin](https://github.com/danthegoodman/gradle-capsule-plugin) - A Gradle plugin for Capsule, the packaging and deployment tool for JVM apps.

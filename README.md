@@ -294,7 +294,7 @@
 - [registrator](https://github.com/gliderlabs/registrator) - Service registry bridge for Docker with pluggable adapters
 - [consul-alerts](https://github.com/AcalephStorage/consul-alerts) - A simple daemon to send notifications based on Consul health checks
 - [AWSnycast](https://github.com/bobtfish/AWSnycast) - 'Anycast' in AWS
-- [fabio](https://github.com/fabiolb/fabio) - Fast, zero-conf HTTP and TCP reverse proxy for Consul
+- [fabio](https://github.com/fabiolb/fabio) - Consul Load-Balancing made simple
 - [consul-template](https://github.com/hashicorp/consul-template) - Template rendering, notifier, and supervisor for @HashiCorp Consul and Vault data.
 - [ahoy](https://github.com/ahoy-cli/ahoy) - Create self-documenting cli programs from YAML files. Easily wrap bash, grunt, npm, docker, (anything) to standardize your processes and make the lives of the people working on your project better.
 - [ctop](https://github.com/chrusty/ctop) - CTOP ("top" for Cassandra) - See what's going on in real-time

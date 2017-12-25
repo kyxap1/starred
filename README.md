@@ -99,6 +99,7 @@
 
 ## CSS 
 
+- [suddi.github.io](https://github.com/suddi/suddi.github.io) - A static single-page application resume-builder developed using React.js and JSON Resume schema (https://suddi.github.io/)
 - [awesome-mysql](https://github.com/shlomi-noach/awesome-mysql) - A curated list of awesome MySQL software, libraries, tools and resources
 - [assembly](https://github.com/mapbox/assembly) - Making the hard parts of designing for the web easy.
 - [dagobah](https://github.com/thieman/dagobah) - Simple DAG-based job scheduler in Python

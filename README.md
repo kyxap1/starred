@@ -146,6 +146,8 @@
 
 ## Go 
 
+- [gographviz](https://github.com/awalterschulze/gographviz) - Parses the Graphviz DOT language in golang
+- [go-jsonnet](https://github.com/google/go-jsonnet) - 
 - [freegeoip](https://github.com/fiorix/freegeoip) - IP geolocation web server
 - [terraformctl](https://github.com/kris-nova/terraformctl) - Running Terraform in Kubernetes as a controller
 - [jaeger](https://github.com/jaegertracing/jaeger) - Jaeger, a Distributed Tracing System
@@ -353,7 +355,7 @@
 - [hugo](https://github.com/gohugoio/hugo) - The world’s fastest framework for building websites.
 - [goa](https://github.com/goadesign/goa) - Design-based APIs and microservices in Go
 - [cobra](https://github.com/spf13/cobra) - A Commander for modern Go CLI interactions
-- [license](https://github.com/nishanths/license) - Create license files
+- [license](https://github.com/nishanths/license) - Generate license files
 - [packer](https://github.com/hashicorp/packer) - Packer is a tool for creating identical machine images for multiple platforms from a single source configuration.
 - [terraform](https://github.com/hashicorp/terraform) - Terraform is a tool for building, changing, and combining infrastructure safely and efficiently.
 - [bosun](https://github.com/bosun-monitor/bosun) - Time Series Alerting Framework
@@ -836,6 +838,8 @@
 
 ## Python 
 
+- [kimchi](https://github.com/kimchi-project/kimchi) - An HTML5 management interface for KVM guests
+- [awx](https://github.com/ansible/awx) - AWX Project
 - [spirit](https://github.com/jgayfer/spirit) - Spirit is a Discord chat bot designed to assist Destiny 2 players with everything from clan management to keeping track of in game events.
 - [cloud-inquisitor](https://github.com/RiotGames/cloud-inquisitor) - Cloud Inquisitor - tool to enforce ownership and data security within AWS
 - [ansible-human_log](https://github.com/n0ts/ansible-human_log) - This Ansible callback plugin for human-readable result logging for Ansible 1.9/2.0-2.4.
@@ -1094,6 +1098,7 @@
 
 ## Shell 
 
+- [acme.sh](https://github.com/Neilpang/acme.sh) - A pure Unix shell script implementing ACME client protocol
 - [scripts](https://github.com/kref/scripts) - This project attempts to improve DSM's compatibility
 - [rear](https://github.com/rear/rear) - Relax-and-Recover - Linux bare metal disaster recovery and system migration solution (cfr. mksysb, ignite)
 - [aws-servicebroker-documentation](https://github.com/awslabs/aws-servicebroker-documentation) - AWS Service Broker documentation

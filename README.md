@@ -1126,7 +1126,7 @@
 - [oh-my-zsh](https://github.com/robbyrussell/oh-my-zsh) - A delightful community-driven (with 1,000+ contributors) framework for managing your zsh configuration. Includes 200+ optional plugins (rails, git, OSX, hub, capistrano, brew, ant, php, python, etc), over 140 themes to spice up your morning, and an auto-update tool so that makes it easy to keep up with the latest updates from the community.
 - [packer](https://github.com/subutai-io/packer) - 
 - [cloudwatch-logmonitoring](https://github.com/shogomuranushi/cloudwatch-logmonitoring) - Log file monitoring for cloudwatch.
-- [docker-elk](https://github.com/DevOp5/docker-elk) - The ELK stack powered by Docker and Compose.
+- [docker-elk](https://github.com/roister/docker-elk) - The ELK stack powered by Docker and Compose.
 - [awless-templates](https://github.com/wallix/awless-templates) - Repository of examples for awless templates (see https://github.com/wallix/awless)
 - [LS_COLORS](https://github.com/trapd00r/LS_COLORS) - A collection of LS_COLORS definitions; needs your contribution!
 - [dotfiles](https://github.com/maksimr/dotfiles) - ❤

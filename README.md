@@ -13,7 +13,6 @@
   - [CoffeeScript](#coffeescript)
   - [Common Lisp](#common lisp)
   - [Elixir](#elixir)
-  - [Erlang](#erlang)
   - [Gherkin](#gherkin)
   - [Go](#go)
   - [Groovy](#groovy)
@@ -135,10 +134,6 @@
 ## Elixir 
 
 - [exhcl](https://github.com/asakura/exhcl) - Configuration language inspired by HCL
-
-## Erlang 
-
-- [awesomo](https://github.com/lk-geimfari/awesomo) - An extensive list of interesting open source projects written in С, C++, Clojure, Lisp, Elixir, Erlang, Elm, Golang, Haskell, JavaScript, Lua, OCaml, Python, R, Ruby, Rust, Scala etc.
 
 ## Gherkin 
 
@@ -507,6 +502,7 @@
 
 ## Java 
 
+- [open-airplay](https://github.com/jamesdlow/open-airplay) - A collection of libraries for Apple's AirPlay protocol
 - [zipkin](https://github.com/openzipkin/zipkin) - Zipkin is a distributed tracing system
 - [YCSB](https://github.com/brianfrankcooper/YCSB) - Yahoo! Cloud Serving Benchmark
 - [localstack-spring-boot](https://github.com/smartupio/localstack-spring-boot) - Atlassian LocalStack autoconfiguration for Spring Boot based Java projects
@@ -1085,6 +1081,7 @@
 
 - [wsta](https://github.com/esphen/wsta) - A CLI development tool for WebSocket APIs
 - [alacritty](https://github.com/jwilm/alacritty) - A cross-platform, GPU-accelerated terminal emulator
+- [awesomo](https://github.com/lk-geimfari/awesomo) - An extensive list of interesting open source projects written in С, C++, Clojure, Lisp, Elixir, Erlang, Elm, Golang, Haskell, JavaScript, Lua, OCaml, Python, R, Ruby, Rust, Scala etc.
 - [habitat](https://github.com/habitat-sh/habitat) - Modern applications with built-in automation
 
 ## Scala 

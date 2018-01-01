@@ -435,7 +435,6 @@
 - [json2hcl](https://github.com/kvz/json2hcl) - Convert JSON to HCL, and vice versa
 - [nomad-openstack-terraform](https://github.com/moss2k13/nomad-openstack-terraform) - Nomad cluster with consul on coreos deployed on openstack
 - [cassandra-cloud](https://github.com/allanlang/cassandra-cloud) - Deploy Cassandra to various cloud environments with automation
-- [aws-lambda-playground](https://github.com/knakayama/aws-lambda-playground) - 
 - [terraform-rolling-deploys](https://github.com/robmorgan/terraform-rolling-deploys) - Rolling ASG deployments with Terraform on AWS
 - [terraform-coreos-user-data](https://github.com/jwaldrip/terraform-coreos-user-data) - CoreOS cloud config generation via Terraform variables
 - [aws-terraform-playground](https://github.com/knakayama/aws-terraform-playground) - terraform examples on AWS
@@ -951,6 +950,7 @@
 - [procdog](https://github.com/jlevy/procdog) - Lightweight command-line process control
 - [ImageScraper](https://github.com/sananth12/ImageScraper) - :scissors: High performance, multi-threaded image scraper
 - [raidformer](https://github.com/jsmartin/raidformer) - Creates a EBS-backed software raid device on the AWS platform
+- [aws-lambda-playground](https://github.com/knakayama/aws-lambda-playground) - 
 - [cloud-init](https://github.com/number5/cloud-init) - unofficial mirror of Ubuntu's  cloud-init
 - [sshuttle](https://github.com/apenwarr/sshuttle) - Transparent proxy server that works as a poor man's VPN.  Forwards over ssh.  Doesn't require admin.  Works with Linux and MacOS.  Supports DNS tunneling.
 - [cassandralauncher](https://github.com/joaquincasares/cassandralauncher) - Allows for the DataStax AMI to run from the command line while removing common user errors. End-to-end time to a cluster of any size is ~5 minutes. 22,000+ PyPI downloads.

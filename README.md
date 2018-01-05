@@ -1218,7 +1218,7 @@
 - [bash-my-aws](https://github.com/realestate-com-au/bash-my-aws) - Bash functions for managing AWS resources simply and easily
 - [bangsh](https://github.com/bangsh/bangsh) - A Bash4 Framework for easy app creation
 - [bangsh](https://github.com/bellthoven/bangsh) - Offical repository is now at
-- [bashful](https://github.com/jmcantrell/bashful) - A collection of modules to simplify writing bash scripts.
+- [bashful](https://github.com/plytophogy/bashful) - A collection of modules to simplify writing bash scripts.
 - [ffmpeg-static](https://github.com/zimbatm/ffmpeg-static) - Scripts to build ffmpeg with all the deps statically (webm + h264 included)
 - [dockr](https://github.com/crccheck/dockr) - A Docker CLI wrapper for lazy people
 

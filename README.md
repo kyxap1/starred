@@ -48,6 +48,7 @@
 
 ## C 
 
+- [the_silver_searcher](https://github.com/ggreer/the_silver_searcher) - A code-searching tool similar to ack, but faster.
 - [mydumper](https://github.com/maxbube/mydumper) - Official mydumper project
 - [Entware-ng](https://github.com/Entware-ng/Entware-ng) - Ultimate repo for embedded devices
 - [nginx-module-sts](https://github.com/vozlt/nginx-module-sts) - Nginx stream server traffic status module
@@ -100,6 +101,7 @@
 
 - [suddi.github.io](https://github.com/suddi/suddi.github.io) - A static single-page application resume-builder developed using React.js and JSON Resume schema (https://suddi.github.io/)
 - [awesome-mysql](https://github.com/shlomi-noach/awesome-mysql) - A curated list of awesome MySQL software, libraries, tools and resources
+- [my-mac-os](https://github.com/nikitavoloboev/my-mac-os) - 💻 A list of applications, alfred workflows and various tools that make my macOS experience even more amazing
 - [assembly](https://github.com/mapbox/assembly) - Making the hard parts of designing for the web easy.
 - [dagobah](https://github.com/thieman/dagobah) - Simple DAG-based job scheduler in Python
 - [pelias](https://github.com/pelias/pelias) - Pelias is a modular open-source geocoder using ElasticSearch for fast geocoding.
@@ -722,6 +724,7 @@
 
 ## Others 
 
+- [the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line) - Master the command line, in one page
 - [awesome-static-analysis](https://github.com/mre/awesome-static-analysis) - A curated list of static analysis tools, linters and code quality checkers for various programming languages
 - [ansible-symfony2](https://github.com/servergrove/ansible-symfony2) - Ansible role to deploy Symfony2 applications
 - [research](https://github.com/ssllabs/research) - 
@@ -729,7 +732,6 @@
 - [ansible-quickref](https://github.com/lorin/ansible-quickref) - Quick reference for Ansible variables
 - [awesome-ansible](https://github.com/jdauphant/awesome-ansible) - A collaborative curated list of awesome Ansible resources
 - [mysql](https://github.com/bennojoy/mysql) - ansible role for mysql
-- [my-mac-os](https://github.com/nikitavoloboev/my-mac-os) - 💻 A list of applications, alfred workflows and various tools that make my macOS experience even more amazing
 - [linux-sysadmin-interview-questions](https://github.com/chassing/linux-sysadmin-interview-questions) - Collection of Linux Sysadmin/DevOps interview questions
 - [consul](https://github.com/thechane/consul) - Docker compose file and other resources for running Consul as a service in Docker
 - [terraplate](https://github.com/rjayroach/terraplate) - use ansible templates to easily generate terraform modules, components and tfvars files

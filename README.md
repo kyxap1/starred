@@ -682,7 +682,7 @@
 - [lets-chat](https://github.com/sdelements/lets-chat) - Self-hosted chat app for small teams
 - [anti-adblock-killer](https://github.com/reek/anti-adblock-killer) - Anti-Adblock Killer helps you keep your Ad-Blocker active, when you visit a website and it asks you to disable.
 - [h5ai](https://github.com/lrsjng/h5ai) - HTTP web server index for Apache httpd, lighttpd, nginx and Cherokee.
-- [bootstrap-table](https://github.com/wenzhixin/bootstrap-table) - An extended Bootstrap table with radio, checkbox, sort, pagination, and other added features. (supports twitter bootstrap v2 and v3)
+- [bootstrap-table](https://github.com/wenzhixin/bootstrap-table) - An extended Bootstrap table with radio, checkbox, sort, pagination, and other added features. (supports twitter bootstrap v2, v3 and v4)
 - [mediacenterjs](https://github.com/jansmolders86/mediacenterjs) - A HTML/CSS/Javascript (NodeJS) based Media center
 
 ## Kotlin 

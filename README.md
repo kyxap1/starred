@@ -745,7 +745,7 @@
 - [sense](https://github.com/cheics/sense) - a json aware ElasticSearch front end
 - [ansible-barman](https://github.com/alexey-medvedchikov/ansible-barman) - Ansible role for barman PostgreSQL backup utility
 - [design-patterns-for-humans](https://github.com/kamranahmedse/design-patterns-for-humans) - Design Patterns for Humans™ - An ultra-simplified explanation
-- [awesome-macos-command-line](https://github.com/herrbischoff/awesome-macos-command-line) - Use your OS X terminal shell to do awesome things.
+- [awesome-macos-command-line](https://github.com/herrbischoff/awesome-macos-command-line) - Use your macOS terminal shell to do awesome things.
 - [awesome-java](https://github.com/akullpp/awesome-java) - A curated list of awesome frameworks, libraries and software for the Java programming language.
 - [awesome-pipeline](https://github.com/pditommaso/awesome-pipeline) - A curated list of awesome pipeline toolkits inspired by Awesome Sysadmin
 - [mylinks](https://github.com/smdocs/mylinks) - 

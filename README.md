@@ -143,6 +143,7 @@
 
 ## Go 
 
+- [conplicity](https://github.com/camptocamp/conplicity) - Automatic duplicity/rclone backups for Docker containers
 - [gographviz](https://github.com/awalterschulze/gographviz) - Parses the Graphviz DOT language in golang
 - [go-jsonnet](https://github.com/google/go-jsonnet) - 
 - [freegeoip](https://github.com/fiorix/freegeoip) - IP geolocation web server
@@ -392,7 +393,7 @@
 - [devops](https://github.com/nearform/devops) - Devops repo
 - [terraform-example](https://github.com/threatstack/terraform-example) - Terraform Example setup root repository
 - [tf-ses-demo](https://github.com/knakayama/tf-ses-demo) - 
-- [terraform-config](https://github.com/travis-infrastructure/terraform-config) - Terraform bits
+- [terraform-config](https://github.com/travis-ci/terraform-config) - Terraform bits
 - [tf-sfn-demo](https://github.com/knakayama/tf-sfn-demo) - 
 - [tf-inspector-demo](https://github.com/knakayama/tf-inspector-demo) - 
 - [tf_aws_bastion_s3_keys](https://github.com/sclausson/tf_aws_bastion_s3_keys) - A Terraform module for creating bastion host on AWS EC2 and populate its ~/.ssh/authorized_keys with public keys from bucket
@@ -622,7 +623,7 @@
 - [vscode-terraform-snippets](https://github.com/rixrix/vscode-terraform-snippets) - Advanced Terraform Snippets for Visual Studio Code. It has at least 9.5k downloads from the marketplace.
 - [mermaid](https://github.com/knsv/mermaid) - Generation of diagram and flowchart from text in a similar manner as markdown
 - [osm-qa-filter](https://github.com/lukasmartinelli/osm-qa-filter) - Extract GeoJSON features from OSM QA tiles
-- [hotel](https://github.com/typicode/hotel) - :love_hotel: A simple process manager for developers. Start apps from your browser and access them using local .dev domains
+- [hotel](https://github.com/typicode/hotel) - :love_hotel: A simple process manager for developers. Start apps from your browser and access them using local domains
 - [togetherjs](https://github.com/mozilla/togetherjs) - A service for your website that makes it surprisingly easy to collaborate in real-time.
 - [ContentTools](https://github.com/GetmeUK/ContentTools) - A JS library for building WYSIWYG editors for HTML content.
 - [wekan](https://github.com/wekan/wekan) - The open-source Trello-like kanban (built with Meteor)

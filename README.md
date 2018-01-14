@@ -406,7 +406,6 @@
 - [c1m](https://github.com/hashicorp/c1m) - Nomad, Terraform, and Packer configurations for the Million Container Challenge (C1M)
 - [atlas-examples](https://github.com/hashicorp/atlas-examples) - Public examples for using Atlas by HashiCorp
 - [angostura](https://github.com/hashlabs/angostura) - Terraform templates library
-- [microservices-architecture-boilerplate](https://github.com/tkellen/microservices-architecture-boilerplate) - a foundational sea of complexity
 - [byo-data-pipeline](https://github.com/segmentio/byo-data-pipeline) - Bring your own Data Pipeline
 - [terraform-circleci-demo](https://github.com/knakayama/terraform-circleci-demo) - 
 - [blueprint-storage-aws](https://github.com/stakater/blueprint-storage-aws) - Stakater Blueprint for creating best-practices based storage on AWS. Stakater is an Infrastructure-as-Code DevOps solution to automate the creation of web infrastructure stack on AWS. Stakater is based on Docker, CoreOS, Terraform, Packer, Docker Compose, GoCD, Fleet, ETCD, and more.
@@ -757,6 +756,7 @@
 - [awesome-nomad](https://github.com/jippi/awesome-nomad) - A curated list of amazingly awesome Nomad tools and shiny things.
 - [awesome-ciandcd](https://github.com/ciandcd/awesome-ciandcd) - continuous integration and continuous delivery
 - [packer-schema](https://github.com/lostintangent/packer-schema) - A JSON schema for validating and providing editor support when authoring Packer templates
+- [microservices-architecture-boilerplate](https://github.com/tkellen/microservices-architecture-boilerplate) - This project has moved to http://github.com/tkellen/kwm.
 - [hornetq](https://github.com/hornetq/hornetq) - HornetQ is an open source project to build a multi-protocol, embeddable, very high performance, clustered, asynchronous messaging system.
 - [base-maven](https://github.com/jboss-dockerfiles/base-maven) - 
 - [awesome-data-engineering](https://github.com/igorbarinov/awesome-data-engineering) - A curated list of data engineering tools for software developers

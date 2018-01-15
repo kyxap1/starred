@@ -148,7 +148,7 @@
 - [go-jsonnet](https://github.com/google/go-jsonnet) - 
 - [freegeoip](https://github.com/fiorix/freegeoip) - IP geolocation web server
 - [terraformctl](https://github.com/kris-nova/terraformctl) - Running Terraform in Kubernetes as a controller
-- [jaeger](https://github.com/jaegertracing/jaeger) - Jaeger, a Distributed Tracing System
+- [jaeger](https://github.com/jaegertracing/jaeger) - CNCF Jaeger, a Distributed Tracing System
 - [minio](https://github.com/minio/minio) - Minio is an open source object storage server compatible with Amazon S3 APIs
 - [stolon](https://github.com/sorintlab/stolon) - PostgreSQL cloud native High Availability and more.
 - [mtail](https://github.com/google/mtail) - extract whitebox monitoring data from application logs for collection in a timeseries database

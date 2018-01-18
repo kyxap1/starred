@@ -782,7 +782,7 @@
 - [bigtop-centos](https://github.com/tzolov/bigtop-centos) - Ready to use Docker environment for Apache Bigtop. Based on CentOS and equipped with all necessary tools and libraries.
 - [cassandra-monitoring](https://github.com/softwaremill/cassandra-monitoring) - Scripts for the Cassandra Monitoring blog miniseries
 - [awesome-db](https://github.com/numetriclabz/awesome-db) - A curated list of amazingly awesome database libraries, resources and shiny things by https://www.numetriclabz.com/
-- [awesome-public-datasets](https://github.com/caesar0301/awesome-public-datasets) - A topic-centric list of high-quality open datasets in public domains. By everyone, for everyone!
+- [awesome-public-datasets](https://github.com/awesomedata/awesome-public-datasets) - A topic-centric list of high-quality open datasets in public domains. By everyone, for everyone!
 - [onmetal-fast-docker](https://github.com/jayofdoom/onmetal-fast-docker) - Contains example cloud-config.yml files for mounting /var/lib/docker onto fast storage on OnMetal
 - [ntiered-aws-docker-terraform-guide](https://github.com/airpair/ntiered-aws-docker-terraform-guide) - 
 - [awesome-postgres](https://github.com/dhamaniasad/awesome-postgres) - A curated list of awesome PostgreSQL software, libraries, tools and resources, inspired by awesome-mysql

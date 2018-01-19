@@ -1246,6 +1246,7 @@
 - [vim-terraform](https://github.com/hashivim/vim-terraform) - basic vim/terraform integration
 - [vim-hashicorp-tools](https://github.com/hashivim/vim-hashicorp-tools) - "self-contained and fairly explanatory" agglomeration of HashiVim plugins
 - [Dockerfile.vim](https://github.com/ekalinin/Dockerfile.vim) - Vim syntax file & snippets for Docker's Dockerfile
+- [vim-go-ide](https://github.com/farazdagi/vim-go-ide) - Ready to use, fully configured for Go development.
 - [vim-plugins](https://github.com/WolfgangMehner/vim-plugins) - Vim plug-ins which offer support for various programming languages.
 
 ## VimL 
@@ -1257,7 +1258,6 @@
 - [vim-monokai](https://github.com/sickill/vim-monokai) - Monokai color scheme for Vim converted from Textmate theme
 - [vim-hclfmt](https://github.com/fatih/vim-hclfmt) - Vim plugin for hclfmt
 - [spf13-vim](https://github.com/spf13/spf13-vim) - The ultimate vim distribution
-- [vim-go-ide](https://github.com/farazdagi/vim-go-ide) - Ready to use, fully configured for Go development.
 
 ## Vue 
 

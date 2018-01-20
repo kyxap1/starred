@@ -828,7 +828,6 @@
 - [lua-resty-jwt](https://github.com/SkyLothar/lua-resty-jwt) - JWT For The Great Openresty
 - [aws](https://github.com/timkay/aws) - Easy command line access to Amazon EC2, S3, SQS, ELB, and SDB (new!)
 - [ec2-consistent-snapshot](https://github.com/alestic/ec2-consistent-snapshot) - Initiate consistent EBS snapshots in Amazon EC2
-- [dotfiles](https://github.com/jessfraz/dotfiles) - My dotfiles. Buyer beware ;)
 
 ## PowerShell 
 
@@ -1201,6 +1200,7 @@
 - [docker-nginx-elb-websocket](https://github.com/Stockflare/docker-nginx-elb-websocket) - NGinx proxy pass configuration designed for Websockets load balanced through ELB, running on ECS
 - [cassandra-cloud-backup](https://github.com/GoogleCloudPlatform/cassandra-cloud-backup) - Cassandra backups to Google Cloud Storage
 - [hornetq](https://github.com/dougtoppin/hornetq) - Useful tools associated with using HornetQ in the JBoss Fuse Service Works distribution
+- [dotfiles](https://github.com/jessfraz/dotfiles) - My dotfiles. Buyer beware ;)
 - [dockerfiles](https://github.com/jessfraz/dockerfiles) - Various Dockerfiles I use on the desktop and on servers.
 - [hazelcast-docker](https://github.com/hazelcast/hazelcast-docker) - This repository contains docker image for Hazelcast open-source in-memory data-grid.
 - [docker-node](https://github.com/nodejs/docker-node) - Official Docker Image for Node.js :whale: :turtle: :rocket:

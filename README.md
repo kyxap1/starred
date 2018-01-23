@@ -954,7 +954,7 @@
 - [raidformer](https://github.com/jsmartin/raidformer) - Creates a EBS-backed software raid device on the AWS platform
 - [aws-lambda-playground](https://github.com/knakayama/aws-lambda-playground) - 
 - [cloud-init](https://github.com/number5/cloud-init) - unofficial mirror of Ubuntu's  cloud-init
-- [sshuttle](https://github.com/apenwarr/sshuttle) - Transparent proxy server that works as a poor man's VPN.  Forwards over ssh.  Doesn't require admin.  Works with Linux and MacOS.  Supports DNS tunneling.
+- [sshuttle](https://github.com/apenwarr/sshuttle) - Wrong project!  You should head over to http://github.com/sshuttle/sshuttle
 - [cassandralauncher](https://github.com/joaquincasares/cassandralauncher) - Allows for the DataStax AMI to run from the command line while removing common user errors. End-to-end time to a cluster of any size is ~5 minutes. 22,000+ PyPI downloads.
 - [chalice](https://github.com/aws/chalice) - Python Serverless Microframework for AWS
 - [Zappa](https://github.com/Miserlou/Zappa) - Serverless Python Web Services

@@ -143,6 +143,8 @@
 
 ## Go 
 
+- [hcloud-go](https://github.com/hetznercloud/hcloud-go) - A Go library for the Hetzner Cloud API
+- [cli](https://github.com/hetznercloud/cli) - A command-line interface for Hetzner Cloud
 - [conplicity](https://github.com/camptocamp/conplicity) - Automatic duplicity/rclone backups for Docker containers
 - [gographviz](https://github.com/awalterschulze/gographviz) - Parses the Graphviz DOT language in golang
 - [go-jsonnet](https://github.com/google/go-jsonnet) - 

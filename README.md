@@ -143,6 +143,9 @@
 
 ## Go 
 
+- [terraform-provider-hcloud](https://github.com/hetznercloud/terraform-provider-hcloud) - Terraform provider for hetzner cloud.
+- [yq](https://github.com/mikefarah/yq) - yq is a portable command-line YAML processor
+- [envconfig](https://github.com/kelseyhightower/envconfig) - Golang library for managing configuration data from environment variables
 - [hcloud-go](https://github.com/hetznercloud/hcloud-go) - A Go library for the Hetzner Cloud API
 - [cli](https://github.com/hetznercloud/cli) - A command-line interface for Hetzner Cloud
 - [conplicity](https://github.com/camptocamp/conplicity) - Automatic duplicity/rclone backups for Docker containers
@@ -191,7 +194,7 @@
 - [groupcache](https://github.com/golang/groupcache) - groupcache is a caching and cache-filling library, intended as a replacement for memcached in many cases.
 - [hivemind](https://github.com/DarthSim/hivemind) - Process manager for Procfile-based applications
 - [oklog](https://github.com/oklog/oklog) - A distributed and coördination-free log management system
-- [kubegen](https://github.com/errordeveloper/kubegen) - kubegen – simple way to describe Kubernetes resources
+- [kubegen](https://github.com/errordeveloper/kubegen) - kubegen – simple way to describe Kubernetes resources in a structured way, but without new syntax or magic
 - [terraform-index](https://github.com/mauve/terraform-index) - 
 - [drone-terraform](https://github.com/jmccann/drone-terraform) - Drone plugin for triggering Terraform deployments
 - [gobetween](https://github.com/yyyar/gobetween) - :cloud: Modern & minimalistic load balancer for the Сloud era
@@ -393,7 +396,6 @@
 - [AWS-Infrasetup](https://github.com/naikajah/AWS-Infrasetup) - Building AWS infrastructure with Terraform
 - [oreno-terraform](https://github.com/shogomuranushi/oreno-terraform) - 
 - [devops](https://github.com/nearform/devops) - Devops repo
-- [terraform-example](https://github.com/threatstack/terraform-example) - Terraform Example setup root repository
 - [tf-ses-demo](https://github.com/knakayama/tf-ses-demo) - 
 - [terraform-config](https://github.com/travis-ci/terraform-config) - Terraform bits
 - [tf-sfn-demo](https://github.com/knakayama/tf-sfn-demo) - 
@@ -476,6 +478,7 @@
 
 ## HTML 
 
+- [nginx-https-base](https://github.com/naggie/nginx-https-base) - An Ubuntu 16.04 Ansible role for nginx with automatic HTTPS via certbot/LE, better error pages, useful templates
 - [aws-amplify](https://github.com/aws/aws-amplify) - A declarative library for application development using Cloud services with JavaScript
 - [iproute2-cheatsheet](https://github.com/dmbaturin/iproute2-cheatsheet) - iproute2 command reference
 - [portainer](https://github.com/portainer/portainer) - Simple management UI for Docker
@@ -572,6 +575,7 @@
 
 ## JavaScript 
 
+- [release-it](https://github.com/webpro/release-it) - CLI release tool for Git repos and npm packages.
 - [graphql-compose-aws](https://github.com/graphql-compose/graphql-compose-aws) - AWS Cloud API via GraphQL
 - [kuzzle](https://github.com/kuzzleio/kuzzle) - Open-source Back-end, self-hostable & ready to use - Real-time, storage, advanced search - Web, Apps, Mobile, IoT -
 - [destiny2](https://github.com/Jake-Ruston/destiny2) - An API wrapper for Destiny 2.

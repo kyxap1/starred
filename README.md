@@ -122,6 +122,7 @@
 
 ## CoffeeScript 
 
+- [HackMyResume](https://github.com/hacksalot/HackMyResume) - Generate polished résumés and CVs in HTML, Markdown, LaTeX, MS Word, PDF, plain text, JSON, XML, YAML, smoke signal, and carrier pigeon.
 - [hubot-bitbucket](https://github.com/andrewtarry/hubot-bitbucket) - Hubot library to listent for Bitbucket hooks
 - [generator-ansible-rh](https://github.com/dischord01/generator-ansible-rh) - 
 - [dredd](https://github.com/apiaryio/dredd) - Language-agnostic HTTP API Testing Framework
@@ -479,7 +480,6 @@
 ## HTML 
 
 - [nginx-https-base](https://github.com/naggie/nginx-https-base) - An Ubuntu 16.04 Ansible role for nginx with automatic HTTPS via certbot/LE, better error pages, useful templates
-- [aws-amplify](https://github.com/aws/aws-amplify) - A declarative library for application development using Cloud services with JavaScript
 - [iproute2-cheatsheet](https://github.com/dmbaturin/iproute2-cheatsheet) - iproute2 command reference
 - [portainer](https://github.com/portainer/portainer) - Simple management UI for Docker
 - [staticrypt](https://github.com/robinmoisson/staticrypt) - Password protect a static HTML page
@@ -576,12 +576,12 @@
 ## JavaScript 
 
 - [release-it](https://github.com/webpro/release-it) - CLI release tool for Git repos and npm packages.
+- [aws-amplify](https://github.com/aws/aws-amplify) - A declarative library for application development using Cloud services with JavaScript
 - [graphql-compose-aws](https://github.com/graphql-compose/graphql-compose-aws) - AWS Cloud API via GraphQL
 - [kuzzle](https://github.com/kuzzleio/kuzzle) - Open-source Back-end, self-hostable & ready to use - Real-time, storage, advanced search - Web, Apps, Mobile, IoT -
 - [destiny2](https://github.com/Jake-Ruston/destiny2) - An API wrapper for Destiny 2.
 - [DIM](https://github.com/DestinyItemManager/DIM) - Destiny Item Manager
 - [etcher](https://github.com/resin-io/etcher) - Flash OS images to SD cards & USB drives, safely and easily.
-- [HackMyResume](https://github.com/hacksalot/HackMyResume) - Generate polished résumés and CVs in HTML, Markdown, LaTeX, MS Word, PDF, plain text, JSON, XML, YAML, smoke signal, and carrier pigeon.
 - [staticgen](https://github.com/netlify/staticgen) - StaticGen.com, A leaderboard of top open-source static site generators
 - [terraform_firehose](https://github.com/roshpr/terraform_firehose) - AWS Firehose implementation for VPCFlow, ELK & Lambda integration to analyse VPC network data flow & monitoring dashboard
 - [gitbook](https://github.com/GitbookIO/gitbook) - 📝 Modern documentation format and toolchain using Git and Markdown
@@ -842,6 +842,7 @@
 
 ## Python 
 
+- [dotdrop](https://github.com/deadc0de6/dotdrop) - Save your dotfiles once, deploy them everywhere
 - [kimchi](https://github.com/kimchi-project/kimchi) - An HTML5 management interface for KVM guests
 - [awx](https://github.com/ansible/awx) - AWX Project
 - [spirit](https://github.com/jgayfer/spirit) - Spirit is a Discord chat bot designed to assist Destiny 2 players with everything from clan management to keeping track of in game events.

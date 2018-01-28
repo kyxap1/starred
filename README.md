@@ -625,7 +625,7 @@
 - [viz.js](https://github.com/mdaines/viz.js) - A hack to put Graphviz on the web.
 - [vis](https://github.com/almende/vis) - vis.js is a dynamic, browser-based visualization library
 - [remark](https://github.com/gnab/remark) - A simple, in-browser, markdown-driven slideshow tool.
-- [vscode-terraform-snippets](https://github.com/rixrix/vscode-terraform-snippets) - Advanced Terraform Snippets for Visual Studio Code. It has at least 9.5k downloads from the marketplace.
+- [vscode-terraform-snippets](https://github.com/rixrix/vscode-terraform-snippets) - Advanced Terraform Snippets for Visual Studio Code. It has at least 17k downloads from the marketplace.
 - [mermaid](https://github.com/knsv/mermaid) - Generation of diagram and flowchart from text in a similar manner as markdown
 - [osm-qa-filter](https://github.com/lukasmartinelli/osm-qa-filter) - Extract GeoJSON features from OSM QA tiles
 - [hotel](https://github.com/typicode/hotel) - :love_hotel: A simple process manager for developers. Start apps from your browser and access them using local domains

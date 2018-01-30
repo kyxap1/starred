@@ -1154,7 +1154,7 @@
 - [wildfly-docker-deployment-example](https://github.com/goldmann/wildfly-docker-deployment-example) - 
 - [intellij-colors-solarized](https://github.com/jkaving/intellij-colors-solarized) - Solarized Colorscheme for IntelliJ IDEA
 - [vagrant-bash-completion](https://github.com/kura/vagrant-bash-completion) - Add autocomplete for Vagrant to bash completion
-- [aws](https://github.com/swoodford/aws) - A collection of Bash shell scripts for automating various tasks with AWS (Amazon Web Services) using the awscli
+- [aws](https://github.com/swoodford/aws) - A collection of bash shell scripts for automating various tasks with Amazon Web Services using the AWS CLI and jq.
 - [ecs-refarch-continuous-deployment](https://github.com/awslabs/ecs-refarch-continuous-deployment) - ECS Reference Architecture for creating a flexible and scalable deployment pipeline to Amazon ECS using AWS CodePipeline
 - [boxcutter_ubuntu](https://github.com/patrick-hill/boxcutter_ubuntu) - Virtual machine templates for Ubuntu
 - [postgresql](https://github.com/ANXS/postgresql) - Fairly full featured Ansible role for Postgresql.

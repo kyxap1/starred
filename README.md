@@ -576,7 +576,7 @@
 ## JavaScript 
 
 - [release-it](https://github.com/webpro/release-it) - CLI release tool for Git repos and npm packages.
-- [aws-amplify](https://github.com/aws/aws-amplify) - A declarative library for application development using Cloud services with JavaScript
+- [aws-amplify](https://github.com/aws/aws-amplify) - A declarative library for application development using cloud services with JavaScript
 - [graphql-compose-aws](https://github.com/graphql-compose/graphql-compose-aws) - AWS Cloud API via GraphQL
 - [kuzzle](https://github.com/kuzzleio/kuzzle) - Open-source Back-end, self-hostable & ready to use - Real-time, storage, advanced search - Web, Apps, Mobile, IoT -
 - [destiny2](https://github.com/Jake-Ruston/destiny2) - An API wrapper for Destiny 2.
@@ -613,7 +613,7 @@
 - [nci-ansible-ui](https://github.com/node-ci/nci-ansible-ui) - Simple web interface for run ansible playbooks
 - [custom-slack-integration](https://github.com/brendajin/custom-slack-integration) - Use webhooks and stateless middleware to set up custom Slack notifications in minutes!
 - [seagull](https://github.com/tobegit3hub/seagull) - Friendly Web UI to manage and monitor docker
-- [aws-lambda-fanout](https://github.com/awslabs/aws-lambda-fanout) - A sample AWS Lambda function that accepts messages from an Amazon Kinesis Stream and transfers the messages to another data transport.
+- [aws-lambda-fanout](https://github.com/aws-samples/aws-lambda-fanout) - A sample AWS Lambda function that accepts messages from an Amazon Kinesis Stream and transfers the messages to another data transport.
 - [scope](https://github.com/serverless/scope) - 🔭 Scope - Create a birdeye's view of your Github project and embed on your site
 - [s3-lambda](https://github.com/littlstar/s3-lambda) - Lambda functions over S3 objects with concurrency control (each, map, reduce, filter)
 - [aws-data-lake-solution](https://github.com/awslabs/aws-data-lake-solution) - A deployable reference implementation intended to address pain points around conceptualizing data lake architectures that automatically configures the core AWS services necessary to easily tag, search, share, and govern specific subsets of data across a business or with other external businesses.
@@ -935,7 +935,7 @@
 - [ansible-container](https://github.com/ansible/ansible-container) - Ansible Container is a tool to build Docker images and orchestrate containers using only Ansible playbooks.
 - [ansible-packer-vagrant-openstack-ec2](https://github.com/rosmo/ansible-packer-vagrant-openstack-ec2) - Ansible scripts to build images using Packer and Vagrant, exporting to Openstack, AMI or OVF image
 - [dataduct](https://github.com/coursera/dataduct) - DataPipeline for humans.
-- [data-pipeline-samples](https://github.com/awslabs/data-pipeline-samples) - This repository hosts sample pipelines
+- [data-pipeline-samples](https://github.com/aws-samples/data-pipeline-samples) - This repository hosts sample pipelines
 - [barman](https://github.com/2ndquadrant-it/barman) - BaRMan - Backup and Recovery Manager for PostgreSQL
 - [terraform.py](https://github.com/mantl/terraform.py) - Ansible dynamic inventory script for parsing Terraform state files
 - [kubeform](https://github.com/Capgemini/kubeform) - Form your :boat: Kubernetes :anchor: cluster anywhere using CoreOS, Terraform and Ansible

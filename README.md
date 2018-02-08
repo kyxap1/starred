@@ -374,7 +374,7 @@
 ## HCL 
 
 - [terraform-null-assert](https://github.com/kchugalinskiy/terraform-null-assert) - Terraform assertion module
-- [fpco-terraform-aws](https://github.com/fpco/fpco-terraform-aws) - 
+- [terraform-aws-foundation](https://github.com/fpco/terraform-aws-foundation) - 
 - [nomad-auto-join](https://github.com/hashicorp/nomad-auto-join) - Terraform config to automatically bootstrap a Nomad cluster
 - [docker-swarm-terraform](https://github.com/knpwrs/docker-swarm-terraform) - Set up a Docker Swarm Cluster on Digital Ocean using Terraform
 - [terraform_pritunl](https://github.com/opsgang/terraform_pritunl) - Pritunl VPN Server for your public/private like VPC on AWS
@@ -846,7 +846,7 @@
 - [kimchi](https://github.com/kimchi-project/kimchi) - An HTML5 management interface for KVM guests
 - [awx](https://github.com/ansible/awx) - AWX Project
 - [spirit](https://github.com/jgayfer/spirit) - Spirit is a Discord chat bot designed to assist Destiny 2 players with everything from clan management to keeping track of in game events.
-- [cloud-inquisitor](https://github.com/RiotGames/cloud-inquisitor) - Cloud Inquisitor - tool to enforce ownership and data security within AWS
+- [cloud-inquisitor](https://github.com/RiotGames/cloud-inquisitor) - Enforce ownership and data security within AWS
 - [ansible-human_log](https://github.com/n0ts/ansible-human_log) - This Ansible callback plugin for human-readable result logging for Ansible 1.9/2.0-2.4.
 - [fiat](https://github.com/richiverse/fiat) - Firehose to Athena
 - [ps_mem](https://github.com/pixelb/ps_mem) - A utility to accurately report the in core memory usage for a program

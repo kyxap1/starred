@@ -143,7 +143,7 @@
 
 ## Go 
 
-- [terraform-provider-hcloud](https://github.com/hetznercloud/terraform-provider-hcloud) - Terraform provider for hetzner cloud.
+- [terraform-provider-hcloud](https://github.com/hetznercloud/terraform-provider-hcloud) - Terraform provider for Hetzner Cloud
 - [yq](https://github.com/mikefarah/yq) - yq is a portable command-line YAML processor
 - [envconfig](https://github.com/kelseyhightower/envconfig) - Golang library for managing configuration data from environment variables
 - [hcloud-go](https://github.com/hetznercloud/hcloud-go) - A Go library for the Hetzner Cloud API

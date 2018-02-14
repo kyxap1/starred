@@ -48,6 +48,7 @@
 
 ## C 
 
+- [obs-studio](https://github.com/jp9000/obs-studio) - OBS - Free and open source software for live streaming and screen recording
 - [the_silver_searcher](https://github.com/ggreer/the_silver_searcher) - A code-searching tool similar to ack, but faster.
 - [mydumper](https://github.com/maxbube/mydumper) - Official mydumper project
 - [Entware-ng](https://github.com/Entware-ng/Entware-ng) - Ultimate repo for embedded devices

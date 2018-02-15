@@ -123,7 +123,6 @@
 
 ## CoffeeScript 
 
-- [HackMyResume](https://github.com/hacksalot/HackMyResume) - Generate polished résumés and CVs in HTML, Markdown, LaTeX, MS Word, PDF, plain text, JSON, XML, YAML, smoke signal, and carrier pigeon.
 - [hubot-bitbucket](https://github.com/andrewtarry/hubot-bitbucket) - Hubot library to listent for Bitbucket hooks
 - [generator-ansible-rh](https://github.com/dischord01/generator-ansible-rh) - 
 - [language-hcl](https://github.com/fd/language-hcl) - A grammar for the HashiCorp Configuration Language.
@@ -312,7 +311,7 @@
 - [bashcomp](https://github.com/omakoto/bashcomp) - 
 - [sh](https://github.com/mvdan/sh) - A shell parser, formatter and interpreter (POSIX/Bash/mksh)
 - [go-flags](https://github.com/jessevdk/go-flags) - go command line option parser
-- [sup](https://github.com/pressly/sup) - Super simple deployment tool - just Unix - think of it like 'make' for a network of servers
+- [sup](https://github.com/pressly/sup) - Super simple deployment tool - think of it like 'make' for a network of servers
 - [imageproxy](https://github.com/willnorris/imageproxy) - A caching, resizing image proxy written in Go
 - [s3preview](https://github.com/andrioid/s3preview) - Preview serving microservice for s3. Generates and uploads any missing thumbnails. Redirects to existing.
 - [s3zipper](https://github.com/Teamwork/s3zipper) - Simple Steaming S3 File Zipper Microservice - works with any backend via redis and redirection.
@@ -583,6 +582,7 @@
 - [destiny2](https://github.com/Jake-Ruston/destiny2) - An API wrapper for Destiny 2.
 - [DIM](https://github.com/DestinyItemManager/DIM) - Destiny Item Manager
 - [etcher](https://github.com/resin-io/etcher) - Flash OS images to SD cards & USB drives, safely and easily.
+- [HackMyResume](https://github.com/hacksalot/HackMyResume) - Generate polished résumés and CVs in HTML, Markdown, LaTeX, MS Word, PDF, plain text, JSON, XML, YAML, smoke signal, and carrier pigeon.
 - [staticgen](https://github.com/netlify/staticgen) - StaticGen.com, A leaderboard of top open-source static site generators
 - [terraform_firehose](https://github.com/roshpr/terraform_firehose) - AWS Firehose implementation for VPCFlow, ELK & Lambda integration to analyse VPC network data flow & monitoring dashboard
 - [gitbook](https://github.com/GitbookIO/gitbook) - 📝 Modern documentation format and toolchain using Git and Markdown
@@ -1179,7 +1179,7 @@
 - [hashiconf-eu-2016](https://github.com/kelseyhightower/hashiconf-eu-2016) - HashiConf EU 2016
 - [Dockerfiles](https://github.com/HariSekhon/Dockerfiles) - DockerHub public images - Hadoop, Kafka, ZooKeeper, HBase, Cassandra, Solr / SolrCloud, Presto, Apache Drill, Nifi, Spark, Superset, H2O, Mesos, Serf, Consul, Riak, Alluxio, Jython, Advanced Nagios Plugins Collection / PyTools / Tools repos on CentOS / Ubuntu / Debian / Alpine
 - [terraform-multi-env](https://github.com/bkc1/terraform-multi-env) - Terraform wrapper script for handling multi-environment, multi-region deployments
-- [terraform-aws-wrapper](https://github.com/antonbabenko/terraform-aws-wrapper) - Terraform AWS wrapper script (not ready for production, yet!)
+- [terraform-aws-wrapper](https://github.com/antonbabenko/terraform-aws-wrapper) - [DPRECATED] Terraform AWS wrapper script
 - [phinx.deb](https://github.com/Vitexus/phinx.deb) - Debian package for SQL Migrating tool Phinx
 - [baseimage-amzn](https://github.com/lambda-linux/baseimage-amzn) - A minimal Docker Base Image based on Amazon Linux
 - [ota-tools](https://github.com/RichardBronosky/ota-tools) - A burgeoning collection of tools for Over-The-Air distribution of mobile applications.

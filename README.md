@@ -1079,7 +1079,6 @@
 - [gist](https://github.com/defunkt/gist) - Potentially the best command line gister.
 - [racker](https://github.com/aspring/racker) - Racker is an opinionated Ruby DSL for generating Packer(www.packer.io) templates.
 - [einarc](https://github.com/inq-team/einarc) - Einarc (Einarc is not a RAID CLI) is a universal storage RAID command line interface and an API that provides management for various hardware/software RAID devices, uniting them all in a single paradigm
-- [ansible-opsworks](https://github.com/MyPureCloud/ansible-opsworks) - Use Ansible instead of chef in AWS Opsworks
 - [terraforming](https://github.com/dtan4/terraforming) - Export existing AWS resources to Terraform style (tf, tfstate)
 - [fpm](https://github.com/jordansissel/fpm) - Effing package management! Build packages for multiple platforms (deb, rpm, etc) with great ease and sanity.
 - [terraform-sample](https://github.com/mikeclarke/terraform-sample) - Example of using terraform with chef to provision a VPC and deploy custom AMIs from scratch

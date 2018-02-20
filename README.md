@@ -481,7 +481,6 @@
 - [nginx-https-base](https://github.com/naggie/nginx-https-base) - An Ubuntu 16.04 Ansible role for nginx with automatic HTTPS via certbot/LE, better error pages, useful templates
 - [iproute2-cheatsheet](https://github.com/dmbaturin/iproute2-cheatsheet) - iproute2 command reference
 - [portainer](https://github.com/portainer/portainer) - Simple management UI for Docker
-- [staticrypt](https://github.com/robinmoisson/staticrypt) - Password protect a static HTML page
 - [node-red-dashboard](https://github.com/node-red/node-red-dashboard) - A dashboard UI for Node-RED
 - [pup](https://github.com/ericchiang/pup) - Parsing HTML at the command line
 - [vega](https://github.com/vega/vega) - A visualization grammar.
@@ -586,7 +585,7 @@
 - [staticgen](https://github.com/netlify/staticgen) - StaticGen.com, A leaderboard of top open-source static site generators
 - [terraform_firehose](https://github.com/roshpr/terraform_firehose) - AWS Firehose implementation for VPCFlow, ELK & Lambda integration to analyse VPC network data flow & monitoring dashboard
 - [gitbook](https://github.com/GitbookIO/gitbook) - 📝 Modern documentation format and toolchain using Git and Markdown
-- [aws-vpc-flow-log-appender](https://github.com/awslabs/aws-vpc-flow-log-appender) - Sample code to append additional information (e.g. Security Group IDs and geolocation data) to VPC Flow Logs for analysis in Elasticsearch.
+- [aws-vpc-flow-log-appender](https://github.com/aws-samples/aws-vpc-flow-log-appender) - Sample code to append additional information (e.g. Security Group IDs and geolocation data) to VPC Flow Logs for analysis in Elasticsearch.
 - [aws-lambda-redshift-loader](https://github.com/awslabs/aws-lambda-redshift-loader) - Amazon Redshift Database Loader implemented in AWS Lambda
 - [nodemon](https://github.com/remy/nodemon) - Monitor for any changes in your node.js application and automatically restart the server - perfect for development
 - [lambdalogs](https://github.com/seeebiii/lambdalogs) - A CLI tool to trace AWS Lambda calls over multiple CloudWatch log groups.
@@ -594,6 +593,7 @@
 - [jsonschema](https://github.com/tdegrunt/jsonschema) - JSON Schema validation
 - [distributed](https://github.com/funretro/distributed) - :thumbsup: Easy to use and beautiful restrospective tool
 - [aws-iam-manager](https://github.com/netguru/aws-iam-manager) - 💳 AWS IAM Manager as a Code using Serverless framework
+- [staticrypt](https://github.com/robinmoisson/staticrypt) - Password protect a static HTML page
 - [git2consul](https://github.com/breser/git2consul) - Mirrors the contents of a git repository into Consul KVs.
 - [drone-starter](https://github.com/maqpie/drone-starter) - Make a first build with Drone CI in under 10 minutes
 - [LambStatus](https://github.com/ks888/LambStatus) - Serverless Status Page System
@@ -626,14 +626,14 @@
 - [viz.js](https://github.com/mdaines/viz.js) - A hack to put Graphviz on the web.
 - [vis](https://github.com/almende/vis) - vis.js is a dynamic, browser-based visualization library
 - [remark](https://github.com/gnab/remark) - A simple, in-browser, markdown-driven slideshow tool.
-- [vscode-terraform-snippets](https://github.com/rixrix/vscode-terraform-snippets) - Advanced Terraform Snippets for Visual Studio Code. It has at least 17k downloads from the marketplace.
+- [vscode-terraform-snippets](https://github.com/rixrix/vscode-terraform-snippets) - Advanced Terraform Snippets for Visual Studio Code. It has at least 23k downloads from the marketplace.
 - [mermaid](https://github.com/knsv/mermaid) - Generation of diagram and flowchart from text in a similar manner as markdown
 - [osm-qa-filter](https://github.com/lukasmartinelli/osm-qa-filter) - Extract GeoJSON features from OSM QA tiles
 - [hotel](https://github.com/typicode/hotel) - :love_hotel: A simple process manager for developers. Start apps from your browser and access them using local domains
 - [togetherjs](https://github.com/mozilla/togetherjs) - A service for your website that makes it surprisingly easy to collaborate in real-time.
 - [ContentTools](https://github.com/GetmeUK/ContentTools) - A JS library for building WYSIWYG editors for HTML content.
 - [wekan](https://github.com/wekan/wekan) - The open-source Trello-like kanban (built with Meteor)
-- [tf-rules](https://github.com/clearly/tf-rules) - 
+- [tf-rules](https://github.com/candidpartners/tf-rules) - 
 - [is-my-json-valid](https://github.com/mafintosh/is-my-json-valid) - A JSONSchema validator that uses code generation to be extremely fast
 - [doT](https://github.com/olado/doT) - The fastest + concise javascript template engine for nodejs and browsers. Partials, custom delimiters and more.
 - [JSV](https://github.com/garycourt/JSV) - A JavaScript implementation of an extendable, fully compliant JSON Schema validator.
@@ -1140,7 +1140,7 @@
 - [nodejs-bower-grunt](https://github.com/dockerfile/nodejs-bower-grunt) - Node.js w/ Bower & Grunt Dockerfile for trusted automated Docker builds.
 - [ansible-completion](https://github.com/dysosmus/ansible-completion) - Basic bash completion for Ansible
 - [takeover.sh](https://github.com/marcan/takeover.sh) - Wipe and reinstall a running Linux system via SSH, without rebooting. You know you want to.
-- [streisand](https://github.com/StreisandEffect/streisand) - Streisand sets up a new server running L2TP/IPsec, OpenConnect, OpenSSH, OpenVPN, Shadowsocks, sslh, Stunnel, a Tor bridge, and WireGuard. It also generates custom instructions for all of these services. At the end of the run you are given an HTML file with instructions that can be shared with friends, family members, and fellow activists.
+- [streisand](https://github.com/StreisandEffect/streisand) - Streisand sets up a new server running your choice of L2TP/IPsec, OpenConnect, OpenSSH, OpenVPN, Shadowsocks, sslh, Stunnel, a Tor bridge, and WireGuard. It also generates custom instructions for all of these services. At the end of the run you are given an HTML file with instructions that can be shared with friends, family members, and fellow activists.
 - [setup-ipsec-vpn](https://github.com/hwdsl2/setup-ipsec-vpn) - Scripts to build your own IPsec VPN server, with IPsec/L2TP and Cisco IPsec on Ubuntu, Debian and CentOS
 - [kostyrevaa.consul-template](https://github.com/kostyrev/kostyrevaa.consul-template) - 
 - [posixcube](https://github.com/myplaceonline/posixcube) - posixcube.sh is a POSIX compliant, shell script-based server automation framework.

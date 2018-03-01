@@ -57,6 +57,7 @@
 - [kafkacat](https://github.com/edenhill/kafkacat) - Generic command line non-JVM Apache Kafka producer and consumer
 - [pgreplay](https://github.com/laurenz/pgreplay) - pgreplay reads a PostgreSQL log file (*not* a WAL file), extracts the SQL statements and executes them in the same order and relative time against a PostgreSQL database cluster.
 - [snzip](https://github.com/kubo/snzip) - Snzip, a compression/decompression tool based on snappy
+- [GitUp](https://github.com/git-up/GitUp) - The Git interface you've been missing all your life has finally arrived.
 - [tcpcopy](https://github.com/session-replay-tools/tcpcopy) - An online request replication tool, also a tcp stream replay tool, fit for real testing, performance testing, stability testing, stress testing, load testing, smoke testing, etc
 - [ultragrep](https://github.com/zendesk/ultragrep) - the grep that greps the hardest.
 - [yajl](https://github.com/lloyd/yajl) - A fast streaming JSON parsing library in C.
@@ -647,7 +648,7 @@
 - [github](https://github.com/nestor-powers/github) - Control Github with Nestor
 - [sax-js](https://github.com/isaacs/sax-js) - A sax style parser for JS
 - [node-xml2json](https://github.com/buglabs/node-xml2json) - Converts XML to JSON using node-expat
-- [tf-parse](https://github.com/clearly/tf-parse) - 
+- [tf-parse](https://github.com/candidpartners/tf-parse) - 
 - [jq.node](https://github.com/FGRibreau/jq.node) - jq.node - like jq but WAY MORE powerful (300+ helpers 🔥 & 300K+ modules 😱)
 - [cabot](https://github.com/arachnys/cabot) - Self-hosted, easily-deployable monitoring and alerts service - like a lightweight PagerDuty
 - [json5](https://github.com/json5/json5) - JSON for humans. (Not an official successor to JSON.)
@@ -710,7 +711,7 @@
 
 ## Makefile 
 
-- [prest](https://github.com/prest/prest) - A fully RESTful API from any existing PostgreSQL database written in Go
+- [prest](https://github.com/prest/prest) - pREST is a way to serve a RESTful API from any databases written in Go
 - [terraform-spec](https://github.com/johnrengelman/terraform-spec) - Docker container of utilities for testing Terraform modules
 - [ansible-role-datastax-ddc](https://github.com/kostyrev/ansible-role-datastax-ddc) - 
 - [json-schema-spec](https://github.com/json-schema-org/json-schema-spec) - The JSON Schema I-D sources
@@ -729,7 +730,6 @@
 ## Objective-C 
 
 - [LuLu](https://github.com/objective-see/LuLu) - LuLu is the free open-source macOS firewall that aims to block unauthorized (outgoing) network traffic
-- [GitUp](https://github.com/git-up/GitUp) - The Git interface you've been missing all your life has finally arrived.
 
 ## Others 
 
@@ -968,7 +968,7 @@
 - [sshuttle](https://github.com/apenwarr/sshuttle) - Wrong project!  You should head over to http://github.com/sshuttle/sshuttle
 - [cassandralauncher](https://github.com/joaquincasares/cassandralauncher) - Allows for the DataStax AMI to run from the command line while removing common user errors. End-to-end time to a cluster of any size is ~5 minutes. 22,000+ PyPI downloads.
 - [chalice](https://github.com/aws/chalice) - Python Serverless Microframework for AWS
-- [Zappa](https://github.com/Miserlou/Zappa) - Serverless Python Web Services
+- [Zappa](https://github.com/Miserlou/Zappa) - Serverless Python
 - [thumbnail-service](https://github.com/Schweigi/thumbnail-service) - Thumbnail API service
 - [python-lambder](https://github.com/LeafSoftware/python-lambder) - Create and manage scheduled AWS Lambdas from the CLI
 - [aws-lambda-python-local](https://github.com/bfansports/aws-lambda-python-local) - Run and Test locally, Dist and Deploy online your AWS Lambda Python functions with a simple Makefile. Deploy, Stage and Test you API Gateway calls too!

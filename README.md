@@ -582,7 +582,6 @@
 - [graphql-compose-aws](https://github.com/graphql-compose/graphql-compose-aws) - AWS Cloud API via GraphQL
 - [kuzzle](https://github.com/kuzzleio/kuzzle) - Open-source Back-end, self-hostable & ready to use - Real-time, storage, advanced search - Web, Apps, Mobile, IoT -
 - [destiny2](https://github.com/Jake-Ruston/destiny2) - An API wrapper for Destiny 2.
-- [DIM](https://github.com/DestinyItemManager/DIM) - Destiny Item Manager
 - [etcher](https://github.com/resin-io/etcher) - Flash OS images to SD cards & USB drives, safely and easily.
 - [HackMyResume](https://github.com/hacksalot/HackMyResume) - Generate polished résumés and CVs in HTML, Markdown, LaTeX, MS Word, PDF, plain text, JSON, XML, YAML, smoke signal, and carrier pigeon.
 - [staticgen](https://github.com/netlify/staticgen) - StaticGen.com, A leaderboard of top open-source static site generators
@@ -1129,7 +1128,7 @@
 - [nginxse-virtualhost-generator](https://github.com/hishriTaha/nginxse-virtualhost-generator) - A CLI-based tool that helps you generate NGINX server block configuration files in a few seconds.
 - [aui](https://github.com/helmuthdu/aui) - Archlinux Ultimate Install
 - [elastic-ci-stack-for-aws](https://github.com/buildkite/elastic-ci-stack-for-aws) - A simple, flexible, auto-scaling cluster of build agents running in your own AWS VPC
-- [deploy-drone](https://github.com/paralect/deploy-drone) - Ansible automation for production-ready Drone deployment
+- [deploy-drone](https://github.com/paralect/deploy-drone) - Deploy Drone CI to enable continuous integration ⚡️ on your product
 - [cassandra-cluster](https://github.com/dmitry-zhuravlev/cassandra-cluster) - Cassandra cluster with Docker Compose.
 - [initcassandra](https://github.com/ansrivas/initcassandra) - A super hacky way to initialize keyspaces and tables in cassandra using docker-compose.
 - [oh-my-zsh](https://github.com/robbyrussell/oh-my-zsh) - A delightful community-driven (with 1,000+ contributors) framework for managing your zsh configuration. Includes 200+ optional plugins (rails, git, OSX, hub, capistrano, brew, ant, php, python, etc), over 140 themes to spice up your morning, and an auto-update tool so that makes it easy to keep up with the latest updates from the community.
@@ -1236,6 +1235,7 @@
 
 ## TypeScript 
 
+- [DIM](https://github.com/DestinyItemManager/DIM) - Destiny Item Manager
 - [vscode-terraform](https://github.com/mauve/vscode-terraform) - A Visual Studio Code plugin which contributes syntax highlighting, linting, formatting, and validation for Hashicorp's Terraform
 - [subscriptions-transport-ws](https://github.com/apollographql/subscriptions-transport-ws) - :arrows_clockwise: A WebSocket client + server for GraphQL subscriptions
 - [learnapollo](https://github.com/learnapollo/learnapollo) - 👩🏻‍🏫   Learn Apollo - A hands-on tutorial for Apollo GraphQL Client (created by Graphcool)

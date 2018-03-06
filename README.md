@@ -51,7 +51,7 @@
 - [obs-studio](https://github.com/jp9000/obs-studio) - OBS - Free and open source software for live streaming and screen recording
 - [the_silver_searcher](https://github.com/ggreer/the_silver_searcher) - A code-searching tool similar to ack, but faster.
 - [mydumper](https://github.com/maxbube/mydumper) - Official mydumper project
-- [Entware-ng](https://github.com/Entware-ng/Entware-ng) - Ultimate repo for embedded devices
+- [Entware-ng](https://github.com/Entware/Entware-ng) - Entware-ng
 - [nginx-module-sts](https://github.com/vozlt/nginx-module-sts) - Nginx stream server traffic status module
 - [netdata](https://github.com/firehol/netdata) - Get control of your servers. Simple. Effective. Awesome! https://my-netdata.io/
 - [kafkacat](https://github.com/edenhill/kafkacat) - Generic command line non-JVM Apache Kafka producer and consumer
@@ -279,7 +279,7 @@
 - [terrahelp](https://github.com/opencredo/terrahelp) - Terraform helper. Terrahelp is as a command line utility written in Go and is aimed at providing supplementary functionality which can sometimes prove useful when working with Terraform.
 - [nomad](https://github.com/hashicorp/nomad) - Nomad is a flexible, enterprise-grade cluster scheduler designed to easily integrate into existing workflows. Nomad can run a diverse workload of micro-service, batch, containerized and non-containerized applications. Nomad is easy to operate and scale and integrates seamlessly with Consul and Vault.
 - [consul](https://github.com/hashicorp/consul) - Consul is a distributed, highly available, and data center aware solution to connect and configure applications across dynamic, distributed infrastructure.
-- [micro](https://github.com/micro/micro) - A microservice toolkit
+- [micro](https://github.com/micro/micro) - A cloud-native toolkit
 - [acme](https://github.com/google/acme) - A simple ACME command line tool without 3rd party deps!
 - [hashiapp](https://github.com/kelseyhightower/hashiapp) - Demo 12 Factor application that utilizes Hashicorp tools.
 - [terminus](https://github.com/kelseyhightower/terminus) - Get facts about a Linux system.
@@ -461,7 +461,7 @@
 - [kong-tf](https://github.com/arsdehnel/kong-tf) - Kong Terraform Definition
 - [aws-terraform](https://github.com/xuwang/aws-terraform) - Code examples to create CoreOS cluster on AWS  with Terraform
 - [tf_consul](https://github.com/stackfeed/tf_consul) - Terraform module for consul
-- [govuk-terraform-provisioning](https://github.com/alphagov/govuk-terraform-provisioning) - Terraform configuration and utilities to provision parts of the GOV.UK AWS Infrastructure
+- [govuk-terraform-provisioning](https://github.com/alphagov/govuk-terraform-provisioning) - **DEPRECATED** Terraform configuration and utilities to provision parts of the GOV.UK AWS Infrastructure
 - [webpagetest-aws-terraform](https://github.com/redbadger/webpagetest-aws-terraform) - Complete AWS infrastructure setup of the WebPagetest AMIs using Terraform
 - [apn-blog](https://github.com/awslabs/apn-blog) - APN Blog article code and configurations.
 - [terraform-aws-vpc](https://github.com/unifio/terraform-aws-vpc) - Terraform AWS VPC Stack
@@ -1252,6 +1252,7 @@
 - [syntastic](https://github.com/vim-syntastic/syntastic) - Syntax checking hacks for vim
 - [auto-pairs](https://github.com/jiangmiao/auto-pairs) - Vim plugin, insert or delete brackets, parens, quotes in pair
 - [nerdtree-git-plugin](https://github.com/Xuyuanp/nerdtree-git-plugin) - A plugin of NERDTree showing git status
+- [vim-monokai](https://github.com/sickill/vim-monokai) - Monokai color scheme for Vim converted from Textmate theme
 - [vim-terraform](https://github.com/hashivim/vim-terraform) - basic vim/terraform integration
 - [vim-hashicorp-tools](https://github.com/hashivim/vim-hashicorp-tools) - "self-contained and fairly explanatory" agglomeration of HashiVim plugins
 - [Dockerfile.vim](https://github.com/ekalinin/Dockerfile.vim) - Vim syntax file & snippets for Docker's Dockerfile
@@ -1264,7 +1265,6 @@
 - [molokai](https://github.com/tomasr/molokai) - Molokai color scheme for Vim
 - [vim-openresty](https://github.com/hexchain/vim-openresty) - Openresty configuration highlight for Vim
 - [vim-colors-solarized](https://github.com/altercation/vim-colors-solarized) - precision colorscheme for the vim text editor
-- [vim-monokai](https://github.com/sickill/vim-monokai) - Monokai color scheme for Vim converted from Textmate theme
 - [vim-hclfmt](https://github.com/fatih/vim-hclfmt) - Vim plugin for hclfmt
 - [spf13-vim](https://github.com/spf13/spf13-vim) - The ultimate vim distribution
 

@@ -651,7 +651,7 @@
 - [tf-parse](https://github.com/candidpartners/tf-parse) - 
 - [jq.node](https://github.com/FGRibreau/jq.node) - jq.node - like jq but WAY MORE powerful (300+ helpers 🔥 & 300K+ modules 😱)
 - [cabot](https://github.com/arachnys/cabot) - Self-hosted, easily-deployable monitoring and alerts service - like a lightweight PagerDuty
-- [json5](https://github.com/json5/json5) - JSON for humans. (Not an official successor to JSON.)
+- [json5](https://github.com/json5/json5) - JSON for humans
 - [CodeMirror](https://github.com/codemirror/CodeMirror) - In-browser code editor
 - [JSON-Splora](https://github.com/wellsjo/JSON-Splora) - GUI for editing, visualizing, and manipulating JSON
 - [docker-lambda](https://github.com/lambci/docker-lambda) - Docker images and test runners that replicate the live AWS Lambda environment

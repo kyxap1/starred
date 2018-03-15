@@ -12,6 +12,7 @@
   - [Clojure](#clojure)
   - [CoffeeScript](#coffeescript)
   - [Common Lisp](#common lisp)
+  - [DTrace](#dtrace)
   - [Elixir](#elixir)
   - [Gherkin](#gherkin)
   - [Go](#go)
@@ -48,7 +49,7 @@
 
 ## C 
 
-- [obs-studio](https://github.com/jp9000/obs-studio) - OBS - Free and open source software for live streaming and screen recording
+- [obs-studio](https://github.com/obsproject/obs-studio) - OBS - Free and open source software for live streaming and screen recording
 - [the_silver_searcher](https://github.com/ggreer/the_silver_searcher) - A code-searching tool similar to ack, but faster.
 - [mydumper](https://github.com/maxbube/mydumper) - Official mydumper project
 - [Entware-ng](https://github.com/Entware/Entware-ng) - Entware-ng
@@ -133,6 +134,10 @@
 ## Common Lisp 
 
 - [pgloader](https://github.com/dimitri/pgloader) - Migrate to PostgreSQL in a single command!
+
+## DTrace 
+
+- [toolkit](https://github.com/opendtrace/toolkit) - The DTrace Toolkit: A set of scripts for use with DTrace on various systems.
 
 ## Elixir 
 
@@ -387,7 +392,7 @@
 - [hashidays-london](https://github.com/paddycarver/hashidays-london) - Code used for the demo of Going Multi-Cloud with Terraform and Nomad
 - [terraform-module-aws-zookeeper](https://github.com/fscm/terraform-module-aws-zookeeper) - Terraform Module to create a Apache Zookeeper cluster on AWS
 - [terraform-init](https://github.com/aguamala/terraform-init) - 
-- [tf_aws_redshift](https://github.com/terraform-community-modules/tf_aws_redshift) - Terraform module which creates AWS Redshift resources
+- [tf_aws_redshift](https://github.com/terraform-community-modules/tf_aws_redshift) - [DEPRECATED] Use https://github.com/terraform-aws-modules/terraform-aws-redshift
 - [terraform-ecs](https://github.com/arminc/terraform-ecs) - AWS ECS terraform module
 - [terraform-modules](https://github.com/uniiverse/terraform-modules) - 
 - [hashidays-nyc](https://github.com/jen20/hashidays-nyc) - Code accompanying my talk at HashiDays New York, 2017
@@ -578,6 +583,7 @@
 
 ## JavaScript 
 
+- [blast-radius](https://github.com/28mm/blast-radius) - Interactive visualizations of Terraform dependency graphs using d3.js
 - [release-it](https://github.com/webpro/release-it) - CLI release tool for Git repos and npm packages.
 - [aws-amplify](https://github.com/aws/aws-amplify) - A declarative library for application development using cloud services with JavaScript
 - [graphql-compose-aws](https://github.com/graphql-compose/graphql-compose-aws) - AWS Cloud API via GraphQL
@@ -733,6 +739,7 @@
 
 ## Others 
 
+- [DTrace-book-scripts](https://github.com/brendangregg/DTrace-book-scripts) - Scripts from "DTrace: Dynamic Tracing in Oracle Solaris, Mac OS X, and FreeBSD", by Brendan Gregg and Jim Mauro, Prentice Hall, 2011.
 - [nocode](https://github.com/kelseyhightower/nocode) - The best way to write secure and reliable applications. Write nothing; deploy nowhere.
 - [the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line) - Master the command line, in one page
 - [awesome-static-analysis](https://github.com/mre/awesome-static-analysis) - A curated list of static analysis tools, linters and code quality checkers for various programming languages
@@ -835,6 +842,7 @@
 
 ## Perl 
 
+- [DTRACE](https://github.com/skrp/DTRACE) - ZFS on FreeBSD
 - [lua-resty-jwt](https://github.com/SkyLothar/lua-resty-jwt) - JWT For The Great Openresty
 - [aws](https://github.com/timkay/aws) - Easy command line access to Amazon EC2, S3, SQS, ELB, and SDB (new!)
 - [ec2-consistent-snapshot](https://github.com/alestic/ec2-consistent-snapshot) - Initiate consistent EBS snapshots in Amazon EC2

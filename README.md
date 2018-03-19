@@ -581,7 +581,7 @@
 - [jackrabbit-pm-tools](https://github.com/code-distillery/jackrabbit-pm-tools) - Persistence Manager Utils for Jackrabbit - A utility for managing Jackrabbit repository maintenance on the command-line, implemented on the PersistenceManager API level.
 - [otroslogviewer](https://github.com/otros-systems/otroslogviewer) - Log viewer focused on developers work
 - [xmlsh1_3](https://github.com/xmlsh/xmlsh1_3) - A command line shell for XML - Stable release of the 1.3 branch
-- [maven-indexer](https://github.com/apache/maven-indexer) - Mirror of Apache Maven Indexer
+- [maven-indexer](https://github.com/apache/maven-indexer) - Apache Maven Indexer
 
 ## JavaScript 
 

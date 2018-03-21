@@ -227,7 +227,7 @@
 - [gestalt](https://github.com/asteris-llc/gestalt) - 
 - [lego](https://github.com/xenolf/lego) - Let's Encrypt client and ACME library written in Go
 - [hammer](https://github.com/asteris-llc/hammer) - Build packages from a simple spec
-- [scipipe](https://github.com/scipipe/scipipe) - SciPipe is a library for writing scientific workflows (sometimes also called "pipelines") of shell commands that depend on each other, in the Go programming languages (aka golang). It was initially designed for problems in cheminformatics and bioinformatics, but applies equally well to any domain involving complex pipelines of interdependent shell commands.
+- [scipipe](https://github.com/scipipe/scipipe) - SciPipe is a library for writing scientific workflows (sometimes also called "pipelines") of shell commands that depend on each other, in the Go programming language (aka golang). It was initially designed for problems in cheminformatics and bioinformatics, but applies equally well to any domain involving complex pipelines of interdependent shell commands.
 - [converge](https://github.com/asteris-llc/converge) - A powerful and easy-to-use configuration management system.
 - [tablewriter](https://github.com/olekukonko/tablewriter) - ASCII table in golang
 - [colonize](https://github.com/craigmonson/colonize) - A terraform tool to manage environment driven templating.

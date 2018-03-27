@@ -960,7 +960,7 @@
 - [aws_pwn](https://github.com/dagrz/aws_pwn) - A collection of AWS penetration testing junk
 - [elastalert](https://github.com/Yelp/elastalert) - Easy & Flexible Alerting With ElasticSearch
 - [mrjob](https://github.com/Yelp/mrjob) - Run MapReduce jobs on Hadoop or Amazon Web Services
-- [emr-bootstrap-actions](https://github.com/awslabs/emr-bootstrap-actions) - This repository hold the Amazon Elastic MapReduce sample bootstrap actions
+- [emr-bootstrap-actions](https://github.com/aws-samples/emr-bootstrap-actions) - This repository hold the Amazon Elastic MapReduce sample bootstrap actions
 - [ghe-backup](https://github.com/zalando/ghe-backup) - Github Enterprise backup at ZalandoTech (Kubernetes, AWS, Docker)
 - [Zinc](https://github.com/mindsnacks/Zinc) - Asset distribution system for mobile clients.
 - [sqlmap](https://github.com/sqlmapproject/sqlmap) - Automatic SQL injection and database takeover tool

@@ -587,7 +587,7 @@
 
 - [blast-radius](https://github.com/28mm/blast-radius) - Interactive visualizations of Terraform dependency graphs using d3.js
 - [release-it](https://github.com/webpro/release-it) - CLI release tool for Git repos and npm packages.
-- [aws-amplify](https://github.com/aws/aws-amplify) - A declarative library for application development using cloud services with JavaScript
+- [aws-amplify](https://github.com/aws/aws-amplify) - A declarative JavaScript library for application development using cloud services.
 - [graphql-compose-aws](https://github.com/graphql-compose/graphql-compose-aws) - AWS Cloud API via GraphQL
 - [kuzzle](https://github.com/kuzzleio/kuzzle) - Open-source Back-end, self-hostable & ready to use - Real-time, storage, advanced search - Web, Apps, Mobile, IoT -
 - [destiny2](https://github.com/Jake-Ruston/destiny2) - An API wrapper for Destiny 2.
@@ -1127,7 +1127,7 @@
 - [scripts](https://github.com/pixelb/scripts) - scripts from pixelbeat.org
 - [dotfiles](https://github.com/mathiasbynens/dotfiles) - :wrench: .files, including ~/.macos — sensible hacker defaults for macOS
 - [build.vagrant](https://github.com/Dalee/build.vagrant) - General purpose Web-development Vagrant box.
-- [ansible-mysql](https://github.com/HanXHX/ansible-mysql) - Ansible role for Debian : MySQL, MariaDB (Galera Cluster) or Percona Server
+- [ansible-mysql](https://github.com/HanXHX/ansible-mysql) - Ansible role for Debian : MariaDB (Galera Cluster as option)
 - [showcase-ansible-chatops](https://github.com/StackStorm/showcase-ansible-chatops) - Vagrant Demo showing ChatOps with Ansible
 - [debops](https://github.com/debops/debops) - DebOps - Your Debian-based data center in a box
 - [ansible-role-mysql](https://github.com/geerlingguy/ansible-role-mysql) - Ansible Role - MySQL

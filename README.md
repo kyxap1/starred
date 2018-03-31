@@ -920,7 +920,7 @@
 - [ansigenome](https://github.com/nickjj/ansigenome) - A tool to help you gather information and manage your Ansible roles.
 - [aws-ansible-cassandra](https://github.com/oliverlockwood/aws-ansible-cassandra) - Simple Ansible script to set up a minimal Cassandra cluster
 - [debops-tools](https://github.com/debops/debops-tools) - Your Debian-based data center in a box
-- [learning-tools](https://github.com/lowescott/learning-tools) - A collection of tools and files for learning new technologies
+- [learning-tools](https://github.com/scottslowe/learning-tools) - A collection of tools and files for learning new technologies
 - [luigi](https://github.com/spotify/luigi) - Luigi is a Python module that helps you build complex pipelines of batch jobs. It handles dependency resolution, workflow management, visualization etc. It also comes with Hadoop support built in.
 - [incubator-airflow](https://github.com/apache/incubator-airflow) - Apache Airflow (Incubating)
 - [celery](https://github.com/celery/celery) - Distributed Task Queue (development branch)

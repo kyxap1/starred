@@ -496,7 +496,7 @@
 - [vega](https://github.com/vega/vega) - A visualization grammar.
 - [ndbench](https://github.com/Netflix/ndbench) - Netflix Data Store Benchmark
 - [buildpacks-ci](https://github.com/cloudfoundry/buildpacks-ci) - Concourse CI pipelines for the buildpacks team
-- [generator-jhipster](https://github.com/jhipster/generator-jhipster) - Open Source application generator for creating Spring Boot + Angular projects in seconds!
+- [generator-jhipster](https://github.com/jhipster/generator-jhipster) - Open Source application generator for creating Spring Boot + Angular/React projects in seconds!
 - [swagger-codegen](https://github.com/swagger-api/swagger-codegen) - swagger-codegen contains a template-driven engine to generate documentation, API clients and server stubs in different languages by parsing your OpenAPI / Swagger definition.
 - [archi-example](https://github.com/Macroz/archi-example) - Example project for archi also useful as a quickstart template.
 - [haskell-language-hcl](https://github.com/beijaflor-io/haskell-language-hcl) - language-hcl contains HCL (Hashicorp Configuration Language) parsers and pretty-printers for the Haskell programming language
@@ -662,7 +662,7 @@
 - [incubator-superset](https://github.com/apache/incubator-superset) - Apache Superset (incubating) is a modern, enterprise-ready business intelligence web application
 - [json5](https://github.com/json5/json5) - JSON for humans
 - [CodeMirror](https://github.com/codemirror/CodeMirror) - In-browser code editor
-- [JSON-Splora](https://github.com/wellsjo/JSON-Splora) - GUI for editing, visualizing, and manipulating JSON
+- [JSON-Splora](https://github.com/wellsjo/JSON-Splora) - GUI for editing, visualizing, and manipulating JSON data
 - [docker-lambda](https://github.com/lambci/docker-lambda) - Docker images and test runners that replicate the live AWS Lambda environment
 - [jira-resource](https://github.com/danrspencer/jira-resource) - Jira Resource for Concourse
 - [eslint-config-datapipeline](https://github.com/DataPipelineInc/eslint-config-datapipeline) - Data pipeline ESLint configuration
@@ -848,7 +848,7 @@
 - [sanoid](https://github.com/jimsalterjrs/sanoid) - Policy-driven snapshot management and replication tools.  Currently using ZFS for underlying next-gen storage, with explicit plans to support btrfs when btrfs becomes more reliable.  Primarily intended for Linux, but BSD use is supported and reasonably frequently tested.
 - [DTRACE](https://github.com/skrp/DTRACE) - ZFS on FreeBSD
 - [lua-resty-jwt](https://github.com/SkyLothar/lua-resty-jwt) - JWT For The Great Openresty
-- [aws](https://github.com/timkay/aws) - Easy command line access to Amazon EC2, S3, SQS, ELB, and SDB (new!)
+- [aws](https://github.com/timkay/aws) - Easy command line access to Amazon EC2, S3, SQS, ELB, and SDB
 - [ec2-consistent-snapshot](https://github.com/alestic/ec2-consistent-snapshot) - Initiate consistent EBS snapshots in Amazon EC2
 
 ## PowerShell 

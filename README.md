@@ -409,7 +409,7 @@
 - [oreno-terraform](https://github.com/shogomuranushi/oreno-terraform) - 
 - [devops](https://github.com/nearform/devops) - Devops repo
 - [tf-ses-demo](https://github.com/knakayama/tf-ses-demo) - 
-- [terraform-config](https://github.com/travis-ci/terraform-config) - Terraform bits
+- [terraform-config](https://github.com/travis-ci/terraform-config) - Terraform bits and bytes
 - [tf-sfn-demo](https://github.com/knakayama/tf-sfn-demo) - 
 - [tf-inspector-demo](https://github.com/knakayama/tf-inspector-demo) - 
 - [tf_aws_bastion_s3_keys](https://github.com/sclausson/tf_aws_bastion_s3_keys) - A Terraform module for creating bastion host on AWS EC2 and populate its ~/.ssh/authorized_keys with public keys from bucket

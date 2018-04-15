@@ -1286,7 +1286,7 @@
 
 ## Vue 
 
-- [goldfish](https://github.com/Caiyeon/goldfish) - A HashiCorp Vault UI panel written with VueJS and Vault native Go API
+- [goldfish](https://github.com/Caiyeon/goldfish) - A HashiCorp Vault UI written with VueJS and Vault native Go API
 
 ## Web Ontology Language 
 

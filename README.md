@@ -1035,7 +1035,7 @@
 - [sfn](https://github.com/sparkleformation/sfn) - SparkleFormation CLI
 - [terraform-aws-base-networking](https://github.com/infrablocks/terraform-aws-base-networking) - Terraform module for building base networking in AWS
 - [packer-config](https://github.com/ianchesal/packer-config) - A Ruby way to generate packer.io configurations
-- [github-changelog-generator](https://github.com/skywinder/github-changelog-generator) - Automatically generate change log from your tags, issues, labels and pull requests on GitHub.
+- [github-changelog-generator](https://github.com/github-changelog-generator/github-changelog-generator) - Automatically generate change log from your tags, issues, labels and pull requests on GitHub.
 - [asciinema-server](https://github.com/asciinema/asciinema-server) - Web app for hosting asciicasts
 - [kitchen-terraform](https://github.com/newcontext-oss/kitchen-terraform) - Test Kitchen plugins for testing Terraform configurations
 - [serverspec](https://github.com/mizzy/serverspec) - RSpec tests for your servers configured by CFEngine, Puppet, Chef, Ansible, Itamae or anything else even by hand

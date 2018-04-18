@@ -880,7 +880,7 @@
 - [promgen](https://github.com/line/promgen) - Promgen is a configuration file generator for Prometheus
 - [pysc2](https://github.com/deepmind/pysc2) - StarCraft II Learning Environment
 - [ec2-spot-labs](https://github.com/awslabs/ec2-spot-labs) - Collection of tools and code examples to demonstrate best practices in using Amazon EC2 Spot Instances.
-- [ebs-snapshot-scheduler](https://github.com/awslabs/ebs-snapshot-scheduler) - A solution to automatically take a snapshot of all the EBS volumes of a tagged instance on a schedule in any region
+- [ebs-snapshot-scheduler](https://github.com/amazon-archives/ebs-snapshot-scheduler) - A solution to automatically take a snapshot of all the EBS volumes of a tagged instance on a schedule in any region
 - [aws-s3snapshot](https://github.com/awslabs/aws-s3snapshot) - S3 Snapshot script to run from command-line or scheduled in Lambda.
 - [ec2-scheduler](https://github.com/awslabs/ec2-scheduler) - The EC2 Scheduler uses a recurring Lambda function to automatically start and stop EC2 instances based on either default schedule or custom schedule defined per EC2 instance.
 - [bossimage](https://github.com/cloudboss/bossimage) - 

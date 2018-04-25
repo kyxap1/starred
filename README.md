@@ -151,6 +151,7 @@
 
 ## Go 
 
+- [freegeoip](https://github.com/apilayer/freegeoip) - IP geolocation web server
 - [teleconsole](https://github.com/gravitational/teleconsole) - Command line tool to share your UNIX terminal and forward local TCP ports to people you trust.
 - [streamroller](https://github.com/dustinblackman/streamroller) - Self hosted simulcasting to Twitch, Youtube, and Facebook made easy
 - [tfschema](https://github.com/minamijoyo/tfschema) - A schema inspector for Terraform providers
@@ -187,7 +188,7 @@
 - [kops](https://github.com/kubernetes/kops) - Kubernetes Operations (kops) - Production Grade K8s Installation, Upgrades, and Management
 - [gomplate](https://github.com/hairyhenderson/gomplate) - A flexible commandline tool for template rendering. Supports lots of local and remote datasources.
 - [swarmkit](https://github.com/docker/swarmkit) - A toolkit for orchestrating distributed systems at any scale. It includes primitives for node discovery, raft-based consensus, task scheduling and more.
-- [ksonnet-lib](https://github.com/ksonnet/ksonnet-lib) - (technical preview) Simplify working with Kubernetes
+- [ksonnet-lib](https://github.com/ksonnet/ksonnet-lib) - Simplify working with Kubernetes
 - [goat](https://github.com/sevagh/goat) - GO-ATtach: attach and RAID EBS volumes + ENIs
 - [drone-mvn](https://github.com/thomasf/drone-mvn) - Maven repository artifact publisher for Drone CI
 - [ec2-metadatafs](https://github.com/jszwedko/ec2-metadatafs) - EC2 metadata and tags as a filesystem

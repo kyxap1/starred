@@ -868,6 +868,7 @@
 
 ## Python 
 
+- [certbot-linode-dns](https://github.com/proog/certbot-linode-dns) - Certbot DNS-01 challenge hooks for Linode
 - [zfs_autobackup](https://github.com/psy0rz/zfs_autobackup) - ZFS autobackup is used to periodicly backup ZFS filesystems to other locations. No additional tools of libraries or config files needed.
 - [dotdrop](https://github.com/deadc0de6/dotdrop) - Save your dotfiles once, deploy them everywhere
 - [kimchi](https://github.com/kimchi-project/kimchi) - An HTML5 management interface for KVM guests

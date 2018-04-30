@@ -748,7 +748,7 @@
 
 ## Objective-C 
 
-- [LuLu](https://github.com/objective-see/LuLu) - LuLu is the free open-source macOS firewall that aims to block unauthorized (outgoing) network traffic
+- [LuLu](https://github.com/objective-see/LuLu) - LuLu is the free macOS firewall that aims to block unauthorized (outgoing) network traffic
 
 ## Others 
 

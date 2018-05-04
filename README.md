@@ -151,7 +151,6 @@
 
 ## Go 
 
-- [goon](https://github.com/alco/goon) - Middleman implementation for Porcelain
 - [freegeoip](https://github.com/apilayer/freegeoip) - IP geolocation web server
 - [teleconsole](https://github.com/gravitational/teleconsole) - Command line tool to share your UNIX terminal and forward local TCP ports to people you trust.
 - [streamroller](https://github.com/dustinblackman/streamroller) - Self hosted simulcasting to Twitch, Youtube, and Facebook made easy
@@ -858,7 +857,6 @@
 ## Perl 
 
 - [sanoid](https://github.com/jimsalterjrs/sanoid) - Policy-driven snapshot management and replication tools.  Currently using ZFS for underlying next-gen storage, with explicit plans to support btrfs when btrfs becomes more reliable.  Primarily intended for Linux, but BSD use is supported and reasonably frequently tested.
-- [DTRACE](https://github.com/skrp/DTRACE) - ZFS on FreeBSD
 - [lua-resty-jwt](https://github.com/SkyLothar/lua-resty-jwt) - JWT For The Great Openresty
 - [aws](https://github.com/timkay/aws) - Easy command line access to Amazon EC2, S3, SQS, ELB, and SDB
 - [ec2-consistent-snapshot](https://github.com/alestic/ec2-consistent-snapshot) - Initiate consistent EBS snapshots in Amazon EC2
@@ -870,7 +868,7 @@
 
 ## Python 
 
-- [certbot-linode-dns](https://github.com/proog/certbot-linode-dns) - Certbot DNS-01 challenge hooks for Linode
+- [magic-wormhole](https://github.com/warner/magic-wormhole) - get things from one computer to another, safely
 - [zfs_autobackup](https://github.com/psy0rz/zfs_autobackup) - ZFS autobackup is used to periodicly backup ZFS filesystems to other locations. No additional tools of libraries or config files needed.
 - [dotdrop](https://github.com/deadc0de6/dotdrop) - Save your dotfiles once, deploy them everywhere
 - [kimchi](https://github.com/kimchi-project/kimchi) - An HTML5 management interface for KVM guests

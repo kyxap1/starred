@@ -23,7 +23,6 @@
   - [JSONiq](#jsoniq)
   - [Java](#java)
   - [JavaScript](#javascript)
-  - [Jupyter Notebook](#jupyter notebook)
   - [Kotlin](#kotlin)
   - [Lua](#lua)
   - [M4](#m4)
@@ -151,6 +150,7 @@
 
 ## Go 
 
+- [terratest](https://github.com/gruntwork-io/terratest) - Terratest is a Go library that makes it easier to write automated tests for your infrastructure code.
 - [freegeoip](https://github.com/apilayer/freegeoip) - IP geolocation web server
 - [teleconsole](https://github.com/gravitational/teleconsole) - Command line tool to share your UNIX terminal and forward local TCP ports to people you trust.
 - [streamroller](https://github.com/dustinblackman/streamroller) - Self hosted simulcasting to Twitch, Youtube, and Facebook made easy
@@ -710,10 +710,6 @@
 - [bootstrap-table](https://github.com/wenzhixin/bootstrap-table) - An extended Bootstrap table with radio, checkbox, sort, pagination, and other added features. (supports twitter bootstrap v2, v3 and v4)
 - [mediacenterjs](https://github.com/jansmolders86/mediacenterjs) - A HTML/CSS/Javascript (NodeJS) based Media center
 
-## Jupyter Notebook 
-
-- [qb](https://github.com/Pinafore/qb) - QANTA Quiz Bowl AI
-
 ## Kotlin 
 
 - [cdm](https://github.com/rustyrazorblade/cdm) - Cassandra Dataset Manager
@@ -977,6 +973,7 @@
 - [sqlmap](https://github.com/sqlmapproject/sqlmap) - Automatic SQL injection and database takeover tool
 - [jira2xmind](https://github.com/cepr/jira2xmind) - XMind plugin to import Jira tickets
 - [starred](https://github.com/maguowei/starred) - creating your own Awesome List used GitHub stars!
+- [qb](https://github.com/Pinafore/qb) - QANTA Quiz Bowl AI
 - [remarshal](https://github.com/dbohdan/remarshal) - Convert between TOML, YAML and JSON
 - [consul-deployment-agent](https://github.com/trainline/consul-deployment-agent) - Cross-platform deployment agent for Environment Manager
 - [pyhcl](https://github.com/virtuald/pyhcl) - HCL is a configuration language. pyhcl is a python parser for it.

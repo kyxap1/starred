@@ -40,6 +40,7 @@
   - [Rust](#rust)
   - [Scala](#scala)
   - [Shell](#shell)
+  - [TeX](#tex)
   - [TypeScript](#typescript)
   - [Vim script](#vim script)
   - [VimL](#viml)
@@ -320,7 +321,7 @@
 - [ctop](https://github.com/chrusty/ctop) - CTOP ("top" for Cassandra) - See what's going on in real-time
 - [go-priam](https://github.com/alext29/go-priam) - Backup and restore Cassandra DB to AWS S3
 - [terraform-multipart-userdata](https://github.com/chrusty/terraform-multipart-userdata) - Cruft for Terraform
-- [autospotting](https://github.com/cristim/autospotting) - Automatically replace AWS EC2 instances in AutoScaling groups with identically configured but up to 90% cheaper spot instances
+- [autospotting](https://github.com/cristim/autospotting) - Automatically convert your existing AutoScaling groups to significantly cheaper spot instances with minimal(often zero) configuration changes
 - [oauth2_proxy](https://github.com/bitly/oauth2_proxy) - A reverse proxy that provides authentication with Google, Github or other provider
 - [bashcomp](https://github.com/omakoto/bashcomp) - 
 - [sh](https://github.com/mvdan/sh) - A shell parser, formatter and interpreter (POSIX/Bash/mksh)
@@ -1251,6 +1252,10 @@
 - [bashful](https://github.com/plytophogy/bashful) - A collection of modules to simplify writing bash scripts.
 - [ffmpeg-static](https://github.com/zimbatm/ffmpeg-static) - Scripts to build ffmpeg with all the deps statically (webm + h264 included)
 - [dockr](https://github.com/crccheck/dockr) - A Docker CLI wrapper for lazy people
+
+## TeX 
+
+- [Dao](https://github.com/Serkov/Dao) - Electric materials manual book
 
 ## TypeScript 
 

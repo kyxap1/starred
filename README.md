@@ -370,6 +370,7 @@
 - [s3git](https://github.com/s3git/s3git) - s3git: git for Cloud Storage. Distributed Version Control for Data. Create decentralized and versioned repos that scale infinitely to 100s of millions of files. Clone huge PB-scale repos on your local SSD to make changes, commit and push back. Oh yeah, it dedupes too and offers directory versioning.
 - [godef](https://github.com/rogpeppe/godef) - Print where symbols are defined in Go source code
 - [viper](https://github.com/spf13/viper) - Go configuration with fangs
+- [wide](https://github.com/b3log/wide) - :fireworks: 一个基于 Web 的 Go 语言 IDE。A Web-based IDE for teams using Go programming language/Golang. https://wide.b3log.org
 - [hugo](https://github.com/gohugoio/hugo) - The world’s fastest framework for building websites.
 - [goa](https://github.com/goadesign/goa) - Design-based APIs and microservices in Go
 - [cobra](https://github.com/spf13/cobra) - A Commander for modern Go CLI interactions
@@ -698,7 +699,6 @@
 - [csv](https://github.com/segmentio/csv) - Uber simple CSV formatting/parsing for node
 - [nginx-jwt](https://github.com/auth0/nginx-jwt) - Lua script for Nginx that performs reverse proxy auth using JWT's
 - [mr-data-converter](https://github.com/shancarter/mr-data-converter) - Takes CSV or tab-delimited data from Excel and converts it into several web-friendly formats, include JSON and XML.
-- [wide](https://github.com/b3log/wide) - :fireworks: 一个基于 Web 的 Go 语言 IDE。A Web-based IDE for teams using Go programming language/Golang. https://wide.b3log.org
 - [GetOptGenerator](https://github.com/dafuer/GetOptGenerator) - Easy way to start a C project
 - [hubot](https://github.com/hubotio/hubot) - A customizable life embetterment robot.
 - [foresight.js](https://github.com/adamdbradley/foresight.js) - DEPRECATED: Prior to recent developments with the picture element, Foresight.js gaves webpages the ability to tell if the user's device is capable of viewing high-resolution images before the image is requested from the server. Additionally, it judges if the user's device currently has a fast enough network connection for high-resolution images. Depending on device display and network connectivity, foresight.js will request the appropriate image for the webpage.

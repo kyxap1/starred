@@ -157,7 +157,6 @@
 - [streamroller](https://github.com/dustinblackman/streamroller) - Self hosted simulcasting to Twitch, Youtube, and Facebook made easy
 - [tfschema](https://github.com/minamijoyo/tfschema) - A schema inspector for Terraform providers
 - [gofaas](https://github.com/nzoschke/gofaas) - A boilerplate Go and AWS Lambda app. Demonstrates an expert configuration of 10+ AWS services to support running Go functions-as-a-service (FaaS).
-- [dex-k8s-authenticator](https://github.com/mintel/dex-k8s-authenticator) - A Kubernetes Dex Client Authenticator
 - [terraform-provider-hcloud](https://github.com/hetznercloud/terraform-provider-hcloud) - Terraform provider for Hetzner Cloud
 - [yq](https://github.com/mikefarah/yq) - yq is a portable command-line YAML processor
 - [envconfig](https://github.com/kelseyhightower/envconfig) - Golang library for managing configuration data from environment variables
@@ -390,7 +389,7 @@
 ## HCL 
 
 - [terraform-null-assert](https://github.com/kchugalinskiy/terraform-null-assert) - Terraform assertion module
-- [terraform-aws-foundation](https://github.com/fpco/terraform-aws-foundation) - 
+- [terraform-aws-foundation](https://github.com/fpco/terraform-aws-foundation) - Establish a solid Foundation on AWS with these modules for Terraform
 - [nomad-auto-join](https://github.com/hashicorp/nomad-auto-join) - Terraform config to automatically bootstrap a Nomad cluster
 - [docker-swarm-terraform](https://github.com/knpwrs/docker-swarm-terraform) - Set up a Docker Swarm Cluster on Digital Ocean using Terraform
 - [terraform_pritunl](https://github.com/opsgang/terraform_pritunl) - Pritunl VPN Server for your public/private like VPC on AWS
@@ -495,13 +494,13 @@
 
 ## HTML 
 
+- [dex-k8s-authenticator](https://github.com/mintel/dex-k8s-authenticator) - A Kubernetes Dex Client Authenticator
 - [overwatch-dpi-tool](https://github.com/Pyrolistical/overwatch-dpi-tool) - 
 - [nginx-https-base](https://github.com/naggie/nginx-https-base) - An Ubuntu 16.04 Ansible role for small-scale nginx with automatic HTTPS via certbot/LE, better error pages, useful templates
 - [iproute2-cheatsheet](https://github.com/dmbaturin/iproute2-cheatsheet) - iproute2 command reference
 - [portainer](https://github.com/portainer/portainer) - Simple management UI for Docker
 - [node-red-dashboard](https://github.com/node-red/node-red-dashboard) - A dashboard UI for Node-RED
 - [pup](https://github.com/ericchiang/pup) - Parsing HTML at the command line
-- [vega](https://github.com/vega/vega) - A visualization grammar.
 - [ndbench](https://github.com/Netflix/ndbench) - Netflix Data Store Benchmark
 - [buildpacks-ci](https://github.com/cloudfoundry/buildpacks-ci) - Concourse CI pipelines for the buildpacks team
 - [generator-jhipster](https://github.com/jhipster/generator-jhipster) - Open Source application generator for creating Spring Boot + Angular/React projects in seconds!
@@ -650,6 +649,7 @@
 - [osm-qa-filter](https://github.com/lukasmartinelli/osm-qa-filter) - Extract GeoJSON features from OSM QA tiles
 - [hotel](https://github.com/typicode/hotel) - :love_hotel: A simple process manager for developers. Start apps from your browser and access them using local domains
 - [togetherjs](https://github.com/mozilla/togetherjs) - A service for your website that makes it surprisingly easy to collaborate in real-time.
+- [vega](https://github.com/vega/vega) - A visualization grammar.
 - [ContentTools](https://github.com/GetmeUK/ContentTools) - A JS library for building WYSIWYG editors for HTML content.
 - [wekan](https://github.com/wekan/wekan) - The open-source Trello-like kanban (built with Meteor)
 - [tf-rules](https://github.com/candidpartners/tf-rules) - 
@@ -865,6 +865,7 @@
 
 ## Python 
 
+- [patroni](https://github.com/zalando/patroni) - A template for PostgreSQL High Availability with ZooKeeper, etcd, or Consul
 - [magic-wormhole](https://github.com/warner/magic-wormhole) - get things from one computer to another, safely
 - [zfs_autobackup](https://github.com/psy0rz/zfs_autobackup) - ZFS autobackup is used to periodicly backup ZFS filesystems to other locations. No additional tools of libraries or config files needed.
 - [dotdrop](https://github.com/deadc0de6/dotdrop) - Save your dotfiles once, deploy them everywhere
@@ -1009,7 +1010,7 @@
 - [awesome-aws](https://github.com/donnemartin/awesome-aws) - A curated list of awesome Amazon Web Services (AWS) libraries, open source repos, guides, blogs, and other resources.  Featuring the Fiery Meter of AWSome.
 - [jbosscli](https://github.com/raphaelpaiva/jbosscli) - A python front-end for the Jboss wildfly REST management interface
 - [st2contrib](https://github.com/StackStorm/st2contrib) - MOVED! See StackStorm Exchange
-- [st2](https://github.com/StackStorm/st2) - StackStorm (aka "IFTTT for Ops") is event-driven automation commonly used for auto-remediation, security responses, facilitated troubleshooting, complex deployments, and more. Includes rules engine, workflow, 1800+ integrations (see https://exchange.stackstorm.org), native ChatOps and so forth. Installer available at http://docs.stackstorm.com/install/index.html. Ping us on slack - https://stackstorm-community.slack.com/.
+- [st2](https://github.com/StackStorm/st2) - StackStorm (aka "IFTTT for Ops") is event-driven automation for auto-remediation, security responses, troubleshooting, deployments, and more. Includes rules engine, workflow, 2000+ integrations (see https://exchange.stackstorm.org), ChatOps, etc. Installer at https://docs.stackstorm.com/install/index.html. Questions? https://forum.stackstorm.com/.
 - [Skype4Py](https://github.com/Skype4Py/Skype4Py) - Platform independent Python wrapper for the Skype Desktop API
 - [sevabot](https://github.com/dafiti/sevabot) - A Skype bot supporting integration with external services
 - [sevabot](https://github.com/shinglyu/sevabot) - A Skype bot supporting integration with external services

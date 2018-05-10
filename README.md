@@ -748,6 +748,7 @@
 
 ## Others 
 
+- [devopsfactors](https://github.com/Mykolaichenko/devopsfactors) - The DevOps-Factors
 - [prometheus](https://github.com/vegasbrianc/prometheus) - A docker-compose stack for Prometheus monitoring
 - [DTrace-book-scripts](https://github.com/brendangregg/DTrace-book-scripts) - Scripts from "DTrace: Dynamic Tracing in Oracle Solaris, Mac OS X, and FreeBSD", by Brendan Gregg and Jim Mauro, Prentice Hall, 2011.
 - [nocode](https://github.com/kelseyhightower/nocode) - The best way to write secure and reliable applications. Write nothing; deploy nowhere.

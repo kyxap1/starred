@@ -1212,7 +1212,7 @@
 - [yaml-parse](https://github.com/ash-shell/yaml-parse) - :camel: YAML Parsing in Bash
 - [ash](https://github.com/ash-shell/ash) - :shell: A Modular Bash Framework
 - [awsp](https://github.com/antonbabenko/awsp) - AWS credential profile changer
-- [pre-commit-terraform](https://github.com/antonbabenko/pre-commit-terraform) - pre-commit git hook which formats Terraform configurations (tf & tfvars files)
+- [pre-commit-terraform](https://github.com/antonbabenko/pre-commit-terraform) - pre-commit git hooks to take care of Terraform configurations
 - [og-aws](https://github.com/open-guides/og-aws) - 📙 Amazon Web Services — a practical guide
 - [cassandra-top](https://github.com/jamesbriggs/cassandra-top) - Cassandra top command to monitor cluster cass_top and log nodetool commands
 - [container-storage-setup](https://github.com/projectatomic/container-storage-setup) - Service to set up storage for Docker and other container systems

@@ -188,7 +188,7 @@
 - [kops](https://github.com/kubernetes/kops) - Kubernetes Operations (kops) - Production Grade K8s Installation, Upgrades, and Management
 - [gomplate](https://github.com/hairyhenderson/gomplate) - A flexible commandline tool for template rendering. Supports lots of local and remote datasources.
 - [swarmkit](https://github.com/docker/swarmkit) - A toolkit for orchestrating distributed systems at any scale. It includes primitives for node discovery, raft-based consensus, task scheduling and more.
-- [ksonnet-lib](https://github.com/ksonnet/ksonnet-lib) - Simplify working with Kubernetes
+- [ksonnet-lib](https://github.com/ksonnet/ksonnet-lib) - Codegen for Kubernetes-API-compatible Jsonnet libraries
 - [goat](https://github.com/sevagh/goat) - GO-ATtach: attach and RAID EBS volumes + ENIs
 - [drone-mvn](https://github.com/thomasf/drone-mvn) - Maven repository artifact publisher for Drone CI
 - [ec2-metadatafs](https://github.com/jszwedko/ec2-metadatafs) - EC2 metadata and tags as a filesystem
@@ -392,7 +392,7 @@
 - [terraform-aws-foundation](https://github.com/fpco/terraform-aws-foundation) - Establish a solid Foundation on AWS with these modules for Terraform
 - [nomad-auto-join](https://github.com/hashicorp/nomad-auto-join) - Terraform config to automatically bootstrap a Nomad cluster
 - [docker-swarm-terraform](https://github.com/knpwrs/docker-swarm-terraform) - Set up a Docker Swarm Cluster on Digital Ocean using Terraform
-- [terraform_pritunl](https://github.com/opsgang/terraform_pritunl) - Pritunl VPN Server for your public/private like VPC on AWS
+- [terraform-aws-pritunl-vpn-server](https://github.com/opsgang/terraform-aws-pritunl-vpn-server) - Pritunl VPN Server for your public/private like VPC on AWS
 - [terraform-scheduled-batch-job](https://github.com/turnerlabs/terraform-scheduled-batch-job) - A Terraform module representing a scheduled Batch job
 - [tf_aws_elasticsearch](https://github.com/terraform-community-modules/tf_aws_elasticsearch) - Terraform module which creates AWS Elasticsearch resources
 - [aws-docker-swarm](https://github.com/mrjgreen/aws-docker-swarm) - Terraform and helper resources for running a production Docker Swarm on AWS
@@ -659,7 +659,7 @@
 - [markdown-to-json](https://github.com/scottstanfield/markdown-to-json) - 🕹️ Convert YAML front-matter in Markdown files to JSON. v0.5.1 is published on NPM.
 - [json-schema-generator](https://github.com/krg7880/json-schema-generator) - Generates draft v4 schema from a local file or a remote JSON url.
 - [generate-schema](https://github.com/nijikokun/generate-schema) - Convert JSON Objects to MySQL Schema, JSON Schema, Mongoose Schema, Google BigQuery, or a Generic template for Swagger files, documentation, code generation, and more.
-- [wildfly-swarm-examples](https://github.com/wildfly-swarm/wildfly-swarm-examples) - Examples of how to write applications using Swarm.
+- [wildfly-swarm-examples](https://github.com/thorntail/wildfly-swarm-examples) - Examples of how to write applications using Swarm.
 - [github](https://github.com/nestor-powers/github) - Control Github with Nestor
 - [sax-js](https://github.com/isaacs/sax-js) - A sax style parser for JS
 - [node-xml2json](https://github.com/buglabs/node-xml2json) - Converts XML to JSON using node-expat

@@ -151,6 +151,7 @@
 
 ## Go 
 
+- [goose](https://github.com/pressly/goose) - Goose database migration tool - fork of https://bitbucket.org/liamstask/goose
 - [skaffold](https://github.com/GoogleContainerTools/skaffold) - Easy and Repeatable Kubernetes Development
 - [terratest](https://github.com/gruntwork-io/terratest) - Terratest is a Go library that makes it easier to write automated tests for your infrastructure code.
 - [freegeoip](https://github.com/apilayer/freegeoip) - IP geolocation web server
@@ -660,7 +661,7 @@
 - [markdown-to-json](https://github.com/scottstanfield/markdown-to-json) - 🕹️ Convert YAML front-matter in Markdown files to JSON. v0.5.1 is published on NPM.
 - [json-schema-generator](https://github.com/krg7880/json-schema-generator) - Generates draft v4 schema from a local file or a remote JSON url.
 - [generate-schema](https://github.com/nijikokun/generate-schema) - Convert JSON Objects to MySQL Schema, JSON Schema, Mongoose Schema, Google BigQuery, or a Generic template for Swagger files, documentation, code generation, and more.
-- [wildfly-swarm-examples](https://github.com/thorntail/wildfly-swarm-examples) - Examples of how to write applications using Swarm.
+- [thorntail-examples](https://github.com/thorntail/thorntail-examples) - Examples of how to write applications using Swarm.
 - [github](https://github.com/nestor-powers/github) - Control Github with Nestor
 - [sax-js](https://github.com/isaacs/sax-js) - A sax style parser for JS
 - [node-xml2json](https://github.com/buglabs/node-xml2json) - Converts XML to JSON using node-expat

@@ -106,7 +106,7 @@
 
 - [suddi.github.io](https://github.com/suddi/suddi.github.io) - A static single-page application resume-builder developed using React.js and JSON Resume schema (https://suddi.github.io/)
 - [awesome-mysql](https://github.com/shlomi-noach/awesome-mysql) - A curated list of awesome MySQL software, libraries, tools and resources
-- [my-mac-os](https://github.com/nikitavoloboev/my-mac-os) - 💻 List of applications, alfred workflows and various tools that make my macOS experience even more amazing
+- [my-mac-os](https://github.com/nikitavoloboev/my-mac-os) - 💻 List of applications and tools that make my macOS experience even more amazing
 - [assembly](https://github.com/mapbox/assembly) - Making the hard parts of designing for the web easy.
 - [dagobah](https://github.com/thieman/dagobah) - Simple DAG-based job scheduler in Python
 - [pelias](https://github.com/pelias/pelias) - Pelias is a modular open-source geocoder using ElasticSearch.
@@ -972,7 +972,6 @@
 - [elastalert](https://github.com/Yelp/elastalert) - Easy & Flexible Alerting With ElasticSearch
 - [mrjob](https://github.com/Yelp/mrjob) - Run MapReduce jobs on Hadoop or Amazon Web Services
 - [emr-bootstrap-actions](https://github.com/aws-samples/emr-bootstrap-actions) - This repository hold the Amazon Elastic MapReduce sample bootstrap actions
-- [ghe-backup](https://github.com/zalando/ghe-backup) - Github Enterprise backup at ZalandoTech (Kubernetes, AWS, Docker)
 - [Zinc](https://github.com/mindsnacks/Zinc) - Asset distribution system for mobile clients.
 - [sqlmap](https://github.com/sqlmapproject/sqlmap) - Automatic SQL injection and database takeover tool
 - [jira2xmind](https://github.com/cepr/jira2xmind) - XMind plugin to import Jira tickets
@@ -1156,7 +1155,7 @@
 - [deploy-drone](https://github.com/paralect/deploy-drone) - Deploy Drone CI to enable continuous integration ⚡️ on your product
 - [cassandra-cluster](https://github.com/dmitry-zhuravlev/cassandra-cluster) - Cassandra cluster with Docker Compose.
 - [initcassandra](https://github.com/ansrivas/initcassandra) - A super hacky way to initialize keyspaces and tables in cassandra using docker-compose.
-- [oh-my-zsh](https://github.com/robbyrussell/oh-my-zsh) - A delightful community-driven (with 1,000+ contributors) framework for managing your zsh configuration. Includes 200+ optional plugins (rails, git, OSX, hub, capistrano, brew, ant, php, python, etc), over 140 themes to spice up your morning, and an auto-update tool so that makes it easy to keep up with the latest updates from the community.
+- [oh-my-zsh](https://github.com/robbyrussell/oh-my-zsh) - A delightful community-driven (with 1,100+ contributors) framework for managing your zsh configuration. Includes 200+ optional plugins (rails, git, OSX, hub, capistrano, brew, ant, php, python, etc), over 140 themes to spice up your morning, and an auto-update tool so that makes it easy to keep up with the latest updates from the community.
 - [cloudwatch-logmonitoring](https://github.com/shogomuranushi/cloudwatch-logmonitoring) - Log file monitoring for cloudwatch.
 - [docker-elk](https://github.com/roister/docker-elk) - The ELK stack powered by Docker and Compose.
 - [awless-templates](https://github.com/wallix/awless-templates) - Repository of examples for awless templates (see https://github.com/wallix/awless)
@@ -1204,6 +1203,7 @@
 - [terraform-multi-env](https://github.com/bkc1/terraform-multi-env) - Terraform wrapper script for handling multi-environment, multi-region deployments
 - [terraform-aws-wrapper](https://github.com/antonbabenko/terraform-aws-wrapper) - [DPRECATED] Terraform AWS wrapper script
 - [phinx.deb](https://github.com/Vitexus/phinx.deb) - Debian package for SQL Migrating tool Phinx
+- [ghe-backup](https://github.com/zalando/ghe-backup) - Github Enterprise backup at ZalandoTech (Kubernetes, AWS, Docker)
 - [baseimage-amzn](https://github.com/lambda-linux/baseimage-amzn) - A minimal Docker Base Image based on Amazon Linux
 - [ota-tools](https://github.com/RichardBronosky/ota-tools) - A burgeoning collection of tools for Over-The-Air distribution of mobile applications.
 - [terraform-consul-service-discovery-example](https://github.com/bltavares/terraform-consul-service-discovery-example) - 

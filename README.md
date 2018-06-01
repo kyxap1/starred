@@ -390,6 +390,7 @@
 
 ## HCL 
 
+- [elasticsearch-cloud-deploy](https://github.com/kostyrev/elasticsearch-cloud-deploy) - Deploy Elasticsearch on the cloud easily
 - [terraform-aws-influxdb](https://github.com/influxdata/terraform-aws-influxdb) - Deploys InfluxDB OSS and Enterprise to AWS
 - [terraform-null-assert](https://github.com/kchugalinskiy/terraform-null-assert) - Terraform assertion module
 - [terraform-aws-foundation](https://github.com/fpco/terraform-aws-foundation) - Establish a solid Foundation on AWS with these modules for Terraform

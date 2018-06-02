@@ -40,6 +40,7 @@
   - [Rust](#rust)
   - [Scala](#scala)
   - [Shell](#shell)
+  - [Smarty](#smarty)
   - [TeX](#tex)
   - [TypeScript](#typescript)
   - [Vim script](#vim script)
@@ -1258,6 +1259,10 @@
 - [bashful](https://github.com/plytophogy/bashful) - A collection of modules to simplify writing bash scripts.
 - [ffmpeg-static](https://github.com/zimbatm/ffmpeg-static) - Scripts to build ffmpeg with all the deps statically (webm + h264 included)
 - [dockr](https://github.com/crccheck/dockr) - A Docker CLI wrapper for lazy people
+
+## Smarty 
+
+- [charts-1](https://github.com/kostyrev/charts-1) - Curated applications for Kubernetes
 
 ## TeX 
 

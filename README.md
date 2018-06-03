@@ -870,6 +870,7 @@
 
 ## Python 
 
+- [influxdb-relay](https://github.com/influxdata/influxdb-relay) - Service to replicate InfluxDB data for high availability
 - [patroni](https://github.com/zalando/patroni) - A template for PostgreSQL High Availability with ZooKeeper, etcd, or Consul
 - [magic-wormhole](https://github.com/warner/magic-wormhole) - get things from one computer to another, safely
 - [zfs_autobackup](https://github.com/psy0rz/zfs_autobackup) - ZFS autobackup is used to periodicly backup ZFS filesystems to other locations. No additional tools of libraries or config files needed.

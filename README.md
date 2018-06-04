@@ -870,6 +870,7 @@
 
 ## Python 
 
+- [sshuttle](https://github.com/sshuttle/sshuttle) - Transparent proxy server that works as a poor man's VPN.  Forwards over ssh.  Doesn't require admin.  Works with Linux and MacOS.  Supports DNS tunneling.
 - [influxdb-relay](https://github.com/influxdata/influxdb-relay) - Service to replicate InfluxDB data for high availability
 - [patroni](https://github.com/zalando/patroni) - A template for PostgreSQL High Availability with ZooKeeper, etcd, or Consul
 - [magic-wormhole](https://github.com/warner/magic-wormhole) - get things from one computer to another, safely
@@ -877,7 +878,7 @@
 - [dotdrop](https://github.com/deadc0de6/dotdrop) - Save your dotfiles once, deploy them everywhere
 - [kimchi](https://github.com/kimchi-project/kimchi) - An HTML5 management interface for KVM guests
 - [awx](https://github.com/ansible/awx) - AWX Project
-- [spirit](https://github.com/jgayfer/spirit) - Spirit is a Discord chat bot designed to assist Destiny 2 players with everything from clan management to keeping track of in game events.
+- [spirit](https://github.com/jgayfer/spirit) - Spirit is a Destiny 2 Discord to assist players with everything from clan management to keeping track of in game events.
 - [cloud-inquisitor](https://github.com/RiotGames/cloud-inquisitor) - Enforce ownership and data security within AWS
 - [ansible-human_log](https://github.com/n0ts/ansible-human_log) - This Ansible callback plugin for human-readable result logging for Ansible 1.9/2.0-2.4.
 - [fiat](https://github.com/richiverse/fiat) - Firehose to Athena
@@ -1042,6 +1043,7 @@
 
 ## Ruby 
 
+- [gitlabhq](https://github.com/gitlabhq/gitlabhq) - GitLab CE | Please open new issues in our issue tracker on GitLab.com
 - [sfn](https://github.com/sparkleformation/sfn) - SparkleFormation CLI
 - [terraform-aws-base-networking](https://github.com/infrablocks/terraform-aws-base-networking) - Terraform module for building base networking in AWS
 - [packer-config](https://github.com/ianchesal/packer-config) - A Ruby way to generate packer.io configurations

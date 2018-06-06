@@ -220,7 +220,7 @@
 - [gogs](https://github.com/gogs/gogs) - Gogs is a painless self-hosted Git service.
 - [drone](https://github.com/drone/drone) - Drone is a Continuous Delivery platform built on Docker, written in Go
 - [dnscontrol](https://github.com/StackExchange/dnscontrol) - Synchronize your DNS to multiple providers from a simple DSL
-- [teleport](https://github.com/gravitational/teleport) - Modern SSH server for clusters and teams.
+- [teleport](https://github.com/gravitational/teleport) - Privileged access management for elastic infrastructure.
 - [ec2-ls-hosts](https://github.com/ReSTARTR/ec2-ls-hosts) - an alternative tool for describing ec2 instances
 - [semaphore](https://github.com/ansible-semaphore/semaphore) - Open Source alternative to Ansible Tower
 - [zabbixctl](https://github.com/kovetskiy/zabbixctl) - Most effective way for operating in Zabbix Server
@@ -872,6 +872,7 @@
 
 ## Python 
 
+- [pritunl-python-sdk](https://github.com/chaordic/pritunl-python-sdk) - Unofficial Pritunl Client Library that allows to easily interact with Pritunl API in Python.
 - [sshuttle](https://github.com/sshuttle/sshuttle) - Transparent proxy server that works as a poor man's VPN.  Forwards over ssh.  Doesn't require admin.  Works with Linux and MacOS.  Supports DNS tunneling.
 - [influxdb-relay](https://github.com/influxdata/influxdb-relay) - Service to replicate InfluxDB data for high availability
 - [patroni](https://github.com/zalando/patroni) - A template for PostgreSQL High Availability with ZooKeeper, etcd, or Consul
@@ -907,7 +908,7 @@
 - [terratools](https://github.com/Crapworks/terratools) - Some tools to enhance your terraform experience
 - [howdoi](https://github.com/gleitz/howdoi) - instant coding answers via the command line
 - [codebom](https://github.com/codebom/codebom) - Command-line tool to create, validate and analyze a Bill of Materials
-- [foremast](https://github.com/gogoair/foremast) - Spinnaker pipeline and infrastructure configuration and templating tool - Pipelines as Code.
+- [foremast](https://github.com/foremast/foremast) - Spinnaker pipeline and infrastructure configuration and templating tool - Pipelines as Code.
 - [botoform](https://github.com/russellballestrini/botoform) - Architect infrastructure on AWS using YAML
 - [nginx-proxy](https://github.com/jwilder/nginx-proxy) - Automated nginx proxy for Docker containers using docker-gen
 - [terraform_validate](https://github.com/elmundio87/terraform_validate) - Assists in the enforcement of user-defined standards in Terraform

@@ -860,6 +860,7 @@
 
 ## Perl 
 
+- [postgresqltuner](https://github.com/jfcoz/postgresqltuner) - Simple script to analyse your PostgreSQL database configuration, and give tuning advice
 - [sanoid](https://github.com/jimsalterjrs/sanoid) - Policy-driven snapshot management and replication tools.  Currently using ZFS for underlying next-gen storage, with explicit plans to support btrfs when btrfs becomes more reliable.  Primarily intended for Linux, but BSD use is supported and reasonably frequently tested.
 - [lua-resty-jwt](https://github.com/SkyLothar/lua-resty-jwt) - JWT For The Great Openresty
 - [aws](https://github.com/timkay/aws) - Easy command line access to Amazon EC2, S3, SQS, ELB, and SDB

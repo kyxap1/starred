@@ -77,7 +77,7 @@
 - [MOTHBALLED-graphviz](https://github.com/ellson/MOTHBALLED-graphviz) - Moved to https://gitlab.com/graphviz/graphviz
 - [ngx_aws_auth](https://github.com/anomalizer/ngx_aws_auth) - nginx module to proxy to authenticated AWS services
 - [ngx_small_light](https://github.com/cubicdaiya/ngx_small_light) - Dynamic Image Transformation Module For nginx.
-- [Remmina](https://github.com/FreeRDP/Remmina) - The GTK+ Remmina Remote Desktop Client
+- [Remmina](https://github.com/FreeRDP/Remmina) - Mirror of https://gitlab.com/DAGUniverse/Remmina The GTK+ Remmina Remote Desktop Client
 - [hwraid](https://github.com/eLvErDe/hwraid) - HWRaid: Free code from http://hwraid.le-vert.net
 - [awesome-nginx](https://github.com/agile6v/awesome-nginx) - A curated list of awesome Nginx distributions, third modules, active developers, etc. :octocat:
 - [reptyr](https://github.com/nelhage/reptyr) - Reparent a running program to a new terminal

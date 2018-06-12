@@ -41,6 +41,7 @@
   - [Scala](#scala)
   - [Shell](#shell)
   - [Smarty](#smarty)
+  - [Swift](#swift)
   - [TeX](#tex)
   - [TypeScript](#typescript)
   - [Vim script](#vim script)
@@ -152,6 +153,7 @@
 
 ## Go 
 
+- [eksctl](https://github.com/weaveworks/eksctl) - a CLI for Amazon EKS
 - [slackcat](https://github.com/bcicen/slackcat) - CLI utility to post files and command output to slack
 - [goose](https://github.com/pressly/goose) - Goose database migration tool - fork of https://bitbucket.org/liamstask/goose
 - [skaffold](https://github.com/GoogleContainerTools/skaffold) - Easy and Repeatable Kubernetes Development
@@ -754,6 +756,8 @@
 
 ## Others 
 
+- [developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) - Roadmap to becoming a web developer in 2018
+- [awesome-prometheus](https://github.com/roaldnefs/awesome-prometheus) - A curated list of awesome Prometheus resources, projects and tools.
 - [awesome-ssh](https://github.com/moul/awesome-ssh) - :computer: A curated list of SSH resources.
 - [devopsfactors](https://github.com/Mykolaichenko/devopsfactors) - The DevOps-Factors
 - [prometheus](https://github.com/vegasbrianc/prometheus) - A docker-compose stack for Prometheus monitoring
@@ -1270,6 +1274,10 @@
 ## Smarty 
 
 - [charts-1](https://github.com/kostyrev/charts-1) - Curated applications for Kubernetes
+
+## Swift 
+
+- [open-source-mac-os-apps](https://github.com/serhii-londar/open-source-mac-os-apps) - 🚀 Awesome list of open source applications for macOS.
 
 ## TeX 
 

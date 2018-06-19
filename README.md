@@ -341,7 +341,7 @@
 - [terraform-provider-gzip](https://github.com/jakexks/terraform-provider-gzip) - A very simple Terraform plugin that gzip+base64s its input
 - [terraform-provider-bitbucket](https://github.com/webdevwilson/terraform-provider-bitbucket) - a bitbucket provider for terraform
 - [habitus](https://github.com/cloud66/habitus) - A Build Flow Tool for Docker
-- [traefik](https://github.com/containous/traefik) - Træfik, a modern reverse proxy
+- [traefik](https://github.com/containous/traefik) - The Cloud Native Edge Router
 - [terraform-provider-writefile](https://github.com/DreamHostData/terraform-provider-writefile) - 
 - [terraform-provider-gitfile](https://github.com/Yelp/terraform-provider-gitfile) - Terraform provider for checking out git repositories and making changes
 - [blade](https://github.com/otm/blade) - Blade is a task runner designed to be easy, small, highly powerful, and with built in Bash completion and documentation. It is portable and easy to install, only a single binary.

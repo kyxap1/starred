@@ -78,7 +78,7 @@
 - [MOTHBALLED-graphviz](https://github.com/ellson/MOTHBALLED-graphviz) - Moved to https://gitlab.com/graphviz/graphviz
 - [ngx_aws_auth](https://github.com/anomalizer/ngx_aws_auth) - nginx module to proxy to authenticated AWS services
 - [ngx_small_light](https://github.com/cubicdaiya/ngx_small_light) - Dynamic Image Transformation Module For nginx.
-- [Remmina](https://github.com/FreeRDP/Remmina) - Mirror of https://gitlab.com/DAGUniverse/Remmina The GTK+ Remmina Remote Desktop Client
+- [Remmina](https://github.com/FreeRDP/Remmina) - Mirror of https://gitlab.com/Remmina/Remmina The GTK+ Remmina Remote Desktop Client
 - [hwraid](https://github.com/eLvErDe/hwraid) - HWRaid: Free code from http://hwraid.le-vert.net
 - [awesome-nginx](https://github.com/agile6v/awesome-nginx) - A curated list of awesome Nginx distributions, third modules, active developers, etc. :octocat:
 - [reptyr](https://github.com/nelhage/reptyr) - Reparent a running program to a new terminal
@@ -740,7 +740,6 @@
 - [terraform-spec](https://github.com/johnrengelman/terraform-spec) - Docker container of utilities for testing Terraform modules
 - [ansible-role-datastax-ddc](https://github.com/kostyrev/ansible-role-datastax-ddc) - 
 - [json-schema-spec](https://github.com/json-schema-org/json-schema-spec) - The JSON Schema I-D sources
-- [wildfly](https://github.com/inkatze/wildfly) - Ansible role for wildfly
 - [nomad-docker](https://github.com/sjourdan/nomad-docker) - This is a Docker container for Nomad based on Busybox
 - [go-build-template](https://github.com/thockin/go-build-template) - A Makefile/Dockerfile example for Go projects.
 - [docker-nginx-s3](https://github.com/grahamgilbert/docker-nginx-s3) - An nginx image with ngx_aws_auth
@@ -980,6 +979,7 @@
 - [dataduct](https://github.com/coursera/dataduct) - DataPipeline for humans.
 - [data-pipeline-samples](https://github.com/aws-samples/data-pipeline-samples) - This repository hosts sample pipelines
 - [barman](https://github.com/2ndquadrant-it/barman) - BaRMan - Backup and Recovery Manager for PostgreSQL
+- [wildfly](https://github.com/inkatze/wildfly) - Ansible role for wildfly
 - [terraform.py](https://github.com/mantl/terraform.py) - Ansible dynamic inventory script for parsing Terraform state files
 - [kubeform](https://github.com/Capgemini/kubeform) - Form your :boat: Kubernetes :anchor: cluster anywhere using CoreOS, Terraform and Ansible
 - [paasta](https://github.com/Yelp/paasta) - An open, distributed platform as a service
@@ -990,7 +990,7 @@
 - [Zinc](https://github.com/mindsnacks/Zinc) - Asset distribution system for mobile clients.
 - [sqlmap](https://github.com/sqlmapproject/sqlmap) - Automatic SQL injection and database takeover tool
 - [jira2xmind](https://github.com/cepr/jira2xmind) - XMind plugin to import Jira tickets
-- [starred](https://github.com/maguowei/starred) - creating your own Awesome List used GitHub stars!
+- [starred](https://github.com/maguowei/starred) - creating your own Awesome List by GitHub stars!
 - [qb](https://github.com/Pinafore/qb) - QANTA Quiz Bowl AI
 - [remarshal](https://github.com/dbohdan/remarshal) - Convert between TOML, YAML and JSON
 - [consul-deployment-agent](https://github.com/trainline/consul-deployment-agent) - Cross-platform deployment agent for Environment Manager

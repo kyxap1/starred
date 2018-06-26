@@ -572,7 +572,6 @@
 - [cassandra-health-check](https://github.com/lookout/cassandra-health-check) - Cassandra Health Check
 - [kumuluzee](https://github.com/kumuluz/kumuluzee) - Lightweight open-source framework for developing microservices using standard Java EE technologies and migrating Java EE to cloud-native architecture.
 - [cassandra-metrics-collector](https://github.com/wikimedia/cassandra-metrics-collector) - Cassandra JMX metrics collector
-- [cassandra-reaper](https://github.com/spotify/cassandra-reaper) - Software to run automated repairs of cassandra
 - [consultant](https://github.com/Magnetme/consultant) - A library to retrieve your service's configuration from Consul, and subscribe to changes.
 - [cassandra-kinesis](https://github.com/smartcat-labs/cassandra-kinesis) - Cassandra connector for AWS Kinesis
 - [cassandra-consul-seed-provider](https://github.com/karnauskas/cassandra-consul-seed-provider) - Cassandra Seed Provider which works with Consul. Supports seeding from service discovery service or static K/V storage.
@@ -814,6 +813,7 @@
 - [awesome-slack](https://github.com/matiassingers/awesome-slack) - A curated list of awesome Slack related things
 - [fabio-compose](https://github.com/avthart/fabio-compose) - Fabio Docker Compose
 - [multihost-cassandra-flocker](https://github.com/wallnerryan/multihost-cassandra-flocker) - A multi-host Cassandra cluster using Swarm, Compose and Flocker
+- [cassandra-reaper](https://github.com/spotify/cassandra-reaper) - Software to run automated repairs of cassandra
 - [aws-osm-rds](https://github.com/s6o/aws-osm-rds) - Notes on setting up OpenStreetMap tile server with official styles on AWS EC2 with PostgreSQL RDS and PostGIS
 - [uber-tlc-foil-response](https://github.com/fivethirtyeight/uber-tlc-foil-response) - Uber trip data from a freedom of information request to NYC's Taxi & Limousine Commission
 - [structured-text-tools](https://github.com/dbohdan/structured-text-tools) - A list of command line tools for manipulating structured text data

@@ -154,6 +154,7 @@
 
 ## Go 
 
+- [consul-esm](https://github.com/hashicorp/consul-esm) - External service monitoring for Consul
 - [ksonnet](https://github.com/ksonnet/ksonnet) - A CLI-supported framework that streamlines writing and deployment of Kubernetes configurations to multiple clusters.
 - [eksctl](https://github.com/weaveworks/eksctl) - a CLI for Amazon EKS
 - [slackcat](https://github.com/bcicen/slackcat) - CLI utility to post files and command output to slack
@@ -188,6 +189,7 @@
 - [jj](https://github.com/tidwall/jj) - JSON Stream Editor (command line utility)
 - [terraform-provider-proxmox](https://github.com/Telmate/terraform-provider-proxmox) - Terraform provider plugin for proxmox
 - [terraform-provider-libvirt](https://github.com/dmacvicar/terraform-provider-libvirt) - terraform provider for libvirt
+- [prest](https://github.com/prest/prest) - pREST is a way to serve a RESTful API from any databases written in Go
 - [terraform-provider-aws](https://github.com/terraform-providers/terraform-provider-aws) - Terraform AWS provider
 - [duplicacy](https://github.com/gilbertchen/duplicacy) - A new generation cloud backup tool
 - [cli53](https://github.com/barnybug/cli53) - Command line tool for Amazon Route 53
@@ -736,7 +738,6 @@
 
 ## Makefile 
 
-- [prest](https://github.com/prest/prest) - pREST is a way to serve a RESTful API from any databases written in Go
 - [terraform-spec](https://github.com/johnrengelman/terraform-spec) - Docker container of utilities for testing Terraform modules
 - [ansible-role-datastax-ddc](https://github.com/kostyrev/ansible-role-datastax-ddc) - 
 - [json-schema-spec](https://github.com/json-schema-org/json-schema-spec) - The JSON Schema I-D sources

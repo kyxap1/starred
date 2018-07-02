@@ -1239,7 +1239,7 @@
 - [bitpocket](https://github.com/sickill/bitpocket) - "DIY Dropbox" or "2-way directory (r)sync with proper deletion"
 - [quick-secure](https://github.com/marshyski/quick-secure) - Quickly secure UNIX/Linux systems
 - [cassandra-terraform](https://github.com/RobotsAndPencils/cassandra-terraform) - Simple deployment of a cassandra cluster to AWS
-- [tfenv](https://github.com/kamatama41/tfenv) - Terraform version manager
+- [tfenv](https://github.com/Zordrak/tfenv) - Terraform version manager
 - [aws-ec2-raid0-script](https://github.com/starrlingo/aws-ec2-raid0-script) - Provide a template script to perform Raid 0 architecture in AWS EC2
 - [repository](https://github.com/ulyaoth/repository) - Ulyaoth Repository
 - [gvm](https://github.com/moovweb/gvm) - Go Version Manager

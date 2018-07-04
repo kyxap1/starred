@@ -880,6 +880,7 @@
 
 ## Python 
 
+- [termtosvg](https://github.com/nbedos/termtosvg) - Record terminal sessions as SVG animations
 - [pritunl-python-sdk](https://github.com/chaordic/pritunl-python-sdk) - Unofficial Pritunl Client Library that allows to easily interact with Pritunl API in Python.
 - [sshuttle](https://github.com/sshuttle/sshuttle) - Transparent proxy server that works as a poor man's VPN.  Forwards over ssh.  Doesn't require admin.  Works with Linux and MacOS.  Supports DNS tunneling.
 - [influxdb-relay](https://github.com/influxdata/influxdb-relay) - Service to replicate InfluxDB data for high availability

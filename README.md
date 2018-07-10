@@ -603,6 +603,7 @@
 
 ## JavaScript 
 
+- [jsoneditor](https://github.com/josdejong/jsoneditor) - A web-based tool to view, edit, format, and validate JSON
 - [blast-radius](https://github.com/28mm/blast-radius) - Interactive visualizations of Terraform dependency graphs using d3.js
 - [release-it](https://github.com/webpro/release-it) - CLI release tool for Git repos and npm packages.
 - [aws-amplify](https://github.com/aws/aws-amplify) - A declarative JavaScript library for application development using cloud services.

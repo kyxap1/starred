@@ -344,7 +344,7 @@
 - [go-img-resize-upload](https://github.com/rocajuan/go-img-resize-upload) - Golang HTTP Service to download an image, resize it and upload it to an S3 Amazon Bucket. Possibility to redirect to newly resized and uploaded image. A work in progress.
 - [terraform-provider-gzip](https://github.com/jakexks/terraform-provider-gzip) - A very simple Terraform plugin that gzip+base64s its input
 - [terraform-provider-bitbucket](https://github.com/webdevwilson/terraform-provider-bitbucket) - a bitbucket provider for terraform
-- [habitus](https://github.com/cloud66/habitus) - A Build Flow Tool for Docker
+- [habitus](https://github.com/cloud66-oss/habitus) - A Build Flow Tool for Docker
 - [traefik](https://github.com/containous/traefik) - The Cloud Native Edge Router
 - [terraform-provider-writefile](https://github.com/DreamHostData/terraform-provider-writefile) - 
 - [terraform-provider-gitfile](https://github.com/Yelp/terraform-provider-gitfile) - Terraform provider for checking out git repositories and making changes

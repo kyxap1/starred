@@ -732,7 +732,7 @@
 ## Lua 
 
 - [lua-resty-hmac](https://github.com/jamesmarlowe/lua-resty-hmac) - Lua driver for making and receiving hmac signed requests
-- [kong](https://github.com/Kong/kong) - :monkey: The Microservice API Gateway
+- [kong](https://github.com/Kong/kong) - :monkey: The Cloud-Native API Gateway
 
 ## M4 
 

@@ -374,7 +374,7 @@
 - [terraform-control](https://github.com/Capgemini/terraform-control) - A PoC for managing your infrastructure with Terraform in a collaborative way :dancers: https://capgemini.github.io/devops/Controlling-the-state-of-your-infrastructure/
 - [terraform-provisioner](https://github.com/shuaibiyy/terraform-provisioner) - Manage multiple provisions of the same Terraform scripts.
 - [terraform-docs](https://github.com/segmentio/terraform-docs) - Generate docs from terraform modules
-- [apex](https://github.com/apex/apex) - Build, deploy, and manage AWS Lambda functions with ease (with Go support!).
+- [apex](https://github.com/apex/apex) - Build, deploy, and manage AWS Lambda functions with ease.
 - [terraform-inventory](https://github.com/adammck/terraform-inventory) - Terraform State → Ansible Dynamic Inventory
 - [hostess](https://github.com/cbednarski/hostess) - An idempotent command-line utility for managing your /etc/hosts file.
 - [confd](https://github.com/kelseyhightower/confd) - Manage local application configuration files using templates and data from etcd or consul

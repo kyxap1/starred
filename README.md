@@ -740,6 +740,7 @@
 
 ## Makefile 
 
+- [ansible-roles](https://github.com/manala/ansible-roles) - Manala ansible roles
 - [terraform-spec](https://github.com/johnrengelman/terraform-spec) - Docker container of utilities for testing Terraform modules
 - [ansible-role-datastax-ddc](https://github.com/kostyrev/ansible-role-datastax-ddc) - 
 - [json-schema-spec](https://github.com/json-schema-org/json-schema-spec) - The JSON Schema I-D sources
@@ -1058,6 +1059,7 @@
 
 ## Ruby 
 
+- [aws_public_ips](https://github.com/arkadiyt/aws_public_ips) - Fetch all public IP addresses tied to your AWS account. Works with IPv4/IPv6, Classic/VPC networking, and across all AWS services
 - [gitlabhq](https://github.com/gitlabhq/gitlabhq) - GitLab CE Mirror | Please open new issues in our issue tracker on GitLab.com
 - [sfn](https://github.com/sparkleformation/sfn) - SparkleFormation CLI
 - [terraform-aws-base-networking](https://github.com/infrablocks/terraform-aws-base-networking) - Terraform module for building base networking in AWS

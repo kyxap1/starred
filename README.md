@@ -148,6 +148,7 @@
 ## Dockerfile 
 
 - [dockerfiles](https://github.com/jessfraz/dockerfiles) - Various Dockerfiles I use on the desktop and on servers.
+- [hazelcast-docker](https://github.com/hazelcast/hazelcast-docker) - This repository contains docker image for Hazelcast open-source in-memory data-grid.
 - [docker-node](https://github.com/nodejs/docker-node) - Official Docker Image for Node.js :whale: :turtle: :rocket:
 
 ## Elixir 
@@ -889,6 +890,7 @@
 
 ## Python 
 
+- [alerta](https://github.com/alerta/alerta) - Alerta monitoring system
 - [termtosvg](https://github.com/nbedos/termtosvg) - Record terminal sessions as SVG animations
 - [pritunl-python-sdk](https://github.com/chaordic/pritunl-python-sdk) - Unofficial Pritunl Client Library that allows to easily interact with Pritunl API in Python.
 - [sshuttle](https://github.com/sshuttle/sshuttle) - Transparent proxy server that works as a poor man's VPN.  Forwards over ssh.  Doesn't require admin.  Works with Linux and MacOS.  Supports DNS tunneling.
@@ -1261,7 +1263,6 @@
 - [docker-nginx-elb-websocket](https://github.com/Stockflare/docker-nginx-elb-websocket) - NGinx proxy pass configuration designed for Websockets load balanced through ELB, running on ECS
 - [cassandra-cloud-backup](https://github.com/GoogleCloudPlatform/cassandra-cloud-backup) - Cassandra backups to Google Cloud Storage
 - [dotfiles](https://github.com/jessfraz/dotfiles) - My dotfiles. Buyer beware ;)
-- [hazelcast-docker](https://github.com/hazelcast/hazelcast-docker) - This repository contains docker image for Hazelcast open-source in-memory data-grid.
 - [docker-desktop](https://github.com/rogaha/docker-desktop) - Docker Desktop enables you to create virtual desktops that can be accessed remotely. It comes with Firefox and Libreoffice already installed!
 - [WildFlyApp](https://github.com/BITFORCE-IT/WildFlyApp) - An example Docker Container running an JEE App on WildFly 10 Using oficial JBoss Docker image and useful enhancements.
 - [sevabot_modules](https://github.com/vkavun/sevabot_modules) - This repo holds sevabot modules needed for a day-to-day work

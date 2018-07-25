@@ -544,6 +544,7 @@
 
 ## Java 
 
+- [cassandra-reaper](https://github.com/thelastpickle/cassandra-reaper) - Automated Repair Awesomeness for Apache Cassandra
 - [open-airplay](https://github.com/jamesdlow/open-airplay) - A collection of libraries for Apple's AirPlay protocol
 - [zipkin](https://github.com/openzipkin/zipkin) - Zipkin is a distributed tracing system
 - [YCSB](https://github.com/brianfrankcooper/YCSB) - Yahoo! Cloud Serving Benchmark
@@ -1161,6 +1162,7 @@
 
 ## Shell 
 
+- [grafonnet-lib](https://github.com/grafana/grafonnet-lib) - Jsonnet library for generating Grafana dashboard files.
 - [fonts](https://github.com/powerline/fonts) - Patched fonts for Powerline users.
 - [acme.sh](https://github.com/Neilpang/acme.sh) - A pure Unix shell script implementing ACME client protocol
 - [scripts](https://github.com/kref/scripts) - This project attempts to improve DSM's compatibility

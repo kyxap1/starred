@@ -196,7 +196,7 @@
 - [toxiproxy](https://github.com/Shopify/toxiproxy) - :alarm_clock: :fire: A TCP proxy to simulate network and system conditions for chaos and resiliency testing
 - [jj](https://github.com/tidwall/jj) - JSON Stream Editor (command line utility)
 - [terraform-provider-proxmox](https://github.com/Telmate/terraform-provider-proxmox) - Terraform provider plugin for proxmox
-- [terraform-provider-libvirt](https://github.com/dmacvicar/terraform-provider-libvirt) - terraform provider for libvirt
+- [terraform-provider-libvirt](https://github.com/dmacvicar/terraform-provider-libvirt) - Terraform provider to provision infrastructure with Linux's KVM using libvirt
 - [prest](https://github.com/prest/prest) - pREST is a way to serve a RESTful API from any databases written in Go
 - [terraform-provider-aws](https://github.com/terraform-providers/terraform-provider-aws) - Terraform AWS provider
 - [duplicacy](https://github.com/gilbertchen/duplicacy) - A new generation cloud backup tool
@@ -317,7 +317,6 @@
 - [terminus](https://github.com/kelseyhightower/terminus) - Get facts about a Linux system.
 - [vault](https://github.com/hashicorp/vault) - A tool for secrets management, encryption as a service, and privileged access management
 - [permissions2](https://github.com/xyproto/permissions2) - :closed_lock_with_key: Middleware for keeping track of users, login states and permissions
-- [go-jose](https://github.com/square/go-jose) - An implementation of JOSE standards (JWE, JWS, JWT) in Go
 - [terraform-provider-kafka](https://github.com/packetloop/terraform-provider-kafka) - Terraform provider for kafka
 - [consul-zombie](https://github.com/myENA/consul-zombie) - Hunt and kill consul zombie services.
 - [consul-backinator](https://github.com/myENA/consul-backinator) - Command line Consul backup and restore utility supporting KVs, ACLs and Queries
@@ -740,7 +739,7 @@
 ## Lua 
 
 - [lua-resty-hmac](https://github.com/jamesmarlowe/lua-resty-hmac) - Lua driver for making and receiving hmac signed requests
-- [kong](https://github.com/Kong/kong) - :monkey: The Cloud-Native API Gateway
+- [kong](https://github.com/Kong/kong) - :gorilla: The Cloud-Native API Gateway
 
 ## M4 
 
@@ -820,6 +819,7 @@
 - [tool-repos](https://github.com/monitoringsucks/tool-repos) - Tracking various tools that fit in the monitoring and metrics space
 - [dockerfile-transcrypt](https://github.com/unifio/dockerfile-transcrypt) - Dockerfile for creation of a Transcrypt container
 - [ansible-vault](https://github.com/MiLk/ansible-vault) - Ansible Vault role
+- [go-jose](https://github.com/square/go-jose) - An implementation of JOSE standards (JWE, JWS, JWT) in Go
 - [awesome-terraform](https://github.com/shuaibiyy/awesome-terraform) - Curated list of resources on HashiCorp's Terraform
 - [new-job](https://github.com/Ecwid/new-job) - 
 - [awesome-slack](https://github.com/matiassingers/awesome-slack) - A curated list of awesome Slack related things
@@ -1162,6 +1162,7 @@
 
 ## Shell 
 
+- [consul-dns-for-kubernetes](https://github.com/anubhavmishra/consul-dns-for-kubernetes) - Consul DNS Interface for Kubernetes
 - [grafonnet-lib](https://github.com/grafana/grafonnet-lib) - Jsonnet library for generating Grafana dashboard files.
 - [fonts](https://github.com/powerline/fonts) - Patched fonts for Powerline users.
 - [acme.sh](https://github.com/Neilpang/acme.sh) - A pure Unix shell script implementing ACME client protocol

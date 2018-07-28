@@ -150,6 +150,7 @@
 - [dockerfiles](https://github.com/jessfraz/dockerfiles) - Various Dockerfiles I use on the desktop and on servers.
 - [hazelcast-docker](https://github.com/hazelcast/hazelcast-docker) - This repository contains docker image for Hazelcast open-source in-memory data-grid.
 - [docker-node](https://github.com/nodejs/docker-node) - Official Docker Image for Node.js :whale: :turtle: :rocket:
+- [buildpack-deps](https://github.com/docker-library/buildpack-deps) - 
 - [nginx-boilerplate](https://github.com/nginx-boilerplate/nginx-boilerplate) - Awesome Nginx configuration template
 
 ## Elixir 
@@ -1273,7 +1274,6 @@
 - [sevabot_modules](https://github.com/vkavun/sevabot_modules) - This repo holds sevabot modules needed for a day-to-day work
 - [docker-postgres-pgpool2](https://github.com/dperetti/docker-postgres-pgpool2) - 
 - [Dockerfile](https://github.com/webdevops/Dockerfile) - :package: Dockerfiles from WebDevOps for PHP, Apache and Nginx (with PHP5 and PHP7)
-- [buildpack-deps](https://github.com/docker-library/buildpack-deps) - 
 - [docker-postgres-backup](https://github.com/jmcarbo/docker-postgres-backup) - 
 - [aws-mon-linux](https://github.com/moomindani/aws-mon-linux) - Bash script that reports custom metric data about Linux performance to Amazon CloudWatch
 - [wick](https://github.com/tests-always-included/wick) - Bash-only IT automation, machine provisioning

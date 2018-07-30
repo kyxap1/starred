@@ -789,7 +789,7 @@
 - [consul](https://github.com/thechane/consul) - Docker compose file and other resources for running Consul as a service in Docker
 - [terraplate](https://github.com/rjayroach/terraplate) - use ansible templates to easily generate terraform modules, components and tfvars files
 - [ami-builder-packer](https://github.com/awslabs/ami-builder-packer) - An example of an AMI Builder using CI/CD with AWS CodePipeline, AWS CodeBuild, Hashicorp Packer and Ansible.
-- [awesome-sre](https://github.com/dastergon/awesome-sre) - A curated list of awesome Site Reliability and Production Engineering resources.
+- [awesome-sre](https://github.com/dastergon/awesome-sre) - A curated list of Site Reliability and Production Engineering resources.
 - [awesome-design-systems](https://github.com/alexpate/awesome-design-systems) - 💅🏻 ⚒ A collection of awesome design systems
 - [awesome-docker](https://github.com/veggiemonk/awesome-docker) - :whale: A curated list of Docker resources and projects
 - [ansible-role-docker](https://github.com/geerlingguy/ansible-role-docker) - Ansible Role - Docker

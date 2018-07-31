@@ -376,7 +376,6 @@
 - [terraform-provisioner-info](https://github.com/pythonandchips/terraform-provisioner-info) - get info from provisioner when developing terraform provisioner
 - [packer2terraform](https://github.com/saymedia/packer2terraform) - packer2terraform turns Packer's machine-readable output into a Terraform tfvars file
 - [terraform-provider-simplescript](https://github.com/jweede/terraform-provider-simplescript) - Terraform plugin for providing values via script
-- [terraform-state-server](https://github.com/kiasaki/terraform-state-server) - An S3 backed, terraform state server
 - [terraform-provider-execute](https://github.com/samsung-cnct/terraform-provider-execute) - execute arbitrary commands on Terraform create and destroy
 - [terraform-s3-dir](https://github.com/saymedia/terraform-s3-dir) - Generates a Terraform config to upload a directory of files to an Amazon S3 bucket
 - [terraform-control](https://github.com/Capgemini/terraform-control) - A PoC for managing your infrastructure with Terraform in a collaborative way :dancers: https://capgemini.github.io/devops/Controlling-the-state-of-your-infrastructure/

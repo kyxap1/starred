@@ -121,6 +121,7 @@
 ## Clojure 
 
 - [roll](https://github.com/juxt/roll) - AWS Blue/Green deployment using Clojure flavoured devops
+- [awesomo](https://github.com/lk-geimfari/awesomo) - An extensive list of interesting open source projects written in С, C++, Clojure, Lisp, Elixir, Erlang, Elm, Golang, Haskell, JavaScript, Lua, OCaml, Python, R, Ruby, Rust, Scala etc.
 - [dorothy](https://github.com/daveray/dorothy) - Hiccup-style generation of Graphviz graphs in Clojure
 - [specter](https://github.com/nathanmarz/specter) - Clojure(Script)'s missing piece
 - [GraphQLviz](https://github.com/Macroz/GraphQLviz) - GraphQLviz marries GraphQL (schemas) with Graphviz.
@@ -444,7 +445,6 @@
 - [awstack](https://github.com/mhmdio/awstack) - dev, stage and prod environments on AWS using Terraform, packer, vagrant and ansible - NEW Version will be updated
 - [multiple-envs](https://github.com/hashicorp/multiple-envs) - 
 - [c1m](https://github.com/hashicorp/c1m) - Nomad, Terraform, and Packer configurations for the Million Container Challenge (C1M)
-- [atlas-examples](https://github.com/hashicorp/atlas-examples) - Public examples for using Atlas by HashiCorp
 - [angostura](https://github.com/hashlabs/angostura) - Terraform templates library
 - [byo-data-pipeline](https://github.com/segmentio/byo-data-pipeline) - Bring your own Data Pipeline
 - [terraform-circleci-demo](https://github.com/knakayama/terraform-circleci-demo) - 
@@ -1148,7 +1148,6 @@
 - [awesome-static-analysis](https://github.com/mre/awesome-static-analysis) - A curated list of linters, code quality checkers, and other static analysis tools  for various programming languages
 - [wsta](https://github.com/esphen/wsta) - A CLI development tool for WebSocket APIs
 - [alacritty](https://github.com/jwilm/alacritty) - A cross-platform, GPU-accelerated terminal emulator
-- [awesomo](https://github.com/lk-geimfari/awesomo) - An extensive list of interesting open source projects written in С, C++, Clojure, Lisp, Elixir, Erlang, Elm, Golang, Haskell, JavaScript, Lua, OCaml, Python, R, Ruby, Rust, Scala etc.
 - [habitat](https://github.com/habitat-sh/habitat) - Modern applications with built-in automation
 
 ## Scala 

@@ -148,6 +148,7 @@
 
 ## Dockerfile 
 
+- [wildfly-docker-deployment-example](https://github.com/goldmann/wildfly-docker-deployment-example) - 
 - [dockerfiles](https://github.com/jessfraz/dockerfiles) - Various Dockerfiles I use on the desktop and on servers.
 - [docker-atom-editor](https://github.com/jamesnetherton/docker-atom-editor) - Run the Atom editor within a Docker container
 - [hazelcast-docker](https://github.com/hazelcast/hazelcast-docker) - This repository contains docker image for Hazelcast open-source in-memory data-grid.
@@ -166,6 +167,8 @@
 
 ## Go 
 
+- [prometheus-devops-linter](https://github.com/leominov/prometheus-devops-linter) - High-level linter for Prometheus rules
+- [pgpool2-exporter](https://github.com/leominov/pgpool2-exporter) - 
 - [consul-esm](https://github.com/hashicorp/consul-esm) - External service monitoring for Consul
 - [ksonnet](https://github.com/ksonnet/ksonnet) - A CLI-supported framework that streamlines writing and deployment of Kubernetes configurations to multiple clusters.
 - [eksctl](https://github.com/weaveworks/eksctl) - a CLI for Amazon EKS
@@ -526,7 +529,6 @@
 - [swagger-codegen](https://github.com/swagger-api/swagger-codegen) - swagger-codegen contains a template-driven engine to generate documentation, API clients and server stubs in different languages by parsing your OpenAPI / Swagger definition.
 - [archi-example](https://github.com/Macroz/archi-example) - Example project for archi also useful as a quickstart template.
 - [haskell-language-hcl](https://github.com/beijaflor-io/haskell-language-hcl) - language-hcl contains HCL (Hashicorp Configuration Language) parsers and pretty-printers for the Haskell programming language
-- [vault-crowdsource](https://github.com/sethvargo/vault-crowdsource) - 
 - [node-red-contrib-aws](https://github.com/joeartsea/node-red-contrib-aws) - A collection of Node-RED nodes for AWS.
 - [styleguide](https://github.com/google/styleguide) - Style guides for Google-originated open-source projects
 - [hugo-material-docs](https://github.com/digitalcraftsman/hugo-material-docs) - Port of Martin Donath's mkdocs-material theme to Hugo
@@ -1210,7 +1212,6 @@
 - [docker-consul](https://github.com/hashicorp/docker-consul) - Official Docker images for Consul.
 - [windup-ci](https://github.com/windup/windup-ci) - Jenkins scripts, perf tests, tools etc.
 - [base-jdk](https://github.com/jboss-dockerfiles/base-jdk) - Base Docker image for Middleware with JDK
-- [wildfly-docker-deployment-example](https://github.com/goldmann/wildfly-docker-deployment-example) - 
 - [intellij-colors-solarized](https://github.com/jkaving/intellij-colors-solarized) - Solarized Colorscheme for IntelliJ IDEA
 - [vagrant-bash-completion](https://github.com/kura/vagrant-bash-completion) - Add autocomplete for Vagrant to bash completion
 - [aws](https://github.com/swoodford/aws) - A collection of bash shell scripts for automating various tasks with Amazon Web Services using the AWS CLI and jq.

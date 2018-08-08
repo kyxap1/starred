@@ -167,6 +167,8 @@
 
 ## Go 
 
+- [stern](https://github.com/wercker/stern) - ⎈ Multi pod and container log tailing for Kubernetes
+- [rds_exporter](https://github.com/percona/rds_exporter) - RDS exporter for Prometheus
 - [prometheus-devops-linter](https://github.com/leominov/prometheus-devops-linter) - High-level linter for Prometheus rules
 - [pgpool2-exporter](https://github.com/leominov/pgpool2-exporter) - 
 - [consul-esm](https://github.com/hashicorp/consul-esm) - External service monitoring for Consul
@@ -518,6 +520,7 @@
 
 ## HTML 
 
+- [cryptr](https://github.com/adobe/cryptr) - Cryptr: a GUI for Hashicorp's Vault
 - [overwatch-dpi-tool](https://github.com/Pyrolistical/overwatch-dpi-tool) - 
 - [nginx-https-base](https://github.com/naggie/nginx-https-base) - An Ubuntu 16.04 Ansible role for small-scale nginx with automatic HTTPS via certbot/LE, better error pages, useful templates
 - [iproute2-cheatsheet](https://github.com/dmbaturin/iproute2-cheatsheet) - iproute2 command reference
@@ -546,6 +549,7 @@
 
 ## Java 
 
+- [cassandra_exporter](https://github.com/criteo/cassandra_exporter) - Apache Cassandra® metrics exporter for Prometheus
 - [cassandra-reaper](https://github.com/thelastpickle/cassandra-reaper) - Automated Repair Awesomeness for Apache Cassandra
 - [open-airplay](https://github.com/jamesdlow/open-airplay) - A collection of libraries for Apple's AirPlay protocol
 - [zipkin](https://github.com/openzipkin/zipkin) - Zipkin is a distributed tracing system
@@ -613,6 +617,7 @@
 
 ## JavaScript 
 
+- [cabin](https://github.com/bitnami-labs/cabin) - The Mobile Dashboard for Kubernetes
 - [public](https://github.com/kausalco/public) - Kausal's monorepo for Open Source projects
 - [jsoneditor](https://github.com/josdejong/jsoneditor) - A web-based tool to view, edit, format, and validate JSON
 - [blast-radius](https://github.com/28mm/blast-radius) - Interactive visualizations of Terraform dependency graphs using d3.js
@@ -1164,6 +1169,8 @@
 
 ## Shell 
 
+- [kubectx](https://github.com/ahmetb/kubectx) - Fast way to switch between clusters and namespaces in kubectl!
+- [kube-ps1](https://github.com/jonmosco/kube-ps1) - Kubernetes prompt info for bash and zsh
 - [consul-dns-for-kubernetes](https://github.com/anubhavmishra/consul-dns-for-kubernetes) - Consul DNS Interface for Kubernetes
 - [grafonnet-lib](https://github.com/grafana/grafonnet-lib) - Jsonnet library for generating Grafana dashboard files.
 - [fonts](https://github.com/powerline/fonts) - Patched fonts for Powerline users.

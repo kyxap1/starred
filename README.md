@@ -167,6 +167,8 @@
 
 ## Go 
 
+- [mender](https://github.com/mendersoftware/mender) - Mender over-the-air software updater client.
+- [kiam](https://github.com/uswitch/kiam) - Integrate AWS IAM with Kubernetes
 - [stern](https://github.com/wercker/stern) - ⎈ Multi pod and container log tailing for Kubernetes
 - [rds_exporter](https://github.com/percona/rds_exporter) - RDS exporter for Prometheus
 - [prometheus-devops-linter](https://github.com/leominov/prometheus-devops-linter) - High-level linter for Prometheus rules
@@ -899,6 +901,7 @@
 
 ## Python 
 
+- [explainshell](https://github.com/idank/explainshell) - match command-line arguments to their help text
 - [alerta](https://github.com/alerta/alerta) - Alerta monitoring system
 - [termtosvg](https://github.com/nbedos/termtosvg) - Record terminal sessions as SVG animations
 - [pritunl-python-sdk](https://github.com/chaordic/pritunl-python-sdk) - Unofficial Pritunl Client Library that allows to easily interact with Pritunl API in Python.

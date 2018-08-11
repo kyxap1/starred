@@ -706,7 +706,7 @@
 - [eslint-config-datapipeline](https://github.com/DataPipelineInc/eslint-config-datapipeline) - Data pipeline ESLint configuration
 - [DataPipeline-download](https://github.com/pearsonlab/DataPipeline-download) - downloading files from AWS DataPipeline system
 - [generator-jhipster](https://github.com/jhipster/generator-jhipster) - Open Source application generator for creating Spring Boot + Angular/React projects in seconds!
-- [dredd](https://github.com/apiaryio/dredd) - Language-agnostic HTTP API Testing Framework
+- [dredd](https://github.com/apiaryio/dredd) - Language-agnostic HTTP API Testing Tool
 - [gql-tools](https://github.com/almilo/gql-tools) - GraphQL Tools for schema handling.
 - [graphiql](https://github.com/graphql/graphiql) - An in-browser IDE for exploring GraphQL.
 - [beanform](https://github.com/turnerlabs/beanform) - Reverse engineer AWS Elasticbeanstalk apps into Terraform source code

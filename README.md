@@ -901,6 +901,7 @@
 
 ## Python 
 
+- [zabbix_aws_template](https://github.com/tech-sketch/zabbix_aws_template) - This is AWS monitoring integration Zabbix templates.
 - [explainshell](https://github.com/idank/explainshell) - match command-line arguments to their help text
 - [alerta](https://github.com/alerta/alerta) - Alerta monitoring system
 - [termtosvg](https://github.com/nbedos/termtosvg) - Record terminal sessions as SVG animations

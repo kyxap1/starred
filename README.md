@@ -415,6 +415,7 @@
 
 ## HCL 
 
+- [prometheus-aws-configuration-beta](https://github.com/alphagov/prometheus-aws-configuration-beta) - Terraform configuration to manage a Prometheus server running on AWS.
 - [elasticsearch-cloud-deploy](https://github.com/kostyrev/elasticsearch-cloud-deploy) - Deploy Elasticsearch on the cloud easily
 - [terraform-aws-influxdb](https://github.com/influxdata/terraform-aws-influxdb) - Deploys InfluxDB OSS and Enterprise to AWS
 - [terraform-null-assert](https://github.com/kchugalinskiy/terraform-null-assert) - Terraform assertion module
@@ -777,6 +778,7 @@
 
 ## Others 
 
+- [soa-checklist](https://github.com/paunin/soa-checklist) - Microservice Oriented Architecture checklist
 - [awesome-consul](https://github.com/josegonzalez/awesome-consul) - A list of awesome consul projects, libraries
 - [bash-shortcuts-cheat-sheet](https://github.com/fliptheweb/bash-shortcuts-cheat-sheet) - Useful shortcuts for bash/zsh
 - [developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) - Roadmap to becoming a web developer in 2018
@@ -901,6 +903,7 @@
 
 ## Python 
 
+- [grafanalib](https://github.com/weaveworks/grafanalib) - Python library for building Grafana dashboards
 - [zabbix_aws_template](https://github.com/tech-sketch/zabbix_aws_template) - This is AWS monitoring integration Zabbix templates.
 - [explainshell](https://github.com/idank/explainshell) - match command-line arguments to their help text
 - [alerta](https://github.com/alerta/alerta) - Alerta monitoring system
@@ -1173,6 +1176,7 @@
 
 ## Shell 
 
+- [aws-workshop-for-kubernetes](https://github.com/aws-samples/aws-workshop-for-kubernetes) - AWS Workshop for Kubernetes
 - [kubectx](https://github.com/ahmetb/kubectx) - Fast way to switch between clusters and namespaces in kubectl!
 - [kube-ps1](https://github.com/jonmosco/kube-ps1) - Kubernetes prompt info for bash and zsh
 - [consul-dns-for-kubernetes](https://github.com/anubhavmishra/consul-dns-for-kubernetes) - Consul DNS Interface for Kubernetes

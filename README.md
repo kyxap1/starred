@@ -1146,7 +1146,7 @@
 - [infrastructure-as-code-training](https://github.com/gruntwork-io/infrastructure-as-code-training) - Materials for learning how to use infrastructure-as-code
 - [rspec-terraform](https://github.com/bsnape/rspec-terraform) - RSpec tests for your Terraform modules
 - [zonify](https://github.com/airbnb/zonify) - a command line tool for generating DNS records from EC2 instances
-- [jekyll](https://github.com/jekyll/jekyll) - :globe_with_meridians: Jekyll is a blog-aware, static site generator in Ruby
+- [jekyll](https://github.com/jekyll/jekyll) - :globe_with_meridians: Jekyll is a blog-aware static site generator in Ruby
 - [gist](https://github.com/defunkt/gist) - Potentially the best command line gister.
 - [racker](https://github.com/aspring/racker) - Racker is an opinionated Ruby DSL for generating Packer(www.packer.io) templates.
 - [einarc](https://github.com/inq-team/einarc) - Einarc (Einarc is not a RAID CLI) is a universal storage RAID command line interface and an API that provides management for various hardware/software RAID devices, uniting them all in a single paradigm

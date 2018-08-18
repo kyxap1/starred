@@ -558,7 +558,7 @@
 - [open-airplay](https://github.com/jamesdlow/open-airplay) - A collection of libraries for Apple's AirPlay protocol
 - [zipkin](https://github.com/openzipkin/zipkin) - Zipkin is a distributed tracing system
 - [YCSB](https://github.com/brianfrankcooper/YCSB) - Yahoo! Cloud Serving Benchmark
-- [localstack-spring-boot](https://github.com/smartupio/localstack-spring-boot) - Spring Boot auto configuration for LocalStack
+- [localstack-spring-boot](https://github.com/smartupio/localstack-spring-boot) - Spring Boot AutoConfiguration for LocalStack
 - [archi](https://github.com/archimatetool/archi) - Archi: ArchiMate Modelling Tool
 - [s3proxy](https://github.com/gaul/s3proxy) - Access other storage backends via the S3 API
 - [test-automation-quickstart](https://github.com/opencredo/test-automation-quickstart) - Quickstart project for test automation, covering performance, ui acceptance and api acceptance testing
@@ -1271,7 +1271,6 @@
 - [container-storage-setup](https://github.com/projectatomic/container-storage-setup) - Service to set up storage for Docker and other container systems
 - [bitpocket](https://github.com/sickill/bitpocket) - "DIY Dropbox" or "2-way directory (r)sync with proper deletion"
 - [quick-secure](https://github.com/marshyski/quick-secure) - Quickly secure UNIX/Linux systems
-- [cassandra-terraform](https://github.com/RobotsAndPencils/cassandra-terraform) - Simple deployment of a cassandra cluster to AWS
 - [tfenv](https://github.com/Zordrak/tfenv) - Terraform version manager
 - [aws-ec2-raid0-script](https://github.com/starrlingo/aws-ec2-raid0-script) - Provide a template script to perform Raid 0 architecture in AWS EC2
 - [repository](https://github.com/ulyaoth/repository) - Ulyaoth Repository

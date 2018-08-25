@@ -168,6 +168,7 @@
 
 ## Go 
 
+- [helm](https://github.com/helm/helm) - The Kubernetes Package Manager
 - [mender](https://github.com/mendersoftware/mender) - Mender over-the-air software updater client.
 - [kiam](https://github.com/uswitch/kiam) - Integrate AWS IAM with Kubernetes
 - [stern](https://github.com/wercker/stern) - ⎈ Multi pod and container log tailing for Kubernetes

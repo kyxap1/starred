@@ -622,6 +622,8 @@
 
 ## JavaScript 
 
+- [citizen](https://github.com/outsideris/citizen) - A Private Terraform Module Registry
+- [ff-password-exporter](https://github.com/kspearrin/ff-password-exporter) - Easily export your passwords from Firefox.
 - [cabin](https://github.com/bitnami-labs/cabin) - The Mobile Dashboard for Kubernetes
 - [public](https://github.com/kausalco/public) - Kausal's monorepo for Open Source projects
 - [jsoneditor](https://github.com/josdejong/jsoneditor) - A web-based tool to view, edit, format, and validate JSON
@@ -905,6 +907,7 @@
 
 ## Python 
 
+- [ffpass](https://github.com/louisabraham/ffpass) - Import and Export passwords for Firefox Quantum
 - [grafanalib](https://github.com/weaveworks/grafanalib) - Python library for building Grafana dashboards
 - [zabbix_aws_template](https://github.com/tech-sketch/zabbix_aws_template) - This is AWS monitoring integration Zabbix templates.
 - [explainshell](https://github.com/idank/explainshell) - match command-line arguments to their help text

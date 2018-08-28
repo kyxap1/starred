@@ -579,7 +579,6 @@
 - [json-data-generator](https://github.com/acesinc/json-data-generator) - A robust, generic, streaming random json data generator for your data
 - [node-info](https://github.com/goldmann/node-info) - A simple web app (servlet only) that show the node/host name of the JBoss EAP/Wildfly server
 - [consul-api](https://github.com/Ecwid/consul-api) - Java client for Consul HTTP API
-- [WhereHows](https://github.com/linkedin/WhereHows) - Data Discovery and Lineage for Big Data Ecosystem
 - [ambry](https://github.com/linkedin/ambry) - Distributed object store
 - [incubator-gobblin](https://github.com/apache/incubator-gobblin) - Gobblin is a distributed big data integration framework (ingestion, replication, compliance, retention)  for batch and streaming systems. Gobblin features integrations with Apache Hadoop, Apache Kafka, Salesforce, S3, MySQL, Google etc.
 - [airpal](https://github.com/airbnb/airpal) - Web UI for PrestoDB.
@@ -994,6 +993,7 @@
 - [dogen](https://github.com/jboss-dockerfiles/dogen) - Simple Dockerfile generator
 - [cstar_perf](https://github.com/datastax/cstar_perf) - Apache Cassandra performance testing platform
 - [ansible-python-lambda](https://github.com/YPlan/ansible-python-lambda) - Example deployment of an AWS Lambda function with Ansible
+- [WhereHows](https://github.com/linkedin/WhereHows) - Data Discovery and Lineage for Big Data Ecosystem
 - [kafka-tools](https://github.com/linkedin/kafka-tools) - A collection of tools for working with Apache Kafka.
 - [python-prompt-toolkit](https://github.com/jonathanslenders/python-prompt-toolkit) - Library for building powerful interactive command line applications in Python
 - [s3cmd](https://github.com/s3tools/s3cmd) - Official s3cmd repo -- Command line tool for managing Amazon S3 and CloudFront services

@@ -82,7 +82,7 @@
 - [ngx_small_light](https://github.com/cubicdaiya/ngx_small_light) - Dynamic Image Transformation Module For nginx.
 - [Remmina](https://github.com/FreeRDP/Remmina) - Mirror of https://gitlab.com/Remmina/Remmina The GTK+ Remmina Remote Desktop Client
 - [hwraid](https://github.com/eLvErDe/hwraid) - HWRaid: Free code from http://hwraid.le-vert.net
-- [awesome-nginx](https://github.com/agile6v/awesome-nginx) - A curated list of awesome Nginx distributions, third modules, active developers, etc. :octocat:
+- [awesome-nginx](https://github.com/agile6v/awesome-nginx) - A curated list of awesome Nginx distributions, 3rd party modules, active developers, etc. :octocat:
 - [reptyr](https://github.com/nelhage/reptyr) - Reparent a running program to a new terminal
 - [goaccess](https://github.com/allinurl/goaccess) - GoAccess is a real-time web log analyzer and interactive viewer that runs in a terminal in *nix systems or through your browser.
 

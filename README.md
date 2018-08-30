@@ -148,6 +148,7 @@
 
 ## Dockerfile 
 
+- [nocode](https://github.com/kelseyhightower/nocode) - The best way to write secure and reliable applications. Write nothing; deploy nowhere.
 - [PostDock](https://github.com/paunin/PostDock) - PostDock - Postgres & Docker - Postgres streaming replication cluster for any docker environment
 - [wildfly-docker-deployment-example](https://github.com/goldmann/wildfly-docker-deployment-example) - 
 - [dockerfiles](https://github.com/jessfraz/dockerfiles) - Various Dockerfiles I use on the desktop and on servers.
@@ -624,7 +625,6 @@
 - [citizen](https://github.com/outsideris/citizen) - A Private Terraform Module Registry
 - [ff-password-exporter](https://github.com/kspearrin/ff-password-exporter) - Easily export your passwords from Firefox.
 - [cabin](https://github.com/bitnami-labs/cabin) - The Mobile Dashboard for Kubernetes
-- [public](https://github.com/kausalco/public) - Kausal's monorepo for Open Source projects
 - [jsoneditor](https://github.com/josdejong/jsoneditor) - A web-based tool to view, edit, format, and validate JSON
 - [blast-radius](https://github.com/28mm/blast-radius) - Interactive visualizations of Terraform dependency graphs using d3.js
 - [release-it](https://github.com/webpro/release-it) - CLI release tool for Git repos and npm packages.
@@ -762,6 +762,7 @@
 
 ## Makefile 
 
+- [jsonnet-libs](https://github.com/grafana/jsonnet-libs) - Grafana Labs' Jsonnet libraries
 - [ansible-roles](https://github.com/manala/ansible-roles) - Manala ansible roles
 - [terraform-spec](https://github.com/johnrengelman/terraform-spec) - Docker container of utilities for testing Terraform modules
 - [ansible-role-datastax-ddc](https://github.com/kostyrev/ansible-role-datastax-ddc) - 
@@ -790,7 +791,6 @@
 - [devopsfactors](https://github.com/Mykolaichenko/devopsfactors) - The DevOps-Factors
 - [prometheus](https://github.com/vegasbrianc/prometheus) - A docker-compose stack for Prometheus monitoring
 - [DTrace-book-scripts](https://github.com/brendangregg/DTrace-book-scripts) - Scripts from "DTrace: Dynamic Tracing in Oracle Solaris, Mac OS X, and FreeBSD", by Brendan Gregg and Jim Mauro, Prentice Hall, 2011.
-- [nocode](https://github.com/kelseyhightower/nocode) - The best way to write secure and reliable applications. Write nothing; deploy nowhere.
 - [the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line) - Master the command line, in one page
 - [ansible-symfony2](https://github.com/servergrove/ansible-symfony2) - Ansible role to deploy Symfony2 applications
 - [research](https://github.com/ssllabs/research) - 
@@ -957,7 +957,7 @@
 - [zabbix-cli](https://github.com/usit-gd/zabbix-cli) - Command-line interface for Zabbix
 - [slacker](https://github.com/os/slacker) - Full-featured Python interface for the Slack API
 - [system-design-primer](https://github.com/donnemartin/system-design-primer) - Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards.
-- [repositorytools](https://github.com/packagemgmt/repositorytools) - Python API and command-line interface for working with artifact repositories like sonatype nexus
+- [repositorytools](https://github.com/packagemgmt/repositorytools) - Python API and command-line interface for working with artifact repositories like Sonatype Nexus
 - [spilo](https://github.com/zalando/spilo) - Highly available elephant herd: HA PostgreSQL cluster using Docker
 - [aws_role_credentials](https://github.com/ThoughtWorksInc/aws_role_credentials) - Generates AWS credentials for roles using STS
 - [awsie](https://github.com/flomotlik/awsie) - CloudFormation aware wrapper for the AWSCLI

@@ -188,7 +188,6 @@
 - [streamroller](https://github.com/dustinblackman/streamroller) - Self hosted simulcasting to Twitch, Youtube, and Facebook made easy
 - [tfschema](https://github.com/minamijoyo/tfschema) - A schema inspector for Terraform providers
 - [gofaas](https://github.com/nzoschke/gofaas) - A boilerplate Go and AWS Lambda app. Demonstrates an expert configuration of 10+ AWS services to support running Go functions-as-a-service (FaaS).
-- [dex-k8s-authenticator](https://github.com/mintel/dex-k8s-authenticator) - A Kubernetes Dex Client Authenticator
 - [terraform-provider-hcloud](https://github.com/hetznercloud/terraform-provider-hcloud) - Terraform provider for Hetzner Cloud
 - [yq](https://github.com/mikefarah/yq) - yq is a portable command-line YAML processor
 - [envconfig](https://github.com/kelseyhightower/envconfig) - Golang library for managing configuration data from environment variables
@@ -418,6 +417,7 @@
 
 ## HCL 
 
+- [terraform-aws-config-state](https://github.com/cloudowski/terraform-aws-config-state) - Terraform code to provision terraform state backend on AWS
 - [prometheus-aws-configuration-beta](https://github.com/alphagov/prometheus-aws-configuration-beta) - Terraform configuration to manage a Prometheus server running on AWS.
 - [elasticsearch-cloud-deploy](https://github.com/kostyrev/elasticsearch-cloud-deploy) - Deploy Elasticsearch on the cloud easily
 - [terraform-aws-influxdb](https://github.com/influxdata/terraform-aws-influxdb) - Deploys InfluxDB OSS and Enterprise to AWS
@@ -527,6 +527,7 @@
 ## HTML 
 
 - [cryptr](https://github.com/adobe/cryptr) - Cryptr: a GUI for Hashicorp's Vault
+- [dex-k8s-authenticator](https://github.com/mintel/dex-k8s-authenticator) - A Kubernetes Dex Client Authenticator
 - [overwatch-dpi-tool](https://github.com/Pyrolistical/overwatch-dpi-tool) - 
 - [nginx-https-base](https://github.com/naggie/nginx-https-base) - An Ubuntu 16.04 Ansible role for small-scale nginx with automatic HTTPS via certbot/LE, better error pages, useful templates
 - [iproute2-cheatsheet](https://github.com/dmbaturin/iproute2-cheatsheet) - iproute2 command reference

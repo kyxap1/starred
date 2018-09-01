@@ -155,6 +155,7 @@
 - [docker-atom-editor](https://github.com/jamesnetherton/docker-atom-editor) - Run the Atom editor within a Docker container
 - [hazelcast-docker](https://github.com/hazelcast/hazelcast-docker) - This repository contains docker image for Hazelcast open-source in-memory data-grid.
 - [docker-node](https://github.com/nodejs/docker-node) - Official Docker Image for Node.js :whale: :turtle: :rocket:
+- [wildfly](https://github.com/jboss-dockerfiles/wildfly) - Docker image for WildFly project
 - [buildpack-deps](https://github.com/docker-library/buildpack-deps) - 
 - [nginx-boilerplate](https://github.com/nginx-boilerplate/nginx-boilerplate) - Awesome Nginx configuration template
 
@@ -866,7 +867,6 @@
 - [swagger-tools](https://github.com/joanasancho/swagger-tools) - 
 - [api-blueprint](https://github.com/apiaryio/api-blueprint) - API Blueprint
 - [docker-cheat-sheet](https://github.com/wsargent/docker-cheat-sheet) - Docker Cheat Sheet
-- [wildfly](https://github.com/jboss-dockerfiles/wildfly) - Docker image for WildFly project
 - [awesome-remote-job](https://github.com/lukasz-madon/awesome-remote-job) - A curated list of awesome remote jobs and resources. Inspired by https://github.com/vinta/awesome-python
 - [nginx-s3-upload](https://github.com/jamescmartinez/nginx-s3-upload) - S3 file upload proxy using Nginx, complete with AWS authentication.
 - [free-for-dev](https://github.com/ripienaar/free-for-dev) - A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
@@ -1173,7 +1173,7 @@
 ## Scala 
 
 - [gatling](https://github.com/gatling/gatling) - Async Scala-Akka-Netty based Load Test Tool
-- [snowplow](https://github.com/snowplow/snowplow) - Cloud-native web, mobile and event analytics, running on AWS and on-premise with Kafka
+- [snowplow](https://github.com/snowplow/snowplow) - Cloud-native web, mobile and event analytics, running on AWS, GCP and on-premise with Kafka
 - [hive-serde-schema-gen](https://github.com/strelec/hive-serde-schema-gen) - :clipboard: Generate Hive SerDe schema from a .json file.
 - [rudder](https://github.com/Normation/rudder) - Continuous configuration for effective compliance
 - [spark-cassandra-connector](https://github.com/datastax/spark-cassandra-connector) - DataStax Spark Cassandra Connector

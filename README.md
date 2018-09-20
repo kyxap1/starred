@@ -381,6 +381,7 @@
 - [terraform-aws-vars](https://github.com/drmdrew/terraform-aws-vars) - Generates Terraform AWS configuration variables suitable for the currently configured AWS account.
 - [terraform-plan-decoder](https://github.com/pearkes/terraform-plan-decoder) - A small utility to decode Terraform plan files.
 - [tholos](https://github.com/mhlias/tholos) - Prototype Terraform wrapper
+- [concourse](https://github.com/concourse/concourse) - Concourse CI
 - [terraform-provisioner-makefile](https://github.com/jtopjian/terraform-provisioner-makefile) - A Makefile / make provisioner for Terraform
 - [terrastache](https://github.com/cbroglie/terrastache) - Use terraform variables and mustache templates to generate terraform configs
 - [terraform-provider-localfile](https://github.com/mcoffin/terraform-provider-localfile) - Simple terraform provider plugin to give access to local files.
@@ -575,7 +576,7 @@
 - [elassandra](https://github.com/strapdata/elassandra) - Elassandra = Elasticsearch + Apache Cassandra
 - [flyway](https://github.com/flyway/flyway) - Flyway by Boxfuse • Database Migrations Made Easy.
 - [swagger-core](https://github.com/swagger-api/swagger-core) - Examples and server integrations for generating the Swagger API Specification, which enables easy access to your REST API
-- [grakn](https://github.com/graknlabs/grakn) - For all questions and discussions, please visit:
+- [grakn](https://github.com/graknlabs/grakn) - The Knowledge Graph
 - [bazel](https://github.com/bazelbuild/bazel) - a fast, scalable, multi-language and extensible build system
 - [android-json-model-generator](https://github.com/JAlexoid/android-json-model-generator) - A simple JSON Object Model generator for Android (JSON to Java)
 - [json-to-avro-schema-generator](https://github.com/sgmarghade/json-to-avro-schema-generator) - This will help you to generate AVRO schema from JSON schema.
@@ -1281,7 +1282,6 @@
 - [repository](https://github.com/ulyaoth/repository) - Ulyaoth Repository
 - [gvm](https://github.com/moovweb/gvm) - Go Version Manager
 - [wtf](https://github.com/wasdefn/wtf) - Wrappers for Terraform
-- [concourse](https://github.com/concourse/concourse) - BOSH release and development workspace for Concourse
 - [docker-cleanup](https://github.com/meltwater/docker-cleanup) - Automatic Docker image, container and volume cleanup
 - [terraform-remote-locking](https://github.com/downneck/terraform-remote-locking) - use an s3 bucket to hold remote locks to prevent corruption of remote tfstate
 - [docker-nginx-elb-websocket](https://github.com/Stockflare/docker-nginx-elb-websocket) - NGinx proxy pass configuration designed for Websockets load balanced through ELB, running on ECS

@@ -48,7 +48,6 @@
   - [Vim script](#vim script)
   - [VimL](#viml)
   - [Vue](#vue)
-  - [Web Ontology Language](#web ontology language)
   - [XSLT](#xslt)
 
 ## C 
@@ -175,7 +174,7 @@
 - [mender](https://github.com/mendersoftware/mender) - Mender over-the-air software updater client.
 - [kiam](https://github.com/uswitch/kiam) - Integrate AWS IAM with Kubernetes
 - [stern](https://github.com/wercker/stern) - ⎈ Multi pod and container log tailing for Kubernetes
-- [rds_exporter](https://github.com/percona/rds_exporter) - RDS exporter for Prometheus
+- [rds_exporter](https://github.com/percona/rds_exporter) - AWS RDS exporter for Prometheus
 - [prometheus-devops-linter](https://github.com/leominov/prometheus-devops-linter) - High-level linter for Prometheus rules
 - [pgpool2-exporter](https://github.com/leominov/pgpool2-exporter) - 
 - [consul-esm](https://github.com/hashicorp/consul-esm) - External service monitoring for Consul
@@ -577,7 +576,9 @@
 - [elassandra](https://github.com/strapdata/elassandra) - Elassandra = Elasticsearch + Apache Cassandra
 - [flyway](https://github.com/flyway/flyway) - Flyway by Boxfuse • Database Migrations Made Easy.
 - [swagger-core](https://github.com/swagger-api/swagger-core) - Examples and server integrations for generating the Swagger API Specification, which enables easy access to your REST API
+- [sample-projects](https://github.com/graknlabs/sample-projects) - Sample Java Projects for GRAKN.AI
 - [grakn](https://github.com/graknlabs/grakn) - The Knowledge Graph
+- [sample-datasets](https://github.com/graknlabs/sample-datasets) - Sample Graql Datasets for GRAKN.AI
 - [bazel](https://github.com/bazelbuild/bazel) - a fast, scalable, multi-language and extensible build system
 - [android-json-model-generator](https://github.com/JAlexoid/android-json-model-generator) - A simple JSON Object Model generator for Android (JSON to Java)
 - [json-to-avro-schema-generator](https://github.com/sgmarghade/json-to-avro-schema-generator) - This will help you to generate AVRO schema from JSON schema.
@@ -854,7 +855,7 @@
 - [bigtop-centos](https://github.com/tzolov/bigtop-centos) - Ready to use Docker environment for Apache Bigtop. Based on CentOS and equipped with all necessary tools and libraries.
 - [cassandra-monitoring](https://github.com/softwaremill/cassandra-monitoring) - Scripts for the Cassandra Monitoring blog miniseries
 - [awesome-db](https://github.com/numetriclabz/awesome-db) - A curated list of amazingly awesome database libraries, resources and shiny things by https://www.numetriclabz.com/
-- [awesome-public-datasets](https://github.com/awesomedata/awesome-public-datasets) - A topic-centric list of high-quality open datasets in public domains. Propose NEW data ☛☛☛PR☛☛☛
+- [awesome-public-datasets](https://github.com/awesomedata/awesome-public-datasets) - A topic-centric list of high-quality open datasets in public domains. New PR ☛☛☛
 - [onmetal-fast-docker](https://github.com/jayofdoom/onmetal-fast-docker) - Contains example cloud-config.yml files for mounting /var/lib/docker onto fast storage on OnMetal
 - [ntiered-aws-docker-terraform-guide](https://github.com/airpair/ntiered-aws-docker-terraform-guide) - 
 - [awesome-postgres](https://github.com/dhamaniasad/awesome-postgres) - A curated list of awesome PostgreSQL software, libraries, tools and resources, inspired by awesome-mysql
@@ -1359,11 +1360,6 @@
 ## Vue 
 
 - [goldfish](https://github.com/Caiyeon/goldfish) - A HashiCorp Vault UI written with VueJS and Vault native Go API
-
-## Web Ontology Language 
-
-- [sample-projects](https://github.com/graknlabs/sample-projects) - Sample Java Projects for GRAKN.AI
-- [sample-datasets](https://github.com/graknlabs/sample-datasets) - Sample Graql Datasets for GRAKN.AI
 
 ## XSLT 
 

@@ -614,7 +614,7 @@
 - [mutagen-cassandra](https://github.com/toddfast/mutagen-cassandra) - Mutate your Cassandra schema for fun and profit.
 - [cassandra-migration](https://github.com/Contrast-Security-OSS/cassandra-migration) - Database migration (evolution) tool for Apache Cassandra
 - [jvm-tools](https://github.com/aragozin/jvm-tools) - Small set of tools for JVM troublshooting, monitoring and profiling.
-- [priam](https://github.com/Netflix/priam) - Co-Process for backup/recovery, Token Management, and Centralized Configuration management for Cassandra.
+- [Priam](https://github.com/Netflix/Priam) - Co-Process for backup/recovery, Token Management, and Centralized Configuration management for Cassandra.
 - [useful-java-links](https://github.com/Vedenin/useful-java-links) - A list of useful Java frameworks, libraries, software and hello worlds examples
 - [jdeb](https://github.com/tcurdt/jdeb) - This library provides an Ant task and a Maven plugin to create Debian packages from Java builds in a truly cross platform manner.
 - [wildfly-logstash](https://github.com/kifj/wildfly-logstash) - Logstash appender for JBoss Wildfly
@@ -633,7 +633,6 @@
 - [jsoneditor](https://github.com/josdejong/jsoneditor) - A web-based tool to view, edit, format, and validate JSON
 - [blast-radius](https://github.com/28mm/blast-radius) - Interactive visualizations of Terraform dependency graphs using d3.js
 - [release-it](https://github.com/webpro/release-it) - CLI release tool for Git repos and npm packages.
-- [amplify-js](https://github.com/aws-amplify/amplify-js) - A declarative JavaScript library for application development using cloud services.
 - [graphql-compose-aws](https://github.com/graphql-compose/graphql-compose-aws) - AWS Cloud API via GraphQL
 - [kuzzle](https://github.com/kuzzleio/kuzzle) - Open-source Back-end, self-hostable & ready to use - Real-time, storage, advanced search - Web, Apps, Mobile, IoT -
 - [destiny2](https://github.com/Jake-Ruston/destiny2) - An API wrapper for Destiny 2.
@@ -810,7 +809,6 @@
 - [awesome-sre](https://github.com/dastergon/awesome-sre) - A curated list of Site Reliability and Production Engineering resources.
 - [awesome-design-systems](https://github.com/alexpate/awesome-design-systems) - 💅🏻 ⚒ A collection of awesome design systems
 - [awesome-docker](https://github.com/veggiemonk/awesome-docker) - :whale: A curated list of Docker resources and projects
-- [ansible-role-docker](https://github.com/geerlingguy/ansible-role-docker) - Ansible Role - Docker
 - [dockerfile-terraform](https://github.com/uzyexe/dockerfile-terraform) - Terraform Dockerfile
 - [awesome-pentest](https://github.com/enaqx/awesome-pentest) - A collection of awesome penetration testing resources, tools and other shiny things
 - [sense](https://github.com/cheics/sense) - a json aware ElasticSearch front end
@@ -947,6 +945,7 @@
 - [molecule](https://github.com/metacloud/molecule) - Molecule aids in the development and testing of Ansible roles.
 - [cassandra-migrate](https://github.com/Cobliteam/cassandra-migrate) - Simple Cassandra schema migration tool written in Python
 - [wait-for-it](https://github.com/vishnubob/wait-for-it) - Pure bash script to test and wait on the availability of a TCP host and port
+- [ansible-role-docker](https://github.com/geerlingguy/ansible-role-docker) - Ansible Role - Docker
 - [packergen](https://github.com/mkheironimus/packergen) - Generate JSON files for Packer (http://packer.io/) from human-friendly YAML sources.
 - [shyaml](https://github.com/0k/shyaml) - YAML for command line
 - [terratools](https://github.com/Crapworks/terratools) - Some tools to enhance your terraform experience
@@ -1168,7 +1167,7 @@
 
 ## Rust 
 
-- [awesome-static-analysis](https://github.com/mre/awesome-static-analysis) - A curated list of linters, code quality checkers, and other static analysis tools  for various programming languages
+- [awesome-static-analysis](https://github.com/mre/awesome-static-analysis) - Static analysis tools for all programming languages
 - [wsta](https://github.com/esphen/wsta) - A CLI development tool for WebSocket APIs
 - [alacritty](https://github.com/jwilm/alacritty) - A cross-platform, GPU-accelerated terminal emulator
 - [habitat](https://github.com/habitat-sh/habitat) - Modern applications with built-in automation
@@ -1324,6 +1323,7 @@
 
 ## TypeScript 
 
+- [amplify-js](https://github.com/aws-amplify/amplify-js) - A declarative JavaScript library for application development using cloud services.
 - [DIM](https://github.com/DestinyItemManager/DIM) - Destiny Item Manager
 - [vscode-terraform](https://github.com/mauve/vscode-terraform) - A Visual Studio Code plugin which contributes syntax highlighting, linting, formatting, and validation for Hashicorp's Terraform
 - [subscriptions-transport-ws](https://github.com/apollographql/subscriptions-transport-ws) - :arrows_clockwise: A WebSocket client + server for GraphQL subscriptions

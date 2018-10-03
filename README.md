@@ -169,6 +169,7 @@
 
 ## Go 
 
+- [hystrix_exporter](https://github.com/ContaAzul/hystrix_exporter) - exports hystrix/turbine metrics in the prometheus format
 - [ark](https://github.com/heptio/ark) - Heptio Ark is a utility for managing disaster recovery, specifically for your Kubernetes cluster resources and persistent volumes. Brought to you by Heptio.
 - [helm](https://github.com/helm/helm) - The Kubernetes Package Manager
 - [mender](https://github.com/mendersoftware/mender) - Mender over-the-air software updater client.
@@ -558,6 +559,7 @@
 
 ## Java 
 
+- [prometheus-hystrix](https://github.com/ahus1/prometheus-hystrix) - This is an implementation of a HystrixMetricsPublisher that publishes metrics using the Prometheus java client.
 - [cassandra_exporter](https://github.com/criteo/cassandra_exporter) - Apache Cassandra® metrics exporter for Prometheus
 - [cassandra-reaper](https://github.com/thelastpickle/cassandra-reaper) - Automated Repair Awesomeness for Apache Cassandra
 - [open-airplay](https://github.com/jamesdlow/open-airplay) - A collection of libraries for Apple's AirPlay protocol

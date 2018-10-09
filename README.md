@@ -804,6 +804,7 @@
 - [ansible-quickref](https://github.com/lorin/ansible-quickref) - Quick reference for Ansible variables
 - [awesome-ansible](https://github.com/jdauphant/awesome-ansible) - A collaborative curated list of awesome Ansible resources
 - [mysql](https://github.com/bennojoy/mysql) - ansible role for mysql
+- [ansible-role-mysql](https://github.com/geerlingguy/ansible-role-mysql) - Ansible Role - MySQL
 - [linux-sysadmin-interview-questions](https://github.com/chassing/linux-sysadmin-interview-questions) - Collection of Linux Sysadmin/DevOps interview questions
 - [consul](https://github.com/thechane/consul) - Docker compose file and other resources for running Consul as a service in Docker
 - [terraplate](https://github.com/rjayroach/terraplate) - use ansible templates to easily generate terraform modules, components and tfvars files
@@ -934,7 +935,6 @@
 - [sovereign](https://github.com/sovereign/sovereign) - A set of Ansible playbooks to build and maintain your own private cloud: email, calendar, contacts, file sync, IRC bouncer, VPN, and more.
 - [debops-playbooks](https://github.com/debops/debops-playbooks) - Ansible playbooks used by DebOps project
 - [beeswithmachineguns](https://github.com/newsapps/beeswithmachineguns) - A utility for arming (creating) many bees (micro EC2 instances) to attack (load test) targets (web applications).
-- [ansible-role-mysql](https://github.com/geerlingguy/ansible-role-mysql) - Ansible Role - MySQL
 - [grafcli](https://github.com/m110/grafcli) - Grafana CLI for quick and easy dashboards management.
 - [deoplete.nvim](https://github.com/Shougo/deoplete.nvim) - :stars: Dark powered asynchronous completion framework for neovim/Vim8
 - [promgen](https://github.com/line/promgen) - Promgen is a configuration file generator for Prometheus

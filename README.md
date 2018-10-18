@@ -169,6 +169,7 @@
 
 ## Go 
 
+- [gitlab-ci-linter](https://github.com/orobardet/gitlab-ci-linter) - This is an automated mirror of the gitlab project. Please use gitlab project as reference: https://gitlab.com/orobardet/gitlab-ci-linter
 - [hystrix_exporter](https://github.com/ContaAzul/hystrix_exporter) - exports hystrix/turbine metrics in the prometheus format
 - [ark](https://github.com/heptio/ark) - Heptio Ark is a utility for managing disaster recovery, specifically for your Kubernetes cluster resources and persistent volumes. Brought to you by Heptio.
 - [helm](https://github.com/helm/helm) - The Kubernetes Package Manager
@@ -911,6 +912,7 @@
 
 ## Python 
 
+- [aws-cli](https://github.com/aws/aws-cli) - Universal Command Line Interface for Amazon Web Services
 - [ffpass](https://github.com/louisabraham/ffpass) - Import and Export passwords for Firefox Quantum
 - [grafanalib](https://github.com/weaveworks/grafanalib) - Python library for building Grafana dashboards
 - [zabbix_aws_template](https://github.com/tech-sketch/zabbix_aws_template) - This is AWS monitoring integration Zabbix templates.

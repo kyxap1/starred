@@ -421,6 +421,7 @@
 
 ## HCL 
 
+- [terraform-bootstrap-example](https://github.com/monterail/terraform-bootstrap-example) - Template repo for new projects
 - [terraform-aws-config-state](https://github.com/cloudowski/terraform-aws-config-state) - Terraform code to provision terraform state backend on AWS
 - [prometheus-aws-configuration-beta](https://github.com/alphagov/prometheus-aws-configuration-beta) - Terraform configuration to manage a Prometheus server running on AWS.
 - [elasticsearch-cloud-deploy](https://github.com/kostyrev/elasticsearch-cloud-deploy) - Deploy Elasticsearch on the cloud easily
@@ -789,6 +790,7 @@
 
 ## Others 
 
+- [webapp](https://github.com/aeroflotsrc/webapp) - Web application source code Aeroflot
 - [soa-checklist](https://github.com/paunin/soa-checklist) - Microservice Oriented Architecture checklist
 - [awesome-consul](https://github.com/josegonzalez/awesome-consul) - A list of awesome consul projects, libraries
 - [bash-shortcuts-cheat-sheet](https://github.com/fliptheweb/bash-shortcuts-cheat-sheet) - Useful shortcuts for bash/zsh

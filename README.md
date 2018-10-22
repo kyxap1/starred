@@ -771,6 +771,7 @@
 
 ## Makefile 
 
+- [terraform-makefile](https://github.com/pgporada/terraform-makefile) - Helps me actually use terraform for multiple environments
 - [jsonnet-libs](https://github.com/grafana/jsonnet-libs) - Grafana Labs' Jsonnet libraries
 - [ansible-roles](https://github.com/manala/ansible-roles) - Manala ansible roles
 - [terraform-spec](https://github.com/johnrengelman/terraform-spec) - Docker container of utilities for testing Terraform modules
@@ -1095,7 +1096,7 @@
 
 ## R 
 
-- [nyc-taxi-data](https://github.com/toddwschneider/nyc-taxi-data) - Import public NYC taxi and Uber trip data into PostgreSQL / PostGIS database, analyze with R
+- [nyc-taxi-data](https://github.com/toddwschneider/nyc-taxi-data) - Import public NYC taxi and for-hire vehicle (Uber, Lyft, etc.) trip data into PostgreSQL database
 
 ## Ruby 
 

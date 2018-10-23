@@ -421,6 +421,7 @@
 
 ## HCL 
 
+- [terraform-multi-account](https://github.com/inovex/terraform-multi-account) - Some example how toadress multiple aws accounts with Terraform
 - [aws_travis](https://github.com/FRosner/aws_travis) - 
 - [terraform-bootstrap-example](https://github.com/monterail/terraform-bootstrap-example) - Template repo for new projects
 - [terraform-aws-config-state](https://github.com/cloudowski/terraform-aws-config-state) - Terraform code to provision terraform state backend on AWS
@@ -771,7 +772,6 @@
 
 ## Makefile 
 
-- [terraform-makefile](https://github.com/pgporada/terraform-makefile) - Helps me actually use terraform for multiple environments
 - [jsonnet-libs](https://github.com/grafana/jsonnet-libs) - Grafana Labs' Jsonnet libraries
 - [ansible-roles](https://github.com/manala/ansible-roles) - Manala ansible roles
 - [terraform-spec](https://github.com/johnrengelman/terraform-spec) - Docker container of utilities for testing Terraform modules
@@ -916,6 +916,8 @@
 
 ## Python 
 
+- [ansible-role-cassandra](https://github.com/kostyrev/ansible-role-cassandra) - ansible role to only install Apache Cassandra
+- [cstar](https://github.com/spotify/cstar) - Apache Cassandra cluster orchestration tool for the command line
 - [aws-cli](https://github.com/aws/aws-cli) - Universal Command Line Interface for Amazon Web Services
 - [ffpass](https://github.com/louisabraham/ffpass) - Import and Export passwords for Firefox Quantum
 - [grafanalib](https://github.com/weaveworks/grafanalib) - Python library for building Grafana dashboards

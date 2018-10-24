@@ -169,6 +169,7 @@
 
 ## Go 
 
+- [terraform-provisioner-inspec](https://github.com/inspec/terraform-provisioner-inspec) - Terraform InSpec Provisioner Plugin
 - [gitlab-ci-linter](https://github.com/orobardet/gitlab-ci-linter) - This is an automated mirror of the gitlab project. Please use gitlab project as reference: https://gitlab.com/orobardet/gitlab-ci-linter
 - [hystrix_exporter](https://github.com/ContaAzul/hystrix_exporter) - exports hystrix/turbine metrics in the prometheus format
 - [ark](https://github.com/heptio/ark) - Heptio Ark is a utility for managing disaster recovery, specifically for your Kubernetes cluster resources and persistent volumes. Brought to you by Heptio.
@@ -353,7 +354,7 @@
 - [ctop](https://github.com/chrusty/ctop) - CTOP ("top" for Cassandra) - See what's going on in real-time
 - [go-priam](https://github.com/alext29/go-priam) - Backup and restore Cassandra DB to AWS S3
 - [terraform-multipart-userdata](https://github.com/chrusty/terraform-multipart-userdata) - Cruft for Terraform
-- [autospotting](https://github.com/cristim/autospotting) - Automatically convert your existing AutoScaling groups to significantly cheaper spot instances with minimal(often zero) configuration changes
+- [autospotting](https://github.com/cristim/autospotting) - Automatically convert your existing AutoScaling groups to up to 90% cheaper spot instances with minimal(often zero) configuration changes
 - [oauth2_proxy](https://github.com/bitly/oauth2_proxy) - A reverse proxy that provides authentication with Google, Github or other provider
 - [bashcomp](https://github.com/omakoto/bashcomp) - 
 - [sh](https://github.com/mvdan/sh) - A shell parser, formatter and interpreter (POSIX/Bash/mksh)
@@ -817,6 +818,7 @@
 - [awesome-sre](https://github.com/dastergon/awesome-sre) - A curated list of Site Reliability and Production Engineering resources.
 - [awesome-design-systems](https://github.com/alexpate/awesome-design-systems) - 💅🏻 ⚒ A collection of awesome design systems
 - [awesome-docker](https://github.com/veggiemonk/awesome-docker) - :whale: A curated list of Docker resources and projects
+- [ansible-role-docker](https://github.com/geerlingguy/ansible-role-docker) - Ansible Role - Docker
 - [dockerfile-terraform](https://github.com/uzyexe/dockerfile-terraform) - Terraform Dockerfile
 - [awesome-pentest](https://github.com/enaqx/awesome-pentest) - A collection of awesome penetration testing resources, tools and other shiny things
 - [sense](https://github.com/cheics/sense) - a json aware ElasticSearch front end
@@ -956,7 +958,6 @@
 - [molecule](https://github.com/metacloud/molecule) - Molecule aids in the development and testing of Ansible roles.
 - [cassandra-migrate](https://github.com/Cobliteam/cassandra-migrate) - Simple Cassandra schema migration tool written in Python
 - [wait-for-it](https://github.com/vishnubob/wait-for-it) - Pure bash script to test and wait on the availability of a TCP host and port
-- [ansible-role-docker](https://github.com/geerlingguy/ansible-role-docker) - Ansible Role - Docker
 - [packergen](https://github.com/mkheironimus/packergen) - Generate JSON files for Packer (http://packer.io/) from human-friendly YAML sources.
 - [shyaml](https://github.com/0k/shyaml) - YAML for command line
 - [terratools](https://github.com/Crapworks/terratools) - Some tools to enhance your terraform experience

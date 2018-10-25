@@ -169,6 +169,7 @@
 
 ## Go 
 
+- [gitlab-project-settings](https://github.com/leominov/gitlab-project-settings) - Sync GitLab project settings
 - [terraform-provisioner-inspec](https://github.com/inspec/terraform-provisioner-inspec) - Terraform InSpec Provisioner Plugin
 - [gitlab-ci-linter](https://github.com/orobardet/gitlab-ci-linter) - This is an automated mirror of the gitlab project. Please use gitlab project as reference: https://gitlab.com/orobardet/gitlab-ci-linter
 - [hystrix_exporter](https://github.com/ContaAzul/hystrix_exporter) - exports hystrix/turbine metrics in the prometheus format
@@ -793,7 +794,6 @@
 
 ## Others 
 
-- [webapp](https://github.com/aeroflotsrc/webapp) - Web application source code Aeroflot
 - [soa-checklist](https://github.com/paunin/soa-checklist) - Microservice Oriented Architecture checklist
 - [awesome-consul](https://github.com/josegonzalez/awesome-consul) - A list of awesome consul projects, libraries
 - [bash-shortcuts-cheat-sheet](https://github.com/fliptheweb/bash-shortcuts-cheat-sheet) - Useful shortcuts for bash/zsh

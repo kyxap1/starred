@@ -169,6 +169,8 @@
 
 ## Go 
 
+- [envconsul](https://github.com/hashicorp/envconsul) - Launch a subprocess with environment variables using data from @HashiCorp Consul and Vault.
+- [sift](https://github.com/svent/sift) - A fast and powerful alternative to grep
 - [gitlab-project-settings](https://github.com/leominov/gitlab-project-settings) - Sync GitLab project settings
 - [terraform-provisioner-inspec](https://github.com/inspec/terraform-provisioner-inspec) - Terraform InSpec Provisioner Plugin
 - [gitlab-ci-linter](https://github.com/orobardet/gitlab-ci-linter) - This is an automated mirror of the gitlab project. Please use gitlab project as reference: https://gitlab.com/orobardet/gitlab-ci-linter
@@ -635,6 +637,7 @@
 
 ## JavaScript 
 
+- [kutt](https://github.com/thedevs-network/kutt) - Free Modern URL Shortener.
 - [citizen](https://github.com/outsideris/citizen) - A Private Terraform Module Registry
 - [ff-password-exporter](https://github.com/kspearrin/ff-password-exporter) - Easily export your passwords from Firefox.
 - [cabin](https://github.com/bitnami-labs/cabin) - The Mobile Dashboard for Kubernetes
@@ -1010,7 +1013,7 @@
 - [ansible-python-lambda](https://github.com/YPlan/ansible-python-lambda) - Example deployment of an AWS Lambda function with Ansible
 - [WhereHows](https://github.com/linkedin/WhereHows) - Data Discovery and Lineage for Big Data Ecosystem
 - [kafka-tools](https://github.com/linkedin/kafka-tools) - A collection of tools for working with Apache Kafka.
-- [python-prompt-toolkit](https://github.com/jonathanslenders/python-prompt-toolkit) - Library for building powerful interactive command line applications in Python
+- [python-prompt-toolkit](https://github.com/prompt-toolkit/python-prompt-toolkit) - Library for building powerful interactive command line applications in Python
 - [s3cmd](https://github.com/s3tools/s3cmd) - Official s3cmd repo -- Command line tool for managing Amazon S3 and CloudFront services
 - [schema](https://github.com/keleshev/schema) - Schema validation just got Pythonic
 - [mailinabox](https://github.com/mail-in-a-box/mailinabox) - Mail-in-a-Box helps individuals take back control of their email by defining a one-click, easy-to-deploy SMTP+everything else server: a mail server in a box.
@@ -1179,6 +1182,7 @@
 
 ## Rust 
 
+- [ripgrep](https://github.com/BurntSushi/ripgrep) - ripgrep recursively searches directories for a regex pattern
 - [awesome-static-analysis](https://github.com/mre/awesome-static-analysis) - Static analysis tools for all programming languages
 - [wsta](https://github.com/esphen/wsta) - A CLI development tool for WebSocket APIs
 - [alacritty](https://github.com/jwilm/alacritty) - A cross-platform, GPU-accelerated terminal emulator

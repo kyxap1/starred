@@ -32,7 +32,6 @@
   - [Objective-C](#objective-c)
   - [Others](#others)
   - [PHP](#php)
-  - [PLpgSQL](#plpgsql)
   - [Perl](#perl)
   - [PowerShell](#powershell)
   - [Python](#python)
@@ -52,6 +51,7 @@
 
 ## C 
 
+- [ctags](https://github.com/universal-ctags/ctags) - A maintained ctags implementation
 - [darknet](https://github.com/pjreddie/darknet) - Convolutional Neural Networks
 - [zfs](https://github.com/zfsonlinux/zfs) - ZFS on Linux - the official OpenZFS implementation for Linux.
 - [obs-studio](https://github.com/obsproject/obs-studio) - OBS Studio - Free and open source software for live streaming and screen recording
@@ -169,6 +169,8 @@
 
 ## Go 
 
+- [gost](https://github.com/ginuerzh/gost) - GO Simple Tunnel - a simple tunnel written in golang
+- [lemonade](https://github.com/pocke/lemonade) - Lemonade is a remote utility tool. (copy, paste and open browser) over TCP.
 - [envconsul](https://github.com/hashicorp/envconsul) - Launch a subprocess with environment variables using data from @HashiCorp Consul and Vault.
 - [sift](https://github.com/svent/sift) - A fast and powerful alternative to grep
 - [gitlab-project-settings](https://github.com/leominov/gitlab-project-settings) - Sync GitLab project settings
@@ -902,10 +904,6 @@
 - [selfoss](https://github.com/SSilence/selfoss) - selfoss: The multipurpose rss reader, live stream, mashup, aggregation web application
 - [zimg-host](https://github.com/ziggi/zimg-host) - Simple image hosting service
 
-## PLpgSQL 
-
-- [destiny-clan-member-manager](https://github.com/dad2cl3/destiny-clan-member-manager) - Database and web server scripts for managing Destiny clan membership within Postgres
-
 ## Perl 
 
 - [postgresqltuner](https://github.com/jfcoz/postgresqltuner) - Simple script to analyse your PostgreSQL database configuration, and give tuning advice
@@ -939,6 +937,7 @@
 - [dotdrop](https://github.com/deadc0de6/dotdrop) - Save your dotfiles once, deploy them everywhere
 - [kimchi](https://github.com/kimchi-project/kimchi) - An HTML5 management interface for KVM guests
 - [awx](https://github.com/ansible/awx) - AWX Project
+- [destiny-clan-member-manager](https://github.com/dad2cl3/destiny-clan-member-manager) - Database and web server scripts for managing Destiny clan membership within Postgres
 - [spirit](https://github.com/jgayfer/spirit) - Spirit is a Destiny 2 Discord to assist players with everything from clan management to keeping track of in game events.
 - [cloud-inquisitor](https://github.com/RiotGames/cloud-inquisitor) - Enforce ownership and data security within AWS
 - [ansible-human_log](https://github.com/n0ts/ansible-human_log) - This Ansible callback plugin for human-readable result logging for Ansible 1.9/2.0-2.4.
@@ -1200,6 +1199,7 @@
 
 ## Shell 
 
+- [sshclip](https://github.com/tweekmonster/sshclip) - Sever/client clipboard over SSH for Neovim
 - [grafana-import-export](https://github.com/hagen1778/grafana-import-export) - shell scripts for importing and exporting Grafana's dashboards and datasources
 - [aws-workshop-for-kubernetes](https://github.com/aws-samples/aws-workshop-for-kubernetes) - AWS Workshop for Kubernetes
 - [kubectx](https://github.com/ahmetb/kubectx) - Fast way to switch between clusters and namespaces in kubectl – [✩Star] if you're using it!
@@ -1348,6 +1348,7 @@
 
 ## Vim script 
 
+- [vim-easy-align](https://github.com/junegunn/vim-easy-align) - :sunflower: A Vim alignment plugin
 - [neomake](https://github.com/neomake/neomake) - Asynchronous linting and make framework for Neovim/Vim
 - [vim-terraform-completion](https://github.com/juliosueiras/vim-terraform-completion) - A (Neo)Vim Autocompletion and linter for Terraform, a HashiCorp tool
 - [vim-jsonnet](https://github.com/google/vim-jsonnet) - Jsonnet filetype plugin for Vim.

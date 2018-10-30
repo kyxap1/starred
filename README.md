@@ -649,7 +649,7 @@
 - [graphql-compose-aws](https://github.com/graphql-compose/graphql-compose-aws) - AWS Cloud API via GraphQL
 - [kuzzle](https://github.com/kuzzleio/kuzzle) - Open-source Back-end, self-hostable & ready to use - Real-time, storage, advanced search - Web, Apps, Mobile, IoT -
 - [destiny2](https://github.com/Jake-Ruston/destiny2) - An API wrapper for Destiny 2.
-- [etcher](https://github.com/resin-io/etcher) - Flash OS images to SD cards & USB drives, safely and easily.
+- [etcher](https://github.com/balena-io/etcher) - Flash OS images to SD cards & USB drives, safely and easily.
 - [HackMyResume](https://github.com/hacksalot/HackMyResume) - Generate polished résumés and CVs in HTML, Markdown, LaTeX, MS Word, PDF, plain text, JSON, XML, YAML, smoke signal, and carrier pigeon.
 - [staticgen](https://github.com/netlify/staticgen) - StaticGen.com, A leaderboard of top open-source static site generators
 - [terraform_firehose](https://github.com/roshpr/terraform_firehose) - AWS Firehose implementation for VPCFlow, ELK & Lambda integration to analyse VPC network data flow & monitoring dashboard
@@ -957,7 +957,7 @@
 - [ec2-scheduler](https://github.com/awslabs/ec2-scheduler) - The EC2 Scheduler uses a recurring Lambda function to automatically start and stop EC2 instances based on either default schedule or custom schedule defined per EC2 instance.
 - [bossimage](https://github.com/cloudboss/bossimage) - 
 - [pentagon](https://github.com/reactiveops/pentagon) - A framework for building repeatable, containerized, cloud-based infrastructure as code with Kubernetes.
-- [molecule](https://github.com/metacloud/molecule) - Molecule aids in the development and testing of Ansible roles.
+- [molecule](https://github.com/ansible/molecule) - Molecule aids in the development and testing of Ansible roles.
 - [cassandra-migrate](https://github.com/Cobliteam/cassandra-migrate) - Simple Cassandra schema migration tool written in Python
 - [wait-for-it](https://github.com/vishnubob/wait-for-it) - Pure bash script to test and wait on the availability of a TCP host and port
 - [packergen](https://github.com/mkheironimus/packergen) - Generate JSON files for Packer (http://packer.io/) from human-friendly YAML sources.
@@ -989,7 +989,7 @@
 - [pandas](https://github.com/pandas-dev/pandas) - Flexible and powerful data analysis / manipulation library for Python, providing labeled data structures similar to R data.frame objects, statistical functions, and much more
 - [ianitor](https://github.com/ClearcodeHQ/ianitor) - Doorkeeper for consul discovered services
 - [sillyfacter](https://github.com/hihellobolke/sillyfacter) - A silly python facter with JSON output, has process, open files, connection information too. They say Facts do not change, but hey Silly Facts can ;-)
-- [ansible-lint](https://github.com/willthames/ansible-lint) - Best practices checker for Ansible
+- [ansible-lint](https://github.com/ansible/ansible-lint) - Best practices checker for Ansible
 - [validator.vim](https://github.com/maralla/validator.vim) - Check syntax on the fly asynchronously.
 - [xmltodict](https://github.com/martinblech/xmltodict) - Python module that makes working with XML feel like you are working with JSON
 - [algo](https://github.com/trailofbits/algo) - Set up a personal IPSEC VPN in the cloud
@@ -1348,6 +1348,7 @@
 
 ## Vim script 
 
+- [space-vim](https://github.com/liuchengxu/space-vim) - :four_leaf_clover: Lean & mean spacemacs-ish Vim distribution
 - [vim-easy-align](https://github.com/junegunn/vim-easy-align) - :sunflower: A Vim alignment plugin
 - [neomake](https://github.com/neomake/neomake) - Asynchronous linting and make framework for Neovim/Vim
 - [vim-terraform-completion](https://github.com/juliosueiras/vim-terraform-completion) - A (Neo)Vim Autocompletion and linter for Terraform, a HashiCorp tool

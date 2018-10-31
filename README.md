@@ -427,6 +427,7 @@
 
 ## HCL 
 
+- [terraform-aws-iam](https://github.com/terraform-aws-modules/terraform-aws-iam) - Terraform module which creates IAM resources on AWS
 - [terraform-multi-account](https://github.com/inovex/terraform-multi-account) - Some example how toadress multiple aws accounts with Terraform
 - [aws_travis](https://github.com/FRosner/aws_travis) - 
 - [terraform-bootstrap-example](https://github.com/monterail/terraform-bootstrap-example) - Template repo for new projects

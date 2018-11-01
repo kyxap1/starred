@@ -1073,7 +1073,7 @@
 - [cassandra-snapshotter-wrapper](https://github.com/dizzythinks/cassandra-snapshotter-wrapper) - Wrapper around cassandra-snapshotter
 - [cassandra_snapshotter](https://github.com/tbarbugli/cassandra_snapshotter) - A tool to backup cassandra nodes using snapshots and incremental backups on S3
 - [aws-shell](https://github.com/awslabs/aws-shell) - An integrated shell for working with the AWS CLI.
-- [httpie](https://github.com/jakubroztocil/httpie) - Modern command line HTTP client – user-friendly curl alternative with intuitive UI, JSON support, syntax highlighting, wget-like downloads, extensions, etc.  https://httpie.org
+- [httpie](https://github.com/jakubroztocil/httpie) - Modern command line HTTP client – user-friendly curl alternative with intuitive UI, JSON support, syntax highlighting, wget-like downloads, extensions, etc.  https://twitter.com/clihttp
 - [jyboss-cli](https://github.com/fareliner/jyboss-cli) - A Jython CLI for JBoss and Wildfly
 - [ansible-custom-jython-module](https://github.com/fareliner/ansible-custom-jython-module) - Example custom ansible module to manage WildFly/JBoss AS through jython cli
 - [awesome-aws](https://github.com/donnemartin/awesome-aws) - A curated list of awesome Amazon Web Services (AWS) libraries, open source repos, guides, blogs, and other resources.  Featuring the Fiery Meter of AWSome.
@@ -1106,6 +1106,7 @@
 
 ## Ruby 
 
+- [inspec-iggy](https://github.com/inspec/inspec-iggy) - InSpec CLI plugin for generating compliance controls from Terraform and CloudFormation
 - [aws_public_ips](https://github.com/arkadiyt/aws_public_ips) - Fetch all public IP addresses tied to your AWS account. Works with IPv4/IPv6, Classic/VPC networking, and across all AWS services
 - [gitlabhq](https://github.com/gitlabhq/gitlabhq) - GitLab CE Mirror | Please open new issues in our issue tracker on GitLab.com
 - [sfn](https://github.com/sparkleformation/sfn) - SparkleFormation CLI

@@ -800,6 +800,7 @@
 
 ## Others 
 
+- [Prometheus2-grafana-dashboard](https://github.com/FUSAKLA/Prometheus2-grafana-dashboard) - Default dashboard for Prometheus version 2.0 for Grafana
 - [soa-checklist](https://github.com/paunin/soa-checklist) - Microservice Oriented Architecture checklist
 - [awesome-consul](https://github.com/josegonzalez/awesome-consul) - A list of awesome consul projects, libraries
 - [bash-shortcuts-cheat-sheet](https://github.com/fliptheweb/bash-shortcuts-cheat-sheet) - Useful shortcuts for bash/zsh

@@ -359,7 +359,7 @@
 - [ctop](https://github.com/chrusty/ctop) - CTOP ("top" for Cassandra) - See what's going on in real-time
 - [go-priam](https://github.com/alext29/go-priam) - Backup and restore Cassandra DB to AWS S3
 - [terraform-multipart-userdata](https://github.com/chrusty/terraform-multipart-userdata) - Cruft for Terraform
-- [autospotting](https://github.com/cristim/autospotting) - Automatically convert your existing AutoScaling groups to up to 90% cheaper spot instances with minimal(often zero) configuration changes
+- [AutoSpotting](https://github.com/AutoSpotting/AutoSpotting) - Automatically convert your existing AutoScaling groups to up to 90% cheaper spot instances with minimal(often zero) configuration changes
 - [oauth2_proxy](https://github.com/bitly/oauth2_proxy) - A reverse proxy that provides authentication with Google, Github or other provider
 - [bashcomp](https://github.com/omakoto/bashcomp) - 
 - [sh](https://github.com/mvdan/sh) - A shell parser, formatter and interpreter (POSIX/Bash/mksh)

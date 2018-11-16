@@ -69,7 +69,7 @@
 - [yajl](https://github.com/lloyd/yajl) - A fast streaming JSON parsing library in C.
 - [stty](https://github.com/tenderlove/stty) - A wrapper around termios
 - [pgbouncer-rr-patch](https://github.com/awslabs/pgbouncer-rr-patch) - Adds query routing and rewriting extensions to pgbouncer
-- [citus](https://github.com/citusdata/citus) - Scalable PostgreSQL for multi-tenant and real-time workloads
+- [citus](https://github.com/citusdata/citus) - Scalable PostgreSQL for multi-tenant and real-time analytics workloads
 - [bottledwater-pg](https://github.com/confluentinc/bottledwater-pg) - Change data capture from PostgreSQL into Kafka
 - [jq](https://github.com/stedolan/jq) - Command-line JSON processor
 - [jo](https://github.com/jpmens/jo) - JSON output from a shell
@@ -1295,7 +1295,7 @@
 - [awsp](https://github.com/antonbabenko/awsp) - AWS credential profile changer
 - [pre-commit-terraform](https://github.com/antonbabenko/pre-commit-terraform) - pre-commit git hooks to take care of Terraform configurations
 - [og-aws](https://github.com/open-guides/og-aws) - 📙 Amazon Web Services — a practical guide
-- [cassandra-top](https://github.com/jamesbriggs/cassandra-top) - Cassandra top command to monitor cluster cass_top and log nodetool commands
+- [cassandra-top](https://github.com/jamesbriggs/cassandra-top) - Cassandra top command to monitor cluster without Datastax OpsCenter, and log nodetool administrative commands
 - [container-storage-setup](https://github.com/projectatomic/container-storage-setup) - Service to set up storage for Docker and other container systems
 - [bitpocket](https://github.com/sickill/bitpocket) - "DIY Dropbox" or "2-way directory (r)sync with proper deletion"
 - [quick-secure](https://github.com/marshyski/quick-secure) - Quickly secure UNIX/Linux systems

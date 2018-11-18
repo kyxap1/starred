@@ -597,7 +597,7 @@
 - [bazel](https://github.com/bazelbuild/bazel) - a fast, scalable, multi-language and extensible build system
 - [android-json-model-generator](https://github.com/JAlexoid/android-json-model-generator) - A simple JSON Object Model generator for Android (JSON to Java)
 - [json-to-avro-schema-generator](https://github.com/sgmarghade/json-to-avro-schema-generator) - This will help you to generate AVRO schema from JSON schema.
-- [json-data-generator](https://github.com/acesinc/json-data-generator) - A robust, generic, streaming random json data generator for your data
+- [json-data-generator](https://github.com/everwatchsolutions/json-data-generator) - A robust, generic, streaming random json data generator for your data
 - [node-info](https://github.com/goldmann/node-info) - A simple web app (servlet only) that show the node/host name of the JBoss EAP/Wildfly server
 - [consul-api](https://github.com/Ecwid/consul-api) - Java client for Consul HTTP API
 - [ambry](https://github.com/linkedin/ambry) - Distributed object store

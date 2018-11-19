@@ -955,6 +955,7 @@
 - [deoplete.nvim](https://github.com/Shougo/deoplete.nvim) - :stars: Dark powered asynchronous completion framework for neovim/Vim8
 - [promgen](https://github.com/line/promgen) - Promgen is a configuration file generator for Prometheus
 - [pysc2](https://github.com/deepmind/pysc2) - StarCraft II Learning Environment
+- [ec2-spot-labs](https://github.com/awslabs/ec2-spot-labs) - Collection of tools and code examples to demonstrate best practices in using Amazon EC2 Spot Instances.
 - [ebs-snapshot-scheduler](https://github.com/amazon-archives/ebs-snapshot-scheduler) - A solution to automatically take a snapshot of all the EBS volumes of a tagged instance on a schedule in any region
 - [aws-s3snapshot](https://github.com/awslabs/aws-s3snapshot) - S3 Snapshot script to run from command-line or scheduled in Lambda.
 - [ec2-scheduler](https://github.com/awslabs/ec2-scheduler) - The EC2 Scheduler uses a recurring Lambda function to automatically start and stop EC2 instances based on either default schedule or custom schedule defined per EC2 instance.
@@ -1226,7 +1227,6 @@
 - [mariadb-galera-swarm](https://github.com/colinmollenhour/mariadb-galera-swarm) - Easy to use MariaDb Galera Cluster container based on official mariadb image with support for Docker Swarm Mode.
 - [packer-template-builder](https://github.com/ljdelight/packer-template-builder) - Use Hashicorp Packer and source controlled scripts to create customized OVA images from an iso
 - [homelab](https://github.com/cgarciaarano/homelab) - Provision of a home laboratory to test infrastructure tools
-- [ec2-spot-labs](https://github.com/awslabs/ec2-spot-labs) - Collection of tools and code examples to demonstrate best practices in using Amazon EC2 Spot Instances.
 - [ecs-logs-collector](https://github.com/awslabs/ecs-logs-collector) - The script will be used to collect general os logs as well as Docker and ecs-agent logs, it also support to enable debug mode for docker and ecs-agent in Amazon Linux.
 - [prest](https://github.com/prest/prest) - pREST is a way to serve a RESTful API from any databases written in Go
 - [nginxse-virtualhost-generator](https://github.com/hishriTaha/nginxse-virtualhost-generator) - A CLI-based tool that helps you generate NGINX server block configuration files in a few seconds.

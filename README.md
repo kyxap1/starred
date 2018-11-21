@@ -232,7 +232,7 @@
 - [gomplate](https://github.com/hairyhenderson/gomplate) - A flexible commandline tool for template rendering. Supports lots of local and remote datasources.
 - [swarmkit](https://github.com/docker/swarmkit) - A toolkit for orchestrating distributed systems at any scale. It includes primitives for node discovery, raft-based consensus, task scheduling and more.
 - [ksonnet-lib](https://github.com/ksonnet/ksonnet-lib) - Codegen for Kubernetes-API-compatible Jsonnet libraries
-- [goat](https://github.com/sevagh/goat) - GO-ATtach: attach and RAID EBS volumes + ENIs
+- [goat](https://github.com/sevagh/goat) - Go-ATtach - use tags to attach EBS volumes and ENIs to EC2 instances (including Nitro), and auto-configure mount, mkfs, and mdadm. Deb + RPM releases with systemd support.
 - [drone-mvn](https://github.com/thomasf/drone-mvn) - Maven repository artifact publisher for Drone CI
 - [ec2-metadatafs](https://github.com/jszwedko/ec2-metadatafs) - EC2 metadata and tags as a filesystem
 - [gotools](https://github.com/Mykolaichenko/gotools) - Go Tools

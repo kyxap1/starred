@@ -336,7 +336,7 @@
 - [terrahelp](https://github.com/opencredo/terrahelp) - Terraform helper. Terrahelp is as a command line utility written in Go and is aimed at providing supplementary functionality which can sometimes prove useful when working with Terraform.
 - [nomad](https://github.com/hashicorp/nomad) - Nomad is a flexible, enterprise-grade cluster scheduler designed to easily integrate into existing workflows. Nomad can run a diverse workload of micro-service, batch, containerized and non-containerized applications. Nomad is easy to operate and scale and integrates seamlessly with Consul and Vault.
 - [consul](https://github.com/hashicorp/consul) - Consul is a distributed, highly available, and data center aware solution to connect and configure applications across dynamic, distributed infrastructure.
-- [micro](https://github.com/micro/micro) - A blueprint for cloud-native development
+- [micro](https://github.com/micro/micro) - A toolkit for cloud-native development
 - [acme](https://github.com/google/acme) - A simple ACME command line tool without 3rd party deps!
 - [hashiapp](https://github.com/kelseyhightower/hashiapp) - Demo 12 Factor application that utilizes Hashicorp tools.
 - [terminus](https://github.com/kelseyhightower/terminus) - Get facts about a Linux system.
@@ -372,7 +372,7 @@
 - [imageproxy](https://github.com/willnorris/imageproxy) - A caching, resizing image proxy written in Go
 - [s3preview](https://github.com/andrioid/s3preview) - Preview serving microservice for s3. Generates and uploads any missing thumbnails. Redirects to existing.
 - [s3zipper](https://github.com/Teamwork/s3zipper) - Simple Steaming S3 File Zipper Microservice - works with any backend via redis and redirection.
-- [go-img-resize-upload](https://github.com/rocajuan/go-img-resize-upload) - Golang HTTP Service to download an image, resize it and upload it to an S3 Amazon Bucket. Possibility to redirect to newly resized and uploaded image. A work in progress.
+- [go-img-resize-upload](https://github.com/rocajuanma/go-img-resize-upload) - Golang HTTP Service to download an image, resize it and upload it to an S3 Amazon Bucket. Possibility to redirect to newly resized and uploaded image. A work in progress.
 - [terraform-provider-gzip](https://github.com/jakexks/terraform-provider-gzip) - A very simple Terraform plugin that gzip+base64s its input
 - [terraform-provider-bitbucket](https://github.com/webdevwilson/terraform-provider-bitbucket) - a bitbucket provider for terraform
 - [habitus](https://github.com/cloud66-oss/habitus) - A Build Flow Tool for Docker
@@ -876,7 +876,7 @@
 - [bigtop-centos](https://github.com/tzolov/bigtop-centos) - Ready to use Docker environment for Apache Bigtop. Based on CentOS and equipped with all necessary tools and libraries.
 - [cassandra-monitoring](https://github.com/softwaremill/cassandra-monitoring) - Scripts for the Cassandra Monitoring blog miniseries
 - [awesome-db](https://github.com/numetriclabz/awesome-db) - A curated list of amazingly awesome database libraries, resources and shiny things by https://www.numetriclabz.com/
-- [awesome-public-datasets](https://github.com/awesomedata/awesome-public-datasets) - A topic-centric list of high-quality open datasets in public domains. New PR ☛☛☛
+- [awesome-public-datasets](https://github.com/awesomedata/awesome-public-datasets) - A topic-centric list of HQ open datasets in public domains. New PR ☛☛☛
 - [onmetal-fast-docker](https://github.com/jayofdoom/onmetal-fast-docker) - Contains example cloud-config.yml files for mounting /var/lib/docker onto fast storage on OnMetal
 - [ntiered-aws-docker-terraform-guide](https://github.com/airpair/ntiered-aws-docker-terraform-guide) - 
 - [awesome-postgres](https://github.com/dhamaniasad/awesome-postgres) - A curated list of awesome PostgreSQL software, libraries, tools and resources, inspired by awesome-mysql
@@ -927,6 +927,7 @@
 
 ## Python 
 
+- [prometheus-kafka-consumer-group-exporter](https://github.com/braedon/prometheus-kafka-consumer-group-exporter) - Prometheus Kafka Consumer Group Exporter
 - [ansible-role-cassandra](https://github.com/kostyrev/ansible-role-cassandra) - ansible role to only install Apache Cassandra
 - [cstar](https://github.com/spotify/cstar) - Apache Cassandra cluster orchestration tool for the command line
 - [aws-cli](https://github.com/aws/aws-cli) - Universal Command Line Interface for Amazon Web Services
@@ -1113,6 +1114,7 @@
 
 ## Ruby 
 
+- [awesome-prometheus-alerts](https://github.com/samber/awesome-prometheus-alerts) - Collection of Prometheus alerting rules
 - [inspec-iggy](https://github.com/inspec/inspec-iggy) - InSpec CLI plugin for generating compliance controls from Terraform and CloudFormation
 - [aws_public_ips](https://github.com/arkadiyt/aws_public_ips) - Fetch all public IP addresses tied to your AWS account. Works with IPv4/IPv6, Classic/VPC networking, and across all AWS services
 - [gitlabhq](https://github.com/gitlabhq/gitlabhq) - GitLab CE Mirror | Please open new issues in our issue tracker on GitLab.com

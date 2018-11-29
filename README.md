@@ -169,6 +169,8 @@
 
 ## Go 
 
+- [tf2pulumi](https://github.com/pulumi/tf2pulumi) - A tool to convert Terraform projects to Pulumi TypeScript programs
+- [direnv](https://github.com/direnv/direnv) - Unclutter your .profile
 - [astro](https://github.com/uber/astro) - Astro is a tool for managing multiple Terraform executions as a single command
 - [helm-s3](https://github.com/hypnoglow/helm-s3) - Helm plugin that allows to use AWS S3 as a [private] chart repository.
 - [terraform-provider-esxi](https://github.com/josenk/terraform-provider-esxi) - Terraform-provider-esxi plugin
@@ -336,7 +338,7 @@
 - [terrahelp](https://github.com/opencredo/terrahelp) - Terraform helper. Terrahelp is as a command line utility written in Go and is aimed at providing supplementary functionality which can sometimes prove useful when working with Terraform.
 - [nomad](https://github.com/hashicorp/nomad) - Nomad is a flexible, enterprise-grade cluster scheduler designed to easily integrate into existing workflows. Nomad can run a diverse workload of micro-service, batch, containerized and non-containerized applications. Nomad is easy to operate and scale and integrates seamlessly with Consul and Vault.
 - [consul](https://github.com/hashicorp/consul) - Consul is a distributed, highly available, and data center aware solution to connect and configure applications across dynamic, distributed infrastructure.
-- [micro](https://github.com/micro/micro) - A toolkit for cloud-native development
+- [micro](https://github.com/micro/micro) - A blueprint for cloud-native development
 - [acme](https://github.com/google/acme) - A simple ACME command line tool without 3rd party deps!
 - [hashiapp](https://github.com/kelseyhightower/hashiapp) - Demo 12 Factor application that utilizes Hashicorp tools.
 - [terminus](https://github.com/kelseyhightower/terminus) - Get facts about a Linux system.
@@ -544,6 +546,7 @@
 
 ## HTML 
 
+- [nginxconfig.io](https://github.com/valentinxxx/nginxconfig.io) - ⚙️ NGiИX config generator generator on steroids 💉
 - [cryptr](https://github.com/adobe/cryptr) - Cryptr: a GUI for Hashicorp's Vault
 - [dex-k8s-authenticator](https://github.com/mintel/dex-k8s-authenticator) - A Kubernetes Dex Client Authenticator
 - [overwatch-dpi-tool](https://github.com/Pyrolistical/overwatch-dpi-tool) - 
@@ -1081,7 +1084,7 @@
 - [cassandra-snapshotter-wrapper](https://github.com/dizzythinks/cassandra-snapshotter-wrapper) - Wrapper around cassandra-snapshotter
 - [cassandra_snapshotter](https://github.com/tbarbugli/cassandra_snapshotter) - A tool to backup cassandra nodes using snapshots and incremental backups on S3
 - [aws-shell](https://github.com/awslabs/aws-shell) - An integrated shell for working with the AWS CLI.
-- [httpie](https://github.com/jakubroztocil/httpie) - As easy as httpie /aitch-tee-tee-pie/ 🥧 Modern command line HTTP client – user-friendly curl alternative with intuitive UI, JSON support, syntax highlighting, wget-like downloads, extensions, etc.  https://twitter.com/clihttp
+- [httpie](https://github.com/jakubroztocil/httpie) - Modern command line HTTP client – user-friendly curl alternative with intuitive UI, JSON support, syntax highlighting, wget-like downloads, extensions, etc.  https://twitter.com/clihttp
 - [jyboss-cli](https://github.com/fareliner/jyboss-cli) - A Jython CLI for JBoss and Wildfly
 - [ansible-custom-jython-module](https://github.com/fareliner/ansible-custom-jython-module) - Example custom ansible module to manage WildFly/JBoss AS through jython cli
 - [awesome-aws](https://github.com/donnemartin/awesome-aws) - A curated list of awesome Amazon Web Services (AWS) libraries, open source repos, guides, blogs, and other resources.  Featuring the Fiery Meter of AWSome.
@@ -1200,6 +1203,7 @@
 
 ## Scala 
 
+- [kafka-manager](https://github.com/yahoo/kafka-manager) - A tool for managing Apache Kafka.
 - [gatling](https://github.com/gatling/gatling) - Async Scala-Akka-Netty based Load Test Tool
 - [snowplow](https://github.com/snowplow/snowplow) - Cloud-native web, mobile and event analytics, running on AWS and GCP
 - [hive-serde-schema-gen](https://github.com/strelec/hive-serde-schema-gen) - :clipboard: Generate Hive SerDe schema from a .json file.

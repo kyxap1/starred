@@ -169,6 +169,7 @@
 
 ## Go 
 
+- [slack-advanced-exporter](https://github.com/grundleborg/slack-advanced-exporter) - A tool for exporting additional data from Slack that is missing from the official data export.
 - [tf2pulumi](https://github.com/pulumi/tf2pulumi) - A tool to convert Terraform projects to Pulumi TypeScript programs
 - [direnv](https://github.com/direnv/direnv) - Unclutter your .profile
 - [astro](https://github.com/uber/astro) - Astro is a tool for managing multiple Terraform executions as a single command

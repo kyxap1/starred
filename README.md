@@ -407,7 +407,7 @@
 - [terraform-s3-dir](https://github.com/saymedia/terraform-s3-dir) - Generates a Terraform config to upload a directory of files to an Amazon S3 bucket
 - [terraform-control](https://github.com/Capgemini/terraform-control) - A PoC for managing your infrastructure with Terraform in a collaborative way :dancers: https://capgemini.github.io/devops/Controlling-the-state-of-your-infrastructure/
 - [terraform-provisioner](https://github.com/shuaibiyy/terraform-provisioner) - Manage multiple provisions of the same Terraform scripts.
-- [terraform-docs](https://github.com/segmentio/terraform-docs) - Generate docs from terraform modules
+- [terraform-docs](https://github.com/segmentio/terraform-docs) - Generate documentation from Terraform modules in various output formats
 - [apex](https://github.com/apex/apex) - Build, deploy, and manage AWS Lambda functions with ease.
 - [terraform-inventory](https://github.com/adammck/terraform-inventory) - Terraform State → Ansible Dynamic Inventory
 - [hostess](https://github.com/cbednarski/hostess) - An idempotent command-line utility for managing your /etc/hosts file.
@@ -880,7 +880,7 @@
 - [bigtop-centos](https://github.com/tzolov/bigtop-centos) - Ready to use Docker environment for Apache Bigtop. Based on CentOS and equipped with all necessary tools and libraries.
 - [cassandra-monitoring](https://github.com/softwaremill/cassandra-monitoring) - Scripts for the Cassandra Monitoring blog miniseries
 - [awesome-db](https://github.com/numetriclabz/awesome-db) - A curated list of amazingly awesome database libraries, resources and shiny things by https://www.numetriclabz.com/
-- [awesome-public-datasets](https://github.com/awesomedata/awesome-public-datasets) - A topic-centric list of HQ open datasets in public domains. New PR ☛☛☛
+- [awesome-public-datasets](https://github.com/awesomedata/awesome-public-datasets) - A topic-centric list of HQ open datasets in public domains. PR ☛☛☛
 - [onmetal-fast-docker](https://github.com/jayofdoom/onmetal-fast-docker) - Contains example cloud-config.yml files for mounting /var/lib/docker onto fast storage on OnMetal
 - [ntiered-aws-docker-terraform-guide](https://github.com/airpair/ntiered-aws-docker-terraform-guide) - 
 - [awesome-postgres](https://github.com/dhamaniasad/awesome-postgres) - A curated list of awesome PostgreSQL software, libraries, tools and resources, inspired by awesome-mysql
@@ -1310,7 +1310,7 @@
 - [container-storage-setup](https://github.com/projectatomic/container-storage-setup) - Service to set up storage for Docker and other container systems
 - [bitpocket](https://github.com/sickill/bitpocket) - "DIY Dropbox" or "2-way directory (r)sync with proper deletion"
 - [quick-secure](https://github.com/marshyski/quick-secure) - Quickly secure UNIX/Linux systems
-- [tfenv](https://github.com/Zordrak/tfenv) - Terraform version manager
+- [tfenv](https://github.com/tfutils/tfenv) - Terraform version manager
 - [aws-ec2-raid0-script](https://github.com/starrlingo/aws-ec2-raid0-script) - Provide a template script to perform Raid 0 architecture in AWS EC2
 - [repository](https://github.com/ulyaoth/repository) - Ulyaoth Repository
 - [gvm](https://github.com/moovweb/gvm) - Go Version Manager

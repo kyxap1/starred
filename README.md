@@ -177,7 +177,7 @@
 - [terraform-provider-esxi](https://github.com/josenk/terraform-provider-esxi) - Terraform-provider-esxi plugin
 - [kubefwd](https://github.com/txn2/kubefwd) - Bulk port forwarding Kubernetes services for local development.
 - [gost](https://github.com/ginuerzh/gost) - GO Simple Tunnel - a simple tunnel written in golang
-- [lemonade](https://github.com/pocke/lemonade) - Lemonade is a remote utility tool. (copy, paste and open browser) over TCP.
+- [lemonade](https://github.com/lemonade-command/lemonade) - Lemonade is a remote utility tool. (copy, paste and open browser) over TCP.
 - [envconsul](https://github.com/hashicorp/envconsul) - Launch a subprocess with environment variables using data from @HashiCorp Consul and Vault.
 - [sift](https://github.com/svent/sift) - A fast and powerful alternative to grep
 - [gitlab-project-settings](https://github.com/leominov/gitlab-project-settings) - Sync GitLab project settings

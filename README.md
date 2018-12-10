@@ -623,8 +623,8 @@
 - [consultant](https://github.com/Magnetme/consultant) - A library to retrieve your service's configuration from Consul, and subscribe to changes.
 - [cassandra-kinesis](https://github.com/smartcat-labs/cassandra-kinesis) - Cassandra connector for AWS Kinesis
 - [cassandra-consul-seed-provider](https://github.com/karnauskas/cassandra-consul-seed-provider) - Cassandra Seed Provider which works with Consul. Supports seeding from service discovery service or static K/V storage.
-- [KeyBox](https://github.com/skavanagh/KeyBox) - KeyBox is a web-based SSH console that centrally manages administrative access to systems. Web-based administration is combined with management and distribution of user's public SSH keys.
-- [EC2Box](https://github.com/skavanagh/EC2Box) - A web-based SSH console to execute commands and manage multiple EC2 instances simultaneously running on Amazon Web Services (AWS).
+- [Bastillion](https://github.com/bastillion-io/Bastillion) - Bastillion is a web-based SSH console that centrally manages administrative access to systems. Web-based administration is combined with management and distribution of user's public SSH keys.
+- [Bastillion-EC2](https://github.com/bastillion-io/Bastillion-EC2) - A web-based SSH console to execute commands and manage multiple EC2 instances simultaneously running on Amazon Web Services (AWS).
 - [apigateway](https://github.com/AWSinAction/apigateway) - AWS in Action: API Gateway
 - [elasticsearch-knapsack](https://github.com/jprante/elasticsearch-knapsack) - Knapsack plugin is an import/export tool for Elasticsearch
 - [jgroups-aws](https://github.com/meltmedia/jgroups-aws) - An AWS Discovery Component for JGroups

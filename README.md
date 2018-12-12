@@ -94,6 +94,7 @@
 
 ## C++ 
 
+- [OS-X-Fake-PCI-ID](https://github.com/RehabMan/OS-X-Fake-PCI-ID) - Allow returning Fake PCI ID from IOPCIDevice.  Used to avoid patching kexts, such as needed for HD4600 Yosemite, WiFi and others.
 - [AutoHotkey_L](https://github.com/Lexikos/AutoHotkey_L) - AutoHotkey - macro-creation and automation-oriented scripting utility for Windows.
 - [tdesktop](https://github.com/telegramdesktop/tdesktop) - Telegram Desktop messaging app
 - [veles](https://github.com/codilime/veles) - Binary data analysis and visualization tool
@@ -169,6 +170,7 @@
 
 ## Go 
 
+- [go-camo](https://github.com/arachnys/go-camo) - An SSL/TLS proxy for insecure static assets to circumvent mixed content warnings. Based on `go-camo`, and `camo`.
 - [slack-advanced-exporter](https://github.com/grundleborg/slack-advanced-exporter) - A tool for exporting additional data from Slack that is missing from the official data export.
 - [tf2pulumi](https://github.com/pulumi/tf2pulumi) - A tool to convert Terraform projects to Pulumi TypeScript programs
 - [direnv](https://github.com/direnv/direnv) - Unclutter your .profile
@@ -1343,6 +1345,8 @@
 
 ## Smarty 
 
+- [charts](https://github.com/helm/charts) - Curated applications for Kubernetes
+- [mattermost-kubernetes](https://github.com/mattermost/mattermost-kubernetes) - 
 - [charts-1](https://github.com/kostyrev/charts-1) - Curated applications for Kubernetes
 
 ## Swift 

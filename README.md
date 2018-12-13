@@ -650,6 +650,7 @@
 
 ## JavaScript 
 
+- [uppy](https://github.com/transloadit/uppy) - The next open source file uploader for web browsers :dog:
 - [kutt](https://github.com/thedevs-network/kutt) - Free Modern URL Shortener.
 - [citizen](https://github.com/outsideris/citizen) - A Private Terraform Module Registry
 - [ff-password-exporter](https://github.com/kspearrin/ff-password-exporter) - Easily export your passwords from Firefox.
@@ -790,6 +791,7 @@
 
 ## Makefile 
 
+- [badupnp](https://github.com/cloudflare/badupnp) - Web service to test if SSDP/UPnP is exposed to the internet
 - [Intel-NUC-DSDT-Patch](https://github.com/RehabMan/Intel-NUC-DSDT-Patch) - Patches and Clover configuration required for Intel NUC5/6/7/8 series mini PCs
 - [jsonnet-libs](https://github.com/grafana/jsonnet-libs) - Grafana Labs' Jsonnet libraries
 - [ansible-roles](https://github.com/manala/ansible-roles) - Manala ansible roles

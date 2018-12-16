@@ -170,6 +170,7 @@
 
 ## Go 
 
+- [mattermost-push-proxy](https://github.com/mattermost/mattermost-push-proxy) - 
 - [pulumi](https://github.com/pulumi/pulumi) - Define cloud apps and infrastructure in your favorite language and deploy to any cloud
 - [go-camo](https://github.com/arachnys/go-camo) - An SSL/TLS proxy for insecure static assets to circumvent mixed content warnings. Based on `go-camo`, and `camo`.
 - [slack-advanced-exporter](https://github.com/grundleborg/slack-advanced-exporter) - A tool for exporting additional data from Slack that is missing from the official data export.
@@ -1222,6 +1223,8 @@
 
 ## Shell 
 
+- [helm-nomagic](https://github.com/giantswarm/helm-nomagic) - 
+- [await](https://github.com/Saltside/await) - Await tool to check resource status.
 - [sshclip](https://github.com/tweekmonster/sshclip) - Sever/client clipboard over SSH for Neovim
 - [grafana-import-export](https://github.com/hagen1778/grafana-import-export) - shell scripts for importing and exporting Grafana's dashboards and datasources
 - [aws-workshop-for-kubernetes](https://github.com/aws-samples/aws-workshop-for-kubernetes) - AWS Workshop for Kubernetes
@@ -1372,6 +1375,7 @@
 
 ## Vim script 
 
+- [vim-kubernetes](https://github.com/andrewstuart/vim-kubernetes) - vim-kubernetes
 - [space-vim](https://github.com/liuchengxu/space-vim) - :four_leaf_clover: Lean & mean spacemacs-ish Vim distribution
 - [vim-easy-align](https://github.com/junegunn/vim-easy-align) - :sunflower: A Vim alignment plugin
 - [neomake](https://github.com/neomake/neomake) - Asynchronous linting and make framework for Neovim/Vim

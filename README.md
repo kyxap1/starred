@@ -51,6 +51,7 @@
 
 ## C 
 
+- [zapret](https://github.com/bol-van/zapret) - Обход DPI в linux
 - [ctags](https://github.com/universal-ctags/ctags) - A maintained ctags implementation
 - [darknet](https://github.com/pjreddie/darknet) - Convolutional Neural Networks
 - [zfs](https://github.com/zfsonlinux/zfs) - ZFS on Linux - the official OpenZFS implementation for Linux.
@@ -651,6 +652,7 @@
 
 ## JavaScript 
 
+- [emojiporter](https://github.com/lisamai/emojiporter) - CLI utility to export/import custom emojis for Mattermost.
 - [uppy](https://github.com/transloadit/uppy) - The next open source file uploader for web browsers :dog:
 - [kutt](https://github.com/thedevs-network/kutt) - Free Modern URL Shortener.
 - [citizen](https://github.com/outsideris/citizen) - A Private Terraform Module Registry
@@ -1250,7 +1252,7 @@
 - [prest](https://github.com/prest/prest) - pREST is a way to serve a RESTful API from any databases written in Go
 - [nginxse-virtualhost-generator](https://github.com/hishriTaha/nginxse-virtualhost-generator) - A CLI-based tool that helps you generate NGINX server block configuration files in a few seconds.
 - [aui](https://github.com/helmuthdu/aui) - Archlinux Ultimate Install
-- [elastic-ci-stack-for-aws](https://github.com/buildkite/elastic-ci-stack-for-aws) - A simple, flexible, auto-scaling cluster of build agents running in your own AWS VPC
+- [elastic-ci-stack-for-aws](https://github.com/buildkite/elastic-ci-stack-for-aws) - An auto-scaling cluster of build agents running in your own AWS VPC
 - [deploy-drone](https://github.com/auxilincom/deploy-drone) - Deploy Drone CI to enable continuous integration ⚡️ on your product
 - [cassandra-cluster](https://github.com/dmitry-zhuravlev/cassandra-cluster) - Cassandra cluster with Docker Compose.
 - [initcassandra](https://github.com/ansrivas/initcassandra) - A super hacky way to initialize keyspaces and tables in cassandra using docker-compose.

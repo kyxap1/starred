@@ -1232,7 +1232,7 @@
 - [sshclip](https://github.com/tweekmonster/sshclip) - Sever/client clipboard over SSH for Neovim
 - [grafana-import-export](https://github.com/hagen1778/grafana-import-export) - shell scripts for importing and exporting Grafana's dashboards and datasources
 - [aws-workshop-for-kubernetes](https://github.com/aws-samples/aws-workshop-for-kubernetes) - AWS Workshop for Kubernetes
-- [kubectx](https://github.com/ahmetb/kubectx) - Fast way to switch between clusters and namespaces in kubectl – [✩Star] if you're using it!
+- [kubectx](https://github.com/ahmetb/kubectx) - Fast way to switch between clusters and namespaces in kubectl [★Star=love, 👁Watch=participate]
 - [kube-ps1](https://github.com/jonmosco/kube-ps1) - Kubernetes prompt info for bash and zsh
 - [consul-dns-for-kubernetes](https://github.com/anubhavmishra/consul-dns-for-kubernetes) - Consul DNS Interface for Kubernetes
 - [grafonnet-lib](https://github.com/grafana/grafonnet-lib) - Jsonnet library for generating Grafana dashboard files.

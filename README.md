@@ -571,6 +571,8 @@
 - [node-red-contrib-aws](https://github.com/joeartsea/node-red-contrib-aws) - A collection of Node-RED nodes for AWS.
 - [styleguide](https://github.com/google/styleguide) - Style guides for Google-originated open-source projects
 - [hugo-material-docs](https://github.com/digitalcraftsman/hugo-material-docs) - Port of Martin Donath's mkdocs-material theme to Hugo
+- [Flask-Scaffold](https://github.com/Leo-G/Flask-Scaffold) - Prototype Database driven Web apps in Angular 6, Bootstrap 4 and REST API's with Flask (Python 3 framework)
+- [bootstrap-table](https://github.com/wenzhixin/bootstrap-table) - An extended Bootstrap table with radio, checkbox, sort, pagination, and other added features. (supports twitter bootstrap v2, v3 and v4)
 
 ## Haskell 
 
@@ -596,7 +598,7 @@
 - [s3proxy](https://github.com/gaul/s3proxy) - Access other storage backends via the S3 API
 - [test-automation-quickstart](https://github.com/opencredo/test-automation-quickstart) - Quickstart project for test automation, covering performance, ui acceptance and api acceptance testing
 - [java-properties-to-json](https://github.com/mikolajmitura/java-properties-to-json) - 
-- [redisson](https://github.com/redisson/redisson) - Redisson - distributed Java objects and services (Set, Multimap, SortedSet, Map, List, Queue, Deque, Semaphore, Lock, AtomicLong, Map Reduce, Publish / Subscribe, Bloom filter, Spring Cache, Tomcat Session Manager, Scheduler service, JCache API) on top of Redis server. State of the Art Redis Java client
+- [redisson](https://github.com/redisson/redisson) - Redisson - distributed Java objects and services (Set, Multimap, SortedSet, Map, List, Queue, Deque, Semaphore, Lock, AtomicLong, Map Reduce, Publish / Subscribe, Bloom filter, Spring Cache, Tomcat, Scheduler, JCache API, Hibernate) on top of Redis server. State of the Art Redis Java client
 - [plantuml-gist](https://github.com/linux-china/plantuml-gist) - PlantUML with Github Gist and Gitlab Support
 - [spoon](https://github.com/INRIA/spoon) - Spoon is a library to analyze, transform, rewrite, transpile Java source code (incl Java 9 & Java 10). It parses source files to build a well-designed AST with powerful analysis and transformation API. Made at Inria with :heart:, :beers: and :sparkles:.
 - [JJSchema](https://github.com/reinert/JJSchema) - A generator from Java Types to JSON-Schema using Jackson.
@@ -779,7 +781,6 @@
 - [lets-chat](https://github.com/sdelements/lets-chat) - Self-hosted chat app for small teams
 - [anti-adblock-killer](https://github.com/reek/anti-adblock-killer) - Anti-Adblock Killer helps you keep your Ad-Blocker active, when you visit a website and it asks you to disable.
 - [h5ai](https://github.com/lrsjng/h5ai) - HTTP web server index for Apache httpd, lighttpd, nginx and Cherokee.
-- [bootstrap-table](https://github.com/wenzhixin/bootstrap-table) - An extended Bootstrap table with radio, checkbox, sort, pagination, and other added features. (supports twitter bootstrap v2, v3 and v4)
 - [mediacenterjs](https://github.com/jansmolders86/mediacenterjs) - A HTML/CSS/Javascript (NodeJS) based Media center
 
 ## Kotlin 
@@ -1117,7 +1118,6 @@
 - [j2cli](https://github.com/kolypto/j2cli) - Jinja2 Command-Line Tool, reworked
 - [lshell](https://github.com/ghantoos/lshell) - lshell is a shell coded in Python, that lets you restrict a user's environment to limited sets of commands, choose to enable/disable any command over SSH (e.g. SCP, SFTP, rsync, etc.), log user's commands, implement timing restriction, and more.
 - [Flask-AppBuilder](https://github.com/dpgaspar/Flask-AppBuilder) - Simple and rapid application development framework, built on top of Flask. includes detailed security, auto CRUD generation for your models, google charts and much more. Demo (login with guest/welcome) - http://flaskappbuilder.pythonanywhere.com/
-- [Flask-Scaffold](https://github.com/Leo-G/Flask-Scaffold) - Prototype Database driven CRUD Admin dashboards and RESTFUL API's with Python, Flask,  SQLALchemy, Javascript/Angularjs and Bootstrap 3
 - [Unipath](https://github.com/mikeorr/Unipath) - An object-oriented approach to Python file/directory operations.
 - [LXC-Web-Panel](https://github.com/claudyus/LXC-Web-Panel) - LXC Web Panel improved for lxc 1.0+
 - [synapse-client](https://github.com/comodit/synapse-client) - Synapse enables you to remotely manage a large number of hosts. It brings together features of Configuration Management and Orchestration in a lightweight framework. Written in Python and using AMQP for messaging between the nodes.

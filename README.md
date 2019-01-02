@@ -172,6 +172,7 @@
 
 ## Go 
 
+- [brook](https://github.com/txthinking/brook) - Brook is a cross-platform(Linux/MacOS/Windows/Android/iOS) proxy/vpn software
 - [envexec](https://github.com/hypnoglow/envexec) - A tool that executes any command or application provisioning its environment with variables from providers (like secrets from Vault).
 - [kubeval](https://github.com/garethr/kubeval) - Validate your Kubernetes configuration files, supports multiple Kubernetes versions
 - [mattermost-push-proxy](https://github.com/mattermost/mattermost-push-proxy) - 
@@ -657,6 +658,7 @@
 
 ## JavaScript 
 
+- [pac](https://github.com/txthinking/pac) - PAC Generator
 - [tldr.jsx](https://github.com/ostera/tldr.jsx) - :books: A Reactive web client for tldr-pages
 - [emojiporter](https://github.com/lisamai/emojiporter) - CLI utility to export/import custom emojis for Mattermost.
 - [uppy](https://github.com/transloadit/uppy) - The next open source file uploader for web browsers :dog:
@@ -823,6 +825,7 @@
 
 ## Others 
 
+- [brook-systemd](https://github.com/unstartdev/brook-systemd) - brook systemd脚本示例
 - [Prometheus2-grafana-dashboard](https://github.com/FUSAKLA/Prometheus2-grafana-dashboard) - Default dashboard for Prometheus version 2.0 for Grafana
 - [soa-checklist](https://github.com/paunin/soa-checklist) - Microservice Oriented Architecture checklist
 - [awesome-consul](https://github.com/josegonzalez/awesome-consul) - A list of awesome consul projects, libraries
@@ -1228,6 +1231,7 @@
 
 ## Shell 
 
+- [google-hosts](https://github.com/txthinking/google-hosts) - Google hosts generator
 - [helm-nomagic](https://github.com/giantswarm/helm-nomagic) - 
 - [await](https://github.com/Saltside/await) - Await tool to check resource status.
 - [sshclip](https://github.com/tweekmonster/sshclip) - Sever/client clipboard over SSH for Neovim

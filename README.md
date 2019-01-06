@@ -1027,7 +1027,7 @@
 - [debops-tools](https://github.com/debops/debops-tools) - Your Debian-based data center in a box
 - [learning-tools](https://github.com/scottslowe/learning-tools) - A collection of tools and files for learning new technologies
 - [luigi](https://github.com/spotify/luigi) - Luigi is a Python module that helps you build complex pipelines of batch jobs. It handles dependency resolution, workflow management, visualization etc. It also comes with Hadoop support built in.
-- [incubator-airflow](https://github.com/apache/incubator-airflow) - Apache Airflow (Incubating)
+- [airflow](https://github.com/apache/airflow) - Apache Airflow
 - [celery](https://github.com/celery/celery) - Distributed Task Queue (development branch)
 - [data_pipeline](https://github.com/Yelp/data_pipeline) - Data Pipeline Clientlib provides an interface to tail and publish to data pipeline topics.
 - [pre-commit](https://github.com/pre-commit/pre-commit) - A framework for managing and maintaining multi-language pre-commit hooks.

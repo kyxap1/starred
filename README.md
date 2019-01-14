@@ -110,6 +110,7 @@
 
 ## CSS 
 
+- [metallb](https://github.com/google/metallb) - A network load-balancer implementation for Kubernetes using standard routing protocols
 - [suddi.github.io](https://github.com/suddi/suddi.github.io) - A static single-page application resume-builder developed using React.js and JSON Resume schema (https://suddi.github.io/)
 - [awesome-mysql](https://github.com/shlomi-noach/awesome-mysql) - A curated list of awesome MySQL software, libraries, tools and resources
 - [my-mac-os](https://github.com/nikitavoloboev/my-mac-os) - List of applications and tools that make my macOS experience even more amazing
@@ -150,6 +151,7 @@
 
 ## Dockerfile 
 
+- [docker-registry-arm](https://github.com/vsellier/docker-registry-arm) - Docker registry for raspberry pi (arm build)
 - [nocode](https://github.com/kelseyhightower/nocode) - The best way to write secure and reliable applications. Write nothing; deploy nowhere.
 - [PostDock](https://github.com/paunin/PostDock) - PostDock - Postgres & Docker - Postgres streaming replication cluster for any docker environment
 - [wildfly-docker-deployment-example](https://github.com/goldmann/wildfly-docker-deployment-example) - 
@@ -172,6 +174,10 @@
 
 ## Go 
 
+- [chamber](https://github.com/segmentio/chamber) - CLI for managing secrets
+- [external-storage](https://github.com/kubernetes-incubator/external-storage) - External storage plugins, provisioners, and helper libraries
+- [compose-on-kubernetes](https://github.com/docker/compose-on-kubernetes) - Deploy applications described in Compose onto Kubernetes clusters
+- [loki](https://github.com/grafana/loki) - Like Prometheus, but for logs.
 - [brook](https://github.com/txthinking/brook) - Brook is a cross-platform(Linux/MacOS/Windows/Android/iOS) proxy/vpn software
 - [envexec](https://github.com/hypnoglow/envexec) - A tool that executes any command or application provisioning its environment with variables from providers (like secrets from Vault).
 - [kubeval](https://github.com/garethr/kubeval) - Validate your Kubernetes configuration files, supports multiple Kubernetes versions
@@ -1213,6 +1219,7 @@
 
 ## Rust 
 
+- [mcfly](https://github.com/cantino/mcfly) - Fly through your shell history. Great Scott!
 - [ripgrep](https://github.com/BurntSushi/ripgrep) - ripgrep recursively searches directories for a regex pattern
 - [awesome-static-analysis](https://github.com/mre/awesome-static-analysis) - Static analysis tools for all programming languages
 - [wsta](https://github.com/esphen/wsta) - A CLI development tool for WebSocket APIs

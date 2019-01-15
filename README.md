@@ -928,7 +928,7 @@
 
 - [fogproject](https://github.com/FOGProject/fogproject) - An open source computer cloning & management system
 - [phinx](https://github.com/cakephp/phinx) - PHP Database Migrations for Everyone
-- [hashicorp](https://github.com/jkkitakita/hashicorp) - repo related to hashicorp
+- [packer-terraform-sample](https://github.com/jkkitakita/packer-terraform-sample) - repo related to hashicorp
 - [labs](https://github.com/docker/labs) - This is a collection of tutorials for learning how to use Docker with various tools. Contributions welcome.
 - [FreshRSS](https://github.com/FreshRSS/FreshRSS) - A free, self-hostable aggregator…
 - [Hugopit](https://github.com/sjardim/Hugopit) - An EXPERIMENTAL web based editor for Hugo

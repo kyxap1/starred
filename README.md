@@ -254,7 +254,7 @@
 - [goat](https://github.com/sevagh/goat) - Go-ATtach - use tags to attach EBS volumes and ENIs to EC2 instances (including Nitro), and auto-configure mount, mkfs, and mdadm. Deb + RPM releases with systemd support.
 - [drone-mvn](https://github.com/thomasf/drone-mvn) - Maven repository artifact publisher for Drone CI
 - [ec2-metadatafs](https://github.com/jszwedko/ec2-metadatafs) - EC2 metadata and tags as a filesystem
-- [gotools](https://github.com/Mykolaichenko/gotools) - Go Tools
+- [vaulter](https://github.com/Mykolaichenko/vaulter) - Go Tools
 - [terraform_cashier](https://github.com/Bjorn248/terraform_cashier) - Designed to analyze terraform template files and return a cost estimate of running the infrastructure, assuming AWS is the target cloud. Perhaps other clouds can be supported going forward?
 - [k6](https://github.com/loadimpact/k6) - A modern load testing tool, using Go and JavaScript - https://k6.io
 - [awless-scheduler](https://github.com/wallix/awless-scheduler) - Schedule runs and reverts of awless templates

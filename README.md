@@ -124,7 +124,6 @@
 ## Clojure 
 
 - [roll](https://github.com/juxt/roll) - AWS Blue/Green deployment using Clojure flavoured devops
-- [awesomo](https://github.com/lk-geimfari/awesomo) - An extensive list of interesting open source projects written in С, C++, Clojure, Lisp, Elixir, Erlang, Elm, Golang, Haskell, JavaScript, Lua, OCaml, Python, R, Ruby, Rust, Scala etc.
 - [dorothy](https://github.com/daveray/dorothy) - Hiccup-style generation of Graphviz graphs in Clojure
 - [specter](https://github.com/nathanmarz/specter) - Clojure(Script)'s missing piece
 - [GraphQLviz](https://github.com/Macroz/GraphQLviz) - GraphQLviz marries GraphQL (schemas) with Graphviz.
@@ -254,7 +253,7 @@
 - [goat](https://github.com/sevagh/goat) - Go-ATtach - use tags to attach EBS volumes and ENIs to EC2 instances (including Nitro), and auto-configure mount, mkfs, and mdadm. Deb + RPM releases with systemd support.
 - [drone-mvn](https://github.com/thomasf/drone-mvn) - Maven repository artifact publisher for Drone CI
 - [ec2-metadatafs](https://github.com/jszwedko/ec2-metadatafs) - EC2 metadata and tags as a filesystem
-- [vaulter](https://github.com/Mykolaichenko/vaulter) - Go Tools
+- [vaulter](https://github.com/Mykolaichenko/vaulter) - 
 - [terraform_cashier](https://github.com/Bjorn248/terraform_cashier) - Designed to analyze terraform template files and return a cost estimate of running the infrastructure, assuming AWS is the target cloud. Perhaps other clouds can be supported going forward?
 - [k6](https://github.com/loadimpact/k6) - A modern load testing tool, using Go and JavaScript - https://k6.io
 - [awless-scheduler](https://github.com/wallix/awless-scheduler) - Schedule runs and reverts of awless templates
@@ -674,7 +673,7 @@
 - [cabin](https://github.com/bitnami-labs/cabin) - The Mobile Dashboard for Kubernetes
 - [jsoneditor](https://github.com/josdejong/jsoneditor) - A web-based tool to view, edit, format, and validate JSON
 - [blast-radius](https://github.com/28mm/blast-radius) - Interactive visualizations of Terraform dependency graphs using d3.js
-- [release-it](https://github.com/webpro/release-it) - Automate releases for Git repositories and/or npm packages. Changelog generation, GitHub/GitLab releases, etc.
+- [release-it](https://github.com/webpro/release-it) - Automate the tedious tasks of software releases. Happily release and publish your Git repositories, npm packages, GitHub & GitLab releases, changelogs, and much more!
 - [amplify-js](https://github.com/aws-amplify/amplify-js) - A declarative JavaScript library for application development using cloud services.
 - [graphql-compose-aws](https://github.com/graphql-compose/graphql-compose-aws) - AWS Cloud API via GraphQL
 - [kuzzle](https://github.com/kuzzleio/kuzzle) - Open-source Back-end, self-hostable & ready to use - Real-time, storage, advanced search - Web, Apps, Mobile, IoT -
@@ -1057,6 +1056,7 @@
 - [locust](https://github.com/locustio/locust) - Scalable user load testing tool written in Python
 - [compose](https://github.com/docker/compose) - Define and run multi-container applications with Docker
 - [http-prompt](https://github.com/eliangcs/http-prompt) - HTTPie + prompt_toolkit = an interactive command-line HTTP client featuring autocomplete and syntax highlighting
+- [awesomo](https://github.com/lk-geimfari/awesomo) - An extensive list of interesting open source projects written in С, C++, Clojure, Lisp, Elixir, Erlang, Elm, Golang, Haskell, JavaScript, Lua, OCaml, Python, R, Ruby, Rust, Scala etc.
 - [rds-pgbadger](https://github.com/fpietka/rds-pgbadger) - Fetch logs from RDS instance, and process them with pgBadger
 - [pgcli](https://github.com/dbcli/pgcli) - Postgres CLI with autocompletion and syntax highlighting
 - [source-code-pro](https://github.com/adobe-fonts/source-code-pro) - Monospaced font family for user interface and coding environments

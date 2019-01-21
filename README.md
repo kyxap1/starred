@@ -948,7 +948,6 @@
 ## PowerShell 
 
 - [packer-ami-pipeline](https://github.com/rackerlabs/packer-ami-pipeline) - Blog post and sample code for using Packer and CodeBuild & CodePipeline to make AMIs
-- [blue-green-aws-asg](https://github.com/JamesWoolfenden/blue-green-aws-asg) - 
 
 ## Python 
 

@@ -1113,7 +1113,7 @@
 - [awesome-aws](https://github.com/donnemartin/awesome-aws) - A curated list of awesome Amazon Web Services (AWS) libraries, open source repos, guides, blogs, and other resources.  Featuring the Fiery Meter of AWSome.
 - [jbosscli](https://github.com/raphaelpaiva/jbosscli) - A python front-end for the Jboss wildfly REST management interface
 - [st2contrib](https://github.com/StackStorm/st2contrib) - MOVED! See StackStorm Exchange
-- [st2](https://github.com/StackStorm/st2) - StackStorm (aka "IFTTT for Ops") is event-driven automation for auto-remediation, security responses, troubleshooting, deployments, and more. Includes rules engine, workflow, 2000+ integrations (see https://exchange.stackstorm.org), ChatOps, etc. Installer at https://docs.stackstorm.com/install/index.html. Questions? https://forum.stackstorm.com/.
+- [st2](https://github.com/StackStorm/st2) - StackStorm (aka "IFTTT for Ops") is event-driven automation for auto-remediation, security responses, troubleshooting, deployments, and more. Includes rules engine, workflow, 160 integration packs with 6000+ actions (see https://exchange.stackstorm.org) and ChatOps. Installer at https://docs.stackstorm.com/install/index.html. Questions? https://forum.stackstorm.com/.
 - [Skype4Py](https://github.com/Skype4Py/Skype4Py) - Platform independent Python wrapper for the Skype Desktop API
 - [sevabot](https://github.com/dafiti/sevabot) - A Skype bot supporting integration with external services
 - [sevabot](https://github.com/shinglyu/sevabot) - A Skype bot supporting integration with external services

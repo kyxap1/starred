@@ -1266,7 +1266,7 @@
 - [homelab](https://github.com/cgarciaarano/homelab) - Provision of a home laboratory to test infrastructure tools
 - [ecs-logs-collector](https://github.com/awslabs/ecs-logs-collector) - The script will be used to collect general os logs as well as Docker and ecs-agent logs, it also support to enable debug mode for docker and ecs-agent in Amazon Linux.
 - [prest](https://github.com/prest/prest) - pREST is a way to serve a RESTful API from any databases written in Go
-- [nginxse-virtualhost-generator](https://github.com/hishriTaha/nginxse-virtualhost-generator) - A CLI-based tool that helps you generate NGINX server block configuration files in a few seconds.
+- [nginxse-virtualhost-generator](https://github.com/hitaha/nginxse-virtualhost-generator) - A CLI-based tool that helps you generate NGINX server block configuration files in a few seconds.
 - [aui](https://github.com/helmuthdu/aui) - Archlinux Ultimate Install
 - [elastic-ci-stack-for-aws](https://github.com/buildkite/elastic-ci-stack-for-aws) - An auto-scaling cluster of build agents running in your own AWS VPC
 - [deploy-drone](https://github.com/auxilincom/deploy-drone) - Deploy Drone CI to enable continuous integration ⚡️ on your product

@@ -613,7 +613,7 @@
 - [flyway](https://github.com/flyway/flyway) - Flyway by Boxfuse • Database Migrations Made Easy.
 - [swagger-core](https://github.com/swagger-api/swagger-core) - Examples and server integrations for generating the Swagger API Specification, which enables easy access to your REST API
 - [sample-projects](https://github.com/graknlabs/sample-projects) - Sample Java Projects for GRAKN.AI
-- [grakn](https://github.com/graknlabs/grakn) - The Knowledge Graph
+- [grakn](https://github.com/graknlabs/grakn) - Grakn Core: The Knowledge Graph
 - [sample-datasets](https://github.com/graknlabs/sample-datasets) - Sample Graql Datasets for GRAKN.AI
 - [bazel](https://github.com/bazelbuild/bazel) - a fast, scalable, multi-language and extensible build system
 - [android-json-model-generator](https://github.com/JAlexoid/android-json-model-generator) - A simple JSON Object Model generator for Android (JSON to Java)

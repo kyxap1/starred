@@ -316,7 +316,7 @@
 - [go-jsonschema-generator](https://github.com/mcuadros/go-jsonschema-generator) - json-schemas generator based on Go types
 - [go-jira](https://github.com/andygrunwald/go-jira) - Go client library for Atlassian JIRA
 - [source-to-image](https://github.com/openshift/source-to-image) - A tool for building/building artifacts from source and injecting into docker images
-- [rack](https://github.com/convox/rack) - Open-source PaaS. Built entirely on AWS cloud services for maximum privacy and minimum upkeep.
+- [rack](https://github.com/convox/rack) - Private PaaS built on native AWS services for maximum privacy and minimum upkeep
 - [janitor](https://github.com/cloud66/janitor) - Clean up unwanted servers
 - [goavro](https://github.com/linkedin/goavro) - 
 - [jose](https://github.com/SermoDigital/jose) - A comprehensive set of JWT, JWS, and JWE libraries.

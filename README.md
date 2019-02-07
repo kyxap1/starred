@@ -776,7 +776,7 @@
 - [terraform2md](https://github.com/shambarick/terraform2md) - 
 - [frey](https://github.com/freyproject/frey) - I fell in love with Kubernetes, and Frey is now deprecated
 - [aws-lambda-image](https://github.com/ysugimoto/aws-lambda-image) - Automatic image resize/reduce on AWS Lambda
-- [csv](https://github.com/segmentio/csv) - Uber simple CSV formatting/parsing for node
+- [csv](https://github.com/segment-boneyard/csv) - Uber simple CSV formatting/parsing for node
 - [nginx-jwt](https://github.com/auth0/nginx-jwt) - Lua script for Nginx that performs reverse proxy auth using JWT's
 - [mr-data-converter](https://github.com/shancarter/mr-data-converter) - Takes CSV or tab-delimited data from Excel and converts it into several web-friendly formats, include JSON and XML.
 - [GetOptGenerator](https://github.com/dafuer/GetOptGenerator) - Easy way to start a C project

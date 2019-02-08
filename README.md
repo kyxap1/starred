@@ -1231,7 +1231,7 @@
 - [gatling](https://github.com/gatling/gatling) - Async Scala-Akka-Netty based Load Test Tool
 - [snowplow](https://github.com/snowplow/snowplow) - Cloud-native web, mobile and event analytics, running on AWS and GCP
 - [hive-serde-schema-gen](https://github.com/strelec/hive-serde-schema-gen) - :clipboard: Generate Hive SerDe schema from a .json file.
-- [rudder](https://github.com/Normation/rudder) - Continuous configuration for effective compliance
+- [rudder](https://github.com/Normation/rudder) - Continuous Auditing & Configuration
 - [spark-cassandra-connector](https://github.com/datastax/spark-cassandra-connector) - DataStax Spark Cassandra Connector
 - [s3_website](https://github.com/laurilehmijoki/s3_website) - Manage an S3 website: sync, deliver via CloudFront, benefit from advanced S3 website features.
 - [S3-Private-Downloader](https://github.com/rmmeans/S3-Private-Downloader) - A simple microservice that signs the request for an S3 file and redirects you to download the file
@@ -1244,7 +1244,7 @@
 - [sshclip](https://github.com/tweekmonster/sshclip) - Sever/client clipboard over SSH for Neovim
 - [grafana-import-export](https://github.com/hagen1778/grafana-import-export) - shell scripts for importing and exporting Grafana's dashboards and datasources
 - [aws-workshop-for-kubernetes](https://github.com/aws-samples/aws-workshop-for-kubernetes) - AWS Workshop for Kubernetes
-- [kubectx](https://github.com/ahmetb/kubectx) - Switch faster between clusters and namespaces in kubectl interactively
+- [kubectx](https://github.com/ahmetb/kubectx) - Switch faster between clusters and namespaces in kubectl
 - [kube-ps1](https://github.com/jonmosco/kube-ps1) - Kubernetes prompt info for bash and zsh
 - [consul-dns-for-kubernetes](https://github.com/anubhavmishra/consul-dns-for-kubernetes) - Consul DNS Interface for Kubernetes
 - [grafonnet-lib](https://github.com/grafana/grafonnet-lib) - Jsonnet library for generating Grafana dashboard files.

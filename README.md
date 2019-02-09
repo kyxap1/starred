@@ -988,7 +988,7 @@
 - [ec2-spot-labs](https://github.com/awslabs/ec2-spot-labs) - Collection of tools and code examples to demonstrate best practices in using Amazon EC2 Spot Instances.
 - [ebs-snapshot-scheduler](https://github.com/amazon-archives/ebs-snapshot-scheduler) - A solution to automatically take a snapshot of all the EBS volumes of a tagged instance on a schedule in any region
 - [aws-s3snapshot](https://github.com/awslabs/aws-s3snapshot) - S3 Snapshot script to run from command-line or scheduled in Lambda.
-- [ec2-scheduler](https://github.com/awslabs/ec2-scheduler) - The EC2 Scheduler uses a recurring Lambda function to automatically start and stop EC2 instances based on either default schedule or custom schedule defined per EC2 instance.
+- [ec2-scheduler](https://github.com/amazon-archives/ec2-scheduler) - The EC2 Scheduler uses a recurring Lambda function to automatically start and stop EC2 instances based on either default schedule or custom schedule defined per EC2 instance. - Now found at https://github.com/awslabs/aws-instance-scheduler
 - [bossimage](https://github.com/cloudboss/bossimage) - 
 - [pentagon](https://github.com/reactiveops/pentagon) - A framework for building repeatable, containerized, cloud-based infrastructure as code with Kubernetes.
 - [molecule](https://github.com/ansible/molecule) - Molecule aids in the development and testing of Ansible roles.
@@ -1011,7 +1011,7 @@
 - [repositorytools](https://github.com/packagemgmt/repositorytools) - Python API and command-line interface for working with artifact repositories like Sonatype Nexus
 - [spilo](https://github.com/zalando/spilo) - Highly available elephant herd: HA PostgreSQL cluster using Docker
 - [aws_role_credentials](https://github.com/ThoughtWorksInc/aws_role_credentials) - Generates AWS credentials for roles using STS
-- [awsie](https://github.com/flomotlik/awsie) - CloudFormation aware wrapper for the AWSCLI
+- [awsie](https://github.com/theserverlessway/awsie) - CloudFormation aware wrapper for the AWSCLI
 - [stacker](https://github.com/cloudtools/stacker) - An AWS CloudFormation Stack orchestrator/manager.
 - [sceptre](https://github.com/cloudreach/sceptre) - Build better AWS infrastructure
 - [stethoscope](https://github.com/Netflix/stethoscope) - Personalized, user-focused recommendations for employee information security.

@@ -663,7 +663,7 @@
 ## JavaScript 
 
 - [pac](https://github.com/txthinking/pac) - PAC Generator
-- [tldr.jsx](https://github.com/ostera/tldr.jsx) - :books: A Reactive web client for tldr-pages
+- [tldr.jsx](https://github.com/ostera/tldr.jsx) - 📚 A Reactive web client for tldr-pages
 - [emojiporter](https://github.com/lisamai/emojiporter) - CLI utility to export/import custom emojis for Mattermost.
 - [uppy](https://github.com/transloadit/uppy) - The next open source file uploader for web browsers :dog:
 - [kutt](https://github.com/thedevs-network/kutt) - Free Modern URL Shortener.
@@ -1238,6 +1238,7 @@
 
 ## Shell 
 
+- [faq](https://github.com/ru-de/faq) - Полезная информация о жизни в Германии
 - [google-hosts](https://github.com/txthinking/google-hosts) - Google hosts generator
 - [helm-nomagic](https://github.com/giantswarm/helm-nomagic) - 
 - [await](https://github.com/Saltside/await) - Await tool to check resource status.

@@ -29,6 +29,7 @@
   - [M4](#m4)
   - [Makefile](#makefile)
   - [Nginx](#nginx)
+  - [OCaml](#ocaml)
   - [Objective-C](#objective-c)
   - [Others](#others)
   - [PHP](#php)
@@ -382,7 +383,7 @@
 - [AutoSpotting](https://github.com/AutoSpotting/AutoSpotting) - Automatically convert your existing AutoScaling groups to up to 90% cheaper spot instances with minimal(often zero) configuration changes
 - [oauth2_proxy](https://github.com/bitly/oauth2_proxy) - A reverse proxy that provides authentication with Google, Github or other provider
 - [bashcomp](https://github.com/omakoto/bashcomp) - 
-- [sh](https://github.com/mvdan/sh) - A shell parser, formatter and interpreter (POSIX/Bash/mksh)
+- [sh](https://github.com/mvdan/sh) - A shell parser, formatter, and interpreter (POSIX/Bash/mksh)
 - [go-flags](https://github.com/jessevdk/go-flags) - go command line option parser
 - [sup](https://github.com/pressly/sup) - Super simple deployment tool - think of it like 'make' for a network of servers
 - [imageproxy](https://github.com/willnorris/imageproxy) - A caching, resizing image proxy written in Go
@@ -663,7 +664,6 @@
 ## JavaScript 
 
 - [pac](https://github.com/txthinking/pac) - PAC Generator
-- [tldr.jsx](https://github.com/ostera/tldr.jsx) - 📚 A Reactive web client for tldr-pages
 - [emojiporter](https://github.com/lisamai/emojiporter) - CLI utility to export/import custom emojis for Mattermost.
 - [uppy](https://github.com/transloadit/uppy) - The next open source file uploader for web browsers :dog:
 - [kutt](https://github.com/thedevs-network/kutt) - Free Modern URL Shortener.
@@ -820,6 +820,10 @@
 ## Nginx 
 
 - [packer-ami-test-sample](https://github.com/knakayama/packer-ami-test-sample) - 
+
+## OCaml 
+
+- [tldr.jsx](https://github.com/ostera/tldr.jsx) - 📚 A Reactive web client for tldr-pages
 
 ## Objective-C 
 

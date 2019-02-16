@@ -1083,7 +1083,6 @@
 - [starred](https://github.com/maguowei/starred) - creating your own Awesome List by GitHub stars!
 - [qb](https://github.com/Pinafore/qb) - QANTA Quiz Bowl AI
 - [remarshal](https://github.com/dbohdan/remarshal) - Convert between TOML, YAML and JSON
-- [consul-deployment-agent](https://github.com/trainline/consul-deployment-agent) - Cross-platform deployment agent for Environment Manager
 - [pyhcl](https://github.com/virtuald/pyhcl) - HCL is a configuration language. pyhcl is a python parser for it.
 - [configo](https://github.com/mignev/configo) - The easiest way to use existing JSON, XML or YAML config files from bash shell/scripts
 - [telegraf-cassandra](https://github.com/chrusty/telegraf-cassandra) - Config for monitoring Cassandra using Telegraf's "Jolokia" plugin

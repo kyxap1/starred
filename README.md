@@ -829,7 +829,7 @@
 
 - [wifriedx](https://github.com/mariociabarra/wifriedx) - Band-aid for Yosemite WiFi Issues.  Menu bar item which disables/enables awdl0 interface.  Brings interface up/down with PriviledgedHelper
 - [wifried](https://github.com/mariociabarra/wifried) - WiFi Fix for iOS 8.1
-- [LuLu](https://github.com/objective-see/LuLu) - LuLu is the free macOS firewall that aims to block unauthorized (outgoing) network traffic
+- [LuLu](https://github.com/objective-see/LuLu) - LuLu is the free macOS firewall
 
 ## Others 
 

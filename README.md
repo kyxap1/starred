@@ -274,7 +274,7 @@
 - [drone-terraform](https://github.com/jmccann/drone-terraform) - Drone plugin for triggering Terraform deployments
 - [gobetween](https://github.com/yyyar/gobetween) - :cloud: Modern & minimalistic load balancer for the Сloud era
 - [gogs](https://github.com/gogs/gogs) - Gogs is a painless self-hosted Git service.
-- [drone](https://github.com/drone/drone) - Drone is a Continuous Delivery platform built on Docker, written in Go
+- [drone](https://github.com/drone/drone) - Drone is a Container-Native, Continuous Delivery Platform
 - [dnscontrol](https://github.com/StackExchange/dnscontrol) - Synchronize your DNS to multiple providers from a simple DSL
 - [teleport](https://github.com/gravitational/teleport) - Privileged access management for elastic infrastructure.
 - [ec2-ls-hosts](https://github.com/ReSTARTR/ec2-ls-hosts) - an alternative tool for describing ec2 instances

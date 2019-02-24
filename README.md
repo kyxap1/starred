@@ -1006,7 +1006,7 @@
 - [nginx-proxy](https://github.com/jwilder/nginx-proxy) - Automated nginx proxy for Docker containers using docker-gen
 - [terraform_validate](https://github.com/elmundio87/terraform_validate) - Assists in the enforcement of user-defined standards in Terraform
 - [lambda-runcommand-configuration-management](https://github.com/awslabs/lambda-runcommand-configuration-management) - Serverless, SSHless, Continuous Configuration Management
-- [localstack](https://github.com/localstack/localstack) - 💻  A fully functional local AWS cloud stack. Develop and test your cloud apps offline!
+- [localstack](https://github.com/localstack/localstack) - 💻  A fully functional local AWS cloud stack. Develop and test your cloud & Serverless apps offline!
 - [zabbix-cli](https://github.com/usit-gd/zabbix-cli) - Command-line interface for Zabbix
 - [slacker](https://github.com/os/slacker) - Full-featured Python interface for the Slack API
 - [system-design-primer](https://github.com/donnemartin/system-design-primer) - Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards.

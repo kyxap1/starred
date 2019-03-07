@@ -580,7 +580,7 @@
 - [hugo-material-docs](https://github.com/digitalcraftsman/hugo-material-docs) - Port of Martin Donath's mkdocs-material theme to Hugo
 - [Flask-Scaffold](https://github.com/Leo-G/Flask-Scaffold) - Prototype Database driven Web apps in Angular 6, Bootstrap 4 and REST API's with Flask (Python 3 framework)
 - [free-for-dev](https://github.com/ripienaar/free-for-dev) - A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
-- [bootstrap-table](https://github.com/wenzhixin/bootstrap-table) - An extended table integration with some of the most widely used CSS frameworks. (Supports bootstrap, semantic, bulma, meterial, foundation)
+- [bootstrap-table](https://github.com/wenzhixin/bootstrap-table) - An extended table to integration with some of the most widely used CSS frameworks. (Supports Bootstrap, Semantic UI, Bulma, Material Design, Foundation)
 
 ## Haskell 
 

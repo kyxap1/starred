@@ -292,7 +292,7 @@
 - [stretcher](https://github.com/fujiwara/stretcher) - Deployment tool with consul/serf event notification.
 - [go-nitro](https://github.com/chiradeep/go-nitro) - A Golang client to the Citrix NetScaler API
 - [gestalt](https://github.com/asteris-llc/gestalt) - 
-- [lego](https://github.com/xenolf/lego) - Let's Encrypt client and ACME library written in Go
+- [lego](https://github.com/go-acme/lego) - Let's Encrypt client and ACME library written in Go
 - [hammer](https://github.com/asteris-llc/hammer) - Build packages from a simple spec
 - [scipipe](https://github.com/scipipe/scipipe) - SciPipe is a library for writing scientific workflows (sometimes also called "pipelines") of shell commands that depend on each other, in the Go programming language (aka golang). It was initially designed for problems in cheminformatics and bioinformatics, but applies equally well to any domain involving complex pipelines of interdependent shell commands.
 - [converge](https://github.com/asteris-llc/converge) - A powerful and easy-to-use configuration management system.

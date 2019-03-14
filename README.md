@@ -24,6 +24,7 @@
   - [JSONiq](#jsoniq)
   - [Java](#java)
   - [JavaScript](#javascript)
+  - [Jsonnet](#jsonnet)
   - [Kotlin](#kotlin)
   - [Lua](#lua)
   - [M4](#m4)
@@ -789,6 +790,10 @@
 - [h5ai](https://github.com/lrsjng/h5ai) - HTTP web server index for Apache httpd, lighttpd, nginx and Cherokee.
 - [mediacenterjs](https://github.com/jansmolders86/mediacenterjs) - A HTML/CSS/Javascript (NodeJS) based Media center
 
+## Jsonnet 
+
+- [jsonnet-libs](https://github.com/grafana/jsonnet-libs) - Grafana Labs' Jsonnet libraries
+
 ## Kotlin 
 
 - [cdm](https://github.com/rustyrazorblade/cdm) - Cassandra Dataset Manager
@@ -806,7 +811,6 @@
 ## Makefile 
 
 - [Intel-NUC-DSDT-Patch](https://github.com/RehabMan/Intel-NUC-DSDT-Patch) - Patches and Clover configuration required for Intel NUC5/6/7/8 series mini PCs
-- [jsonnet-libs](https://github.com/grafana/jsonnet-libs) - Grafana Labs' Jsonnet libraries
 - [ansible-roles](https://github.com/manala/ansible-roles) - Manala ansible roles
 - [terraform-spec](https://github.com/johnrengelman/terraform-spec) - Docker container of utilities for testing Terraform modules
 - [ansible-role-datastax-ddc](https://github.com/kostyrev/ansible-role-datastax-ddc) - 

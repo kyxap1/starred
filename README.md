@@ -793,6 +793,7 @@
 ## Jsonnet 
 
 - [jsonnet-libs](https://github.com/grafana/jsonnet-libs) - Grafana Labs' Jsonnet libraries
+- [grafonnet-lib](https://github.com/grafana/grafonnet-lib) - Jsonnet library for generating Grafana dashboard files.
 
 ## Kotlin 
 
@@ -1253,7 +1254,6 @@
 - [kubectx](https://github.com/ahmetb/kubectx) - Switch faster between clusters and namespaces in kubectl
 - [kube-ps1](https://github.com/jonmosco/kube-ps1) - Kubernetes prompt info for bash and zsh
 - [consul-dns-for-kubernetes](https://github.com/anubhavmishra/consul-dns-for-kubernetes) - Consul DNS Interface for Kubernetes
-- [grafonnet-lib](https://github.com/grafana/grafonnet-lib) - Jsonnet library for generating Grafana dashboard files.
 - [fonts](https://github.com/powerline/fonts) - Patched fonts for Powerline users.
 - [acme.sh](https://github.com/Neilpang/acme.sh) - A pure Unix shell script implementing ACME client protocol
 - [scripts](https://github.com/kref/scripts) - This project attempts to improve DSM's compatibility

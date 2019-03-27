@@ -108,7 +108,6 @@
 - [s3fs-fuse](https://github.com/s3fs-fuse/s3fs-fuse) - FUSE-based file system backed by Amazon S3
 - [liteide](https://github.com/visualfc/liteide) - LiteIDE is a simple, open source, cross-platform Go IDE.
 - [SkypeBot](https://github.com/teimur06/SkypeBot) - SkypeBot
-- [jsonnet](https://github.com/google/jsonnet) - Jsonnet - The data templating language
 
 ## CSS 
 
@@ -794,6 +793,7 @@
 
 - [jsonnet-libs](https://github.com/grafana/jsonnet-libs) - Grafana Labs' Jsonnet libraries
 - [grafonnet-lib](https://github.com/grafana/grafonnet-lib) - Jsonnet library for generating Grafana dashboard files.
+- [jsonnet](https://github.com/google/jsonnet) - Jsonnet - The data templating language
 
 ## Kotlin 
 

@@ -671,7 +671,6 @@
 - [jsoneditor](https://github.com/josdejong/jsoneditor) - A web-based tool to view, edit, format, and validate JSON
 - [blast-radius](https://github.com/28mm/blast-radius) - Interactive visualizations of Terraform dependency graphs using d3.js
 - [release-it](https://github.com/release-it/release-it) - Automate the tedious tasks of software releases. Happily release and publish your Git repositories, npm packages, GitHub & GitLab releases, changelogs, and much more!
-- [amplify-js](https://github.com/aws-amplify/amplify-js) - A declarative JavaScript library for application development using cloud services.
 - [graphql-compose-aws](https://github.com/graphql-compose/graphql-compose-aws) - AWS Cloud API via GraphQL
 - [kuzzle](https://github.com/kuzzleio/kuzzle) - Open-source Back-end, self-hostable & ready to use - Real-time, storage, advanced search - Web, Apps, Mobile, IoT -
 - [destiny2](https://github.com/Jake-Ruston/destiny2) - An API wrapper for Destiny 2.
@@ -803,7 +802,7 @@
 ## Lua 
 
 - [lua-resty-hmac](https://github.com/jamesmarlowe/lua-resty-hmac) - Lua driver for making and receiving hmac signed requests
-- [kong](https://github.com/Kong/kong) - :gorilla: The Cloud-Native API Gateway & Service Mesh
+- [kong](https://github.com/Kong/kong) - :gorilla: The Cloud-Native API Gateway
 
 ## M4 
 
@@ -1388,6 +1387,7 @@
 
 ## TypeScript 
 
+- [amplify-js](https://github.com/aws-amplify/amplify-js) - A declarative JavaScript library for application development using cloud services.
 - [DIM](https://github.com/DestinyItemManager/DIM) - Destiny Item Manager
 - [vscode-terraform](https://github.com/mauve/vscode-terraform) - A Visual Studio Code plugin which contributes syntax highlighting, linting, formatting, and validation for Hashicorp's Terraform
 - [subscriptions-transport-ws](https://github.com/apollographql/subscriptions-transport-ws) - :arrows_clockwise: A WebSocket client + server for GraphQL subscriptions

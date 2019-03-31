@@ -250,7 +250,7 @@
 - [gomplate](https://github.com/hairyhenderson/gomplate) - A flexible commandline tool for template rendering. Supports lots of local and remote datasources.
 - [swarmkit](https://github.com/docker/swarmkit) - A toolkit for orchestrating distributed systems at any scale. It includes primitives for node discovery, raft-based consensus, task scheduling and more.
 - [ksonnet-lib](https://github.com/ksonnet/ksonnet-lib) - Codegen for Kubernetes-API-compatible Jsonnet libraries
-- [goat](https://github.com/sevagh/goat) - Go-ATtach - use tags to attach EBS volumes and ENIs to EC2 instances (including Nitro), and auto-configure mount, mkfs, and mdadm. Deb + RPM releases with systemd support.
+- [goat](https://github.com/sevagh/goat) - use tags to attach EBS volumes and ENIs to EC2 instances (including Nitro), and run mount, mkfs, and mdadm
 - [drone-mvn](https://github.com/thomasf/drone-mvn) - Maven repository artifact publisher for Drone CI
 - [ec2-metadatafs](https://github.com/jszwedko/ec2-metadatafs) - EC2 metadata and tags as a filesystem
 - [vaulter](https://github.com/Mykolaichenko/vaulter) - 
@@ -661,7 +661,7 @@
 
 ## JavaScript 
 
-- [pac](https://github.com/txthinking/pac) - PAC Generator
+- [blackwhite](https://github.com/txthinking/blackwhite) - PAC Generator
 - [emojiporter](https://github.com/lisamai/emojiporter) - CLI utility to export/import custom emojis for Mattermost.
 - [uppy](https://github.com/transloadit/uppy) - The next open source file uploader for web browsers :dog:
 - [kutt](https://github.com/thedevs-network/kutt) - Free Modern URL Shortener.

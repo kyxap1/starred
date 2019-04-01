@@ -661,7 +661,7 @@
 
 ## JavaScript 
 
-- [blackwhite](https://github.com/txthinking/blackwhite) - PAC Generator
+- [blackwhite](https://github.com/txthinking/blackwhite) - Domain, CIDR, IP black/white list, PAC generator
 - [emojiporter](https://github.com/lisamai/emojiporter) - CLI utility to export/import custom emojis for Mattermost.
 - [uppy](https://github.com/transloadit/uppy) - The next open source file uploader for web browsers :dog:
 - [kutt](https://github.com/thedevs-network/kutt) - Free Modern URL Shortener.

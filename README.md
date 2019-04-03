@@ -1020,7 +1020,7 @@
 - [awsie](https://github.com/theserverlessway/awsie) - CloudFormation aware wrapper for the AWSCLI
 - [stacker](https://github.com/cloudtools/stacker) - An AWS CloudFormation Stack orchestrator/manager.
 - [sceptre](https://github.com/cloudreach/sceptre) - Build better AWS infrastructure
-- [stethoscope](https://github.com/Netflix/stethoscope) - Personalized, user-focused recommendations for employee information security.
+- [stethoscope](https://github.com/Netflix-Skunkworks/stethoscope) - Personalized, user-focused recommendations for employee information security.
 - [ansible-pgbouncer](https://github.com/alexey-medvedchikov/ansible-pgbouncer) - This ansible role configures PgBouncer PostgreSQL connection mux utility.
 - [s3env](https://github.com/cameronmaske/s3env) - Manipulate a simple key/value JSON object file in an S3 bucket
 - [AWS-PlantUML](https://github.com/milo-minderbinder/AWS-PlantUML) - PlantUML sprites, macros, and other includes for AWS components.
@@ -1320,7 +1320,7 @@
 - [centos7-ami](https://github.com/claranet/centos7-ami) - Shell script to build CentOS 7 AMI
 - [dockerfiles](https://github.com/kelseyhightower/dockerfiles) - Docker files
 - [hashiconf-eu-2016](https://github.com/kelseyhightower/hashiconf-eu-2016) - HashiConf EU 2016
-- [Dockerfiles](https://github.com/HariSekhon/Dockerfiles) - DockerHub public images for Kubernetes - Hadoop, Kafka, ZooKeeper, HBase, Cassandra, Solr / SolrCloud, Presto, Apache Drill, Nifi, Spark, Mesos, Consul, Riak, Jython, Advanced Nagios Plugins Collection & DevOps Tools repos on Alpine, CentOS, Debian, Fedora, Ubuntu, Superset, H2O, Serf, Alluxio / Tachyon
+- [Dockerfiles](https://github.com/HariSekhon/Dockerfiles) - DockerHub public images for Docker & Kubernetes - Hadoop, Kafka, ZooKeeper, HBase, Cassandra, Solr / SolrCloud, Presto, Apache Drill, Nifi, Spark, Mesos, Consul, Riak, Jython, Advanced Nagios Plugins Collection & DevOps Tools repos on Alpine, CentOS, Debian, Fedora, Ubuntu, Superset, H2O, Serf, Alluxio / Tachyon
 - [terraform-multi-env](https://github.com/bkc1/terraform-multi-env) - Terraform wrapper script for handling multi-environment, multi-region deployments
 - [terraform-aws-wrapper](https://github.com/antonbabenko/terraform-aws-wrapper) - [DEPRECATED] Terraform AWS wrapper script
 - [phinx.deb](https://github.com/Vitexus/phinx.deb) - Debian package for SQL Migrating tool Phinx

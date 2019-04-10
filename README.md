@@ -810,6 +810,7 @@
 
 ## Makefile 
 
+- [awesome-kubernetes](https://github.com/ramitsurana/awesome-kubernetes) - A curated list for awesome kubernetes sources :ship::tada:
 - [Intel-NUC-DSDT-Patch](https://github.com/RehabMan/Intel-NUC-DSDT-Patch) - Patches and Clover configuration required for Intel NUC5/6/7/8 series mini PCs
 - [ansible-roles](https://github.com/manala/ansible-roles) - Manala ansible roles
 - [terraform-spec](https://github.com/johnrengelman/terraform-spec) - Docker container of utilities for testing Terraform modules
@@ -836,6 +837,7 @@
 
 ## Others 
 
+- [what-happens-when-k8s](https://github.com/jamiehannaford/what-happens-when-k8s) - 🤔  What happens when I type kubectl run?
 - [brook-systemd](https://github.com/unstartdev/brook-systemd) - brook systemd脚本示例
 - [Prometheus2-grafana-dashboard](https://github.com/FUSAKLA/Prometheus2-grafana-dashboard) - Default dashboard for Prometheus version 2.0 for Grafana
 - [soa-checklist](https://github.com/paunin/soa-checklist) - Microservice Oriented Architecture checklist
@@ -962,7 +964,7 @@
 - [ansible-role-cassandra](https://github.com/kostyrev/ansible-role-cassandra) - ansible role to only install Apache Cassandra
 - [cstar](https://github.com/spotify/cstar) - Apache Cassandra cluster orchestration tool for the command line
 - [aws-cli](https://github.com/aws/aws-cli) - Universal Command Line Interface for Amazon Web Services
-- [ffpass](https://github.com/louisabraham/ffpass) - Import and Export passwords for Firefox Quantum 🦊🔑
+- [ffpass](https://github.com/louisabraham/ffpass) - Import and Export passwords for Firefox Quantum 🔑
 - [grafanalib](https://github.com/weaveworks/grafanalib) - Python library for building Grafana dashboards
 - [zabbix_aws_template](https://github.com/tech-sketch/zabbix_aws_template) - This is AWS monitoring integration Zabbix templates.
 - [explainshell](https://github.com/idank/explainshell) - match command-line arguments to their help text

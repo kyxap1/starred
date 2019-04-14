@@ -636,7 +636,6 @@
 - [consultant](https://github.com/Magnetme/consultant) - A library to retrieve your service's configuration from Consul, and subscribe to changes.
 - [cassandra-kinesis](https://github.com/smartcat-labs/cassandra-kinesis) - Cassandra connector for AWS Kinesis
 - [cassandra-consul-seed-provider](https://github.com/karnauskas/cassandra-consul-seed-provider) - Cassandra Seed Provider which works with Consul. Supports seeding from service discovery service or static K/V storage.
-- [Bastillion-EC2](https://github.com/bastillion-io/Bastillion-EC2) - A web-based SSH console to execute commands and manage multiple EC2 instances simultaneously running on Amazon Web Services (AWS).
 - [apigateway](https://github.com/AWSinAction/apigateway) - AWS in Action: API Gateway
 - [elasticsearch-knapsack](https://github.com/jprante/elasticsearch-knapsack) - Knapsack plugin is an import/export tool for Elasticsearch
 - [jgroups-aws](https://github.com/meltmedia/jgroups-aws) - An AWS Discovery Component for JGroups
@@ -768,6 +767,7 @@
 - [elasticsearch-head](https://github.com/mobz/elasticsearch-head) - A web front end for an elastic search cluster
 - [awesome-selfhosted](https://github.com/Kickball/awesome-selfhosted) - This is a list of Free Software network services and web applications which can be hosted locally. Selfhosting is the process of locally hosting and managing applications instead of renting from SaaS providers.
 - [Bastillion](https://github.com/bastillion-io/Bastillion) - Bastillion is a web-based SSH console that centrally manages administrative access to systems. Web-based administration is combined with management and distribution of user's public SSH keys.
+- [Bastillion-EC2](https://github.com/bastillion-io/Bastillion-EC2) - A web-based SSH console to execute commands and manage multiple EC2 instances simultaneously running on Amazon Web Services (AWS).
 - [serverless](https://github.com/serverless/serverless) - Serverless Framework – Build web, mobile and IoT applications with serverless architectures using AWS Lambda, Azure Functions, Google CloudFunctions & more! –
 - [lambda](https://github.com/AWSinAction/lambda) - AWS in Action: Lambda
 - [terraform2md](https://github.com/shambarick/terraform2md) - 

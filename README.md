@@ -852,6 +852,7 @@
 - [the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line) - Master the command line, in one page
 - [ansible-symfony2](https://github.com/servergrove/ansible-symfony2) - Ansible role to deploy Symfony2 applications
 - [research](https://github.com/ssllabs/research) - 
+- [ansible-mysql](https://github.com/HanXHX/ansible-mysql) - Ansible role for Debian : MariaDB (Galera Cluster as option)
 - [mariadb-ansible-galera-cluster](https://github.com/adfinis-sygroup/mariadb-ansible-galera-cluster) - Automated installation of MariaDB Galera Cluster using Ansible
 - [awesome-mysql](https://github.com/shlomi-noach/awesome-mysql) - A curated list of awesome MySQL software, libraries, tools and resources
 - [ansible-quickref](https://github.com/lorin/ansible-quickref) - Quick reference for Ansible variables
@@ -1264,7 +1265,6 @@
 - [scripts](https://github.com/pixelb/scripts) - scripts from pixelbeat.org
 - [dotfiles](https://github.com/mathiasbynens/dotfiles) - :wrench: .files, including ~/.macos — sensible hacker defaults for macOS
 - [build.vagrant](https://github.com/Dalee/build.vagrant) - General purpose Web-development Vagrant box.
-- [ansible-mysql](https://github.com/HanXHX/ansible-mysql) - Ansible role for Debian : MariaDB (Galera Cluster as option)
 - [showcase-ansible-chatops](https://github.com/StackStorm/showcase-ansible-chatops) - Vagrant Demo showing ChatOps with Ansible
 - [debops](https://github.com/debops/debops) - DebOps - Your Debian-based data center in a box
 - [bash-it](https://github.com/Bash-it/bash-it) - A community Bash framework.

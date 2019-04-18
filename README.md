@@ -304,7 +304,7 @@
 - [comcast](https://github.com/tylertreat/comcast) - Simulating shitty network connections so you can build better systems.
 - [goreplay](https://github.com/buger/goreplay) - GoReplay is an open-source tool for capturing and replaying live HTTP traffic into a test environment in order to continuously test your system with real data. It can be used to increase confidence in code deployments, configuration changes and infrastructure changes.
 - [pachyderm](https://github.com/pachyderm/pachyderm) - Reproducible Data Science at Scale!
-- [vuls](https://github.com/future-architect/vuls) - Vulnerability scanner for Linux/FreeBSD, agentless, written in Go
+- [vuls](https://github.com/future-architect/vuls) - Agent-less vulnerability scanner for Linux/FreeBSD/WordPress/Programming language libraries and frameworks/Network devices
 - [banshee](https://github.com/eleme/banshee) - Anomalies detection system for periodic metrics.
 - [stack-docs-search](https://github.com/devrim/stack-docs-search) - terraform doc creator and autocomplete
 - [consulstructure](https://github.com/mitchellh/consulstructure) - Decode Consul data into Go (Golang) structures and watch for updates
@@ -435,7 +435,7 @@
 - [cobra](https://github.com/spf13/cobra) - A Commander for modern Go CLI interactions
 - [license](https://github.com/nishanths/license) - Generate license files
 - [packer](https://github.com/hashicorp/packer) - Packer is a tool for creating identical machine images for multiple platforms from a single source configuration.
-- [terraform](https://github.com/hashicorp/terraform) - Terraform is a tool for building, changing, and combining infrastructure safely and efficiently.
+- [terraform](https://github.com/hashicorp/terraform) - Terraform enables you to safely and predictably create, change, and improve infrastructure. It is an open source tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.
 - [bosun](https://github.com/bosun-monitor/bosun) - Time Series Alerting Framework
 - [httpdiff](https://github.com/jgrahamc/httpdiff) - Perform the same request against two HTTP servers and diff the results
 

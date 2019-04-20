@@ -179,7 +179,7 @@
 - [loki](https://github.com/grafana/loki) - Like Prometheus, but for logs.
 - [brook](https://github.com/txthinking/brook) - Brook is a cross-platform(Linux/MacOS/Windows/Android/iOS) proxy/vpn software
 - [envexec](https://github.com/hypnoglow/envexec) - A tool that executes any command or application provisioning its environment with variables from providers (like secrets from Vault).
-- [kubeval](https://github.com/garethr/kubeval) - Validate your Kubernetes configuration files, supports multiple Kubernetes versions
+- [kubeval](https://github.com/instrumenta/kubeval) - Validate your Kubernetes configuration files, supports multiple Kubernetes versions
 - [mattermost-push-proxy](https://github.com/mattermost/mattermost-push-proxy) - 
 - [pulumi](https://github.com/pulumi/pulumi) - Define cloud apps and infrastructure in your favorite language and deploy to any cloud
 - [go-camo](https://github.com/arachnys/go-camo) - An SSL/TLS proxy for insecure static assets to circumvent mixed content warnings. Based on `go-camo`, and `camo`.

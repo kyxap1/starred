@@ -304,7 +304,7 @@
 - [comcast](https://github.com/tylertreat/comcast) - Simulating shitty network connections so you can build better systems.
 - [goreplay](https://github.com/buger/goreplay) - GoReplay is an open-source tool for capturing and replaying live HTTP traffic into a test environment in order to continuously test your system with real data. It can be used to increase confidence in code deployments, configuration changes and infrastructure changes.
 - [pachyderm](https://github.com/pachyderm/pachyderm) - Reproducible Data Science at Scale!
-- [vuls](https://github.com/future-architect/vuls) - Agent-less vulnerability scanner for Linux/FreeBSD/WordPress/Programming language libraries and frameworks/Network devices
+- [vuls](https://github.com/future-architect/vuls) - Agent-less vulnerability scanner for Linux/FreeBSD/WordPress/Programming language libraries/Network devices
 - [banshee](https://github.com/eleme/banshee) - Anomalies detection system for periodic metrics.
 - [stack-docs-search](https://github.com/devrim/stack-docs-search) - terraform doc creator and autocomplete
 - [consulstructure](https://github.com/mitchellh/consulstructure) - Decode Consul data into Go (Golang) structures and watch for updates

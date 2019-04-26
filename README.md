@@ -280,7 +280,7 @@
 - [ec2-ls-hosts](https://github.com/ReSTARTR/ec2-ls-hosts) - an alternative tool for describing ec2 instances
 - [semaphore](https://github.com/ansible-semaphore/semaphore) - Open Source alternative to Ansible Tower
 - [zabbixctl](https://github.com/kovetskiy/zabbixctl) - Most effective way for operating in Zabbix Server
-- [s5cmd](https://github.com/peakgames/s5cmd) - Parallel S3 and local filesystem execution tool.
+- [s5cmd](https://github.com/peak/s5cmd) - Parallel S3 and local filesystem execution tool.
 - [terraform-gen](https://github.com/radeksimko/terraform-gen) - Terraform generator(s)
 - [awless](https://github.com/wallix/awless) - A Mighty CLI for AWS
 - [rclone](https://github.com/ncw/rclone) - "rsync for cloud storage" - Google Drive, Amazon Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Cloudfiles, Google Cloud Storage, Yandex Files

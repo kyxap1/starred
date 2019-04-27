@@ -173,6 +173,7 @@
 
 ## Go 
 
+- [k9s](https://github.com/derailed/k9s) - 🐶 Kubernetes CLI To Manage Your Clusters In Style!
 - [chamber](https://github.com/segmentio/chamber) - CLI for managing secrets
 - [external-storage](https://github.com/kubernetes-incubator/external-storage) - External storage plugins, provisioners, and helper libraries
 - [compose-on-kubernetes](https://github.com/docker/compose-on-kubernetes) - Deploy applications described in Compose onto Kubernetes clusters
@@ -380,7 +381,7 @@
 - [ctop](https://github.com/chrusty/ctop) - CTOP ("top" for Cassandra) - See what's going on in real-time
 - [go-priam](https://github.com/alext29/go-priam) - Backup and restore Cassandra DB to AWS S3
 - [terraform-multipart-userdata](https://github.com/chrusty/terraform-multipart-userdata) - Cruft for Terraform
-- [AutoSpotting](https://github.com/AutoSpotting/AutoSpotting) - Automatically convert your existing AutoScaling groups to up to 90% cheaper spot instances with minimal(often zero) configuration changes
+- [AutoSpotting](https://github.com/AutoSpotting/AutoSpotting) - Automatically convert your existing on-demand AutoScaling groups to often much cheaper spot instances without any launch configuration changes
 - [oauth2_proxy](https://github.com/bitly/oauth2_proxy) - A reverse proxy that provides authentication with Google, Github or other provider
 - [bashcomp](https://github.com/omakoto/bashcomp) - 
 - [sh](https://github.com/mvdan/sh) - A shell parser, formatter, and interpreter (POSIX/Bash/mksh)

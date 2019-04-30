@@ -173,6 +173,7 @@
 
 ## Go 
 
+- [istio](https://github.com/istio/istio) - Connect, secure, control, and observe services.
 - [k9s](https://github.com/derailed/k9s) - 🐶 Kubernetes CLI To Manage Your Clusters In Style!
 - [chamber](https://github.com/segmentio/chamber) - CLI for managing secrets
 - [external-storage](https://github.com/kubernetes-incubator/external-storage) - External storage plugins, provisioners, and helper libraries
@@ -306,7 +307,6 @@
 - [goreplay](https://github.com/buger/goreplay) - GoReplay is an open-source tool for capturing and replaying live HTTP traffic into a test environment in order to continuously test your system with real data. It can be used to increase confidence in code deployments, configuration changes and infrastructure changes.
 - [pachyderm](https://github.com/pachyderm/pachyderm) - Reproducible Data Science at Scale!
 - [vuls](https://github.com/future-architect/vuls) - Agent-less vulnerability scanner for Linux/FreeBSD/WordPress/Programming language libraries/Network devices
-- [banshee](https://github.com/eleme/banshee) - Anomalies detection system for periodic metrics.
 - [stack-docs-search](https://github.com/devrim/stack-docs-search) - terraform doc creator and autocomplete
 - [consulstructure](https://github.com/mitchellh/consulstructure) - Decode Consul data into Go (Golang) structures and watch for updates
 - [vault-ssh-helper](https://github.com/hashicorp/vault-ssh-helper) - Vault SSH Agent is used to enable one time keys and passwords
@@ -1280,7 +1280,7 @@
 - [deploy-drone](https://github.com/auxilincom/deploy-drone) - Deploy Drone CI to enable continuous integration ⚡️ on your product
 - [cassandra-cluster](https://github.com/dmitry-zhuravlev/cassandra-cluster) - Cassandra cluster with Docker Compose.
 - [initcassandra](https://github.com/ansrivas/initcassandra) - A super hacky way to initialize keyspaces and tables in cassandra using docker-compose.
-- [oh-my-zsh](https://github.com/robbyrussell/oh-my-zsh) - A delightful community-driven (with 1,300+ contributors) framework for managing your zsh configuration. Includes 200+ optional plugins (rails, git, OSX, hub, capistrano, brew, ant, php, python, etc), over 140 themes to spice up your morning, and an auto-update tool so that makes it easy to keep up with the latest updates from the community.
+- [oh-my-zsh](https://github.com/robbyrussell/oh-my-zsh) - 🙃 A delightful community-driven (with 1,300+ contributors) framework for managing your zsh configuration. Includes 200+ optional plugins (rails, git, OSX, hub, capistrano, brew, ant, php, python, etc), over 140 themes to spice up your morning, and an auto-update tool so that makes it easy to keep up with the latest updates from the community.
 - [cloudwatch-logmonitoring](https://github.com/shogomuranushi/cloudwatch-logmonitoring) - Log file monitoring for cloudwatch.
 - [docker-elk](https://github.com/roister/docker-elk) - The ELK stack powered by Docker and Compose.
 - [awless-templates](https://github.com/wallix/awless-templates) - Repository of examples for awless templates (see https://github.com/wallix/awless)

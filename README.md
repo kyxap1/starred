@@ -173,6 +173,7 @@
 
 ## Go 
 
+- [trickster](https://github.com/Comcast/trickster) - Trickster - Open Source Dashboard Accelerator for Time Series Databases
 - [istio](https://github.com/istio/istio) - Connect, secure, control, and observe services.
 - [k9s](https://github.com/derailed/k9s) - 🐶 Kubernetes CLI To Manage Your Clusters In Style!
 - [chamber](https://github.com/segmentio/chamber) - CLI for managing secrets

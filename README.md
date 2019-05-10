@@ -198,7 +198,7 @@
 - [envconsul](https://github.com/hashicorp/envconsul) - Launch a subprocess with environment variables using data from @HashiCorp Consul and Vault.
 - [sift](https://github.com/svent/sift) - A fast and powerful alternative to grep
 - [gitlab-project-settings](https://github.com/leominov/gitlab-project-settings) - Sync GitLab project settings
-- [terraform-provisioner-inspec](https://github.com/inspec/terraform-provisioner-inspec) - Terraform InSpec Provisioner Plugin
+- [terraform-provisioner-inspec](https://github.com/chef-boneyard/terraform-provisioner-inspec) - Terraform InSpec Provisioner Plugin
 - [gitlab-ci-linter](https://github.com/orobardet/gitlab-ci-linter) - This is an automated mirror of the gitlab project. Please use gitlab project as reference: https://gitlab.com/orobardet/gitlab-ci-linter
 - [hystrix_exporter](https://github.com/ContaAzul/hystrix_exporter) - exports hystrix/turbine metrics in the prometheus format
 - [velero](https://github.com/heptio/velero) - Backup and migrate Kubernetes applications and their persistent volumes

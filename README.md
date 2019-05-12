@@ -256,7 +256,7 @@
 - [ksonnet-lib](https://github.com/ksonnet/ksonnet-lib) - Codegen for Kubernetes-API-compatible Jsonnet libraries
 - [goat](https://github.com/sevagh/goat) - use tags to attach EBS volumes and ENIs to EC2 instances (including Nitro), and run mount, mkfs, and mdadm
 - [drone-mvn](https://github.com/thomasf/drone-mvn) - Maven repository artifact publisher for Drone CI
-- [ec2-metadatafs](https://github.com/jszwedko/ec2-metadatafs) - EC2 metadata and tags as a filesystem
+- [ec2-metadatafs](https://github.com/jszwedko/ec2-metadatafs) - `cat` your AWS EC2 metadata
 - [vaulter](https://github.com/Mykolaichenko/vaulter) - 
 - [terraform_cashier](https://github.com/Bjorn248/terraform_cashier) - Designed to analyze terraform template files and return a cost estimate of running the infrastructure, assuming AWS is the target cloud. Perhaps other clouds can be supported going forward?
 - [k6](https://github.com/loadimpact/k6) - A modern load testing tool, using Go and JavaScript - https://k6.io

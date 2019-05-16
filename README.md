@@ -1379,7 +1379,7 @@
 ## Smarty 
 
 - [charts](https://github.com/helm/charts) - Curated applications for Kubernetes
-- [mattermost-helm](https://github.com/mattermost/mattermost-helm) - Mattermost Enterprise Edition Helm chart for Kubernetes
+- [mattermost-helm](https://github.com/mattermost/mattermost-helm) - Mattermost Helm charts for Kubernetes
 - [charts-1](https://github.com/kostyrev/charts-1) - Curated applications for Kubernetes
 
 ## Swift 

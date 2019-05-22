@@ -189,7 +189,7 @@
 - [go-camo](https://github.com/arachnys/go-camo) - An SSL/TLS proxy for insecure static assets to circumvent mixed content warnings. Based on `go-camo`, and `camo`.
 - [slack-advanced-exporter](https://github.com/grundleborg/slack-advanced-exporter) - A tool for exporting additional data from Slack that is missing from the official data export.
 - [tf2pulumi](https://github.com/pulumi/tf2pulumi) - A tool to convert Terraform projects to Pulumi TypeScript programs
-- [direnv](https://github.com/direnv/direnv) - Unclutter your .profile
+- [direnv](https://github.com/direnv/direnv) - unclutter your .profile
 - [astro](https://github.com/uber/astro) - Astro is a tool for managing multiple Terraform executions as a single command
 - [helm-s3](https://github.com/hypnoglow/helm-s3) - Helm plugin that allows to use AWS S3 as a [private] chart repository.
 - [terraform-provider-esxi](https://github.com/josenk/terraform-provider-esxi) - Terraform-provider-esxi plugin

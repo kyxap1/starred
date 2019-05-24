@@ -345,7 +345,7 @@
 - [pgclimb](https://github.com/lukasmartinelli/pgclimb) - Export data from PostgreSQL into different data formats
 - [pgfutter](https://github.com/lukasmartinelli/pgfutter) - Import CSV and JSON into PostgreSQL the easy way
 - [beanform](https://github.com/jritsema/beanform) - Reverse engineer an AWS Elasticbeanstalk app into Terraform source code
-- [tflint](https://github.com/wata727/tflint) - TFLint is a Terraform linter for detecting errors that can not be detected by `terraform plan`
+- [tflint](https://github.com/wata727/tflint) - TFLint is a Terraform linter focused on possible errors, best practices, and so on.
 - [go-openvpn-mgmt](https://github.com/apparentlymart/go-openvpn-mgmt) - [WIP] Go client library for OpenVPN's management protocol
 - [terragrunt](https://github.com/gruntwork-io/terragrunt) - Terragrunt is a thin wrapper for Terraform that provides extra tools for working with multiple Terraform modules.
 - [terraform](https://github.com/VladRassokhin/terraform) - Terraform is a tool for building, changing, and combining infrastructure safely and efficiently.
@@ -433,7 +433,7 @@
 - [s3git](https://github.com/s3git/s3git) - s3git: git for Cloud Storage. Distributed Version Control for Data. Create decentralized and versioned repos that scale infinitely to 100s of millions of files. Clone huge PB-scale repos on your local SSD to make changes, commit and push back. Oh yeah, it dedupes too and offers directory versioning.
 - [godef](https://github.com/rogpeppe/godef) - Print where symbols are defined in Go source code
 - [viper](https://github.com/spf13/viper) - Go configuration with fangs
-- [wide](https://github.com/b3log/wide) - 🎆 一款基于 Web 的 Go 语言 IDE。https://hacpai.com/tag/wide
+- [wide](https://github.com/b3log/wide) - 🌈 一款基于 Web 的 Go 语言 IDE。https://hacpai.com/tag/wide
 - [hugo](https://github.com/gohugoio/hugo) - The world’s fastest framework for building websites.
 - [goa](https://github.com/goadesign/goa) - Design-based APIs and microservices in Go
 - [cobra](https://github.com/spf13/cobra) - A Commander for modern Go CLI interactions
@@ -840,6 +840,7 @@
 
 ## Others 
 
+- [sre-interview-prep-guide](https://github.com/mxssl/sre-interview-prep-guide) - Site Reliability Engineer Interview Preparation Guide
 - [what-happens-when-k8s](https://github.com/jamiehannaford/what-happens-when-k8s) - 🤔  What happens when I type kubectl run?
 - [brook-systemd](https://github.com/unstartdev/brook-systemd) - brook systemd脚本示例
 - [Prometheus2-grafana-dashboard](https://github.com/FUSAKLA/Prometheus2-grafana-dashboard) - Default dashboard for Prometheus version 2.0 for Grafana

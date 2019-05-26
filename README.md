@@ -254,7 +254,6 @@
 - [kops](https://github.com/kubernetes/kops) - Kubernetes Operations (kops) - Production Grade K8s Installation, Upgrades, and Management
 - [gomplate](https://github.com/hairyhenderson/gomplate) - A flexible commandline tool for template rendering. Supports lots of local and remote datasources.
 - [swarmkit](https://github.com/docker/swarmkit) - A toolkit for orchestrating distributed systems at any scale. It includes primitives for node discovery, raft-based consensus, task scheduling and more.
-- [ksonnet-lib](https://github.com/ksonnet/ksonnet-lib) - Codegen for Kubernetes-API-compatible Jsonnet libraries
 - [goat](https://github.com/sevagh/goat) - use tags to attach EBS volumes and ENIs to EC2 instances (including Nitro), and run mount, mkfs, and mdadm
 - [drone-mvn](https://github.com/thomasf/drone-mvn) - Maven repository artifact publisher for Drone CI
 - [ec2-metadatafs](https://github.com/jszwedko/ec2-metadatafs) - `cat` your AWS EC2 metadata
@@ -385,7 +384,7 @@
 - [ctop](https://github.com/chrusty/ctop) - CTOP ("top" for Cassandra) - See what's going on in real-time
 - [go-priam](https://github.com/alext29/go-priam) - Backup and restore Cassandra DB to AWS S3
 - [terraform-multipart-userdata](https://github.com/chrusty/terraform-multipart-userdata) - Cruft for Terraform
-- [AutoSpotting](https://github.com/AutoSpotting/AutoSpotting) - Automatically convert your existing on-demand AutoScaling groups to often much cheaper spot instances without any launch configuration changes
+- [AutoSpotting](https://github.com/AutoSpotting/AutoSpotting) - Easiest to adopt spot market automation software, automatically converts your existing on-demand AutoScaling groups to much cheaper spot instances without any launch configuration changes
 - [oauth2_proxy](https://github.com/bitly/oauth2_proxy) - A reverse proxy that provides authentication with Google, Github or other provider
 - [bashcomp](https://github.com/omakoto/bashcomp) - 
 - [sh](https://github.com/mvdan/sh) - A shell parser, formatter, and interpreter (POSIX/Bash/mksh)
@@ -719,7 +718,6 @@
 - [aws-lambda-deploy](https://github.com/maxbeatty/aws-lambda-deploy) - An automated, opinionated way to deploy to AWS Lambda
 - [hashi-ui](https://github.com/jippi/hashi-ui) - A modern user interface for @hashicorp Consul & Nomad
 - [viz.js](https://github.com/mdaines/viz.js) - A hack to put Graphviz on the web.
-- [vis](https://github.com/almende/vis) - vis.js is a dynamic, browser-based visualization library
 - [remark](https://github.com/gnab/remark) - A simple, in-browser, markdown-driven slideshow tool.
 - [vscode-terraform-snippets](https://github.com/rixrix/vscode-terraform-snippets) - Advanced Terraform Snippets for Visual Studio Code. It has at least 23k downloads from the marketplace.
 - [mermaid](https://github.com/knsv/mermaid) - Generation of diagram and flowchart from text in a similar manner as markdown
@@ -796,6 +794,7 @@
 
 - [jsonnet-libs](https://github.com/grafana/jsonnet-libs) - Grafana Labs' Jsonnet libraries
 - [grafonnet-lib](https://github.com/grafana/grafonnet-lib) - Jsonnet library for generating Grafana dashboard files.
+- [ksonnet-lib](https://github.com/ksonnet/ksonnet-lib) - Codegen for Kubernetes-API-compatible Jsonnet libraries
 - [jsonnet](https://github.com/google/jsonnet) - Jsonnet - The data templating language
 
 ## Kotlin 

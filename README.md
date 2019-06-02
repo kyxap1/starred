@@ -567,7 +567,7 @@
 
 ## HTML 
 
-- [nginxconfig.io](https://github.com/valentinxxx/nginxconfig.io) - ⚙️ NGiИX config generator on steroids 💉
+- [nginxconfig.io](https://github.com/0xB4LINT/nginxconfig.io) - ⚙️ NGiИX config generator on steroids 💉
 - [cryptr](https://github.com/adobe/cryptr) - Cryptr: a GUI for Hashicorp's Vault
 - [overwatch-dpi-tool](https://github.com/Pyrolistical/overwatch-dpi-tool) - 
 - [nginx-https-base](https://github.com/naggie/nginx-https-base) - An Ubuntu 16.04 Ansible role for small-scale nginx with automatic HTTPS via certbot/LE, better error pages, useful templates

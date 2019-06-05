@@ -174,6 +174,7 @@
 
 ## Go 
 
+- [terraform-provider-kafka](https://github.com/Mongey/terraform-provider-kafka) - Terraform provider for managing Apache Kafka Topics + ACLs
 - [k3s](https://github.com/rancher/k3s) - Lightweight Kubernetes. 5 less than k8s.
 - [trivy](https://github.com/knqyf263/trivy) - A Simple and Comprehensive Vulnerability Scanner for Containers, Suitable for CI
 - [trickster](https://github.com/Comcast/trickster) - Trickster - Open Source Dashboard Accelerator for Time Series Databases

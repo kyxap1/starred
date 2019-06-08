@@ -44,6 +44,7 @@
   - [Shell](#shell)
   - [Smarty](#smarty)
   - [Swift](#swift)
+  - [TSQL](#tsql)
   - [TeX](#tex)
   - [TypeScript](#typescript)
   - [Vim script](#vim script)
@@ -674,7 +675,7 @@
 - [cabin](https://github.com/bitnami-labs/cabin) - The Mobile Dashboard for Kubernetes
 - [jsoneditor](https://github.com/josdejong/jsoneditor) - A web-based tool to view, edit, format, and validate JSON
 - [blast-radius](https://github.com/28mm/blast-radius) - Interactive visualizations of Terraform dependency graphs using d3.js
-- [release-it](https://github.com/release-it/release-it) - 🚀 Automate versioning and package publishing. Use it for Git repositories, npm packages, GitHub & GitLab releases, changelogs, 💯 extensible with plugins.
+- [release-it](https://github.com/release-it/release-it) - 🚀 Automate versioning and package publishing
 - [graphql-compose-aws](https://github.com/graphql-compose/graphql-compose-aws) - AWS Cloud API via GraphQL
 - [kuzzle](https://github.com/kuzzleio/kuzzle) - Open-source Back-end, self-hostable & ready to use - Real-time, storage, advanced search - Web, Apps, Mobile, IoT -
 - [destiny2](https://github.com/Jake-Ruston/destiny2) - An API wrapper for Destiny 2.
@@ -861,7 +862,6 @@
 - [the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line) - Master the command line, in one page
 - [ansible-symfony2](https://github.com/servergrove/ansible-symfony2) - Ansible role to deploy Symfony2 applications
 - [research](https://github.com/ssllabs/research) - 
-- [ansible-mysql](https://github.com/HanXHX/ansible-mysql) - Ansible role for Debian : MariaDB (Galera Cluster as option)
 - [mariadb-ansible-galera-cluster](https://github.com/adfinis-sygroup/mariadb-ansible-galera-cluster) - Automated installation of MariaDB Galera Cluster using Ansible
 - [awesome-mysql](https://github.com/shlomi-noach/awesome-mysql) - A curated list of awesome MySQL software, libraries, tools and resources
 - [ansible-quickref](https://github.com/lorin/ansible-quickref) - Quick reference for Ansible variables
@@ -1330,7 +1330,7 @@
 - [centos7-ami](https://github.com/claranet/centos7-ami) - Shell script to build CentOS 7 AMI
 - [dockerfiles](https://github.com/kelseyhightower/dockerfiles) - Docker files
 - [hashiconf-eu-2016](https://github.com/kelseyhightower/hashiconf-eu-2016) - HashiConf EU 2016
-- [Dockerfiles](https://github.com/HariSekhon/Dockerfiles) - DockerHub public images for Docker & Kubernetes - Hadoop, Kafka, ZooKeeper, HBase, Cassandra, Solr / SolrCloud, Presto, Apache Drill, Nifi, Spark, Mesos, Consul, Riak, Jython, Advanced Nagios Plugins Collection & DevOps Tools repos on Alpine, CentOS, Debian, Fedora, Ubuntu, Superset, H2O, Serf, Alluxio / Tachyon
+- [Dockerfiles](https://github.com/HariSekhon/Dockerfiles) - 50+ DockerHub public images for Docker & Kubernetes - Hadoop, Kafka, ZooKeeper, HBase, Cassandra, Solr, SolrCloud, Presto, Apache Drill, Nifi, Spark, Mesos, Consul, Riak, Jython, Advanced Nagios Plugins & DevOps Tools repos on Alpine, CentOS, Debian, Fedora, Ubuntu, Superset, H2O, Serf, Alluxio / Tachyon
 - [terraform-multi-env](https://github.com/bkc1/terraform-multi-env) - Terraform wrapper script for handling multi-environment, multi-region deployments
 - [terraform-aws-wrapper](https://github.com/antonbabenko/terraform-aws-wrapper) - [DEPRECATED] Terraform AWS wrapper script
 - [phinx.deb](https://github.com/Vitexus/phinx.deb) - Debian package for SQL Migrating tool Phinx
@@ -1390,6 +1390,10 @@
 ## Swift 
 
 - [open-source-mac-os-apps](https://github.com/serhii-londar/open-source-mac-os-apps) - 🚀 Awesome list of open source applications for macOS.
+
+## TSQL 
+
+- [ansible-mysql](https://github.com/HanXHX/ansible-mysql) - Ansible role for Debian : MariaDB (Galera Cluster as option)
 
 ## TeX 
 

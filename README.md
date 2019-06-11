@@ -906,7 +906,7 @@
 - [dockerfile-transcrypt](https://github.com/unifio/dockerfile-transcrypt) - Dockerfile for creation of a Transcrypt container
 - [ansible-vault](https://github.com/MiLk/ansible-vault) - Ansible Vault role
 - [awesome-terraform](https://github.com/shuaibiyy/awesome-terraform) - Curated list of resources on HashiCorp's Terraform
-- [new-job](https://github.com/Ecwid/new-job) - 
+- [new-job](https://github.com/Ecwid/new-job) - Ecwid – ульяновский стартап, мы ищем Java-разработчиков
 - [awesome-slack](https://github.com/matiassingers/awesome-slack) - A curated list of awesome Slack related things
 - [fabio-compose](https://github.com/avthart/fabio-compose) - Fabio Docker Compose
 - [multihost-cassandra-flocker](https://github.com/wallnerryan/multihost-cassandra-flocker) - A multi-host Cassandra cluster using Swarm, Compose and Flocker

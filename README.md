@@ -103,7 +103,7 @@
 - [AutoHotkey_L](https://github.com/Lexikos/AutoHotkey_L) - AutoHotkey - macro-creation and automation-oriented scripting utility for Windows.
 - [tdesktop](https://github.com/telegramdesktop/tdesktop) - Telegram Desktop messaging app
 - [veles](https://github.com/codilime/veles) - Binary data analysis and visualization tool
-- [osquery](https://github.com/facebook/osquery) - SQL powered operating system instrumentation, monitoring, and analytics.
+- [osquery](https://github.com/osquery/osquery) - SQL powered operating system instrumentation, monitoring, and analytics.
 - [pushpin](https://github.com/fanout/pushpin) - Reverse proxy for realtime web services
 - [AEBL](https://github.com/krattai/AEBL) - AEBL is a mobile multimedia distribution and playback platform.
 - [s3fs-fuse](https://github.com/s3fs-fuse/s3fs-fuse) - FUSE-based file system backed by Amazon S3

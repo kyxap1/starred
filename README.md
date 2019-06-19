@@ -1214,7 +1214,7 @@
 - [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness) - A curated list of awesome awesomeness
 - [puppet-cassandra](https://github.com/voxpupuli/puppet-cassandra) - Installs Cassandra & DataStax Agent on RHEL/Ubuntu/Debian.
 - [s3urlsigner](https://github.com/stevejmason/s3urlsigner) - API "proxy" that redirects requests to a signed-URL for accessing private objects in AWS S3.
-- [samson](https://github.com/zendesk/samson) - Web interface for deployments
+- [samson](https://github.com/zendesk/samson) - Web interface for deployments, with plugin architecture and kubernetes support
 - [cassandra-chef-cookbook](https://github.com/wsh/cassandra-chef-cookbook) - Chef cookbook for Apache Cassandra, DataStax Enterprise (DSE) and DataStax agent
 - [aws-security-viz](https://github.com/anaynayak/aws-security-viz) - Visualize your aws security groups.
 - [infrastructure-as-code-training](https://github.com/gruntwork-io/infrastructure-as-code-training) - Materials for learning how to use infrastructure-as-code

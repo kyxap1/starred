@@ -237,7 +237,7 @@
 - [go-jsonnet](https://github.com/google/go-jsonnet) - 
 - [freegeoip](https://github.com/fiorix/freegeoip) - IP geolocation web server
 - [terraformctl](https://github.com/kris-nova/terraformctl) - Running Terraform in Kubernetes as a controller
-- [jaeger](https://github.com/jaegertracing/jaeger) - CNCF Jaeger, a Distributed Tracing System
+- [jaeger](https://github.com/jaegertracing/jaeger) - CNCF Jaeger, a Distributed Tracing Platform
 - [minio](https://github.com/minio/minio) - MinIO is a high performance object storage server compatible with Amazon S3 APIs
 - [stolon](https://github.com/sorintlab/stolon) - PostgreSQL cloud native High Availability and more.
 - [mtail](https://github.com/google/mtail) - extract whitebox monitoring data from application logs for collection in a timeseries database
@@ -574,7 +574,7 @@
 - [overwatch-dpi-tool](https://github.com/Pyrolistical/overwatch-dpi-tool) - 
 - [nginx-https-base](https://github.com/naggie/nginx-https-base) - An Ubuntu 16.04 Ansible role for small-scale nginx with automatic HTTPS via certbot/LE, better error pages, useful templates
 - [iproute2-cheatsheet](https://github.com/dmbaturin/iproute2-cheatsheet) - iproute2 command reference
-- [portainer](https://github.com/portainer/portainer) - Simple management UI for Docker
+- [portainer](https://github.com/portainer/portainer) - Making Docker management easy.
 - [node-red-dashboard](https://github.com/node-red/node-red-dashboard) - A dashboard UI for Node-RED
 - [pup](https://github.com/ericchiang/pup) - Parsing HTML at the command line
 - [ndbench](https://github.com/Netflix/ndbench) - Netflix Data Store Benchmark
@@ -605,7 +605,7 @@
 - [cassandra_exporter](https://github.com/criteo/cassandra_exporter) - Apache Cassandra® metrics exporter for Prometheus
 - [cassandra-reaper](https://github.com/thelastpickle/cassandra-reaper) - Automated Repair Awesomeness for Apache Cassandra
 - [open-airplay](https://github.com/jamesdlow/open-airplay) - A collection of libraries for Apple's AirPlay protocol
-- [incubator-zipkin](https://github.com/apache/incubator-zipkin) - Zipkin is a distributed tracing system
+- [zipkin](https://github.com/openzipkin/zipkin) - Zipkin is a distributed tracing system
 - [YCSB](https://github.com/brianfrankcooper/YCSB) - Yahoo! Cloud Serving Benchmark
 - [localstack-spring-boot](https://github.com/smartupio/localstack-spring-boot) - Spring Boot AutoConfiguration for LocalStack
 - [archi](https://github.com/archimatetool/archi) - Archi: ArchiMate Modelling Tool

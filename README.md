@@ -67,7 +67,6 @@
 - [kafkacat](https://github.com/edenhill/kafkacat) - Generic command line non-JVM Apache Kafka producer and consumer
 - [pgreplay](https://github.com/laurenz/pgreplay) - pgreplay reads a PostgreSQL log file (*not* a WAL file), extracts the SQL statements and executes them in the same order and relative time against a PostgreSQL database cluster.
 - [snzip](https://github.com/kubo/snzip) - Snzip, a compression/decompression tool based on snappy
-- [GitUp](https://github.com/git-up/GitUp) - The Git interface you've been missing all your life has finally arrived.
 - [tcpcopy](https://github.com/session-replay-tools/tcpcopy) - An online request replication tool, also a tcp stream replay tool, fit for real testing, performance testing, stability testing, stress testing, load testing, smoke testing, etc
 - [ultragrep](https://github.com/zendesk/ultragrep) - the grep that greps the hardest.
 - [yajl](https://github.com/lloyd/yajl) - A fast streaming JSON parsing library in C.
@@ -843,6 +842,7 @@
 - [wifriedx](https://github.com/mariociabarra/wifriedx) - Band-aid for Yosemite WiFi Issues.  Menu bar item which disables/enables awdl0 interface.  Brings interface up/down with PriviledgedHelper
 - [wifried](https://github.com/mariociabarra/wifried) - WiFi Fix for iOS 8.1
 - [LuLu](https://github.com/objective-see/LuLu) - LuLu is the free macOS firewall
+- [GitUp](https://github.com/git-up/GitUp) - The Git interface you've been missing all your life has finally arrived.
 
 ## Others 
 

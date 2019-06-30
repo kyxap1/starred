@@ -350,7 +350,7 @@
 - [pgclimb](https://github.com/lukasmartinelli/pgclimb) - Export data from PostgreSQL into different data formats
 - [pgfutter](https://github.com/lukasmartinelli/pgfutter) - Import CSV and JSON into PostgreSQL the easy way
 - [beanform](https://github.com/jritsema/beanform) - Reverse engineer an AWS Elasticbeanstalk app into Terraform source code
-- [tflint](https://github.com/wata727/tflint) - TFLint is a Terraform linter focused on possible errors, best practices, and so on.
+- [tflint](https://github.com/wata727/tflint) - TFLint is a Terraform linter focused on possible errors, best practices, etc.
 - [go-openvpn-mgmt](https://github.com/apparentlymart/go-openvpn-mgmt) - [WIP] Go client library for OpenVPN's management protocol
 - [terragrunt](https://github.com/gruntwork-io/terragrunt) - Terragrunt is a thin wrapper for Terraform that provides extra tools for working with multiple Terraform modules.
 - [terraform](https://github.com/VladRassokhin/terraform) - Terraform is a tool for building, changing, and combining infrastructure safely and efficiently.
@@ -806,6 +806,7 @@
 
 ## Kotlin 
 
+- [blokada](https://github.com/blokadaorg/blokada) - Free ad blocker for Android with the best open source community.
 - [cdm](https://github.com/rustyrazorblade/cdm) - Cassandra Dataset Manager
 - [intellij-hcl](https://github.com/VladRassokhin/intellij-hcl) - HCL language support for IntelliJ platform based IDEs
 
@@ -1395,6 +1396,7 @@
 
 ## TSQL 
 
+- [pg_insights](https://github.com/lob/pg_insights) - Convenient SQL for monitoring Postgres database health.
 - [ansible-mysql](https://github.com/HanXHX/ansible-mysql) - Ansible role for Debian : MariaDB (Galera Cluster as option)
 
 ## TeX 

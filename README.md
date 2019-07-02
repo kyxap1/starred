@@ -677,6 +677,7 @@
 - [jsoneditor](https://github.com/josdejong/jsoneditor) - A web-based tool to view, edit, format, and validate JSON
 - [blast-radius](https://github.com/28mm/blast-radius) - Interactive visualizations of Terraform dependency graphs using d3.js
 - [release-it](https://github.com/release-it/release-it) - 🚀 Automate versioning and package publishing
+- [awx](https://github.com/ansible/awx) - AWX Project
 - [graphql-compose-aws](https://github.com/graphql-compose/graphql-compose-aws) - AWS Cloud API via GraphQL
 - [kuzzle](https://github.com/kuzzleio/kuzzle) - Open-source Back-end, self-hostable & ready to use - Real-time, storage, advanced search - Web, Apps, Mobile, IoT -
 - [destiny2](https://github.com/Jake-Ruston/destiny2) - An API wrapper for Destiny 2.
@@ -971,7 +972,7 @@
 
 ## Python 
 
-- [netbox](https://github.com/digitalocean/netbox) - IP address management (IPAM) and data center infrastructure management (DCIM) tool.
+- [netbox](https://github.com/netbox-community/netbox) - IP address management (IPAM) and data center infrastructure management (DCIM) tool.
 - [gitlabform](https://github.com/egnyte/gitlabform) - Easy configuration as code tool for GitLab using config in plain YAML
 - [prometheus-kafka-consumer-group-exporter](https://github.com/braedon/prometheus-kafka-consumer-group-exporter) - Prometheus Kafka Consumer Group Exporter
 - [ansible-role-cassandra](https://github.com/kostyrev/ansible-role-cassandra) - ansible role to only install Apache Cassandra
@@ -991,7 +992,6 @@
 - [zfs_autobackup](https://github.com/psy0rz/zfs_autobackup) - ZFS autobackup is used to periodicly backup ZFS filesystems to other locations. No additional tools of libraries or config files needed.
 - [dotdrop](https://github.com/deadc0de6/dotdrop) - Save your dotfiles once, deploy them everywhere
 - [kimchi](https://github.com/kimchi-project/kimchi) - An HTML5 management interface for KVM guests
-- [awx](https://github.com/ansible/awx) - AWX Project
 - [destiny-clan-member-manager](https://github.com/dad2cl3/destiny-clan-member-manager) - Database and web server scripts for managing Destiny clan membership within Postgres
 - [spirit](https://github.com/jgayfer/spirit) - Spirit is a Destiny 2 Discord to assist players with everything from clan management to keeping track of in game events.
 - [cloud-inquisitor](https://github.com/RiotGames/cloud-inquisitor) - Enforce ownership and data security within AWS
@@ -1034,7 +1034,7 @@
 - [aws_role_credentials](https://github.com/ThoughtWorksInc/aws_role_credentials) - Generates AWS credentials for roles using STS
 - [awsie](https://github.com/theserverlessway/awsie) - CloudFormation aware wrapper for the AWSCLI
 - [stacker](https://github.com/cloudtools/stacker) - An AWS CloudFormation Stack orchestrator/manager.
-- [sceptre](https://github.com/cloudreach/sceptre) - Build better AWS infrastructure
+- [sceptre](https://github.com/Sceptre/sceptre) - Build better AWS infrastructure
 - [stethoscope](https://github.com/Netflix-Skunkworks/stethoscope) - Personalized, user-focused recommendations for employee information security.
 - [ansible-pgbouncer](https://github.com/alexey-medvedchikov/ansible-pgbouncer) - This ansible role configures PgBouncer PostgreSQL connection mux utility.
 - [s3env](https://github.com/cameronmaske/s3env) - Manipulate a simple key/value JSON object file in an S3 bucket

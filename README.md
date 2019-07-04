@@ -677,6 +677,7 @@
 - [jsoneditor](https://github.com/josdejong/jsoneditor) - A web-based tool to view, edit, format, and validate JSON
 - [blast-radius](https://github.com/28mm/blast-radius) - Interactive visualizations of Terraform dependency graphs using d3.js
 - [release-it](https://github.com/release-it/release-it) - 🚀 Automate versioning and package publishing
+- [kimchi](https://github.com/kimchi-project/kimchi) - An HTML5 management interface for KVM guests
 - [awx](https://github.com/ansible/awx) - AWX Project
 - [graphql-compose-aws](https://github.com/graphql-compose/graphql-compose-aws) - AWS Cloud API via GraphQL
 - [kuzzle](https://github.com/kuzzleio/kuzzle) - Open-source Back-end, self-hostable & ready to use - Real-time, storage, advanced search - Web, Apps, Mobile, IoT -
@@ -991,7 +992,6 @@
 - [magic-wormhole](https://github.com/warner/magic-wormhole) - get things from one computer to another, safely
 - [zfs_autobackup](https://github.com/psy0rz/zfs_autobackup) - ZFS autobackup is used to periodicly backup ZFS filesystems to other locations. No additional tools of libraries or config files needed.
 - [dotdrop](https://github.com/deadc0de6/dotdrop) - Save your dotfiles once, deploy them everywhere
-- [kimchi](https://github.com/kimchi-project/kimchi) - An HTML5 management interface for KVM guests
 - [destiny-clan-member-manager](https://github.com/dad2cl3/destiny-clan-member-manager) - Database and web server scripts for managing Destiny clan membership within Postgres
 - [spirit](https://github.com/jgayfer/spirit) - Spirit is a Destiny 2 Discord to assist players with everything from clan management to keeping track of in game events.
 - [cloud-inquisitor](https://github.com/RiotGames/cloud-inquisitor) - Enforce ownership and data security within AWS

@@ -1119,7 +1119,6 @@
 - [s3redirect](https://github.com/nathangrigg/s3redirect) - Provides a command line tool to synchronize web site redirects with an Amazon S3 bucket.
 - [ComboAMI](https://github.com/riptano/ComboAMI) - The AMI takes a set of input parameters via the EC2 user-data to install, RAID, ring, and launch a DataStax Enterprise/Community cluster.
 - [cct](https://github.com/containers-tools/cct) - containers configuration tool
-- [wildfly-py](https://github.com/cenx-cf/wildfly-py) - WildFly Management Python API
 - [YouCompleteMe](https://github.com/ycm-core/YouCompleteMe) - A code-completion engine for Vim
 - [mantl](https://github.com/mantl/mantl) - Mantl is a modern platform for rapidly deploying globally distributed services
 - [pritunl](https://github.com/pritunl/pritunl) - Enterprise VPN server

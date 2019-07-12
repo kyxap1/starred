@@ -726,7 +726,7 @@
 - [aws-lambda-deploy](https://github.com/maxbeatty/aws-lambda-deploy) - An automated, opinionated way to deploy to AWS Lambda
 - [hashi-ui](https://github.com/jippi/hashi-ui) - A modern user interface for @hashicorp Consul & Nomad
 - [viz.js](https://github.com/mdaines/viz.js) - A hack to put Graphviz on the web.
-- [vis](https://github.com/almende/vis) - ⚠️ This project is not maintained anymore! Please got to https://github.com/visjs
+- [vis](https://github.com/almende/vis) - ⚠️ This project is not maintained anymore! Please got se https://github.com/almende/vis/issues/4259
 - [remark](https://github.com/gnab/remark) - A simple, in-browser, markdown-driven slideshow tool.
 - [vscode-terraform-snippets](https://github.com/rixrix/vscode-terraform-snippets) - Advanced Terraform Snippets for Visual Studio Code. It has at least 23k downloads from the marketplace.
 - [mermaid](https://github.com/knsv/mermaid) - Generation of diagram and flowchart from text in a similar manner as markdown
@@ -851,6 +851,7 @@
 
 ## Others 
 
+- [awesome-operators](https://github.com/operator-framework/awesome-operators) - A resource tracking a number of Operators out in the wild.
 - [sre-interview-prep-guide](https://github.com/mxssl/sre-interview-prep-guide) - Site Reliability Engineer Interview Preparation Guide
 - [what-happens-when-k8s](https://github.com/jamiehannaford/what-happens-when-k8s) - 🤔  What happens when I type kubectl run?
 - [brook-systemd](https://github.com/unstartdev/brook-systemd) - brook systemd脚本示例

@@ -667,6 +667,7 @@
 
 ## JavaScript 
 
+- [nginx-proxy-manager](https://github.com/jc21/nginx-proxy-manager) - Docker container for managing Nginx proxy hosts with a simple, powerful interface
 - [blackwhite](https://github.com/txthinking/blackwhite) - Domain, CIDR, IP black/white list, PAC generator
 - [emojiporter](https://github.com/lisamai/emojiporter) - CLI utility to export/import custom emojis for Mattermost.
 - [uppy](https://github.com/transloadit/uppy) - The next open source file uploader for web browsers :dog:

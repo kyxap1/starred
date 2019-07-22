@@ -563,7 +563,6 @@
 - [tf_aws_elasticsearch](https://github.com/TrueCar/tf_aws_elasticsearch) - A Terraform module to create an Elasticsearch cluster.
 - [tf_efs_mount](https://github.com/manheim/tf_efs_mount) - Terraform module that provides an EFS file system, mount targets and security groups.
 - [tf_aws_vpc](https://github.com/terraform-community-modules/tf_aws_vpc) - [DEPRECATED] Use https://github.com/terraform-aws-modules/terraform-aws-vpc
-- [spinnaker-terraform](https://github.com/kenzanlabs/spinnaker-terraform) - A set of terraform scripts to create an environment from scratch with a Bastion Host, Jenkins, and Spinnaker
 - [terraform-elasticsearch](https://github.com/nadnerb/terraform-elasticsearch) - Terraform elasticsearch cluster
 - [tf_aws_sg](https://github.com/terraform-community-modules/tf_aws_sg) - [DEPRECATED] Use https://github.com/terraform-aws-modules/terraform-aws-security-group
 - [terraform-aws-opsworks](https://github.com/yamaza520/terraform-aws-opsworks) - terraform-aws-opsworks

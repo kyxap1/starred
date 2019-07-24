@@ -529,7 +529,7 @@
 - [fleet-etcd2-microservices-cluster](https://github.com/andymotta/fleet-etcd2-microservices-cluster) - CoreOS Fleet Container Architecture on AWS
 - [terraform-elasticsearch](https://github.com/everydayhero/terraform-elasticsearch) - Terraformed elasticsearch cluster in AWS
 - [hashistack](https://github.com/yikaus/hashistack) - Boostrap hashistack(Consul/Nomad/Vault) cluster over AWS
-- [json2hcl](https://github.com/kvz/json2hcl) - Convert JSON to HCL, and vice versa
+- [json2hcl](https://github.com/kvz/json2hcl) - Convert JSON to HCL, and vice versa. We don't use json2hcl anymore ourselves, so we can't invest time into it. However, we're still welcoing PRs.
 - [nomad-openstack-terraform](https://github.com/moss2k13/nomad-openstack-terraform) - Nomad cluster with consul on coreos deployed on openstack
 - [cassandra-cloud](https://github.com/allanlang/cassandra-cloud) - Deploy Cassandra to various cloud environments with automation
 - [terraform-rolling-deploys](https://github.com/robmorgan/terraform-rolling-deploys) - Rolling ASG deployments with Terraform on AWS
@@ -563,6 +563,7 @@
 - [tf_aws_elasticsearch](https://github.com/TrueCar/tf_aws_elasticsearch) - A Terraform module to create an Elasticsearch cluster.
 - [tf_efs_mount](https://github.com/manheim/tf_efs_mount) - Terraform module that provides an EFS file system, mount targets and security groups.
 - [tf_aws_vpc](https://github.com/terraform-community-modules/tf_aws_vpc) - [DEPRECATED] Use https://github.com/terraform-aws-modules/terraform-aws-vpc
+- [spinnaker-terraform](https://github.com/kenzanlabs/spinnaker-terraform) - A set of terraform scripts to create an environment from scratch with a Bastion Host, Jenkins, and Spinnaker
 - [terraform-elasticsearch](https://github.com/nadnerb/terraform-elasticsearch) - Terraform elasticsearch cluster
 - [tf_aws_sg](https://github.com/terraform-community-modules/tf_aws_sg) - [DEPRECATED] Use https://github.com/terraform-aws-modules/terraform-aws-security-group
 - [terraform-aws-opsworks](https://github.com/yamaza520/terraform-aws-opsworks) - terraform-aws-opsworks

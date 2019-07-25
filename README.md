@@ -218,7 +218,7 @@
 - [pgpool2-exporter](https://github.com/leominov/pgpool2-exporter) - 
 - [consul-esm](https://github.com/hashicorp/consul-esm) - External service monitoring for Consul
 - [ksonnet](https://github.com/ksonnet/ksonnet) - A CLI-supported framework that streamlines writing and deployment of Kubernetes configurations to multiple clusters.
-- [eksctl](https://github.com/weaveworks/eksctl) - a CLI for Amazon EKS
+- [eksctl](https://github.com/weaveworks/eksctl) - The official CLI for Amazon EKS
 - [slackcat](https://github.com/bcicen/slackcat) - CLI utility to post files and command output to slack
 - [goose](https://github.com/pressly/goose) - Goose database migration tool - fork of https://bitbucket.org/liamstask/goose
 - [skaffold](https://github.com/GoogleContainerTools/skaffold) - Easy and Repeatable Kubernetes Development
@@ -788,7 +788,7 @@
 - [csv](https://github.com/segment-boneyard/csv) - Uber simple CSV formatting/parsing for node
 - [nginx-jwt](https://github.com/auth0/nginx-jwt) - Lua script for Nginx that performs reverse proxy auth using JWT's
 - [mr-data-converter](https://github.com/shancarter/mr-data-converter) - Takes CSV or tab-delimited data from Excel and converts it into several web-friendly formats, include JSON and XML.
-- [wide](https://github.com/b3log/wide) - 🌈 一款基于 Web 的 Go 语言 IDE，随时随地玩 golang。https://hacpai.com/tag/wide
+- [wide](https://github.com/b3log/wide) - 🌈 一款基于 Web 的 Go 语言 IDE，随时随地玩 golang。
 - [GetOptGenerator](https://github.com/dafuer/GetOptGenerator) - Easy way to start a C project
 - [hubot](https://github.com/hubotio/hubot) - A customizable life embetterment robot.
 - [foresight.js](https://github.com/adamdbradley/foresight.js) - DEPRECATED: Prior to recent developments with the picture element, Foresight.js gaves webpages the ability to tell if the user's device is capable of viewing high-resolution images before the image is requested from the server. Additionally, it judges if the user's device currently has a fast enough network connection for high-resolution images. Depending on device display and network connectivity, foresight.js will request the appropriate image for the webpage.

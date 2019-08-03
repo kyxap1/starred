@@ -418,7 +418,6 @@
 - [terraform-remote-env](https://github.com/paybyphone/terraform-remote-env) - Output Terraform remote state outputs as environment variables
 - [terraform-provider-template](https://github.com/ContainerSolutions/terraform-provider-template) - Skeleton for building a Terraform provider
 - [terraform-aws-vars](https://github.com/drmdrew/terraform-aws-vars) - Generates Terraform AWS configuration variables suitable for the currently configured AWS account.
-- [terraform-plan-decoder](https://github.com/pearkes/terraform-plan-decoder) - A small utility to decode Terraform plan files.
 - [tholos](https://github.com/mhlias/tholos) - Prototype Terraform wrapper
 - [concourse](https://github.com/concourse/concourse) - Concourse is a container-based continuous thing-doer written in Go and Elm.
 - [terraform-provisioner-makefile](https://github.com/jtopjian/terraform-provisioner-makefile) - A Makefile / make provisioner for Terraform

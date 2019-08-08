@@ -736,7 +736,7 @@
 - [togetherjs](https://github.com/mozilla/togetherjs) - A service for your website that makes it surprisingly easy to collaborate in real-time.
 - [vega](https://github.com/vega/vega) - A visualization grammar.
 - [ContentTools](https://github.com/GetmeUK/ContentTools) - A JS library for building WYSIWYG editors for HTML content.
-- [wekan](https://github.com/wekan/wekan) - The open-source kanban (built with Meteor). NOTE: All Pull Requests should be done to master branch. Keep variable/table/field names camelCase. Old devel branch will be removed in near future. For translations, only add PR changes to wekan/i18n/en.i18n.json , other translations are done at https://transifex.com/wekan/wekan only.
+- [wekan](https://github.com/wekan/wekan) - The open-source kanban (built with Meteor). Keep variable/table/field names camelCase. For translations, only add PR changes to wekan/i18n/en.i18n.json , other translations are done at https://transifex.com/wekan/wekan only.
 - [tf-rules](https://github.com/candidpartners/tf-rules) - 
 - [is-my-json-valid](https://github.com/mafintosh/is-my-json-valid) - A JSONSchema validator that uses code generation to be extremely fast
 - [doT](https://github.com/olado/doT) - The fastest + concise javascript template engine for nodejs and browsers. Partials, custom delimiters and more.
@@ -912,7 +912,7 @@
 - [dockerfile-transcrypt](https://github.com/unifio/dockerfile-transcrypt) - Dockerfile for creation of a Transcrypt container
 - [ansible-vault](https://github.com/MiLk/ansible-vault) - Ansible Vault role
 - [awesome-terraform](https://github.com/shuaibiyy/awesome-terraform) - Curated list of resources on HashiCorp's Terraform
-- [new-job](https://github.com/Ecwid/new-job) - Ecwid – ульяновский стартап, мы ищем Java-разработчиков
+- [new-job](https://github.com/Ecwid/new-job) - Ecwid – ульяновский стартап, мы ищем Kotlin/Java-разработчиков
 - [awesome-slack](https://github.com/matiassingers/awesome-slack) - A curated list of awesome Slack related things
 - [fabio-compose](https://github.com/avthart/fabio-compose) - Fabio Docker Compose
 - [multihost-cassandra-flocker](https://github.com/wallnerryan/multihost-cassandra-flocker) - A multi-host Cassandra cluster using Swarm, Compose and Flocker

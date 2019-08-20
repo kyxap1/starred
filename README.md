@@ -179,7 +179,7 @@
 - [terracognita](https://github.com/cycloidio/terracognita) - Reads from existing Cloud Providers (reverse Terraform) and generates your infrastructure as code on Terraform configuration
 - [terraform-provider-kafka](https://github.com/Mongey/terraform-provider-kafka) - Terraform provider for managing Apache Kafka Topics + ACLs
 - [k3s](https://github.com/rancher/k3s) - Lightweight Kubernetes. 5 less than k8s.
-- [trivy](https://github.com/knqyf263/trivy) - A Simple and Comprehensive Vulnerability Scanner for Containers, Suitable for CI
+- [trivy](https://github.com/aquasecurity/trivy) - A Simple and Comprehensive Vulnerability Scanner for Containers, Suitable for CI
 - [trickster](https://github.com/Comcast/trickster) - Trickster - Open Source Dashboard Accelerator for Time Series Databases
 - [istio](https://github.com/istio/istio) - Connect, secure, control, and observe services.
 - [k9s](https://github.com/derailed/k9s) - 🐶 Kubernetes CLI To Manage Your Clusters In Style!
@@ -362,7 +362,7 @@
 - [terrahelp](https://github.com/opencredo/terrahelp) - Terraform helper. Terrahelp is as a command line utility written in Go and is aimed at providing supplementary functionality which can sometimes prove useful when working with Terraform.
 - [nomad](https://github.com/hashicorp/nomad) - Nomad is an easy-to-use, flexible, and performant workload orchestrator that can deploy a mix of microservice, batch, containerized, and non-containerized applications. Nomad is easy to operate and scale and has native Consul and Vault integrations.
 - [consul](https://github.com/hashicorp/consul) - Consul is a distributed, highly available, and data center aware solution to connect and configure applications across dynamic, distributed infrastructure.
-- [micro](https://github.com/micro/micro) - A microservice development runtime
+- [micro](https://github.com/micro/micro) - A runtime for micro services
 - [acme](https://github.com/google/acme) - A simple ACME command line tool without 3rd party deps!
 - [hashiapp](https://github.com/kelseyhightower/hashiapp) - Demo 12 Factor application that utilizes Hashicorp tools.
 - [terminus](https://github.com/kelseyhightower/terminus) - Get facts about a Linux system.
@@ -1100,7 +1100,7 @@
 - [jira2xmind](https://github.com/cepr/jira2xmind) - XMind plugin to import Jira tickets
 - [starred](https://github.com/maguowei/starred) - creating your own Awesome List by GitHub stars!
 - [qb](https://github.com/Pinafore/qb) - QANTA Quiz Bowl AI
-- [remarshal](https://github.com/dbohdan/remarshal) - Convert between TOML, MessagePack, YAML, and JSON
+- [remarshal](https://github.com/dbohdan/remarshal) - Convert between JSON, MessagePack, TOML, and YAML
 - [pyhcl](https://github.com/virtuald/pyhcl) - HCL is a configuration language. pyhcl is a python parser for it.
 - [configo](https://github.com/mignev/configo) - The easiest way to use existing JSON, XML or YAML config files from bash shell/scripts
 - [telegraf-cassandra](https://github.com/chrusty/telegraf-cassandra) - Config for monitoring Cassandra using Telegraf's "Jolokia" plugin

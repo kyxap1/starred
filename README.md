@@ -127,7 +127,7 @@
 - [konstellate](https://github.com/containership/konstellate) - Free and Open Source GUI to Visualize Kubernetes Applications.
 - [roll](https://github.com/juxt/roll) - AWS Blue/Green deployment using Clojure flavoured devops
 - [dorothy](https://github.com/daveray/dorothy) - Hiccup-style generation of Graphviz graphs in Clojure
-- [specter](https://github.com/nathanmarz/specter) - Clojure(Script)'s missing piece
+- [specter](https://github.com/redplanetlabs/specter) - Clojure(Script)'s missing piece
 - [GraphQLviz](https://github.com/Macroz/GraphQLviz) - GraphQLviz marries GraphQL (schemas) with Graphviz.
 - [archi](https://github.com/Macroz/archi) - Draw (architecture) diagrams as easily as Archi.
 - [rhizome](https://github.com/ztellman/rhizome) - simple graph and tree visualization
@@ -362,7 +362,7 @@
 - [terrahelp](https://github.com/opencredo/terrahelp) - Terraform helper. Terrahelp is as a command line utility written in Go and is aimed at providing supplementary functionality which can sometimes prove useful when working with Terraform.
 - [nomad](https://github.com/hashicorp/nomad) - Nomad is an easy-to-use, flexible, and performant workload orchestrator that can deploy a mix of microservice, batch, containerized, and non-containerized applications. Nomad is easy to operate and scale and has native Consul and Vault integrations.
 - [consul](https://github.com/hashicorp/consul) - Consul is a distributed, highly available, and data center aware solution to connect and configure applications across dynamic, distributed infrastructure.
-- [micro](https://github.com/micro/micro) - A runtime for micro services
+- [micro](https://github.com/micro/micro) - A microservice development runtime
 - [acme](https://github.com/google/acme) - A simple ACME command line tool without 3rd party deps!
 - [hashiapp](https://github.com/kelseyhightower/hashiapp) - Demo 12 Factor application that utilizes Hashicorp tools.
 - [terminus](https://github.com/kelseyhightower/terminus) - Get facts about a Linux system.
@@ -1230,7 +1230,6 @@
 - [terraforming](https://github.com/dtan4/terraforming) - Export existing AWS resources to Terraform style (tf, tfstate)
 - [fpm](https://github.com/jordansissel/fpm) - Effing package management! Build packages for multiple platforms (deb, rpm, etc) with great ease and sanity.
 - [terraform-sample](https://github.com/mikeclarke/terraform-sample) - Example of using terraform with chef to provision a VPC and deploy custom AMIs from scratch
-- [artifact-deployer](https://github.com/Alfresco/artifact-deployer) - A Chef Cookbook that provides a simple way to download, unpack and configure artifacts
 - [cfndsl](https://github.com/cfndsl/cfndsl) - A DSL for generating Amazon Web Services CloudFormation templates.
 - [opsworks-cli](https://github.com/aptible/opsworks-cli) - An alternative CLI for Amazon OpsWorks
 - [pleaserun](https://github.com/jordansissel/pleaserun) - An attempt to abstract this "init" script madness.

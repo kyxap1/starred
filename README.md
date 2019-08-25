@@ -794,7 +794,7 @@
 - [foresight.js](https://github.com/adamdbradley/foresight.js) - DEPRECATED: Prior to recent developments with the picture element, Foresight.js gaves webpages the ability to tell if the user's device is capable of viewing high-resolution images before the image is requested from the server. Additionally, it judges if the user's device currently has a fast enough network connection for high-resolution images. Depending on device display and network connectivity, foresight.js will request the appropriate image for the webpage.
 - [zabbixGrapher](https://github.com/sepich/zabbixGrapher) - Quick search/view zabbix graphs
 - [opsworks-cli](https://github.com/skyebook/opsworks-cli) - Perform common OpsWorks tasks from the command line
-- [slate](https://github.com/lord/slate) - Beautiful static documentation for your API
+- [slate](https://github.com/slatedocs/slate) - Beautiful static documentation for your API
 - [lets-chat](https://github.com/sdelements/lets-chat) - Self-hosted chat app for small teams
 - [anti-adblock-killer](https://github.com/reek/anti-adblock-killer) - Anti-Adblock Killer helps you keep your Ad-Blocker active, when you visit a website and it asks you to disable.
 - [h5ai](https://github.com/lrsjng/h5ai) - HTTP web server index for Apache httpd, lighttpd and nginx.

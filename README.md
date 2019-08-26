@@ -690,6 +690,7 @@
 - [terraform_firehose](https://github.com/roshpr/terraform_firehose) - AWS Firehose implementation for VPCFlow, ELK & Lambda integration to analyse VPC network data flow & monitoring dashboard
 - [gitbook](https://github.com/GitbookIO/gitbook) - 📝 Modern documentation format and toolchain using Git and Markdown
 - [aws-vpc-flow-log-appender](https://github.com/aws-samples/aws-vpc-flow-log-appender) - Sample code to append additional information (e.g. Security Group IDs and geolocation data) to VPC Flow Logs for analysis in Elasticsearch.
+- [vscode-terraform](https://github.com/mauve/vscode-terraform) - A Visual Studio Code plugin which contributes syntax highlighting, linting, formatting, and validation for Hashicorp's Terraform
 - [aws-lambda-redshift-loader](https://github.com/awslabs/aws-lambda-redshift-loader) - Amazon Redshift Database Loader implemented in AWS Lambda
 - [nodemon](https://github.com/remy/nodemon) - Monitor for any changes in your node.js application and automatically restart the server - perfect for development
 - [lambdalogs](https://github.com/seeebiii/lambdalogs) - A CLI tool to trace AWS Lambda calls over multiple CloudWatch log groups.
@@ -1407,7 +1408,6 @@
 
 - [amplify-js](https://github.com/aws-amplify/amplify-js) - A declarative JavaScript library for application development using cloud services.
 - [DIM](https://github.com/DestinyItemManager/DIM) - Destiny Item Manager
-- [vscode-terraform](https://github.com/mauve/vscode-terraform) - A Visual Studio Code plugin which contributes syntax highlighting, linting, formatting, and validation for Hashicorp's Terraform
 - [subscriptions-transport-ws](https://github.com/apollographql/subscriptions-transport-ws) - :arrows_clockwise: A WebSocket client + server for GraphQL subscriptions
 - [learnapollo](https://github.com/learnapollo/learnapollo) - 👩🏻‍🏫   Learn Apollo - A hands-on tutorial for Apollo GraphQL Client (created by Graphcool)
 - [graphql-tools](https://github.com/apollographql/graphql-tools) - :wrench: Build, mock, and stitch a GraphQL schema using the schema language

@@ -325,7 +325,7 @@
 - [generate](https://github.com/a-h/generate) - Generates Go (golang) Structs from JSON schema.
 - [go-jsonschema-generator](https://github.com/mcuadros/go-jsonschema-generator) - json-schemas generator based on Go types
 - [go-jira](https://github.com/andygrunwald/go-jira) - Go client library for Atlassian JIRA
-- [source-to-image](https://github.com/openshift/source-to-image) - A tool for building/building artifacts from source and injecting into docker images
+- [source-to-image](https://github.com/openshift/source-to-image) - A tool for building artifacts from source and injecting into docker images
 - [rack](https://github.com/convox/rack) - Private PaaS built on native AWS services for maximum privacy and minimum upkeep
 - [janitor](https://github.com/cloud66/janitor) - Clean up unwanted servers
 - [goavro](https://github.com/linkedin/goavro) - 
@@ -362,7 +362,7 @@
 - [terrahelp](https://github.com/opencredo/terrahelp) - Terraform helper. Terrahelp is as a command line utility written in Go and is aimed at providing supplementary functionality which can sometimes prove useful when working with Terraform.
 - [nomad](https://github.com/hashicorp/nomad) - Nomad is an easy-to-use, flexible, and performant workload orchestrator that can deploy a mix of microservice, batch, containerized, and non-containerized applications. Nomad is easy to operate and scale and has native Consul and Vault integrations.
 - [consul](https://github.com/hashicorp/consul) - Consul is a distributed, highly available, and data center aware solution to connect and configure applications across dynamic, distributed infrastructure.
-- [micro](https://github.com/micro/micro) - A microservice development runtime
+- [micro](https://github.com/micro/micro) - A microservice runtime environment
 - [acme](https://github.com/google/acme) - A simple ACME command line tool without 3rd party deps!
 - [hashiapp](https://github.com/kelseyhightower/hashiapp) - Demo 12 Factor application that utilizes Hashicorp tools.
 - [terminus](https://github.com/kelseyhightower/terminus) - Get facts about a Linux system.

@@ -362,7 +362,7 @@
 - [terrahelp](https://github.com/opencredo/terrahelp) - Terraform helper. Terrahelp is as a command line utility written in Go and is aimed at providing supplementary functionality which can sometimes prove useful when working with Terraform.
 - [nomad](https://github.com/hashicorp/nomad) - Nomad is an easy-to-use, flexible, and performant workload orchestrator that can deploy a mix of microservice, batch, containerized, and non-containerized applications. Nomad is easy to operate and scale and has native Consul and Vault integrations.
 - [consul](https://github.com/hashicorp/consul) - Consul is a distributed, highly available, and data center aware solution to connect and configure applications across dynamic, distributed infrastructure.
-- [micro](https://github.com/micro/micro) - A microservice runtime environment
+- [micro](https://github.com/micro/micro) - A microservice development runtime
 - [acme](https://github.com/google/acme) - A simple ACME command line tool without 3rd party deps!
 - [hashiapp](https://github.com/kelseyhightower/hashiapp) - Demo 12 Factor application that utilizes Hashicorp tools.
 - [terminus](https://github.com/kelseyhightower/terminus) - Get facts about a Linux system.
@@ -907,7 +907,6 @@
 - [awesome-data-engineering](https://github.com/igorbarinov/awesome-data-engineering) - A curated list of data engineering tools for software developers
 - [stack-on-a-budget](https://github.com/255kb/stack-on-a-budget) - A collection of services with great free tiers for developers on a budget
 - [mac-dev-playbook](https://github.com/geerlingguy/mac-dev-playbook) - Mac setup and configuration via Ansible.
-- [ansible-terraform](https://github.com/andrewrothstein/ansible-terraform) - 
 - [ansible-role-packer](https://github.com/patrick-hill/ansible-role-packer) - 
 - [Sqoop](https://github.com/SriGovindGutala/Sqoop) - This repo contains all the different ways you can ingest data from RDBMS to HDFS and vice versa using Sqoop.
 - [awesome-graphql](https://github.com/chentsulin/awesome-graphql) - Awesome list of GraphQL & Relay
@@ -1128,7 +1127,7 @@
 - [cassandra-snapshotter-wrapper](https://github.com/dizzythinks/cassandra-snapshotter-wrapper) - Wrapper around cassandra-snapshotter
 - [cassandra_snapshotter](https://github.com/tbarbugli/cassandra_snapshotter) - A tool to backup cassandra nodes using snapshots and incremental backups on S3
 - [aws-shell](https://github.com/awslabs/aws-shell) - An integrated shell for working with the AWS CLI.
-- [httpie](https://github.com/jakubroztocil/httpie) - As easy as httpie /aitch-tee-tee-pie/ 🥧 Modern command line HTTP client – user-friendly curl alternative with intuitive UI, JSON support, syntax highlighting, wget-like downloads, extensions, etc.  https://twitter.com/clihttp
+- [httpie](https://github.com/jakubroztocil/httpie) - As easy as HTTPie /aitch-tee-tee-pie/ 🥧 Modern command line HTTP client – user-friendly curl alternative with intuitive UI, JSON support, syntax highlighting, wget-like downloads, extensions, etc.  https://twitter.com/clihttp
 - [jyboss-cli](https://github.com/fareliner/jyboss-cli) - A Jython CLI for JBoss and Wildfly
 - [ansible-custom-jython-module](https://github.com/fareliner/ansible-custom-jython-module) - Example custom ansible module to manage WildFly/JBoss AS through jython cli
 - [awesome-aws](https://github.com/donnemartin/awesome-aws) - A curated list of awesome Amazon Web Services (AWS) libraries, open source repos, guides, blogs, and other resources.  Featuring the Fiery Meter of AWSome.
@@ -1318,6 +1317,7 @@
 - [boxcutter_ubuntu](https://github.com/patrick-hill/boxcutter_ubuntu) - Virtual machine templates for Ubuntu
 - [postgresql](https://github.com/ANXS/postgresql) - Fairly full featured Ansible role for Postgresql.
 - [slack-notification-resource](https://github.com/cloudfoundry-community/slack-notification-resource) - Concourse CI resource for sending notifications to Slack.
+- [ansible-terraform](https://github.com/andrewrothstein/ansible-terraform) - 
 - [ansible-examples](https://github.com/ansible/ansible-examples) - A few starter examples of ansible playbooks, to show features and how they work together.  See http://galaxy.ansible.com for example roles from the Ansible community for deploying many popular applications.
 - [circleci-packer-example](https://github.com/nabeken/circleci-packer-example) - Example: packer image builder on CircleCI
 - [circleci-cli](https://github.com/rockymadden/circleci-cli) - :vertical_traffic_light: Powerful CircleCI CLI via pure bash

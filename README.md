@@ -124,7 +124,7 @@
 
 ## Clojure 
 
-- [konstellate](https://github.com/containership/konstellate) - Free and Open Source GUI to Visualize Kubernetes Applications.
+- [konstellate](https://github.com/jeremykross/konstellate) - Free and Open Source GUI to Visualize Kubernetes Applications.
 - [roll](https://github.com/juxt/roll) - AWS Blue/Green deployment using Clojure flavoured devops
 - [dorothy](https://github.com/daveray/dorothy) - Hiccup-style generation of Graphviz graphs in Clojure
 - [specter](https://github.com/redplanetlabs/specter) - Clojure(Script)'s missing piece
@@ -697,7 +697,7 @@
 - [lambdalogs](https://github.com/seeebiii/lambdalogs) - A CLI tool to trace AWS Lambda calls over multiple CloudWatch log groups.
 - [kinesis-streams-fan-out-kinesis-analytics](https://github.com/alexcasalboni/kinesis-streams-fan-out-kinesis-analytics) - Amazon Kinesis Streams fan-out via Kinesis Analytics (powered by the Serverless Framework)
 - [jsonschema](https://github.com/tdegrunt/jsonschema) - JSON Schema validation
-- [distributed](https://github.com/funretro/distributed) - :thumbsup: Easy to use and beautiful restrospective tool
+- [distributed](https://github.com/funretro/distributed) - 
 - [aws-iam-manager](https://github.com/netguru/aws-iam-manager) - 💳 AWS IAM Manager as a Code using Serverless framework
 - [staticrypt](https://github.com/robinmoisson/staticrypt) - Password protect a static HTML page
 - [git2consul](https://github.com/breser/git2consul) - Mirrors the contents of a git repository into Consul KVs.
@@ -942,7 +942,7 @@
 - [api-blueprint](https://github.com/apiaryio/api-blueprint) - API Blueprint
 - [docker-cheat-sheet](https://github.com/wsargent/docker-cheat-sheet) - Docker Cheat Sheet
 - [awesome-remote-job](https://github.com/lukasz-madon/awesome-remote-job) - A curated list of awesome remote jobs and resources. Inspired by https://github.com/vinta/awesome-python
-- [nginx-s3-upload](https://github.com/jamescmartinez/nginx-s3-upload) - S3 file upload proxy using Nginx, complete with AWS authentication.
+- [nginx-s3-upload](https://github.com/jamescmartinez/nginx-s3-upload) - [Unmaintained] S3 file upload proxy using Nginx, complete with AWS authentication.
 - [nginx-resources](https://github.com/fcambus/nginx-resources) - A collection of resources covering Nginx, Nginx + Lua, OpenResty and Tengine
 - [awesome-shell](https://github.com/alebcay/awesome-shell) - A curated list of awesome command-line frameworks, toolkits, guides and gizmos. Inspired by awesome-php.
 - [shipyard](https://github.com/shipyard/shipyard) - Composable Docker Management

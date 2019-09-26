@@ -813,6 +813,7 @@
 
 ## Kotlin 
 
+- [blokada](https://github.com/blokadaorg/blokada) - Free ad blocker for Android with the best open source community.
 - [cdm](https://github.com/rustyrazorblade/cdm) - Cassandra Dataset Manager
 - [intellij-hcl](https://github.com/VladRassokhin/intellij-hcl) - HCL language support for IntelliJ platform based IDEs
 
@@ -1236,7 +1237,6 @@
 
 ## Rust 
 
-- [blokada](https://github.com/blokadaorg/blokada) - Free ad blocker for Android with the best open source community.
 - [mcfly](https://github.com/cantino/mcfly) - Fly through your shell history. Great Scott!
 - [ripgrep](https://github.com/BurntSushi/ripgrep) - ripgrep recursively searches directories for a regex pattern
 - [awesome-static-analysis](https://github.com/mre/awesome-static-analysis) - Static analysis tools for all programming languages

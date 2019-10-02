@@ -403,7 +403,7 @@
 - [go-img-resize-upload](https://github.com/rocajuanma/go-img-resize-upload) - Golang HTTP Service to download an image, resize it and upload it to an S3 Amazon Bucket. Possibility to redirect to newly resized and uploaded image. A work in progress.
 - [terraform-provider-gzip](https://github.com/jakexks/terraform-provider-gzip) - A very simple Terraform plugin that gzip+base64s its input
 - [terraform-provider-bitbucket](https://github.com/webdevwilson/terraform-provider-bitbucket) - a bitbucket provider for terraform
-- [habitus](https://github.com/cloud66-oss/habitus) - A build flow tool for docker.
+- [habitus](https://github.com/cloud66-oss/habitus) - A build flow tool for Docker.
 - [traefik](https://github.com/containous/traefik) - The Cloud Native Edge Router
 - [terraform-provider-writefile](https://github.com/DreamHostData/terraform-provider-writefile) - 
 - [terraform-provider-gitfile](https://github.com/Yelp/terraform-provider-gitfile) - Terraform provider for checking out git repositories and making changes
@@ -756,7 +756,7 @@
 - [jq.node](https://github.com/FGRibreau/jq.node) - jq.node - like jq but WAY MORE powerful (300+ helpers 🔥 & 300K+ modules 😱)
 - [cabot](https://github.com/arachnys/cabot) - Self-hosted, easily-deployable monitoring and alerts service - like a lightweight PagerDuty
 - [incubator-superset](https://github.com/apache/incubator-superset) - Apache Superset (incubating) is a modern, enterprise-ready business intelligence web application
-- [awesomo](https://github.com/lk-geimfari/awesomo) - An extensive list of interesting open source projects written in С, C++, Clojure, Lisp, Elixir, Erlang, Elm, Golang, Haskell, JavaScript, Lua, OCaml, Python, R, Ruby, Rust, Scala etc.
+- [awesomo](https://github.com/lk-geimfari/awesomo) - An extensive list of cool open source projects written in С, C++, Clojure, Lisp, Elixir, Erlang, Elm, Golang, Haskell, JavaScript, Lua, OCaml, Python, R, Ruby, Rust, Scala etc.
 - [json5](https://github.com/json5/json5) - JSON5 — JSON for humans
 - [CodeMirror](https://github.com/codemirror/CodeMirror) - In-browser code editor
 - [JSON-Splora](https://github.com/wellsjo/JSON-Splora) - GUI for editing, visualizing, and manipulating JSON data
@@ -866,7 +866,7 @@
 - [developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) - Roadmap to becoming a web developer in 2019
 - [awesome-prometheus](https://github.com/roaldnefs/awesome-prometheus) - A curated list of awesome Prometheus resources, projects and tools.
 - [awesome-ssh](https://github.com/moul/awesome-ssh) - :computer: A curated list of SSH resources.
-- [devopsfactors](https://github.com/Mykolaichenko/devopsfactors) - The DevOps-Factors
+- [devopsfactors](https://github.com/devopsfactors/devopsfactors) - The DevOps-Factors
 - [prometheus](https://github.com/vegasbrianc/prometheus) - A docker-compose stack for Prometheus monitoring
 - [DTrace-book-scripts](https://github.com/brendangregg/DTrace-book-scripts) - Scripts from "DTrace: Dynamic Tracing in Oracle Solaris, Mac OS X, and FreeBSD", by Brendan Gregg and Jim Mauro, Prentice Hall, 2011.
 - [the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line) - Master the command line, in one page

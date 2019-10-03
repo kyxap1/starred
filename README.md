@@ -866,7 +866,7 @@
 - [developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) - Roadmap to becoming a web developer in 2019
 - [awesome-prometheus](https://github.com/roaldnefs/awesome-prometheus) - A curated list of awesome Prometheus resources, projects and tools.
 - [awesome-ssh](https://github.com/moul/awesome-ssh) - :computer: A curated list of SSH resources.
-- [devopsfactors](https://github.com/devopsfactors/devopsfactors) - The DevOps-Factors
+- [devopsfactors](https://github.com/devopsfactors/devopsfactors) - The DevOps Factors
 - [prometheus](https://github.com/vegasbrianc/prometheus) - A docker-compose stack for Prometheus monitoring
 - [DTrace-book-scripts](https://github.com/brendangregg/DTrace-book-scripts) - Scripts from "DTrace: Dynamic Tracing in Oracle Solaris, Mac OS X, and FreeBSD", by Brendan Gregg and Jim Mauro, Prentice Hall, 2011.
 - [the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line) - Master the command line, in one page

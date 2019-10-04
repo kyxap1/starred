@@ -774,7 +774,6 @@
 - [slack-patron](https://github.com/tyage/slack-patron) - Log and view all Slack messages.
 - [pingbot](https://github.com/toricls/pingbot) - A website monitoring/health-checking tool based on serverless architecture.
 - [adl-designer](https://github.com/openEHR/adl-designer) - Web-based archetype and template design tools
-- [os-mobilizer](https://github.com/Redmart/os-mobilizer) - A distribution/testing platform for mobile applications
 - [MobDistTool](https://github.com/rgroult/MobDistTool) - Mobile App Distribution Tool
 - [s3scan](https://github.com/mapbox/s3scan) - S3 can!
 - [aws-log-replay](https://github.com/mapbox/aws-log-replay) - Transform and replay CloudFront, ELB Classic, and ALB logs

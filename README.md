@@ -301,7 +301,7 @@
 - [srclib](https://github.com/sourcegraph/srclib) - srclib is a polyglot code analysis library, built for hackability. It consists of language analysis toolchains (currently for Go and Java, with Python, JavaScript, and Ruby in beta) with a common output format, and a CLI tool for running the analysis.
 - [bosh-s3cli](https://github.com/cloudfoundry/bosh-s3cli) - Go CLI for S3
 - [stretcher](https://github.com/fujiwara/stretcher) - Deployment tool with consul/serf event notification.
-- [go-nitro](https://github.com/chiradeep/go-nitro) - A Golang client to the Citrix NetScaler API
+- [go-nitro](https://github.com/chiradeep/go-nitro) - A Golang client to the Citrix ADC API
 - [gestalt](https://github.com/asteris-llc/gestalt) - 
 - [lego](https://github.com/go-acme/lego) - Let's Encrypt client and ACME library written in Go
 - [hammer](https://github.com/asteris-llc/hammer) - Build packages from a simple spec

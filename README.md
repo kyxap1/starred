@@ -326,7 +326,7 @@
 - [generate](https://github.com/a-h/generate) - Generates Go (golang) Structs from JSON schema.
 - [go-jsonschema-generator](https://github.com/mcuadros/go-jsonschema-generator) - json-schemas generator based on Go types
 - [go-jira](https://github.com/andygrunwald/go-jira) - Go client library for Atlassian JIRA
-- [source-to-image](https://github.com/openshift/source-to-image) - A tool for building artifacts from source and injecting into docker images
+- [source-to-image](https://github.com/openshift/source-to-image) - A tool for building artifacts from source and injecting into container images
 - [rack](https://github.com/convox/rack) - Private PaaS built on native AWS services for maximum privacy and minimum upkeep
 - [janitor](https://github.com/cloud66/janitor) - Clean up unwanted servers
 - [goavro](https://github.com/linkedin/goavro) - 

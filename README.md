@@ -702,7 +702,7 @@
 - [staticrypt](https://github.com/robinmoisson/staticrypt) - Password protect a static HTML page
 - [git2consul](https://github.com/breser/git2consul) - Mirrors the contents of a git repository into Consul KVs.
 - [drone-starter](https://github.com/maqpie/drone-starter) - Make a first build with Drone CI in under 10 minutes
-- [LambStatus](https://github.com/ks888/LambStatus) - Serverless Status Page System
+- [LambStatus](https://github.com/ks888/LambStatus) - [Maintenance mode] Serverless Status Page System
 - [c3vis](https://github.com/ExpediaDotCom/c3vis) - Visualize the resource utilisation of Amazon ECS clusters
 - [underscore-cli](https://github.com/ddopson/underscore-cli) - Command-line utility-belt for hacking JSON and Javascript.
 - [vault-ui](https://github.com/djenriquez/vault-ui) - Vault-UI — A beautiful UI to manage your Vault, written in React

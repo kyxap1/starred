@@ -1396,7 +1396,7 @@
 
 ## TSQL 
 
-- [pg_insights](https://github.com/lob/pg_insights) - Convenient SQL for monitoring Postgres database health.
+- [pg_insights](https://github.com/lob/pg_insights) - A collection of convenient SQL for monitoring Postgres database health.
 - [ansible-mysql](https://github.com/HanXHX/ansible-mysql) - Ansible role for Debian : MariaDB (Galera Cluster as option)
 
 ## TeX 

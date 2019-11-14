@@ -25,6 +25,7 @@
   - [Java](#java)
   - [JavaScript](#javascript)
   - [Jsonnet](#jsonnet)
+  - [Jupyter Notebook](#jupyter notebook)
   - [Kotlin](#kotlin)
   - [Lua](#lua)
   - [M4](#m4)
@@ -680,6 +681,7 @@
 - [ff-password-exporter](https://github.com/kspearrin/ff-password-exporter) - Easily export your passwords from Firefox.
 - [cabin](https://github.com/bitnami-labs/cabin) - The Mobile Dashboard for Kubernetes
 - [jsoneditor](https://github.com/josdejong/jsoneditor) - A web-based tool to view, edit, format, and validate JSON
+- [developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) - Roadmap to becoming a web developer in 2019
 - [blast-radius](https://github.com/28mm/blast-radius) - Interactive visualizations of Terraform dependency graphs using d3.js
 - [release-it](https://github.com/release-it/release-it) - 🚀 Automate versioning and package publishing
 - [kimchi](https://github.com/kimchi-project/kimchi) - An HTML5 management interface for KVM guests
@@ -811,6 +813,10 @@
 - [ksonnet-lib](https://github.com/ksonnet/ksonnet-lib) - Codegen for Kubernetes-API-compatible Jsonnet libraries
 - [jsonnet](https://github.com/google/jsonnet) - Jsonnet - The data templating language
 
+## Jupyter Notebook 
+
+- [ec2-spot-labs](https://github.com/awslabs/ec2-spot-labs) - Collection of tools and code examples to demonstrate best practices in using Amazon EC2 Spot Instances.
+
 ## Kotlin 
 
 - [blokada](https://github.com/blokadaorg/blokada) - Free ad blocker for Android with the best open source community.
@@ -863,7 +869,6 @@
 - [soa-checklist](https://github.com/paunin/soa-checklist) - Microservice Oriented Architecture checklist
 - [awesome-consul](https://github.com/josegonzalez/awesome-consul) - A list of awesome consul projects, libraries
 - [bash-shortcuts-cheat-sheet](https://github.com/fliptheweb/bash-shortcuts-cheat-sheet) - Useful shortcuts for bash/zsh
-- [developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) - Roadmap to becoming a web developer in 2019
 - [awesome-prometheus](https://github.com/roaldnefs/awesome-prometheus) - A curated list of awesome Prometheus resources, projects and tools.
 - [awesome-ssh](https://github.com/moul/awesome-ssh) - :computer: A curated list of SSH resources.
 - [devopsfactors](https://github.com/devopsfactors/devopsfactors) - The DevOps Factors
@@ -1008,7 +1013,6 @@
 - [deoplete.nvim](https://github.com/Shougo/deoplete.nvim) - :stars: Dark powered asynchronous completion framework for neovim/Vim8
 - [promgen](https://github.com/line/promgen) - Promgen is a configuration file generator for Prometheus
 - [pysc2](https://github.com/deepmind/pysc2) - StarCraft II Learning Environment
-- [ec2-spot-labs](https://github.com/awslabs/ec2-spot-labs) - Collection of tools and code examples to demonstrate best practices in using Amazon EC2 Spot Instances.
 - [ebs-snapshot-scheduler](https://github.com/amazon-archives/ebs-snapshot-scheduler) - A solution to automatically take a snapshot of all the EBS volumes of a tagged instance on a schedule in any region
 - [aws-s3snapshot](https://github.com/awslabs/aws-s3snapshot) - S3 Snapshot script to run from command-line or scheduled in Lambda.
 - [ec2-scheduler](https://github.com/amazon-archives/ec2-scheduler) - The EC2 Scheduler uses a recurring Lambda function to automatically start and stop EC2 instances based on either default schedule or custom schedule defined per EC2 instance. - Now found at https://github.com/awslabs/aws-instance-scheduler

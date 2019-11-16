@@ -335,7 +335,7 @@
 - [goavro](https://github.com/linkedin/goavro) - 
 - [jose](https://github.com/SermoDigital/jose) - A comprehensive set of JWT, JWS, and JWE libraries.
 - [objconv](https://github.com/segmentio/objconv) - A Go package exposing encoder and decoders that support data streaming to and from multiple formats.
-- [consul-router](https://github.com/segmentio/consul-router) - HTTP proxy with service discovery capabilities based on consul
+- [consul-router](https://github.com/segment-boneyard/consul-router) - HTTP proxy with service discovery capabilities based on consul
 - [conf](https://github.com/segmentio/conf) - Go package for loading program configuration from multiple sources.
 - [copier](https://github.com/jinzhu/copier) - Copier for golang, copy value from struct to struct and more
 - [configor](https://github.com/jinzhu/configor) - Golang Configuration tool that support YAML, JSON, TOML, Shell Environment

@@ -544,7 +544,7 @@
 - [terraform-blue-green-deployment-with-alb-example](https://github.com/wata727/terraform-blue-green-deployment-with-alb-example) - 
 - [tf_aws_route53_redirect](https://github.com/SmartThingsOSS/tf_aws_route53_redirect) - A Terraform module to create HTTP redirects using Route 53 and S3.
 - [terraform-cassandra-multinode](https://github.com/Jagatveer/terraform-cassandra-multinode) - Sets up 3 node Cassandra cluster using terraform
-- [terraform_blue_green](https://github.com/takuwan0405/terraform_blue_green) - Terraform sample to make basic blue green architecture on AWS.
+- [terraform_blue_green](https://github.com/takuwan0405/terraform_blue_green) - [Deprecated] Terraform sample to make basic blue green architecture on AWS.
 - [terraform-microservice](https://github.com/cartest/terraform-microservice) - Microservice terraform module
 - [terraform-cidr-subnets](https://github.com/mitel/terraform-cidr-subnets) - Terraform module for generating your subnets in CIDR format, starting from a base value.
 - [terraform-aws-postgresql-rds](https://github.com/azavea/terraform-aws-postgresql-rds) - A Terraform module to create an Amazon Web Services (AWS) PostgreSQL Relational Database Server (RDS).

@@ -1060,7 +1060,7 @@
 - [debops-tools](https://github.com/debops/debops-tools) - Your Debian-based data center in a box
 - [learning-tools](https://github.com/scottslowe/learning-tools) - A collection of tools and files for learning new technologies
 - [luigi](https://github.com/spotify/luigi) - Luigi is a Python module that helps you build complex pipelines of batch jobs. It handles dependency resolution, workflow management, visualization etc. It also comes with Hadoop support built in.
-- [airflow](https://github.com/apache/airflow) - Apache Airflow
+- [airflow](https://github.com/apache/airflow) - Apache Airflow - A platform to programmatically author, schedule, and monitor workflows
 - [celery](https://github.com/celery/celery) - Distributed Task Queue (development branch)
 - [data_pipeline](https://github.com/Yelp/data_pipeline) - Data Pipeline Clientlib provides an interface to tail and publish to data pipeline topics.
 - [pre-commit](https://github.com/pre-commit/pre-commit) - A framework for managing and maintaining multi-language pre-commit hooks.
@@ -1383,7 +1383,7 @@
 - [ansible-pgpool](https://github.com/smarthall/ansible-pgpool) - Ansible configuration to setup a HA postgres cluster with automated failover and recovery.
 - [pg_monz](https://github.com/pg-monz/pg_monz) - This is the Zabbix monitoring template for PostgreSQL Database.
 - [profile-sync-daemon](https://github.com/graysky2/profile-sync-daemon) - Symlinks and syncs browser profile dirs to RAM thus reducing HDD/SDD calls and speeding-up browsers.
-- [bash-my-aws](https://github.com/bash-my-universe/bash-my-aws) - Bash functions for managing AWS resources simply and easily
+- [bash-my-aws](https://github.com/bash-my-universe/bash-my-aws) - CLI commands for managing AWS resources
 - [bangsh](https://github.com/bangsh/bangsh) - A Bash4 Framework for easy app creation
 - [bangsh](https://github.com/bellthoven/bangsh) - Offical repository is now at
 - [bashful](https://github.com/jmcantrell/bashful) - A collection of modules to simplify writing bash scripts.

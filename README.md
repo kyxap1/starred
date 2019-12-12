@@ -1180,7 +1180,7 @@
 - [terraform-landscape](https://github.com/coinbase/terraform-landscape) - Improve Terraform's plan output to be easier to read and understand
 - [janky](https://github.com/github/janky) - Continuous integration server built on top of Jenkins and Hubot
 - [graphql-ruby](https://github.com/rmosolgo/graphql-ruby) - Ruby implementation of GraphQL
-- [rezept](https://github.com/serverworks/rezept) - A tool to manage EC2 Systems Manager Documents.
+- [rezept](https://github.com/serverworks-annex/rezept) - A tool to manage EC2 Systems Manager Documents.
 - [aws-codedeploy-agent](https://github.com/aws/aws-codedeploy-agent) - Host Agent for AWS CodeDeploy
 - [appear](https://github.com/airbnb/appear) - reveal terminal programs in the gui
 - [jbuilder](https://github.com/rails/jbuilder) - Jbuilder: generate JSON objects with a Builder-style DSL

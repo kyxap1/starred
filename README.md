@@ -753,7 +753,7 @@
 - [doT](https://github.com/olado/doT) - The fastest + concise javascript template engine for nodejs and browsers. Partials, custom delimiters and more.
 - [JSV](https://github.com/garycourt/JSV) - A JavaScript implementation of an extendable, fully compliant JSON Schema validator.
 - [diffr](https://github.com/nijikokun/diffr) - CLI diff tool for files, text, and JSON with human readable output.
-- [markdown-to-json](https://github.com/scottstanfield/markdown-to-json) - 🕹️ Convert YAML front-matter in Markdown files to JSON. v0.5.1 is published on NPM.
+- [markdown-to-json](https://github.com/scottstanfield/markdown-to-json) - 🕹️ Convert YAML front-matter in Markdown files to JSON. v0.5.1 is published on NPM. Current version is v0.5.3
 - [json-schema-generator](https://github.com/krg7880/json-schema-generator) - Generates draft v4 schema from a local file or a remote JSON url.
 - [generate-schema](https://github.com/nijikokun/generate-schema) - Convert JSON Objects to MySQL Schema, JSON Schema, Mongoose Schema, Google BigQuery, or a Generic template for Swagger files, documentation, code generation, and more.
 - [thorntail-examples](https://github.com/thorntail/thorntail-examples) - Examples of how to write applications using Swarm.
@@ -1386,7 +1386,7 @@
 - [ansible-pgpool](https://github.com/smarthall/ansible-pgpool) - Ansible configuration to setup a HA postgres cluster with automated failover and recovery.
 - [pg_monz](https://github.com/pg-monz/pg_monz) - This is the Zabbix monitoring template for PostgreSQL Database.
 - [profile-sync-daemon](https://github.com/graysky2/profile-sync-daemon) - Symlinks and syncs browser profile dirs to RAM thus reducing HDD/SDD calls and speeding-up browsers.
-- [bash-my-aws](https://github.com/bash-my-universe/bash-my-aws) - CLI commands for managing AWS resources
+- [bash-my-aws](https://github.com/bash-my-universe/bash-my-aws) - CLI commands for AWS
 - [bangsh](https://github.com/bangsh/bangsh) - A Bash4 Framework for easy app creation
 - [bangsh](https://github.com/bellthoven/bangsh) - Offical repository is now at
 - [bashful](https://github.com/jmcantrell/bashful) - A collection of modules to simplify writing bash scripts.

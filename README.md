@@ -621,7 +621,7 @@
 - [s3proxy](https://github.com/gaul/s3proxy) - Access other storage backends via the S3 API
 - [test-automation-quickstart](https://github.com/opencredo/test-automation-quickstart) - Quickstart project for test automation, covering performance, ui acceptance and api acceptance testing
 - [java-properties-to-json](https://github.com/mikolajmitura/java-properties-to-json) - Simple java framework for conversion java properties to JSON object.
-- [redisson](https://github.com/redisson/redisson) - Redisson - Redis Java client with features of In-Memory Data Grid. Supports over 30 objects and services: Set, Multimap, SortedSet, Map, List, Queue, Deque, Semaphore, Lock, AtomicLong, Map Reduce, Publish / Subscribe, Bloom filter, Spring Cache, Tomcat, Scheduler, JCache API, Hibernate, RPC.
+- [redisson](https://github.com/redisson/redisson) - Redisson - Redis Java client with features of In-Memory Data Grid. Over 50 Redis based Java objects and services: Set, Multimap, SortedSet, Map, List, Queue, Deque, Semaphore, Lock, AtomicLong, Map Reduce, Publish / Subscribe, Bloom filter, Spring Cache, Tomcat, Scheduler, JCache API, Hibernate, MyBatis, RPC.
 - [plantuml-gist](https://github.com/linux-china/plantuml-gist) - PlantUML with Github Gist and Gitlab Support
 - [spoon](https://github.com/INRIA/spoon) - Spoon is a metaprogramming library to analyze and transform Java source code (incl Java 9, 10, 11). :spoon: is made with :heart:, :beers: and :sparkles:. It parses source files to build a well-designed AST with powerful analysis and transformation API.
 - [JJSchema](https://github.com/reinert/JJSchema) - A generator from Java Types to JSON-Schema using Jackson.
@@ -1386,7 +1386,7 @@
 - [ansible-pgpool](https://github.com/smarthall/ansible-pgpool) - Ansible configuration to setup a HA postgres cluster with automated failover and recovery.
 - [pg_monz](https://github.com/pg-monz/pg_monz) - This is the Zabbix monitoring template for PostgreSQL Database.
 - [profile-sync-daemon](https://github.com/graysky2/profile-sync-daemon) - Symlinks and syncs browser profile dirs to RAM thus reducing HDD/SDD calls and speeding-up browsers.
-- [bash-my-aws](https://github.com/bash-my-universe/bash-my-aws) - CLI commands for AWS
+- [bash-my-aws](https://github.com/bash-my-aws/bash-my-aws) - CLI commands for AWS
 - [bangsh](https://github.com/bangsh/bangsh) - A Bash4 Framework for easy app creation
 - [bangsh](https://github.com/bellthoven/bangsh) - Offical repository is now at
 - [bashful](https://github.com/jmcantrell/bashful) - A collection of modules to simplify writing bash scripts.

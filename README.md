@@ -537,7 +537,7 @@
 - [fleet-etcd2-microservices-cluster](https://github.com/andymotta/fleet-etcd2-microservices-cluster) - CoreOS Fleet Container Architecture on AWS
 - [terraform-elasticsearch](https://github.com/everydayhero/terraform-elasticsearch) - Terraformed elasticsearch cluster in AWS
 - [hashistack](https://github.com/yikaus/hashistack) - Boostrap hashistack(Consul/Nomad/Vault) cluster over AWS
-- [json2hcl](https://github.com/kvz/json2hcl) - Convert JSON to HCL, and vice versa. We don't use json2hcl anymore ourselves, so we can't invest time into it. However, we're still welcoing PRs.
+- [json2hcl](https://github.com/kvz/json2hcl) - Convert JSON to HCL, and vice versa. We don't use json2hcl anymore ourselves, so we can't invest time into it. However, we're still welcoming PRs.
 - [nomad-openstack-terraform](https://github.com/moss2k13/nomad-openstack-terraform) - Nomad cluster with consul on coreos deployed on openstack
 - [cassandra-cloud](https://github.com/allanlang/cassandra-cloud) - Deploy Cassandra to various cloud environments with automation
 - [terraform-rolling-deploys](https://github.com/robmorgan/terraform-rolling-deploys) - Rolling ASG deployments with Terraform on AWS

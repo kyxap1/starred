@@ -896,6 +896,7 @@
 - [awesome-docker](https://github.com/veggiemonk/awesome-docker) - :whale: A curated list of Docker resources and projects
 - [ansible-role-docker](https://github.com/geerlingguy/ansible-role-docker) - Ansible Role - Docker
 - [awesome-pentest](https://github.com/enaqx/awesome-pentest) - A collection of awesome penetration testing resources, tools and other shiny things
+- [LS_COLORS](https://github.com/trapd00r/LS_COLORS) - A collection of LS_COLORS definitions; needs your contribution!
 - [sense](https://github.com/cheics/sense) - a json aware ElasticSearch front end
 - [ansible-barman](https://github.com/alexey-medvedchikov/ansible-barman) - Ansible role for barman PostgreSQL backup utility
 - [design-patterns-for-humans](https://github.com/kamranahmedse/design-patterns-for-humans) - An ultra-simplified explanation to design patterns
@@ -1301,7 +1302,6 @@
 - [cloudwatch-logmonitoring](https://github.com/shogomuranushi/cloudwatch-logmonitoring) - Log file monitoring for cloudwatch.
 - [docker-elk](https://github.com/roister/docker-elk) - The ELK stack powered by Docker and Compose.
 - [awless-templates](https://github.com/wallix/awless-templates) - Repository of examples for awless templates (see https://github.com/wallix/awless)
-- [LS_COLORS](https://github.com/trapd00r/LS_COLORS) - A collection of LS_COLORS definitions; needs your contribution!
 - [dotfiles](https://github.com/maksimr/dotfiles) - ❤
 - [nodejs-bower-grunt](https://github.com/dockerfile/nodejs-bower-grunt) - Node.js w/ Bower & Grunt Dockerfile for trusted automated Docker builds.
 - [ansible-completion](https://github.com/dysosmus/ansible-completion) - Basic bash completion for Ansible

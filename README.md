@@ -117,7 +117,6 @@
 - [my-mac-os](https://github.com/nikitavoloboev/my-mac-os) - List of applications and tools that make my macOS experience even more amazing
 - [assembly](https://github.com/mapbox/assembly) - Making the hard parts of designing for the web easy.
 - [dagobah](https://github.com/thieman/dagobah) - Simple DAG-based job scheduler in Python
-- [pelias](https://github.com/pelias/pelias) - Pelias is a modular open-source geocoder using Elasticsearch.
 - [source-code-pro](https://github.com/adobe-fonts/source-code-pro) - Monospaced font family for user interface and coding environments
 - [nomad-ci](https://github.com/iverberk/nomad-ci) - A fully featured CI setup based on Nomad, Jenkins, Selenium, Consul and Docker
 - [domeide.github.io](https://github.com/domeide/domeide.github.io) - Docker meets the IDE - Integrating your favorite containers in the editor of your choice
@@ -585,6 +584,7 @@
 - [portainer](https://github.com/portainer/portainer) - Making Docker management easy.
 - [node-red-dashboard](https://github.com/node-red/node-red-dashboard) - A dashboard UI for Node-RED
 - [pup](https://github.com/ericchiang/pup) - Parsing HTML at the command line
+- [pelias](https://github.com/pelias/pelias) - Pelias is a modular open-source geocoder using Elasticsearch.
 - [ndbench](https://github.com/Netflix/ndbench) - Netflix Data Store Benchmark
 - [buildpacks-ci](https://github.com/cloudfoundry/buildpacks-ci) - Concourse CI pipelines for the buildpacks team
 - [swagger-codegen](https://github.com/swagger-api/swagger-codegen) - swagger-codegen contains a template-driven engine to generate documentation, API clients and server stubs in different languages by parsing your OpenAPI / Swagger definition.
@@ -773,7 +773,7 @@
 - [generator-jhipster](https://github.com/jhipster/generator-jhipster) - Open Source application platform for creating Spring Boot + Angular/React projects in seconds!
 - [dredd](https://github.com/apiaryio/dredd) - Language-agnostic HTTP API Testing Tool
 - [gql-tools](https://github.com/almilo/gql-tools) - GraphQL Tools for schema handling.
-- [graphiql](https://github.com/graphql/graphiql) - An in-browser IDE for exploring GraphQL.
+- [graphiql](https://github.com/graphql/graphiql) - GraphiQL & the GraphQL LSP Reference Ecosystem for building browser & IDE tools.
 - [beanform](https://github.com/turnerlabs/beanform) - Reverse engineer AWS Elasticbeanstalk apps into Terraform source code
 - [linter-terraform-syntax](https://github.com/mschuchard/linter-terraform-syntax) - terraform validate or plan linter for atom
 - [aws-maintenance-lambda](https://github.com/indix/aws-maintenance-lambda) - A lambda function to send alerts (to Slack, HipChat) on AWS maintenance events.
@@ -1248,7 +1248,7 @@
 - [ripgrep](https://github.com/BurntSushi/ripgrep) - ripgrep recursively searches directories for a regex pattern
 - [awesome-static-analysis](https://github.com/mre/awesome-static-analysis) - Static analysis tools for all programming languages
 - [wsta](https://github.com/esphen/wsta) - A CLI development tool for WebSocket APIs
-- [alacritty](https://github.com/jwilm/alacritty) - A cross-platform, GPU-accelerated terminal emulator
+- [alacritty](https://github.com/alacritty/alacritty) - A cross-platform, GPU-accelerated terminal emulator
 - [habitat](https://github.com/habitat-sh/habitat) - Modern applications with built-in automation
 
 ## Scala 

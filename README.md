@@ -986,7 +986,7 @@
 ## Python 
 
 - [netbox](https://github.com/netbox-community/netbox) - IP address management (IPAM) and data center infrastructure management (DCIM) tool.
-- [gitlabform](https://github.com/egnyte/gitlabform) - Easy configuration as code tool for GitLab using config in plain YAML
+- [gitlabform](https://github.com/egnyte/gitlabform) - Specialized "configuration as a code" tool for GitLab projects, groups and more using hierarchical configuration written in YAML
 - [prometheus-kafka-consumer-group-exporter](https://github.com/braedon/prometheus-kafka-consumer-group-exporter) - Prometheus Kafka Consumer Group Exporter
 - [ansible-role-cassandra](https://github.com/kostyrev/ansible-role-cassandra) - ansible role to only install Apache Cassandra
 - [cstar](https://github.com/spotify/cstar) - Apache Cassandra cluster orchestration tool for the command line

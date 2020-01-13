@@ -267,7 +267,7 @@
 - [kops](https://github.com/kubernetes/kops) - Kubernetes Operations (kops) - Production Grade K8s Installation, Upgrades, and Management
 - [gomplate](https://github.com/hairyhenderson/gomplate) - A flexible commandline tool for template rendering. Supports lots of local and remote datasources.
 - [swarmkit](https://github.com/docker/swarmkit) - A toolkit for orchestrating distributed systems at any scale. It includes primitives for node discovery, raft-based consensus, task scheduling and more.
-- [goat](https://github.com/sevagh/goat) - actively maintained fork of this project is available at https://github.com/steamhaus/goat
+- [goat](https://github.com/sevagh/goat) - AWS EBS-EC2 attach utility. UNMAINTAINED, SEE FORK -&gt;
 - [drone-mvn](https://github.com/thomasf/drone-mvn) - Maven repository artifact publisher for Drone CI
 - [ec2-metadatafs](https://github.com/jszwedko/ec2-metadatafs) - AWS EC2 metadata as files
 - [vaulter](https://github.com/Mykolaichenko/vaulter) - 

@@ -380,7 +380,7 @@
 - [consul-zombie](https://github.com/myENA/consul-zombie) - Hunt and kill consul zombie services.
 - [consul-backinator](https://github.com/myENA/consul-backinator) - Command line Consul backup and restore utility supporting KVs, ACLs and Queries
 - [terraform-markdown-extractor](https://github.com/kchugalinskiy/terraform-markdown-extractor) - Extract json resource description from terraform repository
-- [aws-lambda-go](https://github.com/eawsy/aws-lambda-go) - A fast and clean way to execute Go on AWS Lambda.
+- [archive_aws-lambda-go](https://github.com/lifadev/archive_aws-lambda-go) - A fast and clean way to execute Go on AWS Lambda.
 - [terraform-hierarchy](https://github.com/kchugalinskiy/terraform-hierarchy) - Take terraform API json + root dir and return toml with module relations
 - [kvexpress](https://github.com/DataDog/kvexpress) - Go program to move data in and out of Consul's KV store.
 - [asg53](https://github.com/paybyphone/asg53) - AWS Lambda function for making Route 53 changes via ASG lifecycle hooks
@@ -626,7 +626,7 @@
 - [JJSchema](https://github.com/reinert/JJSchema) - A generator from Java Types to JSON-Schema using Jackson.
 - [gephi](https://github.com/gephi/gephi) - Gephi - The Open Graph Viz Platform
 - [elassandra](https://github.com/strapdata/elassandra) - Elassandra = Elasticsearch + Apache Cassandra
-- [flyway](https://github.com/flyway/flyway) - Flyway by Boxfuse • Database Migrations Made Easy.
+- [flyway](https://github.com/flyway/flyway) - Flyway by Redgate • Database Migrations Made Easy.
 - [swagger-core](https://github.com/swagger-api/swagger-core) - Examples and server integrations for generating the Swagger API Specification, which enables easy access to your REST API
 - [grakn](https://github.com/graknlabs/grakn) - Grakn Core: The Knowledge Graph
 - [bazel](https://github.com/bazelbuild/bazel) - a fast, scalable, multi-language and extensible build system

@@ -1202,7 +1202,7 @@
 - [wildfly-buildpack](https://github.com/thomasdarimont/wildfly-buildpack) - 
 - [github-pullrequest-resource](https://github.com/jtarchie/github-pullrequest-resource) - Provides a Github pull request resource for concourse CI.
 - [dockerfile-ci](https://github.com/unifio/dockerfile-ci) - 
-- [geoengineer](https://github.com/coinbase/geoengineer) - Infrastructure As Code
+- [geoengineer](https://github.com/coinbase/geoengineer) - NO LONGER SUPPORTED — Infrastructure As Code
 - [ruby-tfoutputs](https://github.com/jedops/ruby-tfoutputs) - Use Terraform outputs in your ruby code.
 - [dockerfile-packer](https://github.com/unifio/dockerfile-packer) - Dockerfile for creation of a HashiCorp Packer container
 - [cleanroom](https://github.com/sethvargo/cleanroom) - (More) safely evaluate Ruby DSLs with cleanroom

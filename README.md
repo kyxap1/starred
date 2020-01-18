@@ -1272,7 +1272,7 @@
 - [sshclip](https://github.com/tweekmonster/sshclip) - Sever/client clipboard over SSH for Neovim
 - [grafana-import-export](https://github.com/hagen1778/grafana-import-export) - shell scripts for importing and exporting Grafana's dashboards and datasources
 - [aws-workshop-for-kubernetes](https://github.com/aws-samples/aws-workshop-for-kubernetes) - AWS Workshop for Kubernetes
-- [kubectx](https://github.com/ahmetb/kubectx) - Switch faster between clusters and namespaces in kubectl
+- [kubectx](https://github.com/ahmetb/kubectx) - Faster way to switch between clusters and namespaces in kubectl
 - [kube-ps1](https://github.com/jonmosco/kube-ps1) - Kubernetes prompt info for bash and zsh
 - [consul-dns-for-kubernetes](https://github.com/anubhavmishra/consul-dns-for-kubernetes) - Consul DNS Interface for Kubernetes
 - [fonts](https://github.com/powerline/fonts) - Patched fonts for Powerline users.

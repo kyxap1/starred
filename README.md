@@ -1202,7 +1202,7 @@
 - [wildfly-buildpack](https://github.com/thomasdarimont/wildfly-buildpack) - 
 - [github-pullrequest-resource](https://github.com/jtarchie/github-pullrequest-resource) - Provides a Github pull request resource for concourse CI.
 - [dockerfile-ci](https://github.com/unifio/dockerfile-ci) - 
-- [geoengineer](https://github.com/coinbase/geoengineer) - NO LONGER SUPPORTED — Infrastructure As Code
+- [geoengineer](https://github.com/coinbase/geoengineer) - DEPRECATED — Infrastructure As Code
 - [ruby-tfoutputs](https://github.com/jedops/ruby-tfoutputs) - Use Terraform outputs in your ruby code.
 - [dockerfile-packer](https://github.com/unifio/dockerfile-packer) - Dockerfile for creation of a HashiCorp Packer container
 - [cleanroom](https://github.com/sethvargo/cleanroom) - (More) safely evaluate Ruby DSLs with cleanroom
@@ -1385,7 +1385,7 @@
 - [ansible-pgpool](https://github.com/smarthall/ansible-pgpool) - Ansible configuration to setup a HA postgres cluster with automated failover and recovery.
 - [pg_monz](https://github.com/pg-monz/pg_monz) - This is the Zabbix monitoring template for PostgreSQL Database.
 - [profile-sync-daemon](https://github.com/graysky2/profile-sync-daemon) - Symlinks and syncs browser profile dirs to RAM thus reducing HDD/SDD calls and speeding-up browsers.
-- [bash-my-aws](https://github.com/bash-my-aws/bash-my-aws) - A simple but powerful set of CLI commands for managing resources on AWS.
+- [bash-my-aws](https://github.com/bash-my-aws/bash-my-aws) - Bash-my-AWS provides simple but powerful CLI commands for managing AWS resources
 - [bangsh](https://github.com/bangsh/bangsh) - A Bash4 Framework for easy app creation
 - [bangsh](https://github.com/bellthoven/bangsh) - Offical repository is now at
 - [bashful](https://github.com/jmcantrell/bashful) - A collection of modules to simplify writing bash scripts.

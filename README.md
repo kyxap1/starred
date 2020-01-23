@@ -754,7 +754,7 @@
 - [diffr](https://github.com/nijikokun/diffr) - CLI diff tool for files, text, and JSON with human readable output.
 - [markdown-to-json](https://github.com/scottstanfield/markdown-to-json) - 🕹️ Convert YAML front-matter in Markdown files to JSON. v0.5.1 is published on NPM. Current version is v0.5.3
 - [json-schema-generator](https://github.com/krg7880/json-schema-generator) - Generates draft v4 schema from a local file or a remote JSON url.
-- [generate-schema](https://github.com/nijikokun/generate-schema) - Convert JSON Objects to MySQL Schema, JSON Schema, Mongoose Schema, Google BigQuery, or a Generic template for Swagger files, documentation, code generation, and more.
+- [generate-schema](https://github.com/nijikokun/generate-schema) - 🧞 Convert JSON Objects to MySQL, JSON Schema, Mongoose, Google BigQuery, Swagger, and more.
 - [thorntail-examples](https://github.com/thorntail/thorntail-examples) - Examples of how to write applications using Swarm.
 - [github](https://github.com/nestor-powers/github) - Control Github with Nestor
 - [sax-js](https://github.com/isaacs/sax-js) - A sax style parser for JS
@@ -1253,7 +1253,7 @@
 
 ## Scala 
 
-- [kafka-manager](https://github.com/yahoo/kafka-manager) - A tool for managing Apache Kafka.
+- [CMAK](https://github.com/yahoo/CMAK) - CMAK is a tool for managing Apache Kafka clusters
 - [gatling](https://github.com/gatling/gatling) - Async Scala-Akka-Netty based Load Test Tool
 - [snowplow](https://github.com/snowplow/snowplow) - Cloud-native web, mobile and event analytics, running on AWS and GCP
 - [hive-serde-schema-gen](https://github.com/strelec/hive-serde-schema-gen) - :clipboard: Generate Hive SerDe schema from a .json file.

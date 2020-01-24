@@ -678,7 +678,7 @@
 - [mattermost-mobile](https://github.com/mattermost/mattermost-mobile) - Next generation iOS and Android apps for Mattermost in React Native
 - [mattermost-mobile](https://github.com/elvisfromsouth/mattermost-mobile) - Next generation iOS and Android apps for Mattermost in React Native
 - [nginx-proxy-manager](https://github.com/jc21/nginx-proxy-manager) - Docker container for managing Nginx proxy hosts with a simple, powerful interface
-- [metallb](https://github.com/danderson/metallb) - A network load-balancer implementation for Kubernetes using standard routing protocols
+- [metallb](https://github.com/metallb/metallb) - A network load-balancer implementation for Kubernetes using standard routing protocols
 - [blackwhite](https://github.com/txthinking/blackwhite) - Domain, CIDR, IP black/white list, PAC generator
 - [emojiporter](https://github.com/lisamai/emojiporter) - CLI utility to export/import custom emojis for Mattermost.
 - [uppy](https://github.com/transloadit/uppy) - The next open source file uploader for web browsers :dog:
@@ -1075,7 +1075,6 @@
 - [dogen](https://github.com/jboss-dockerfiles/dogen) - Simple Dockerfile generator
 - [cstar_perf](https://github.com/datastax/cstar_perf) - Apache Cassandra performance testing platform
 - [ansible-python-lambda](https://github.com/YPlan/ansible-python-lambda) - Example deployment of an AWS Lambda function with Ansible
-- [WhereHows](https://github.com/linkedin/WhereHows) - Data Discovery and Lineage for Big Data Ecosystem
 - [kafka-tools](https://github.com/linkedin/kafka-tools) - A collection of tools for working with Apache Kafka.
 - [python-prompt-toolkit](https://github.com/prompt-toolkit/python-prompt-toolkit) - Library for building powerful interactive command line applications in Python
 - [s3cmd](https://github.com/s3tools/s3cmd) - Official s3cmd repo -- Command line tool for managing Amazon S3 and CloudFront services
@@ -1419,6 +1418,7 @@
 - [learnapollo](https://github.com/learnapollo/learnapollo) - 👩🏻‍🏫   Learn Apollo - A hands-on tutorial for Apollo GraphQL Client (created by Graphcool)
 - [graphql-tools](https://github.com/apollographql/graphql-tools) - :wrench: Build, mock, and stitch a GraphQL schema using the schema language
 - [pulpo](https://github.com/docker/pulpo) - Configuration mechanism for Node
+- [datahub](https://github.com/linkedin/datahub) - A Generalized Metadata Search & Discovery Tool
 
 ## Vim script 
 

@@ -185,7 +185,7 @@
 - [terraform-provider-kafka](https://github.com/Mongey/terraform-provider-kafka) - Terraform provider for managing Apache Kafka Topics + ACLs
 - [k3s](https://github.com/rancher/k3s) - Lightweight Kubernetes. 5 less than k8s.
 - [trivy](https://github.com/aquasecurity/trivy) - A Simple and Comprehensive Vulnerability Scanner for Containers, Suitable for CI
-- [trickster](https://github.com/Comcast/trickster) - Trickster - Open Source Reverse Proxy Cache and Time Series Dashboard Accelerator
+- [trickster](https://github.com/Comcast/trickster) - Open Source Reverse Proxy Cache and Time Series Dashboard Accelerator
 - [istio](https://github.com/istio/istio) - Connect, secure, control, and observe services.
 - [k9s](https://github.com/derailed/k9s) - 🐶 Kubernetes CLI To Manage Your Clusters In Style!
 - [chamber](https://github.com/segmentio/chamber) - CLI for managing secrets
@@ -1022,7 +1022,7 @@
 - [ec2-scheduler](https://github.com/amazon-archives/ec2-scheduler) - The EC2 Scheduler uses a recurring Lambda function to automatically start and stop EC2 instances based on either default schedule or custom schedule defined per EC2 instance. - Now found at https://github.com/awslabs/aws-instance-scheduler
 - [bossimage](https://github.com/cloudboss/bossimage) - 
 - [pentagon](https://github.com/FairwindsOps/pentagon) - A framework for building repeatable, containerized, cloud-based infrastructure as code with Kubernetes.
-- [molecule](https://github.com/ansible/molecule) - Molecule aids in the development and testing of Ansible roles.
+- [molecule](https://github.com/ansible-community/molecule) - Molecule aids in the development and testing of Ansible roles
 - [cassandra-migrate](https://github.com/Cobliteam/cassandra-migrate) - Simple Cassandra schema migration tool written in Python
 - [wait-for-it](https://github.com/vishnubob/wait-for-it) - Pure bash script to test and wait on the availability of a TCP host and port
 - [packergen](https://github.com/mkheironimus/packergen) - Generate JSON files for Packer (http://packer.io/) from human-friendly YAML sources.

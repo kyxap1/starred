@@ -958,6 +958,7 @@
 
 ## PHP 
 
+- [pictshare](https://github.com/HaschekSolutions/pictshare) - :camera: PictShare is an open source image, mp4, pastebin hosting service with a simple resizing and upload API that you can host yourself. :rice_scene:
 - [fogproject](https://github.com/FOGProject/fogproject) - An open source computer cloning & management system
 - [phinx](https://github.com/cakephp/phinx) - PHP Database Migrations for Everyone
 - [packer-terraform-sample](https://github.com/jkkitakita/packer-terraform-sample) - repo related to hashicorp

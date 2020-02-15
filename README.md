@@ -772,7 +772,6 @@
 - [generator-jhipster](https://github.com/jhipster/generator-jhipster) - Open Source application platform for creating Spring Boot + Angular/React projects in seconds!
 - [dredd](https://github.com/apiaryio/dredd) - Language-agnostic HTTP API Testing Tool
 - [gql-tools](https://github.com/almilo/gql-tools) - GraphQL Tools for schema handling.
-- [graphiql](https://github.com/graphql/graphiql) - GraphiQL & the GraphQL LSP Reference Ecosystem for building browser & IDE tools.
 - [beanform](https://github.com/turnerlabs/beanform) - Reverse engineer AWS Elasticbeanstalk apps into Terraform source code
 - [linter-terraform-syntax](https://github.com/mschuchard/linter-terraform-syntax) - terraform validate or plan linter for atom
 - [aws-maintenance-lambda](https://github.com/indix/aws-maintenance-lambda) - A lambda function to send alerts (to Slack, HipChat) on AWS maintenance events.
@@ -1420,6 +1419,7 @@
 - [graphql-tools](https://github.com/apollographql/graphql-tools) - :wrench: Build, mock, and stitch a GraphQL schema using the schema language
 - [pulpo](https://github.com/docker/pulpo) - Configuration mechanism for Node
 - [datahub](https://github.com/linkedin/datahub) - A Generalized Metadata Search & Discovery Tool
+- [graphiql](https://github.com/graphql/graphiql) - GraphiQL & the GraphQL LSP Reference Ecosystem for building browser & IDE tools.
 
 ## Vim script 
 

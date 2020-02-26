@@ -58,7 +58,7 @@
 - [zapret](https://github.com/bol-van/zapret) - Обход DPI в linux
 - [ctags](https://github.com/universal-ctags/ctags) - A maintained ctags implementation
 - [darknet](https://github.com/pjreddie/darknet) - Convolutional Neural Networks
-- [zfs](https://github.com/zfsonlinux/zfs) - ZFS on Linux - the official OpenZFS implementation for Linux.
+- [zfs](https://github.com/openzfs/zfs) - OpenZFS on Linux and FreeBSD
 - [obs-studio](https://github.com/obsproject/obs-studio) - OBS Studio - Free and open source software for live streaming and screen recording
 - [the_silver_searcher](https://github.com/ggreer/the_silver_searcher) - A code-searching tool similar to ack, but faster.
 - [mydumper](https://github.com/maxbube/mydumper) - Official mydumper project
@@ -186,7 +186,7 @@
 - [terraform-provider-kafka](https://github.com/Mongey/terraform-provider-kafka) - Terraform provider for managing Apache Kafka Topics + ACLs
 - [k3s](https://github.com/rancher/k3s) - Lightweight Kubernetes. 5 less than k8s.
 - [trivy](https://github.com/aquasecurity/trivy) - A Simple and Comprehensive Vulnerability Scanner for Containers, Suitable for CI
-- [trickster](https://github.com/Comcast/trickster) - Open Source Reverse Proxy Cache and Time Series Dashboard Accelerator
+- [trickster](https://github.com/Comcast/trickster) - Open Source HTTP Reverse Proxy Cache and Time Series Dashboard Accelerator
 - [istio](https://github.com/istio/istio) - Connect, secure, control, and observe services.
 - [k9s](https://github.com/derailed/k9s) - 🐶 Kubernetes CLI To Manage Your Clusters In Style!
 - [chamber](https://github.com/segmentio/chamber) - CLI for managing secrets

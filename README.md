@@ -152,6 +152,7 @@
 
 ## Dockerfile 
 
+- [vault-consul-docker](https://github.com/testdrivenio/vault-consul-docker) - 
 - [docker-registry-arm](https://github.com/vsellier/docker-registry-arm) - Docker registry for raspberry pi (arm build)
 - [nocode](https://github.com/kelseyhightower/nocode) - The best way to write secure and reliable applications. Write nothing; deploy nowhere.
 - [PostDock](https://github.com/paunin/PostDock) - PostDock - Postgres & Docker - Postgres streaming replication cluster for any docker environment
@@ -1033,7 +1034,7 @@
 - [botoform](https://github.com/russellballestrini/botoform) - Architect infrastructure on AWS using YAML
 - [nginx-proxy](https://github.com/nginx-proxy/nginx-proxy) - Automated nginx proxy for Docker containers using docker-gen
 - [terraform_validate](https://github.com/elmundio87/terraform_validate) - Assists in the enforcement of user-defined standards in Terraform
-- [lambda-runcommand-configuration-management](https://github.com/awslabs/lambda-runcommand-configuration-management) - Serverless, SSHless, Continuous Configuration Management
+- [lambda-runcommand-configuration-management](https://github.com/amazon-archives/lambda-runcommand-configuration-management) - Serverless, SSHless, Continuous Configuration Management
 - [localstack](https://github.com/localstack/localstack) - 💻  A fully functional local AWS cloud stack. Develop and test your cloud & Serverless apps offline!
 - [zabbix-cli](https://github.com/unioslo/zabbix-cli) - Command-line interface for Zabbix
 - [slacker](https://github.com/os/slacker) - Full-featured Python interface for the Slack API

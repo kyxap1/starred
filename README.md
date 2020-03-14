@@ -295,7 +295,7 @@
 - [gogs](https://github.com/gogs/gogs) - Gogs is a painless self-hosted Git service
 - [drone](https://github.com/drone/drone) - Drone is a Container-Native, Continuous Delivery Platform
 - [dnscontrol](https://github.com/StackExchange/dnscontrol) - Synchronize your DNS to multiple providers from a simple DSL
-- [teleport](https://github.com/gravitational/teleport) - Privileged access management for elastic infrastructure.
+- [teleport](https://github.com/gravitational/teleport) - Privileged access management that doesn’t get in the way.
 - [ec2-ls-hosts](https://github.com/ReSTARTR/ec2-ls-hosts) - an alternative tool for describing ec2 instances
 - [semaphore](https://github.com/ansible-semaphore/semaphore) - Open Source alternative to Ansible Tower
 - [zabbixctl](https://github.com/kovetskiy/zabbixctl) - Most effective way for operating in Zabbix Server
@@ -1107,7 +1107,7 @@
 - [jira2xmind](https://github.com/cepr/jira2xmind) - XMind plugin to import Jira tickets
 - [starred](https://github.com/maguowei/starred) - creating your own Awesome List by GitHub stars!
 - [qb](https://github.com/Pinafore/qb) - QANTA Quiz Bowl AI
-- [remarshal](https://github.com/dbohdan/remarshal) - Convert between JSON, MessagePack, TOML, and YAML
+- [remarshal](https://github.com/dbohdan/remarshal) - Convert between CBOR, JSON, MessagePack, TOML, and YAML
 - [pyhcl](https://github.com/virtuald/pyhcl) - HCL is a configuration language. pyhcl is a python parser for it.
 - [configo](https://github.com/mignev/configo) - The easiest way to use existing JSON, XML or YAML config files from bash shell/scripts
 - [telegraf-cassandra](https://github.com/chrusty/telegraf-cassandra) - Config for monitoring Cassandra using Telegraf's "Jolokia" plugin

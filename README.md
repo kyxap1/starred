@@ -198,7 +198,7 @@
 - [envexec](https://github.com/hypnoglow/envexec) - A tool that executes any command or application provisioning its environment with variables from providers (like secrets from Vault).
 - [kubeval](https://github.com/instrumenta/kubeval) - Validate your Kubernetes configuration files, supports multiple Kubernetes versions
 - [mattermost-push-proxy](https://github.com/mattermost/mattermost-push-proxy) - 
-- [pulumi](https://github.com/pulumi/pulumi) - Pulumi - Modern Infrastructure as Code. Any cloud, any language. Give your team cloud superpowers 🚀
+- [pulumi](https://github.com/pulumi/pulumi) - Pulumi - Modern Infrastructure as Code. Any cloud, any language 🚀
 - [charts](https://github.com/helm/charts) - Curated applications for Kubernetes
 - [go-camo](https://github.com/arachnys/go-camo) - An SSL/TLS proxy for insecure static assets to circumvent mixed content warnings. Based on `go-camo`, and `camo`.
 - [slack-advanced-exporter](https://github.com/grundleborg/slack-advanced-exporter) - A tool for exporting additional data from Slack that is missing from the official data export.
@@ -1041,7 +1041,7 @@
 - [system-design-primer](https://github.com/donnemartin/system-design-primer) - Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards.
 - [repositorytools](https://github.com/packagemgmt/repositorytools) - Python API and command-line interface for working with artifact repositories like Sonatype Nexus
 - [spilo](https://github.com/zalando/spilo) - Highly available elephant herd: HA PostgreSQL cluster using Docker
-- [aws_role_credentials](https://github.com/ThoughtWorksInc/aws_role_credentials) - Generates AWS credentials for roles using STS
+- [aws_role_credentials](https://github.com/techops-infosec/aws_role_credentials) - Generates AWS credentials for roles using STS
 - [awsie](https://github.com/theserverlessway/awsie) - CloudFormation aware wrapper for the AWSCLI
 - [stacker](https://github.com/cloudtools/stacker) - An AWS CloudFormation Stack orchestrator/manager.
 - [sceptre](https://github.com/Sceptre/sceptre) - Build better AWS infrastructure

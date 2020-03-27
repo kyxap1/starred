@@ -64,7 +64,7 @@
 - [mydumper](https://github.com/maxbube/mydumper) - Official mydumper project
 - [Entware-ng](https://github.com/Entware/Entware-ng) - Entware-ng
 - [nginx-module-sts](https://github.com/vozlt/nginx-module-sts) - Nginx stream server traffic status module
-- [netdata](https://github.com/netdata/netdata) - Real-time performance monitoring, done right! https://my-netdata.io/
+- [netdata](https://github.com/netdata/netdata) - Real-time performance monitoring, done right! https://www.netdata.cloud
 - [kafkacat](https://github.com/edenhill/kafkacat) - Generic command line non-JVM Apache Kafka producer and consumer
 - [pgreplay](https://github.com/laurenz/pgreplay) - pgreplay reads a PostgreSQL log file (*not* a WAL file), extracts the SQL statements and executes them in the same order and relative time against a PostgreSQL database cluster.
 - [snzip](https://github.com/kubo/snzip) - Snzip, a compression/decompression tool based on snappy
@@ -864,6 +864,7 @@
 
 ## Others 
 
+- [ClickhouseCluster_DockerCompose](https://github.com/TanVD/ClickhouseCluster_DockerCompose) - Example Docker Compose configs for Clickhouse Cluster (via ZooKeeper)
 - [awesome-operators](https://github.com/operator-framework/awesome-operators) - A resource tracking a number of Operators out in the wild.
 - [sre-interview-prep-guide](https://github.com/mxssl/sre-interview-prep-guide) - Site Reliability Engineer Interview Preparation Guide
 - [what-happens-when-k8s](https://github.com/jamiehannaford/what-happens-when-k8s) - 🤔  What happens when I type kubectl run?

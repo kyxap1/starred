@@ -1193,7 +1193,7 @@
 - [interferon](https://github.com/airbnb/interferon) - Signaling you about infrastructure or application issues
 - [kafkat](https://github.com/airbnb/kafkat) - KafkaT-ool
 - [logstash-input-kinesis](https://github.com/logstash-plugins/logstash-input-kinesis) - Logstash Plugin for AWS Kinesis Input
-- [pgsync](https://github.com/ankane/pgsync) - Sync Postgres data between databases
+- [pgsync](https://github.com/ankane/pgsync) - Sync data from one Postgres database to another
 - [lbrt](https://github.com/codenize-tools/lbrt) - A tool to manage Librato. It defines the state of Librato using DSL, and updates Librato according to DSL.
 - [miam](https://github.com/codenize-tools/miam) - Miam is a tool to manage IAM. It defines the state of IAM using DSL, and updates IAM according to DSL.
 - [posgra](https://github.com/codenize-tools/posgra) - Posgra is a tool to manage PostgreSQL roles/permissions.
@@ -1246,7 +1246,7 @@
 
 - [mcfly](https://github.com/cantino/mcfly) - Fly through your shell history. Great Scott!
 - [ripgrep](https://github.com/BurntSushi/ripgrep) - ripgrep recursively searches directories for a regex pattern
-- [awesome-static-analysis](https://github.com/mre/awesome-static-analysis) - Static analysis tools for all programming languages, build tools, config files and more.
+- [static-analysis](https://github.com/analysis-tools-dev/static-analysis) - Static analysis tools for all programming languages, build tools, config files and more.
 - [wsta](https://github.com/esphen/wsta) - A CLI development tool for WebSocket APIs
 - [alacritty](https://github.com/alacritty/alacritty) - A cross-platform, GPU-accelerated terminal emulator
 - [habitat](https://github.com/habitat-sh/habitat) - Modern applications with built-in automation

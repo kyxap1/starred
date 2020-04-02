@@ -450,7 +450,7 @@
 - [hugo](https://github.com/gohugoio/hugo) - The world’s fastest framework for building websites.
 - [goa](https://github.com/goadesign/goa) - Design-based APIs and microservices in Go
 - [cobra](https://github.com/spf13/cobra) - A Commander for modern Go CLI interactions
-- [license](https://github.com/nishanths/license) - Create software license files from the command line
+- [license](https://github.com/nishanths/license) - Create LICENSE files with a single command
 - [packer](https://github.com/hashicorp/packer) - Packer is a tool for creating identical machine images for multiple platforms from a single source configuration.
 - [terraform](https://github.com/hashicorp/terraform) - Terraform enables you to safely and predictably create, change, and improve infrastructure. It is an open source tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.
 - [bosun](https://github.com/bosun-monitor/bosun) - Time Series Alerting Framework
@@ -625,7 +625,7 @@
 - [java-properties-to-json](https://github.com/mikolajmitura/java-properties-to-json) - Simple java framework for conversion java properties to JSON object.
 - [redisson](https://github.com/redisson/redisson) - Redisson - Redis Java client with features of In-Memory Data Grid. Over 50 Redis based Java objects and services: Set, Multimap, SortedSet, Map, List, Queue, Deque, Semaphore, Lock, AtomicLong, Map Reduce, Publish / Subscribe, Bloom filter, Spring Cache, Tomcat, Scheduler, JCache API, Hibernate, MyBatis, RPC, local cache ...
 - [plantuml-gist](https://github.com/linux-china/plantuml-gist) - PlantUML with Github Gist and Gitlab Support
-- [spoon](https://github.com/INRIA/spoon) - Spoon is a metaprogramming library to analyze and transform Java source code (incl Java 9, 10, 11, 12). :spoon: is made with :heart:, :beers: and :sparkles:. It parses source files to build a well-designed AST with powerful analysis and transformation API.
+- [spoon](https://github.com/INRIA/spoon) - Spoon is a metaprogramming library to analyze and transform Java source code (incl Java 9, 10, 11, 12, 14). :spoon: is made with :heart:, :beers: and :sparkles:. It parses source files to build a well-designed AST with powerful analysis and transformation API.
 - [JJSchema](https://github.com/reinert/JJSchema) - A generator from Java Types to JSON-Schema using Jackson.
 - [gephi](https://github.com/gephi/gephi) - Gephi - The Open Graph Viz Platform
 - [elassandra](https://github.com/strapdata/elassandra) - Elassandra = Elasticsearch + Apache Cassandra
@@ -1124,7 +1124,7 @@
 - [Zappa](https://github.com/Miserlou/Zappa) - Serverless Python
 - [thumbnail-service](https://github.com/Schweigi/thumbnail-service) - Thumbnail API service
 - [python-lambder](https://github.com/LeafSoftware/python-lambder) - Create and manage scheduled AWS Lambdas from the CLI
-- [aws-lambda-python-local](https://github.com/bfansports/aws-lambda-python-local) - Run and Test locally, Dist and Deploy online your AWS Lambda Python functions with a simple Makefile. Deploy, Stage and Test you API Gateway calls too!
+- [aws-lambda-python-local](https://github.com/bfansports/aws-lambda-python-local) - Run and Test locally, Dist and Deploy online your AWS Lambda Python functions with a simple Makefile. Deploy, Stage and Test your API Gateway calls too!
 - [s3redirect](https://github.com/nathangrigg/s3redirect) - Provides a command line tool to synchronize web site redirects with an Amazon S3 bucket.
 - [ComboAMI](https://github.com/riptano/ComboAMI) - The AMI takes a set of input parameters via the EC2 user-data to install, RAID, ring, and launch a DataStax Enterprise/Community cluster.
 - [cct](https://github.com/containers-tools/cct) - containers configuration tool

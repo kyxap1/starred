@@ -677,6 +677,7 @@
 
 ## JavaScript 
 
+- [awesome-mac](https://github.com/jaywcjlove/awesome-mac) -  Now we have become very big, Different from the original idea. Collect premium software in various categories.
 - [mattermost-mobile](https://github.com/mattermost/mattermost-mobile) - Next generation iOS and Android apps for Mattermost in React Native
 - [mattermost-mobile](https://github.com/elvisfromsouth/mattermost-mobile) - Next generation iOS and Android apps for Mattermost in React Native
 - [nginx-proxy-manager](https://github.com/jc21/nginx-proxy-manager) - Docker container for managing Nginx proxy hosts with a simple, powerful interface

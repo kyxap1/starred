@@ -615,7 +615,7 @@
 - [prometheus-hystrix](https://github.com/ahus1/prometheus-hystrix) - This is an implementation of a HystrixMetricsPublisher that publishes metrics using the Prometheus java client.
 - [cassandra_exporter](https://github.com/criteo/cassandra_exporter) - Apache Cassandra® metrics exporter for Prometheus
 - [cassandra-reaper](https://github.com/thelastpickle/cassandra-reaper) - Automated Repair Awesomeness for Apache Cassandra
-- [open-airplay](https://github.com/jamesdlow/open-airplay) - A collection of libraries for Apple's AirPlay protocol
+- [open-airplay](https://github.com/openairplay/open-airplay) - A collection of libraries for Apple's AirPlay protocol
 - [zipkin](https://github.com/openzipkin/zipkin) - Zipkin is a distributed tracing system
 - [YCSB](https://github.com/brianfrankcooper/YCSB) - Yahoo! Cloud Serving Benchmark
 - [localstack-spring-boot](https://github.com/smartupio/localstack-spring-boot) - Spring Boot AutoConfiguration for LocalStack

@@ -450,7 +450,7 @@
 - [hugo](https://github.com/gohugoio/hugo) - The world’s fastest framework for building websites.
 - [goa](https://github.com/goadesign/goa) - Design-based APIs and microservices in Go
 - [cobra](https://github.com/spf13/cobra) - A Commander for modern Go CLI interactions
-- [license](https://github.com/nishanths/license) - Create LICENSE files with a single command
+- [license](https://github.com/nishanths/license) - Create LICENSE files from the command line
 - [packer](https://github.com/hashicorp/packer) - Packer is a tool for creating identical machine images for multiple platforms from a single source configuration.
 - [terraform](https://github.com/hashicorp/terraform) - Terraform enables you to safely and predictably create, change, and improve infrastructure. It is an open source tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.
 - [bosun](https://github.com/bosun-monitor/bosun) - Time Series Alerting Framework
@@ -481,7 +481,6 @@
 - [terraform-scheduled-batch-job](https://github.com/turnerlabs/terraform-scheduled-batch-job) - A Terraform module representing a scheduled Batch job
 - [tf_aws_elasticsearch](https://github.com/terraform-community-modules/tf_aws_elasticsearch) - Terraform module which creates AWS Elasticsearch resources
 - [aws-docker-swarm](https://github.com/mrjgreen/aws-docker-swarm) - Terraform and helper resources for running a production Docker Swarm on AWS
-- [terraform-firehose](https://github.com/Placester/terraform-firehose) - 
 - [hashidays-london](https://github.com/paddycarver/hashidays-london) - Code used for the demo of Going Multi-Cloud with Terraform and Nomad
 - [terraform-module-aws-zookeeper](https://github.com/fscm/terraform-module-aws-zookeeper) - Terraform Module to create a Apache Zookeeper cluster on AWS
 - [terraform-init](https://github.com/aguamala/terraform-init) - 
@@ -1420,7 +1419,7 @@
 - [etcher](https://github.com/balena-io/etcher) - Flash OS images to SD cards & USB drives, safely and easily.
 - [subscriptions-transport-ws](https://github.com/apollographql/subscriptions-transport-ws) - :arrows_clockwise: A WebSocket client + server for GraphQL subscriptions
 - [learnapollo](https://github.com/learnapollo/learnapollo) - 👩🏻‍🏫   Learn Apollo - A hands-on tutorial for Apollo GraphQL Client (created by Graphcool)
-- [graphql-tools](https://github.com/apollographql/graphql-tools) - :wrench: Build, mock, and stitch a GraphQL schema using the schema language
+- [graphql-tools](https://github.com/Urigo/graphql-tools) - :wrench: Build, mock, and stitch a GraphQL schema using the schema language
 - [pulpo](https://github.com/docker-archive/pulpo) - Configuration mechanism for Node
 - [datahub](https://github.com/linkedin/datahub) - A Generalized Metadata Search & Discovery Tool
 - [graphiql](https://github.com/graphql/graphiql) - GraphiQL & the GraphQL LSP Reference Ecosystem for building browser & IDE tools.

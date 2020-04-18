@@ -295,7 +295,7 @@
 - [gogs](https://github.com/gogs/gogs) - Gogs is a painless self-hosted Git service
 - [drone](https://github.com/drone/drone) - Drone is a Container-Native, Continuous Delivery Platform
 - [dnscontrol](https://github.com/StackExchange/dnscontrol) - Synchronize your DNS to multiple providers from a simple DSL
-- [teleport](https://github.com/gravitational/teleport) - Privileged access management that doesn’t get in the way.
+- [teleport](https://github.com/gravitational/teleport) - Zero Trust Access to Infrastructure and Applications
 - [ec2-ls-hosts](https://github.com/ReSTARTR/ec2-ls-hosts) - an alternative tool for describing ec2 instances
 - [semaphore](https://github.com/ansible-semaphore/semaphore) - Open Source alternative to Ansible Tower
 - [zabbixctl](https://github.com/kovetskiy/zabbixctl) - Most effective way for operating in Zabbix Server
@@ -481,6 +481,7 @@
 - [terraform-scheduled-batch-job](https://github.com/turnerlabs/terraform-scheduled-batch-job) - A Terraform module representing a scheduled Batch job
 - [tf_aws_elasticsearch](https://github.com/terraform-community-modules/tf_aws_elasticsearch) - Terraform module which creates AWS Elasticsearch resources
 - [aws-docker-swarm](https://github.com/mrjgreen/aws-docker-swarm) - Terraform and helper resources for running a production Docker Swarm on AWS
+- [terraform-firehose](https://github.com/Placester/terraform-firehose) - 
 - [hashidays-london](https://github.com/paddycarver/hashidays-london) - Code used for the demo of Going Multi-Cloud with Terraform and Nomad
 - [terraform-module-aws-zookeeper](https://github.com/fscm/terraform-module-aws-zookeeper) - Terraform Module to create a Apache Zookeeper cluster on AWS
 - [terraform-init](https://github.com/aguamala/terraform-init) - 

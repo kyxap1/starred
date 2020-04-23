@@ -1419,7 +1419,7 @@
 - [etcher](https://github.com/balena-io/etcher) - Flash OS images to SD cards & USB drives, safely and easily.
 - [subscriptions-transport-ws](https://github.com/apollographql/subscriptions-transport-ws) - :arrows_clockwise: A WebSocket client + server for GraphQL subscriptions
 - [learnapollo](https://github.com/learnapollo/learnapollo) - 👩🏻‍🏫   Learn Apollo - A hands-on tutorial for Apollo GraphQL Client (created by Graphcool)
-- [graphql-tools](https://github.com/Urigo/graphql-tools) - :wrench: Build, mock, and stitch a GraphQL schema using the schema language
+- [graphql-tools](https://github.com/ardatan/graphql-tools) - :wrench: Build, mock, and stitch a GraphQL schema using the schema language
 - [pulpo](https://github.com/docker-archive/pulpo) - Configuration mechanism for Node
 - [datahub](https://github.com/linkedin/datahub) - A Generalized Metadata Search & Discovery Tool
 - [graphiql](https://github.com/graphql/graphiql) - GraphiQL & the GraphQL LSP Reference Ecosystem for building browser & IDE tools.

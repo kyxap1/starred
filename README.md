@@ -676,6 +676,7 @@
 
 ## JavaScript 
 
+- [gitlab-release-note-generator](https://github.com/jk1z/gitlab-release-note-generator) - A Gitlab release note generator
 - [awesome-mac](https://github.com/jaywcjlove/awesome-mac) -  Now we have become very big, Different from the original idea. Collect premium software in various categories.
 - [mattermost-mobile](https://github.com/mattermost/mattermost-mobile) - Next generation iOS and Android apps for Mattermost in React Native
 - [mattermost-mobile](https://github.com/elvisfromsouth/mattermost-mobile) - Next generation iOS and Android apps for Mattermost in React Native

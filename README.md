@@ -185,7 +185,7 @@
 - [terraformer](https://github.com/GoogleCloudPlatform/terraformer) - CLI tool to generate terraform files from existing infrastructure (reverse Terraform). Infrastructure to Code
 - [terracognita](https://github.com/cycloidio/terracognita) - Reads from existing Cloud Providers (reverse Terraform) and generates your infrastructure as code on Terraform configuration
 - [terraform-provider-kafka](https://github.com/Mongey/terraform-provider-kafka) - Terraform provider for managing Apache Kafka Topics + ACLs
-- [k3s](https://github.com/rancher/k3s) - Lightweight Kubernetes. 5 less than k8s.
+- [k3s](https://github.com/rancher/k3s) - Lightweight Kubernetes
 - [trivy](https://github.com/aquasecurity/trivy) - A Simple and Comprehensive Vulnerability Scanner for Containers, Suitable for CI
 - [trickster](https://github.com/tricksterproxy/trickster) - Open Source HTTP Reverse Proxy Cache and Time Series Dashboard Accelerator
 - [istio](https://github.com/istio/istio) - Connect, secure, control, and observe services.

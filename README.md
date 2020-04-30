@@ -221,6 +221,7 @@
 - [helm](https://github.com/helm/helm) - The Kubernetes Package Manager
 - [mender](https://github.com/mendersoftware/mender) - Mender over-the-air software updater client.
 - [kiam](https://github.com/uswitch/kiam) - Integrate AWS IAM with Kubernetes
+- [kubectx](https://github.com/ahmetb/kubectx) - Faster way to switch between clusters and namespaces in kubectl
 - [stern](https://github.com/wercker/stern) - ⎈ Multi pod and container log tailing for Kubernetes
 - [rds_exporter](https://github.com/percona/rds_exporter) - AWS RDS exporter for Prometheus
 - [prometheus-devops-linter](https://github.com/leominov/prometheus-devops-linter) - High-level linter for Prometheus rules and jobs
@@ -1274,7 +1275,6 @@
 - [sshclip](https://github.com/tweekmonster/sshclip) - Sever/client clipboard over SSH for Neovim
 - [grafana-import-export](https://github.com/hagen1778/grafana-import-export) - shell scripts for importing and exporting Grafana's dashboards and datasources
 - [aws-workshop-for-kubernetes](https://github.com/aws-samples/aws-workshop-for-kubernetes) - AWS Workshop for Kubernetes
-- [kubectx](https://github.com/ahmetb/kubectx) - Faster way to switch between clusters and namespaces in kubectl
 - [kube-ps1](https://github.com/jonmosco/kube-ps1) - Kubernetes prompt info for bash and zsh
 - [consul-dns-for-kubernetes](https://github.com/anubhavmishra/consul-dns-for-kubernetes) - Consul DNS Interface for Kubernetes
 - [fonts](https://github.com/powerline/fonts) - Patched fonts for Powerline users.

@@ -790,7 +790,7 @@
 - [awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted locally. Selfhosting is the process of hosting and managing applications instead of renting from Software-as-a-Service providers
 - [Bastillion](https://github.com/bastillion-io/Bastillion) - Bastillion is a web-based SSH console that centrally manages administrative access to systems. Web-based administration is combined with management and distribution of user's public SSH keys.
 - [Bastillion-EC2](https://github.com/bastillion-io/Bastillion-EC2) - A web-based SSH console to execute commands and manage multiple EC2 instances simultaneously running on Amazon Web Services (AWS).
-- [serverless](https://github.com/serverless/serverless) - Serverless Framework – Build web, mobile and IoT applications with serverless architectures using AWS Lambda, Azure Functions, Google CloudFunctions & more! –
+- [serverless](https://github.com/serverless/serverless) - ⚡ Serverless Framework – Build web, mobile and IoT applications with serverless architectures using AWS Lambda, Azure Functions, Google CloudFunctions & more! –
 - [lambda](https://github.com/AWSinAction/lambda) - AWS in Action: Lambda
 - [terraform2md](https://github.com/shambarick/terraform2md) - 
 - [frey](https://github.com/freyproject/frey) - I fell in love with Kubernetes, and Frey is now deprecated

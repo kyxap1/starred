@@ -1314,7 +1314,7 @@
 - [kostyrevaa.consul-template](https://github.com/kostyrev/kostyrevaa.consul-template) - 
 - [posixcube](https://github.com/myplaceonline/posixcube) - posixcube.sh is a POSIX compliant, shell script-based server automation framework.
 - [sshag](https://github.com/intuited/sshag) - hook up with an operating or new SSH agent
-- [packer-templates](https://github.com/kwilczynski/packer-templates) - Packer templates for creating Amazon EC2 images and Vagrant boxes
+- [packer-templates](https://github.com/kwilczynski/packer-templates) - Packer templates for creating Amazon EC2 images, Proxmox templates and Vagrant boxes
 - [nexusoss3-docker](https://github.com/JAlexoid/nexusoss3-docker) - Sonatype Nexus 3 Images
 - [official-images](https://github.com/docker-library/official-images) - Primary source of truth for the Docker "Official Images" program
 - [docker-consul](https://github.com/hashicorp/docker-consul) - Official Docker images for Consul.

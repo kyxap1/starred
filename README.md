@@ -15,7 +15,6 @@
   - [DTrace](#dtrace)
   - [Dockerfile](#dockerfile)
   - [Elixir](#elixir)
-  - [Gherkin](#gherkin)
   - [Go](#go)
   - [Groovy](#groovy)
   - [HCL](#hcl)
@@ -171,10 +170,6 @@
 
 - [asciinema-server](https://github.com/asciinema/asciinema-server) - Web app for hosting asciicasts
 - [exhcl](https://github.com/asakura/exhcl) - Configuration language inspired by HCL
-
-## Gherkin 
-
-- [sdkman-cli](https://github.com/sdkman/sdkman-cli) - The SDKMAN! Command Line Interface
 
 ## Go 
 
@@ -372,7 +367,7 @@
 - [terrahelp](https://github.com/opencredo/terrahelp) - Terraform helper. Terrahelp is as a command line utility written in Go and is aimed at providing supplementary functionality which can sometimes prove useful when working with Terraform.
 - [nomad](https://github.com/hashicorp/nomad) - Nomad is an easy-to-use, flexible, and performant workload orchestrator that can deploy a mix of microservice, batch, containerized, and non-containerized applications. Nomad is easy to operate and scale and has native Consul and Vault integrations.
 - [consul](https://github.com/hashicorp/consul) - Consul is a distributed, highly available, and data center aware solution to connect and configure applications across dynamic, distributed infrastructure.
-- [micro](https://github.com/micro/micro) - Micro is a distributed systems runtime for the Cloud
+- [micro](https://github.com/micro/micro) - Micro is a distributed systems runtime for the Cloud and beyond
 - [acme](https://github.com/google/acme) - A simple ACME command line tool without 3rd party deps!
 - [hashiapp](https://github.com/kelseyhightower/hashiapp) - Demo 12 Factor application that utilizes Hashicorp tools.
 - [terminus](https://github.com/kelseyhightower/terminus) - Get facts about a Linux system.
@@ -772,7 +767,7 @@
 - [jira-resource](https://github.com/danrspencer/jira-resource) - Jira Resource for Concourse
 - [eslint-config-datapipeline](https://github.com/DataPipelineInc/eslint-config-datapipeline) - Data pipeline ESLint configuration
 - [DataPipeline-download](https://github.com/pearsonlab/DataPipeline-download) - downloading files from AWS DataPipeline system
-- [generator-jhipster](https://github.com/jhipster/generator-jhipster) - Open Source application platform for creating Spring Boot + Angular/React projects in seconds!
+- [generator-jhipster](https://github.com/jhipster/generator-jhipster) - JHipster is a development platform to quickly generate, develop, & deploy modern web applications & microservice architectures.
 - [dredd](https://github.com/apiaryio/dredd) - Language-agnostic HTTP API Testing Tool
 - [gql-tools](https://github.com/almilo/gql-tools) - GraphQL Tools for schema handling.
 - [beanform](https://github.com/turnerlabs/beanform) - Reverse engineer AWS Elasticbeanstalk apps into Terraform source code
@@ -1366,6 +1361,7 @@
 - [tfenv](https://github.com/tfutils/tfenv) - Terraform version manager
 - [aws-ec2-raid0-script](https://github.com/starrlingo/aws-ec2-raid0-script) - Provide a template script to perform Raid 0 architecture in AWS EC2
 - [repository](https://github.com/ulyaoth/repository) - Ulyaoth Repository
+- [sdkman-cli](https://github.com/sdkman/sdkman-cli) - The SDKMAN! Command Line Interface
 - [gvm](https://github.com/moovweb/gvm) - Go Version Manager
 - [wtf](https://github.com/defnn/wtf) - Wrappers for Terraform
 - [docker-cleanup](https://github.com/meltwater/docker-cleanup) - DEPRECATED Automatic Docker image, container and volume cleanup

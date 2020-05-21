@@ -113,7 +113,7 @@
 
 ## CSS 
 
-- [suddi.github.io](https://github.com/suddi/suddi.github.io) - A static single-page application resume-builder developed using React.js and JSON Resume schema (https://suddi.github.io/)
+- [suddi.github.io](https://github.com/suddi/suddi.github.io) - A static single-page application resume-builder developed using React.js and JSON Resume schema (https://suddi.io/)
 - [my-mac-os](https://github.com/nikitavoloboev/my-mac-os) - List of applications and tools that make my macOS experience even more amazing
 - [assembly](https://github.com/mapbox/assembly) - Making the hard parts of designing for the web easy.
 - [dagobah](https://github.com/thieman/dagobah) - Simple DAG-based job scheduler in Python
@@ -771,7 +771,7 @@
 - [dredd](https://github.com/apiaryio/dredd) - Language-agnostic HTTP API Testing Tool
 - [gql-tools](https://github.com/almilo/gql-tools) - GraphQL Tools for schema handling.
 - [beanform](https://github.com/turnerlabs/beanform) - Reverse engineer AWS Elasticbeanstalk apps into Terraform source code
-- [linter-terraform-syntax](https://github.com/mschuchard/linter-terraform-syntax) - terraform validate or plan linter for atom
+- [linter-terraform-syntax](https://github.com/mschuchard/linter-terraform-syntax) - terraform validate or plan linter and formatter for atom
 - [aws-maintenance-lambda](https://github.com/indix/aws-maintenance-lambda) - A lambda function to send alerts (to Slack, HipChat) on AWS maintenance events.
 - [slack-patron](https://github.com/tyage/slack-patron) - Log and view all Slack messages.
 - [pingbot](https://github.com/toricls/pingbot) - A website monitoring/health-checking tool based on serverless architecture.

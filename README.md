@@ -372,7 +372,7 @@
 - [terrahelp](https://github.com/opencredo/terrahelp) - Terraform helper. Terrahelp is as a command line utility written in Go and is aimed at providing supplementary functionality which can sometimes prove useful when working with Terraform.
 - [nomad](https://github.com/hashicorp/nomad) - Nomad is an easy-to-use, flexible, and performant workload orchestrator that can deploy a mix of microservice, batch, containerized, and non-containerized applications. Nomad is easy to operate and scale and has native Consul and Vault integrations.
 - [consul](https://github.com/hashicorp/consul) - Consul is a distributed, highly available, and data center aware solution to connect and configure applications across dynamic, distributed infrastructure.
-- [micro](https://github.com/micro/micro) - A distributed systems server for the Cloud era
+- [micro](https://github.com/micro/micro) - A distributed systems server for the cloud era
 - [acme](https://github.com/google/acme) - A simple ACME command line tool without 3rd party deps!
 - [hashiapp](https://github.com/kelseyhightower/hashiapp) - Demo 12 Factor application that utilizes Hashicorp tools.
 - [terminus](https://github.com/kelseyhightower/terminus) - Get facts about a Linux system.
@@ -866,6 +866,7 @@
 
 ## Others 
 
+- [portainer-compose](https://github.com/portainer/portainer-compose) - Compose setup for Portainer
 - [ClickhouseCluster_DockerCompose](https://github.com/TanVD/ClickhouseCluster_DockerCompose) - Example Docker Compose configs for Clickhouse Cluster (via ZooKeeper)
 - [awesome-operators](https://github.com/operator-framework/awesome-operators) - A resource tracking a number of Operators out in the wild.
 - [sre-interview-prep-guide](https://github.com/mxssl/sre-interview-prep-guide) - Site Reliability Engineer Interview Preparation Guide

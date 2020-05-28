@@ -578,6 +578,7 @@
 
 ## HTML 
 
+- [subspace](https://github.com/subspacecommunity/subspace) - A fork of the simple WireGuard VPN server GUI community maintained
 - [nginxconfig.io](https://github.com/digitalocean/nginxconfig.io) - ⚙️ NGiИX config generator on steroids 💉
 - [cryptr](https://github.com/adobe/cryptr) - Cryptr: a GUI for Hashicorp's Vault
 - [overwatch-dpi-tool](https://github.com/Pyrolistical/overwatch-dpi-tool) - 
@@ -724,7 +725,7 @@
 - [admin](https://github.com/qor/admin) - Qor Admin - Instantly create a beautiful, cross platform, configurable Admin Interface and API for managing your data in minutes.
 - [db-diayaml](https://github.com/forbesmyester/db-diayaml) - Draw DB diagrams using GraphViz / Dot from a very simple YAML file
 - [simple-oauth2](https://github.com/lelylan/simple-oauth2) - A simple Node.js client library for Oauth2
-- [pkg](https://github.com/zeit/pkg) - Package your Node.js project into an executable
+- [pkg](https://github.com/vercel/pkg) - Package your Node.js project into an executable
 - [faaslang](https://github.com/faaslang/faaslang) - FaaSlang defines FaaS execution semantics and type-safety mechanisms
 - [uBlock](https://github.com/gorhill/uBlock) - uBlock Origin - An efficient blocker for Chromium and Firefox. Fast and lean.
 - [volkswagen](https://github.com/auchenberg/volkswagen) - :see_no_evil: Volkswagen detects when your tests are being run in a CI server, and makes them pass.
@@ -1268,6 +1269,7 @@
 
 ## Shell 
 
+- [wireguard-install](https://github.com/angristan/wireguard-install) - WireGuard VPN installer for Linux servers
 - [faq](https://github.com/ru-de/faq) - Полезная информация о жизни в Германии
 - [google-hosts](https://github.com/txthinking/google-hosts) - Google hosts generator
 - [helm-nomagic](https://github.com/giantswarm/helm-nomagic) - 

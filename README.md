@@ -249,7 +249,7 @@
 - [freegeoip](https://github.com/fiorix/freegeoip) - IP geolocation web server
 - [terraformctl](https://github.com/kris-nova/terraformctl) - Running Terraform in Kubernetes as a controller
 - [jaeger](https://github.com/jaegertracing/jaeger) - CNCF Jaeger, a Distributed Tracing Platform
-- [minio](https://github.com/minio/minio) - MinIO is a high performance object storage server compatible with Amazon S3 APIs
+- [minio](https://github.com/minio/minio) - High Performance, Kubernetes Native Object Storage
 - [stolon](https://github.com/sorintlab/stolon) - PostgreSQL cloud native High Availability and more.
 - [mtail](https://github.com/google/mtail) - extract whitebox monitoring data from application logs for collection in a timeseries database
 - [oas2](https://github.com/hypnoglow/oas2) - OpenAPI 2.0 (aka Swagger) utils for Golang.
@@ -296,7 +296,7 @@
 - [gogs](https://github.com/gogs/gogs) - Gogs is a painless self-hosted Git service
 - [drone](https://github.com/drone/drone) - Drone is a Container-Native, Continuous Delivery Platform
 - [dnscontrol](https://github.com/StackExchange/dnscontrol) - Synchronize your DNS to multiple providers from a simple DSL
-- [teleport](https://github.com/gravitational/teleport) - Zero Trust Access to Infrastructure and Applications
+- [teleport](https://github.com/gravitational/teleport) - Secure Access for Developers that doesn't get in the way.
 - [ec2-ls-hosts](https://github.com/ReSTARTR/ec2-ls-hosts) - an alternative tool for describing ec2 instances
 - [semaphore](https://github.com/ansible-semaphore/semaphore) - Open Source alternative to Ansible Tower
 - [zabbixctl](https://github.com/kovetskiy/zabbixctl) - Most effective way for operating in Zabbix Server
@@ -371,7 +371,7 @@
 - [terrahelp](https://github.com/opencredo/terrahelp) - Terraform helper. Terrahelp is as a command line utility written in Go and is aimed at providing supplementary functionality which can sometimes prove useful when working with Terraform.
 - [nomad](https://github.com/hashicorp/nomad) - Nomad is an easy-to-use, flexible, and performant workload orchestrator that can deploy a mix of microservice, batch, containerized, and non-containerized applications. Nomad is easy to operate and scale and has native Consul and Vault integrations.
 - [consul](https://github.com/hashicorp/consul) - Consul is a distributed, highly available, and data center aware solution to connect and configure applications across dynamic, distributed infrastructure.
-- [micro](https://github.com/micro/micro) - Micro is a cloud native development platform
+- [micro](https://github.com/micro/micro) - Micro is a distributed systems runtime for the Cloud
 - [acme](https://github.com/google/acme) - A simple ACME command line tool without 3rd party deps!
 - [hashiapp](https://github.com/kelseyhightower/hashiapp) - Demo 12 Factor application that utilizes Hashicorp tools.
 - [terminus](https://github.com/kelseyhightower/terminus) - Get facts about a Linux system.
@@ -1458,7 +1458,7 @@
 ## Vue 
 
 - [kubeview](https://github.com/benc-uk/kubeview) - Kubernetes cluster visualiser and graphical explorer
-- [nginxconfig.io](https://github.com/digitalocean/nginxconfig.io) - ⚙️ NGiИX config generator on steroids 💉
+- [nginxconfig.io](https://github.com/digitalocean/nginxconfig.io) - ⚙️ NGINX config generator on steroids 💉
 - [plantuml-editor](https://github.com/kkeisuke/plantuml-editor) - PlantUML online demo client
 - [goldfish](https://github.com/Caiyeon/goldfish) - A HashiCorp Vault UI written with VueJS and Vault native Go API
 

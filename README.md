@@ -836,7 +836,6 @@
 
 ## Makefile 
 
-- [awesome-kubernetes](https://github.com/ramitsurana/awesome-kubernetes) - A curated list for awesome kubernetes sources :ship::tada:
 - [Intel-NUC-DSDT-Patch](https://github.com/RehabMan/Intel-NUC-DSDT-Patch) - Patches and Clover configuration required for Intel NUC5/6/7/8 series mini PCs
 - [ansible-roles](https://github.com/manala/ansible-roles) - Manala ansible roles
 - [terraform-spec](https://github.com/johnrengelman/terraform-spec) - Docker container of utilities for testing Terraform modules
@@ -1268,6 +1267,7 @@
 ## Shell 
 
 - [wireguard-install](https://github.com/angristan/wireguard-install) - WireGuard VPN installer for Linux servers
+- [awesome-kubernetes](https://github.com/ramitsurana/awesome-kubernetes) - A curated list for awesome kubernetes sources :ship::tada:
 - [faq](https://github.com/ru-de/faq) - Полезная информация о жизни в Германии
 - [google-hosts](https://github.com/txthinking/google-hosts) - Google hosts generator
 - [helm-nomagic](https://github.com/giantswarm/helm-nomagic) - 

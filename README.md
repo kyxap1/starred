@@ -1095,7 +1095,7 @@
 - [ansible-container](https://github.com/ansible/ansible-container) - DEPRECATED -- Ansible Container was a tool to build Docker images and orchestrate containers using only Ansible playbooks.
 - [ansible-packer-vagrant-openstack-ec2](https://github.com/rosmo/ansible-packer-vagrant-openstack-ec2) - Ansible scripts to build images using Packer and Vagrant, exporting to Openstack, AMI or OVF image
 - [dataduct](https://github.com/coursera/dataduct) - DataPipeline for humans.
-- [data-pipeline-samples](https://github.com/aws-samples/data-pipeline-samples) - This repository hosts sample pipelines
+- [data-pipeline-samples](https://github.com/amazon-archives/data-pipeline-samples) - This repository hosts sample pipelines
 - [barman](https://github.com/2ndquadrant-it/barman) - BaRMan - Backup and Recovery Manager for PostgreSQL
 - [wildfly](https://github.com/inkatze/wildfly) - Ansible role for wildfly
 - [terraform.py](https://github.com/mantl/terraform.py) - Ansible dynamic inventory script for parsing Terraform state files

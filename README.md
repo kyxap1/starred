@@ -73,7 +73,7 @@
 - [yajl](https://github.com/lloyd/yajl) - A fast streaming JSON parsing library in C.
 - [stty](https://github.com/tenderlove/stty) - A wrapper around termios
 - [pgbouncer-rr-patch](https://github.com/awslabs/pgbouncer-rr-patch) - Adds query routing and rewriting extensions to pgbouncer
-- [citus](https://github.com/citusdata/citus) - Distributed PostgreSQL extension for multi-tenant and real-time analytics workloads
+- [citus](https://github.com/citusdata/citus) - Distributed PostgreSQL for multi-tenant and real-time analytics workloads
 - [bottledwater-pg](https://github.com/confluentinc/bottledwater-pg) - Change data capture from PostgreSQL into Kafka
 - [jq](https://github.com/stedolan/jq) - Command-line JSON processor
 - [jo](https://github.com/jpmens/jo) - JSON output from a shell

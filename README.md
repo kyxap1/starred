@@ -533,7 +533,6 @@
 - [terraform-up-and-running-code](https://github.com/brikis98/terraform-up-and-running-code) - Code samples for the book "Terraform: Up & Running" by Yevgeniy Brikman
 - [terraform-consul-docker](https://github.com/dmportella/terraform-consul-docker) - 
 - [dcos-up](https://github.com/kensuio/dcos-up) - Launch DC/OS on AWS with Terraform and Consul
-- [terraform-custom-emr](https://github.com/saltimbanco/terraform-custom-emr) - 
 - [fleet-etcd2-microservices-cluster](https://github.com/andymotta/fleet-etcd2-microservices-cluster) - CoreOS Fleet Container Architecture on AWS
 - [terraform-elasticsearch](https://github.com/everydayhero/terraform-elasticsearch) - Terraformed elasticsearch cluster in AWS
 - [hashistack](https://github.com/yikaus/hashistack) - Boostrap hashistack(Consul/Nomad/Vault) cluster over AWS

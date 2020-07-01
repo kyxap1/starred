@@ -1005,7 +1005,7 @@
 - [magic-wormhole](https://github.com/warner/magic-wormhole) - get things from one computer to another, safely
 - [zfs_autobackup](https://github.com/psy0rz/zfs_autobackup) - ZFS autobackup is used to periodicly backup ZFS filesystems to other locations. No additional tools of libraries or config files needed.
 - [destiny-clan-member-manager](https://github.com/dad2cl3/destiny-clan-member-manager) - Database and web server scripts for managing Destiny clan membership within Postgres
-- [spirit](https://github.com/jgayfer/spirit) - Spirit is a Destiny 2 Discord to assist players with everything from clan management to keeping track of in game events.
+- [spirit](https://github.com/jgayfer/spirit) - Spirit is a Destiny 2 Discord bot to assist players with everything from clan management to keeping track of in game events.
 - [cloud-inquisitor](https://github.com/RiotGames/cloud-inquisitor) - Enforce ownership and data security within AWS
 - [ansible-human_log](https://github.com/n0ts/ansible-human_log) - This Ansible callback plugin for human-readable result logging for Ansible 1.9/2.0-2.4.
 - [fiat](https://github.com/richiverse/fiat) - Firehose to Athena

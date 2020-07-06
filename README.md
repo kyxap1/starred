@@ -583,7 +583,6 @@
 - [overwatch-dpi-tool](https://github.com/Pyrolistical/overwatch-dpi-tool) - 
 - [nginx-https-base](https://github.com/naggie/nginx-https-base) - An Ubuntu 16.04 Ansible role for small-scale nginx with automatic HTTPS via certbot/LE, better error pages, useful templates
 - [iproute2-cheatsheet](https://github.com/dmbaturin/iproute2-cheatsheet) - iproute2 command reference
-- [portainer](https://github.com/portainer/portainer) - Making Docker management easy.
 - [howdoi](https://github.com/gleitz/howdoi) - instant coding answers via the command line
 - [node-red-dashboard](https://github.com/node-red/node-red-dashboard) - A dashboard UI for Node-RED
 - [pup](https://github.com/ericchiang/pup) - Parsing HTML at the command line
@@ -703,6 +702,7 @@
 - [HackMyResume](https://github.com/hacksalot/HackMyResume) - Generate polished résumés and CVs in HTML, Markdown, LaTeX, MS Word, PDF, plain text, JSON, XML, YAML, smoke signal, and carrier pigeon.
 - [staticgen](https://github.com/netlify/staticgen) - StaticGen.com, A leaderboard of top open-source static site generators
 - [terraform_firehose](https://github.com/roshpr/terraform_firehose) - AWS Firehose implementation for VPCFlow, ELK & Lambda integration to analyse VPC network data flow & monitoring dashboard
+- [portainer](https://github.com/portainer/portainer) - Making Docker management easy.
 - [gitbook](https://github.com/GitbookIO/gitbook) - 📝 Modern documentation format and toolchain using Git and Markdown
 - [aws-vpc-flow-log-appender](https://github.com/aws-samples/aws-vpc-flow-log-appender) - Sample code to append additional information (e.g. Security Group IDs and geolocation data) to VPC Flow Logs for analysis in Elasticsearch.
 - [aws-lambda-redshift-loader](https://github.com/awslabs/aws-lambda-redshift-loader) - Amazon Redshift Database Loader implemented in AWS Lambda

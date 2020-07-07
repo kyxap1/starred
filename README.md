@@ -441,7 +441,7 @@
 - [terraform-s3-dir](https://github.com/saymedia/terraform-s3-dir) - Generates a Terraform config to upload a directory of files to an Amazon S3 bucket
 - [terraform-control](https://github.com/Capgemini/terraform-control) - A PoC for managing your infrastructure with Terraform in a collaborative way :dancers: https://capgemini.github.io/devops/Controlling-the-state-of-your-infrastructure/
 - [terraform-provisioner](https://github.com/shuaibiyy/terraform-provisioner) - Manage multiple provisions of the same Terraform scripts.
-- [terraform-docs](https://github.com/segmentio/terraform-docs) - Generate documentation from Terraform modules in various output formats
+- [terraform-docs](https://github.com/terraform-docs/terraform-docs) - Generate documentation from Terraform modules in various output formats
 - [apex](https://github.com/apex/apex) - Build, deploy, and manage AWS Lambda functions with ease.
 - [terraform-inventory](https://github.com/adammck/terraform-inventory) - Terraform State → Ansible Dynamic Inventory
 - [hostess](https://github.com/cbednarski/hostess) - An idempotent command-line utility for managing your /etc/hosts file.

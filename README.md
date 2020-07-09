@@ -766,7 +766,7 @@
 - [sax-js](https://github.com/isaacs/sax-js) - A sax style parser for JS
 - [node-xml2json](https://github.com/buglabs/node-xml2json) - Converts XML to JSON using node-expat
 - [tf-parse](https://github.com/candidpartners/tf-parse) - 
-- [jq.node](https://github.com/FGRibreau/jq.node) - jq.node - like jq but WAY MORE powerful (300+ helpers 🔥 & 300K+ modules 😱)
+- [jq.node](https://github.com/FGRibreau/jq.node) - jq.node - like jq but WAY MORE powerful (300+ helpers 🔥 & 1.45M modules 😱)
 - [cabot](https://github.com/arachnys/cabot) - Self-hosted, easily-deployable monitoring and alerts service - like a lightweight PagerDuty
 - [json5](https://github.com/json5/json5) - JSON5 — JSON for humans
 - [CodeMirror](https://github.com/codemirror/CodeMirror) - In-browser code editor

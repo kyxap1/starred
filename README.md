@@ -859,6 +859,7 @@
 
 ## Others 
 
+- [useful-wireless-links](https://github.com/skhomm/useful-wireless-links) - Собираем масштабную базу с полезными материалами для всех неравнодушных к беспроводным сетям: учебные пособия, справочники, калькуляторы, софт, гаджеты и многое другое.
 - [portainer-compose](https://github.com/portainer/portainer-compose) - Compose setup for Portainer
 - [ClickhouseCluster_DockerCompose](https://github.com/TanVD/ClickhouseCluster_DockerCompose) - Example Docker Compose configs for Clickhouse Cluster (via ZooKeeper)
 - [awesome-operators](https://github.com/operator-framework/awesome-operators) - A resource tracking a number of Operators out in the wild.

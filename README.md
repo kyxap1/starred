@@ -912,6 +912,7 @@
 - [base-maven](https://github.com/jboss-dockerfiles/base-maven) - 
 - [awesome-data-engineering](https://github.com/igorbarinov/awesome-data-engineering) - A curated list of data engineering tools for software developers
 - [stack-on-a-budget](https://github.com/255kb/stack-on-a-budget) - A collection of services with great free tiers for developers on a budget
+- [ansible-vagrant-examples](https://github.com/geerlingguy/ansible-vagrant-examples) - Ansible examples using Vagrant to deploy to local VMs.
 - [mac-dev-playbook](https://github.com/geerlingguy/mac-dev-playbook) - Mac setup and configuration via Ansible.
 - [ansible-role-packer](https://github.com/patrick-hill/ansible-role-packer) - 
 - [Sqoop](https://github.com/SriGovindGutala/Sqoop) - This repo contains all the different ways you can ingest data from RDBMS to HDFS and vice versa using Sqoop.
@@ -1053,7 +1054,6 @@
 - [sillyfacter](https://github.com/hihellobolke/sillyfacter) - A silly python facter with JSON output, has process, open files, connection information too. They say Facts do not change, but hey Silly Facts can ;-)
 - [ansible-lint](https://github.com/ansible/ansible-lint) - Best practices checker for Ansible
 - [validator.vim](https://github.com/maralla/validator.vim) - Check syntax on the fly asynchronously.
-- [packer-templates](https://github.com/kwilczynski/packer-templates) - Packer templates for creating Amazon EC2 images, Proxmox templates and Vagrant boxes
 - [xmltodict](https://github.com/martinblech/xmltodict) - Python module that makes working with XML feel like you are working with JSON
 - [algo](https://github.com/trailofbits/algo) - Set up a personal VPN in the cloud
 - [ansigenome](https://github.com/nickjj/ansigenome) - A tool to help you gather information and manage your Ansible roles.
@@ -1195,7 +1195,6 @@
 - [lbrt](https://github.com/codenize-tools/lbrt) - A tool to manage Librato. It defines the state of Librato using DSL, and updates Librato according to DSL.
 - [miam](https://github.com/codenize-tools/miam) - Miam is a tool to manage IAM. It defines the state of IAM using DSL, and updates IAM according to DSL.
 - [posgra](https://github.com/codenize-tools/posgra) - Posgra is a tool to manage PostgreSQL roles/permissions.
-- [ansible-vagrant-examples](https://github.com/geerlingguy/ansible-vagrant-examples) - Ansible examples using Vagrant to deploy to local VMs.
 - [vagrant-aws](https://github.com/mitchellh/vagrant-aws) - Use Vagrant to manage your EC2 and VPC instances.
 - [wildfly-buildpack](https://github.com/thomasdarimont/wildfly-buildpack) - 
 - [github-pullrequest-resource](https://github.com/jtarchie/github-pullrequest-resource) - Provides a Github pull request resource for concourse CI.
@@ -1311,6 +1310,7 @@
 - [kostyrevaa.consul-template](https://github.com/kostyrev/kostyrevaa.consul-template) - 
 - [posixcube](https://github.com/myplaceonline/posixcube) - posixcube.sh is a POSIX compliant, shell script-based server automation framework.
 - [sshag](https://github.com/intuited/sshag) - hook up with an operating or new SSH agent
+- [packer-templates](https://github.com/kwilczynski/packer-templates) - Packer templates for creating Amazon EC2 images, Proxmox templates and Vagrant boxes
 - [nexusoss3-docker](https://github.com/JAlexoid/nexusoss3-docker) - Sonatype Nexus 3 Images
 - [official-images](https://github.com/docker-library/official-images) - Primary source of truth for the Docker "Official Images" program
 - [docker-consul](https://github.com/hashicorp/docker-consul) - Official Docker images for Consul.

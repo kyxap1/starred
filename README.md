@@ -581,7 +581,6 @@
 - [overwatch-dpi-tool](https://github.com/Pyrolistical/overwatch-dpi-tool) - 
 - [nginx-https-base](https://github.com/naggie/nginx-https-base) - An Ubuntu 16.04 Ansible role for small-scale nginx with automatic HTTPS via certbot/LE, better error pages, useful templates
 - [iproute2-cheatsheet](https://github.com/dmbaturin/iproute2-cheatsheet) - iproute2 command reference
-- [howdoi](https://github.com/gleitz/howdoi) - instant coding answers via the command line
 - [node-red-dashboard](https://github.com/node-red/node-red-dashboard) - A dashboard UI for Node-RED
 - [pup](https://github.com/ericchiang/pup) - Parsing HTML at the command line
 - [remark](https://github.com/gnab/remark) - A simple, in-browser, markdown-driven slideshow tool.
@@ -1027,6 +1026,7 @@
 - [packergen](https://github.com/mkheironimus/packergen) - Generate JSON files for Packer (http://packer.io/) from human-friendly YAML sources.
 - [shyaml](https://github.com/0k/shyaml) - YAML for command line
 - [terratools](https://github.com/Crapworks/terratools) - Some tools to enhance your terraform experience
+- [howdoi](https://github.com/gleitz/howdoi) - instant coding answers via the command line
 - [codebom](https://github.com/codebom/codebom) - Command-line tool to create, validate and analyze a Bill of Materials
 - [foremast](https://github.com/foremast/foremast) - Spinnaker pipeline and infrastructure configuration and templating tool - Pipelines as Code.
 - [botoform](https://github.com/russellballestrini/botoform) - Architect infrastructure on AWS using YAML

@@ -192,7 +192,7 @@
 - [istio](https://github.com/istio/istio) - Connect, secure, control, and observe services.
 - [k9s](https://github.com/derailed/k9s) - 🐶 Kubernetes CLI To Manage Your Clusters In Style!
 - [chamber](https://github.com/segmentio/chamber) - CLI for managing secrets
-- [external-storage](https://github.com/kubernetes-incubator/external-storage) - External storage plugins, provisioners, and helper libraries
+- [external-storage](https://github.com/kubernetes-retired/external-storage) - [EOL] External storage plugins, provisioners, and helper libraries
 - [compose-on-kubernetes](https://github.com/docker/compose-on-kubernetes) - Deploy applications described in Compose onto Kubernetes clusters
 - [loki](https://github.com/grafana/loki) - Like Prometheus, but for logs.
 - [brook](https://github.com/txthinking/brook) - Brook is a cross-platform strong encryption and not detectable proxy. Zero-Configuration.
@@ -928,7 +928,6 @@
 - [aws-osm-rds](https://github.com/s6o/aws-osm-rds) - Notes on setting up OpenStreetMap tile server with official styles on AWS EC2 with PostgreSQL RDS and PostGIS
 - [uber-tlc-foil-response](https://github.com/fivethirtyeight/uber-tlc-foil-response) - Uber trip data from a freedom of information request to NYC's Taxi & Limousine Commission
 - [structured-text-tools](https://github.com/dbohdan/structured-text-tools) - A list of command line tools for manipulating structured text data
-- [toml](https://github.com/toml-lang/toml) - Tom's Obvious, Minimal Language
 - [consul-deb](https://github.com/bcandrea/consul-deb) - A debian package definition for Consul (www.consul.io)
 - [bigtop-centos](https://github.com/tzolov/bigtop-centos) - Ready to use Docker environment for Apache Bigtop. Based on CentOS and equipped with all necessary tools and libraries.
 - [cassandra-monitoring](https://github.com/softwaremill/cassandra-monitoring) - Scripts for the Cassandra Monitoring blog miniseries
@@ -1107,6 +1106,7 @@
 - [starred](https://github.com/maguowei/starred) - creating your own Awesome List by GitHub stars!
 - [qb](https://github.com/Pinafore/qb) - QANTA Quiz Bowl AI
 - [remarshal](https://github.com/dbohdan/remarshal) - Convert between CBOR, JSON, MessagePack, TOML, and YAML
+- [toml](https://github.com/toml-lang/toml) - Tom's Obvious, Minimal Language
 - [pyhcl](https://github.com/virtuald/pyhcl) - HCL is a configuration language. pyhcl is a python parser for it.
 - [configo](https://github.com/mignev/configo) - The easiest way to use existing JSON, XML or YAML config files from bash shell/scripts
 - [telegraf-cassandra](https://github.com/chrusty/telegraf-cassandra) - Config for monitoring Cassandra using Telegraf's "Jolokia" plugin

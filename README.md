@@ -531,7 +531,7 @@
 - [terragrunt-demo](https://github.com/knakayama/terragrunt-demo) - 
 - [terraform-up-and-running-code](https://github.com/brikis98/terraform-up-and-running-code) - Code samples for the book "Terraform: Up & Running" by Yevgeniy Brikman
 - [terraform-consul-docker](https://github.com/dmportella/terraform-consul-docker) - 
-- [dcos-up](https://github.com/kensuio/dcos-up) - Launch DC/OS on AWS with Terraform and Consul
+- [dcos-up](https://github.com/kensuio-oss/dcos-up) - Launch DC/OS on AWS with Terraform and Consul
 - [fleet-etcd2-microservices-cluster](https://github.com/andymotta/fleet-etcd2-microservices-cluster) - CoreOS Fleet Container Architecture on AWS
 - [terraform-elasticsearch](https://github.com/everydayhero/terraform-elasticsearch) - Terraformed elasticsearch cluster in AWS
 - [hashistack](https://github.com/yikaus/hashistack) - Boostrap hashistack(Consul/Nomad/Vault) cluster over AWS
@@ -1132,7 +1132,7 @@
 - [cassandra-snapshotter-wrapper](https://github.com/dizzythinks/cassandra-snapshotter-wrapper) - Wrapper around cassandra-snapshotter
 - [cassandra_snapshotter](https://github.com/tbarbugli/cassandra_snapshotter) - A tool to backup cassandra nodes using snapshots and incremental backups on S3
 - [aws-shell](https://github.com/awslabs/aws-shell) - An integrated shell for working with the AWS CLI.
-- [httpie](https://github.com/jakubroztocil/httpie) - As easy as HTTPie /aitch-tee-tee-pie/ 🥧  Modern, user-friendly command-line HTTP client for the API era. JSON support, colors, sessions, downloads, plugins & more. https://twitter.com/clihttp
+- [httpie](https://github.com/httpie/httpie) - Modern, user-friendly command-line HTTP client for the API era. JSON support, colors, sessions, downloads, plugins & more. https://twitter.com/clihttp
 - [jyboss-cli](https://github.com/fareliner/jyboss-cli) - A Jython CLI for JBoss and Wildfly
 - [ansible-custom-jython-module](https://github.com/fareliner/ansible-custom-jython-module) - Example custom ansible module to manage WildFly/JBoss AS through jython cli
 - [awesome-aws](https://github.com/donnemartin/awesome-aws) - A curated list of awesome Amazon Web Services (AWS) libraries, open source repos, guides, blogs, and other resources.  Featuring the Fiery Meter of AWSome.

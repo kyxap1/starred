@@ -399,7 +399,7 @@
 - [ctop](https://github.com/chrusty/ctop) - CTOP ("top" for Cassandra) - See what's going on in real-time
 - [go-priam](https://github.com/alext29/go-priam) - Backup and restore Cassandra DB to AWS S3
 - [terraform-multipart-userdata](https://github.com/chrusty/terraform-multipart-userdata) - Cruft for Terraform
-- [AutoSpotting](https://github.com/AutoSpotting/AutoSpotting) - Tool that easily and reliably converts (all) your existing AutoScaling groups to cheaper spot instances
+- [AutoSpotting](https://github.com/AutoSpotting/AutoSpotting) - Converts existing AutoScaling groups to up to 90% more cost-effective spot instances. Get started in minutes with minimal friction and no launch configuration changes. Automatic failover to on-demand and much more.
 - [oauth2_proxy](https://github.com/bitly/oauth2_proxy) - A reverse proxy that provides authentication with Google, Github or other provider
 - [bashcomp](https://github.com/omakoto/bashcomp) - 
 - [sh](https://github.com/mvdan/sh) - A shell parser, formatter, and interpreter with bash support; includes shfmt
@@ -1081,7 +1081,7 @@
 - [locust](https://github.com/locustio/locust) - Scalable user load testing tool written in Python
 - [compose](https://github.com/docker/compose) - Define and run multi-container applications with Docker
 - [incubator-superset](https://github.com/apache/incubator-superset) - Apache Superset is a Data Visualization and Data Exploration Platform
-- [http-prompt](https://github.com/httpie/http-prompt) - An interactive command-line HTTP and API testing client built on top of HTTPie featuring autocomplete, syntax highlighting, and more.
+- [http-prompt](https://github.com/httpie/http-prompt) - An interactive command-line HTTP and API testing client built on top of HTTPie featuring autocomplete, syntax highlighting, and more. https://twitter.com/clihttp
 - [rds-pgbadger](https://github.com/fpietka/rds-pgbadger) - Fetch logs from RDS instance, and process them with pgBadger
 - [pgcli](https://github.com/dbcli/pgcli) - Postgres CLI with autocompletion and syntax highlighting
 - [coala](https://github.com/coala/coala) - coala provides a unified command-line interface for linting and fixing all your code, regardless of the programming languages you use.

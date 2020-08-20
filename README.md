@@ -1339,7 +1339,7 @@
 - [centos7-ami](https://github.com/claranet/centos7-ami) - Shell script to build CentOS 7 AMI
 - [dockerfiles](https://github.com/kelseyhightower/dockerfiles) - Docker files
 - [hashiconf-eu-2016](https://github.com/kelseyhightower/hashiconf-eu-2016) - HashiConf EU 2016
-- [Dockerfiles](https://github.com/HariSekhon/Dockerfiles) - 50+ DockerHub public images for Docker & Kubernetes - Hadoop, Kafka, ZooKeeper, HBase, Cassandra, Solr, SolrCloud, Presto, Apache Drill, Nifi, Spark, Mesos, Consul, Riak, OpenTSDB, Jython, Advanced Nagios Plugins & DevOps Tools repos on Alpine, CentOS, Debian, Fedora, Ubuntu, Superset, H2O, Serf, Alluxio / Tachyon, FakeS3
+- [Dockerfiles](https://github.com/HariSekhon/Dockerfiles) - 50+ DockerHub public images for Docker & Kubernetes - Hadoop, Kafka, ZooKeeper, HBase, Cassandra, Solr, SolrCloud, Presto, Apache Drill, Nifi, Spark, Consul, Riak, and DevOps tools built various distros: Alpine, CentOS, Debian, Fedora, Ubuntu
 - [terraform-multi-env](https://github.com/bkc1/terraform-multi-env) - Terraform wrapper script for handling multi-environment, multi-region deployments
 - [phinx.deb](https://github.com/Vitexus/phinx.deb) - Debian package for SQL Migrating tool Phinx
 - [ghe-backup](https://github.com/zalando/ghe-backup) - Github Enterprise backup at ZalandoTech (Kubernetes, AWS, Docker)

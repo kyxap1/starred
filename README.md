@@ -260,7 +260,7 @@
 - [jj](https://github.com/tidwall/jj) - JSON Stream Editor (command line utility)
 - [terraform-provider-proxmox](https://github.com/Telmate/terraform-provider-proxmox) - Terraform provider plugin for proxmox
 - [terraform-provider-libvirt](https://github.com/dmacvicar/terraform-provider-libvirt) - Terraform provider to provision infrastructure with Linux's KVM using libvirt
-- [prest](https://github.com/prest/prest) - pREST is a way to serve a RESTful API from any databases written in Go
+- [prest](https://github.com/prest/prest) - pREST (PostgreSQL REST), simplify and accelerate development, instant, realtime, high-performance on any Postgres application, existing or new
 - [terraform-provider-aws](https://github.com/terraform-providers/terraform-provider-aws) - Terraform AWS provider
 - [duplicacy](https://github.com/gilbertchen/duplicacy) - A new generation cloud backup tool
 - [cli53](https://github.com/barnybug/cli53) - Command line tool for Amazon Route 53
@@ -1026,7 +1026,7 @@
 - [terratools](https://github.com/Crapworks/terratools) - Some tools to enhance your terraform experience
 - [howdoi](https://github.com/gleitz/howdoi) - instant coding answers via the command line
 - [codebom](https://github.com/codebom/codebom) - Command-line tool to create, validate and analyze a Bill of Materials
-- [foremast](https://github.com/foremast/foremast) - Spinnaker pipeline and infrastructure configuration and templating tool - Pipelines as Code.
+- [foremast](https://github.com/foremast/foremast) - Spinnaker Pipeline/Infrastructure Configuration and Templating Tool - Pipelines as Code.
 - [botoform](https://github.com/russellballestrini/botoform) - Architect infrastructure on AWS using YAML
 - [nginx-proxy](https://github.com/nginx-proxy/nginx-proxy) - Automated nginx proxy for Docker containers using docker-gen
 - [terraform_validate](https://github.com/elmundio87/terraform_validate) - Assists in the enforcement of user-defined standards in Terraform

@@ -685,7 +685,7 @@
 - [metallb](https://github.com/metallb/metallb) - A network load-balancer implementation for Kubernetes using standard routing protocols
 - [blackwhite](https://github.com/txthinking/blackwhite) - Domain, CIDR, IP black/white list, PAC generator
 - [tldr.jsx](https://github.com/ostera/tldr.jsx) - 📚 A Reactive web client for tldr-pages
-- [emojiporter](https://github.com/lisamai/emojiporter) - CLI utility to export/import custom emojis for Mattermost.
+- [emojiporter](https://github.com/lisaah/emojiporter) - CLI utility to export/import custom emojis for Mattermost.
 - [uppy](https://github.com/transloadit/uppy) - The next open source file uploader for web browsers :dog:
 - [citizen](https://github.com/outsideris/citizen) - A Private Terraform Module Registry
 - [ff-password-exporter](https://github.com/kspearrin/ff-password-exporter) - Easily export your passwords from Firefox.

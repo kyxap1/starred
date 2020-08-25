@@ -728,7 +728,7 @@
 - [volkswagen](https://github.com/auchenberg/volkswagen) - :see_no_evil: Volkswagen detects when your tests are being run in a CI server, and makes them pass.
 - [graphql-toolbox](https://github.com/OlegIlyenko/graphql-toolbox) - GraphQL Toolbox - a set of GraphQL tools to help with GraphQL server and client development.
 - [normalizr](https://github.com/paularmstrong/normalizr) - Normalizes nested JSON according to a schema
-- [nci-ansible-ui](https://github.com/node-ci/nci-ansible-ui) - Simple web interface for run ansible playbooks
+- [nci-ansible-ui](https://github.com/node-ci/nci-ansible-ui) - Simple web interface for running Ansible playbooks
 - [custom-slack-integration](https://github.com/brendajin/custom-slack-integration) - Use webhooks and stateless middleware to set up custom Slack notifications in minutes!
 - [seagull](https://github.com/tobegit3hub/seagull) - Friendly Web UI to manage and monitor docker
 - [aws-lambda-fanout](https://github.com/aws-samples/aws-lambda-fanout) - A sample AWS Lambda function that accepts messages from an Amazon Kinesis Stream and transfers the messages to another data transport.

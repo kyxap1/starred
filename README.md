@@ -1448,7 +1448,6 @@
 
 - [vim-expand-region](https://github.com/terryma/vim-expand-region) - Vim plugin that allows you to visually select increasingly larger regions of text using the same key combination.
 - [molokai](https://github.com/tomasr/molokai) - Molokai color scheme for Vim
-- [vim-openresty](https://github.com/hexchain/vim-openresty) - Openresty configuration highlight for Vim
 - [vim-colors-solarized](https://github.com/altercation/vim-colors-solarized) - precision colorscheme for the vim text editor
 - [spf13-vim](https://github.com/spf13/spf13-vim) - The ultimate vim distribution
 

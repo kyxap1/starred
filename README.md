@@ -1247,7 +1247,7 @@
 ## Scala 
 
 - [CMAK](https://github.com/yahoo/CMAK) - CMAK is a tool for managing Apache Kafka clusters
-- [gatling](https://github.com/gatling/gatling) - Async Scala-Akka-Netty based Load Test Tool
+- [gatling](https://github.com/gatling/gatling) - Modern Load Testing as Code
 - [snowplow](https://github.com/snowplow/snowplow) - Cloud-native web, mobile and event analytics, running on AWS and GCP
 - [hive-serde-schema-gen](https://github.com/strelec/hive-serde-schema-gen) - :clipboard: Generate Hive SerDe schema from a .json file.
 - [rudder](https://github.com/Normation/rudder) - Continuous Auditing & Configuration

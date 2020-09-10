@@ -578,6 +578,7 @@
 - [cryptr](https://github.com/adobe/cryptr) - Cryptr: a GUI for Hashicorp's Vault
 - [overwatch-dpi-tool](https://github.com/Pyrolistical/overwatch-dpi-tool) - 
 - [nginx-https-base](https://github.com/naggie/nginx-https-base) - An Ubuntu 16.04 Ansible role for small-scale nginx with automatic HTTPS via certbot/LE, better error pages, useful templates
+- [debops](https://github.com/debops/debops) - DebOps - Your Debian-based data center in a box
 - [iproute2-cheatsheet](https://github.com/dmbaturin/iproute2-cheatsheet) - iproute2 command reference
 - [node-red-dashboard](https://github.com/node-red/node-red-dashboard) - A dashboard UI for Node-RED
 - [pup](https://github.com/ericchiang/pup) - Parsing HTML at the command line
@@ -1280,7 +1281,6 @@
 - [dotfiles](https://github.com/mathiasbynens/dotfiles) - :wrench: .files, including ~/.macos — sensible hacker defaults for macOS
 - [build.vagrant](https://github.com/Dalee/build.vagrant) - General purpose Web-development Vagrant box.
 - [showcase-ansible-chatops](https://github.com/StackStorm/showcase-ansible-chatops) - Vagrant Demo showing ChatOps with Ansible
-- [debops](https://github.com/debops/debops) - DebOps - Your Debian-based data center in a box
 - [bash-it](https://github.com/Bash-it/bash-it) - A community Bash framework.
 - [mariadb-galera-swarm](https://github.com/colinmollenhour/mariadb-galera-swarm) - Easy to use MariaDb Galera Cluster container based on official mariadb image with support for Docker Swarm Mode.
 - [packer-template-builder](https://github.com/ljdelight/packer-template-builder) - Use Hashicorp Packer and source controlled scripts to create customized OVA images from an iso

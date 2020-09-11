@@ -280,7 +280,6 @@
 - [terraform-provider-zabbix](https://github.com/dainis/terraform-provider-zabbix) - 
 - [terraform-provider-awsplus](https://github.com/BWITS/terraform-provider-awsplus) - missing resources in terraform aws provider
 - [tfwatch](https://github.com/webdevwilson/tfwatch) - Continuous infrastructure tool
-- [tftest](https://github.com/quintilesims/tftest) - Tool for Go testing with Terraform
 - [sabaviz](https://github.com/tom--bo/sabaviz) - Create dot files for graphviz which visualize servers connections by netstat output
 - [graphviz](https://github.com/k8sp/graphviz) - A Golang GraphViz server used to generate inline images from .dot files.
 - [dcsg](https://github.com/andreaskoch/dcsg) - dcsg is a command-line utility for Linux that generates systemd services for Docker Compose projects

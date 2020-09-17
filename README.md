@@ -410,7 +410,7 @@
 - [terraform-provider-gzip](https://github.com/jakexks/terraform-provider-gzip) - A very simple Terraform plugin that gzip+base64s its input
 - [terraform-provider-bitbucket](https://github.com/webdevwilson/terraform-provider-bitbucket) - a bitbucket provider for terraform
 - [habitus](https://github.com/cloud66-oss/habitus) - A build flow tool for Docker.
-- [traefik](https://github.com/containous/traefik) - The Cloud Native Edge Router
+- [traefik](https://github.com/traefik/traefik) - The Cloud Native Edge Router
 - [terraform-provider-writefile](https://github.com/DreamHostData/terraform-provider-writefile) - 
 - [terraform-provider-gitfile](https://github.com/Yelp/terraform-provider-gitfile) - Terraform provider for checking out git repositories and making changes
 - [blade](https://github.com/otm/blade) - Blade is a task runner designed to be easy, small, highly powerful, and with built in Bash completion and documentation. It is portable and easy to install, only a single binary.
@@ -961,7 +961,7 @@
 - [CliGenerator](https://github.com/enxebre/CliGenerator) - A Command-Line User Interface generator for Symfony Console Component.
 - [guzzle](https://github.com/guzzle/guzzle) - Guzzle, an extensible PHP HTTP client
 - [ffmpeg-php](https://github.com/tony2001/ffmpeg-php) - PHP extension for video editing, wrapping ffmpeg
-- [selfoss](https://github.com/SSilence/selfoss) - selfoss: The multipurpose rss reader, live stream, mashup, aggregation web application
+- [selfoss](https://github.com/fossar/selfoss) - selfoss: The multipurpose rss reader, live stream, mashup, aggregation web application
 - [zimg-host](https://github.com/ziggi/zimg-host) - Simple image hosting service
 
 ## Perl 

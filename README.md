@@ -46,6 +46,7 @@
   - [Swift](#swift)
   - [TSQL](#tsql)
   - [TeX](#tex)
+  - [Twig](#twig)
   - [TypeScript](#typescript)
   - [Vim script](#vim script)
   - [VimL](#viml)
@@ -397,7 +398,7 @@
 - [ctop](https://github.com/chrusty/ctop) - CTOP ("top" for Cassandra) - See what's going on in real-time
 - [go-priam](https://github.com/alext29/go-priam) - Backup and restore Cassandra DB to AWS S3
 - [terraform-multipart-userdata](https://github.com/chrusty/terraform-multipart-userdata) - Cruft for Terraform
-- [AutoSpotting](https://github.com/AutoSpotting/AutoSpotting) - Converts existing AutoScaling groups to up to 90% more cost-effective spot instances. Get started in minutes with minimal friction and no launch configuration changes. Automatic failover to on-demand and much more.
+- [AutoSpotting](https://github.com/AutoSpotting/AutoSpotting) - Saves up to 90% of AWS EC2 costs by automating the use of spot instances on existing AutoScaling groups. Installs in minutes using CloudFormation or Terraform. Convenient to deploy at scale using StackSets. Uses tagging to avoid launch configuration changes. Automated spot termination handling. Reliable fallback to on-demand instances.
 - [oauth2_proxy](https://github.com/bitly/oauth2_proxy) - A reverse proxy that provides authentication with Google, Github or other provider
 - [bashcomp](https://github.com/omakoto/bashcomp) - 
 - [sh](https://github.com/mvdan/sh) - A shell parser, formatter, and interpreter with bash support; includes shfmt
@@ -583,7 +584,6 @@
 - [node-red-dashboard](https://github.com/node-red/node-red-dashboard) - A dashboard UI for Node-RED
 - [pup](https://github.com/ericchiang/pup) - Parsing HTML at the command line
 - [remark](https://github.com/gnab/remark) - A simple, in-browser, markdown-driven slideshow tool.
-- [pelias](https://github.com/pelias/pelias) - Pelias is a modular open-source geocoder using Elasticsearch.
 - [ndbench](https://github.com/Netflix/ndbench) - Netflix Data Store Benchmark
 - [buildpacks-ci](https://github.com/cloudfoundry/buildpacks-ci) - Concourse CI pipelines for the buildpacks team
 - [swagger-codegen](https://github.com/swagger-api/swagger-codegen) - swagger-codegen contains a template-driven engine to generate documentation, API clients and server stubs in different languages by parsing your OpenAPI / Swagger definition.
@@ -1403,6 +1403,10 @@
 ## TeX 
 
 - [Dao](https://github.com/Serkov/Dao) - Electric materials manual book
+
+## Twig 
+
+- [pelias](https://github.com/pelias/pelias) - Pelias is a modular open-source geocoder using Elasticsearch.
 
 ## TypeScript 
 

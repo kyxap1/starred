@@ -370,7 +370,7 @@
 - [terrahelp](https://github.com/opencredo/terrahelp) - Terraform helper. Terrahelp is as a command line utility written in Go and is aimed at providing supplementary functionality which can sometimes prove useful when working with Terraform.
 - [nomad](https://github.com/hashicorp/nomad) - Nomad is an easy-to-use, flexible, and performant workload orchestrator that can deploy a mix of microservice, batch, containerized, and non-containerized applications. Nomad is easy to operate and scale and has native Consul and Vault integrations.
 - [consul](https://github.com/hashicorp/consul) - Consul is a distributed, highly available, and data center aware solution to connect and configure applications across dynamic, distributed infrastructure.
-- [micro](https://github.com/micro/micro) - Micro is a framework for cloud native development
+- [micro](https://github.com/micro/micro) - Micro is a framework for cloud services development
 - [acme](https://github.com/google/acme) - A simple ACME command line tool without 3rd party deps!
 - [hashiapp](https://github.com/kelseyhightower/hashiapp) - Demo 12 Factor application that utilizes Hashicorp tools.
 - [terminus](https://github.com/kelseyhightower/terminus) - Get facts about a Linux system.
@@ -698,7 +698,7 @@
 - [HackMyResume](https://github.com/hacksalot/HackMyResume) - Generate polished résumés and CVs in HTML, Markdown, LaTeX, MS Word, PDF, plain text, JSON, XML, YAML, smoke signal, and carrier pigeon.
 - [staticgen](https://github.com/netlify/staticgen) - StaticGen.com, A leaderboard of top open-source static site generators
 - [terraform_firehose](https://github.com/roshpr/terraform_firehose) - AWS Firehose implementation for VPCFlow, ELK & Lambda integration to analyse VPC network data flow & monitoring dashboard
-- [portainer](https://github.com/portainer/portainer) - Making Docker management easy.
+- [portainer](https://github.com/portainer/portainer) - Making Docker and Kubernetes management easy.
 - [gitbook](https://github.com/GitbookIO/gitbook) - 📝 Modern documentation format and toolchain using Git and Markdown
 - [aws-vpc-flow-log-appender](https://github.com/aws-samples/aws-vpc-flow-log-appender) - Sample code to append additional information (e.g. Security Group IDs and geolocation data) to VPC Flow Logs for analysis in Elasticsearch.
 - [aws-lambda-redshift-loader](https://github.com/awslabs/aws-lambda-redshift-loader) - Amazon Redshift Database Loader implemented in AWS Lambda

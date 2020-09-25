@@ -370,7 +370,7 @@
 - [terrahelp](https://github.com/opencredo/terrahelp) - Terraform helper. Terrahelp is as a command line utility written in Go and is aimed at providing supplementary functionality which can sometimes prove useful when working with Terraform.
 - [nomad](https://github.com/hashicorp/nomad) - Nomad is an easy-to-use, flexible, and performant workload orchestrator that can deploy a mix of microservice, batch, containerized, and non-containerized applications. Nomad is easy to operate and scale and has native Consul and Vault integrations.
 - [consul](https://github.com/hashicorp/consul) - Consul is a distributed, highly available, and data center aware solution to connect and configure applications across dynamic, distributed infrastructure.
-- [micro](https://github.com/micro/micro) - Micro is a framework for cloud services development
+- [micro](https://github.com/micro/micro) - Micro is a platform for cloud services development
 - [acme](https://github.com/google/acme) - A simple ACME command line tool without 3rd party deps!
 - [hashiapp](https://github.com/kelseyhightower/hashiapp) - Demo 12 Factor application that utilizes Hashicorp tools.
 - [terminus](https://github.com/kelseyhightower/terminus) - Get facts about a Linux system.
@@ -448,7 +448,7 @@
 - [hugo](https://github.com/gohugoio/hugo) - The world’s fastest framework for building websites.
 - [goa](https://github.com/goadesign/goa) - Design-based APIs and microservices in Go
 - [cobra](https://github.com/spf13/cobra) - A Commander for modern Go CLI interactions
-- [license](https://github.com/nishanths/license) - Command line LICENSE text generator
+- [license](https://github.com/nishanths/license) - Command line license text generator
 - [packer](https://github.com/hashicorp/packer) - Packer is a tool for creating identical machine images for multiple platforms from a single source configuration.
 - [terraform](https://github.com/hashicorp/terraform) - Terraform enables you to safely and predictably create, change, and improve infrastructure. It is an open source tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.
 - [bosun](https://github.com/bosun-monitor/bosun) - Time Series Alerting Framework

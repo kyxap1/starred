@@ -91,6 +91,7 @@
 
 ## C# # 
 
+- [nvidiaProfileInspector](https://github.com/Orbmu2k/nvidiaProfileInspector) - 
 - [Resu](https://github.com/User5981/Resu) - Turbo.Plugins.Resu
 - [ShareX](https://github.com/ShareX/ShareX) - ShareX is a free and open source program that lets you capture or record any area of your screen and share it with a single press of a key. It also allows uploading images, text or other types of files to many supported destinations you can choose from.
 - [NoCableLauncher](https://github.com/Maxx53/NoCableLauncher) - Rocksmith 2014 Launcher for playing without RealTone cable (nocable fix)
@@ -351,7 +352,7 @@
 - [gotty](https://github.com/yudai/gotty) - Share your terminal as a web application
 - [gollum](https://github.com/trivago/gollum) - An n:m message multiplexer written in Go
 - [syncthing](https://github.com/syncthing/syncthing) - Open Source Continuous File Synchronization
-- [ccat](https://github.com/jingweno/ccat) - Colorizing `cat`
+- [ccat](https://github.com/owenthereal/ccat) - Colorizing `cat`
 - [vault-client](https://github.com/adfinis-sygroup/vault-client) - A command-line interface to HashiCorp's Vault
 - [hologram](https://github.com/AdRoll/hologram) - Easy, painless AWS credentials on developer laptops.
 - [terraform-resource](https://github.com/ljfranklin/terraform-resource) - A concourse resource to create infrastructure via Terraform
@@ -961,7 +962,7 @@
 - [CliGenerator](https://github.com/enxebre/CliGenerator) - A Command-Line User Interface generator for Symfony Console Component.
 - [guzzle](https://github.com/guzzle/guzzle) - Guzzle, an extensible PHP HTTP client
 - [ffmpeg-php](https://github.com/tony2001/ffmpeg-php) - PHP extension for video editing, wrapping ffmpeg
-- [selfoss](https://github.com/fossar/selfoss) - selfoss: The multipurpose rss reader, live stream, mashup, aggregation web application
+- [selfoss](https://github.com/fossar/selfoss) - multipurpose rss reader, live stream, mashup, aggregation web application
 - [zimg-host](https://github.com/ziggi/zimg-host) - Simple image hosting service
 
 ## Perl 

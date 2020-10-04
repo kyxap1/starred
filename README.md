@@ -1079,7 +1079,7 @@
 - [locust](https://github.com/locustio/locust) - Scalable user load testing tool written in Python
 - [compose](https://github.com/docker/compose) - Define and run multi-container applications with Docker
 - [incubator-superset](https://github.com/apache/incubator-superset) - Apache Superset is a Data Visualization and Data Exploration Platform
-- [http-prompt](https://github.com/httpie/http-prompt) - An interactive command-line HTTP and API testing client built on top of HTTPie featuring autocomplete, syntax highlighting, and more. https://twitter.com/clihttp
+- [http-prompt](https://github.com/httpie/http-prompt) - An interactive command-line HTTP and API testing client built on top of HTTPie featuring autocomplete, syntax highlighting, and more. https://twitter.com/httpie
 - [rds-pgbadger](https://github.com/fpietka/rds-pgbadger) - Fetch logs from RDS instance, and process them with pgBadger
 - [pgcli](https://github.com/dbcli/pgcli) - Postgres CLI with autocompletion and syntax highlighting
 - [coala](https://github.com/coala/coala) - coala provides a unified command-line interface for linting and fixing all your code, regardless of the programming languages you use.
@@ -1129,7 +1129,7 @@
 - [cassandra-snapshotter-wrapper](https://github.com/dizzythinks/cassandra-snapshotter-wrapper) - Wrapper around cassandra-snapshotter
 - [cassandra_snapshotter](https://github.com/tbarbugli/cassandra_snapshotter) - A tool to backup cassandra nodes using snapshots and incremental backups on S3
 - [aws-shell](https://github.com/awslabs/aws-shell) - An integrated shell for working with the AWS CLI.
-- [httpie](https://github.com/httpie/httpie) - As easy as /aitch-tee-tee-pie/ 🥧 Modern, user-friendly command-line HTTP client for the API era. JSON support, colors, sessions, downloads, plugins & more. https://twitter.com/clihttp
+- [httpie](https://github.com/httpie/httpie) - As easy as /aitch-tee-tee-pie/ 🥧 Modern, user-friendly command-line HTTP client for the API era. JSON support, colors, sessions, downloads, plugins & more. https://twitter.com/httpie
 - [jyboss-cli](https://github.com/fareliner/jyboss-cli) - A Jython CLI for JBoss and Wildfly
 - [ansible-custom-jython-module](https://github.com/fareliner/ansible-custom-jython-module) - Example custom ansible module to manage WildFly/JBoss AS through jython cli
 - [awesome-aws](https://github.com/donnemartin/awesome-aws) - A curated list of awesome Amazon Web Services (AWS) libraries, open source repos, guides, blogs, and other resources.  Featuring the Fiery Meter of AWSome.

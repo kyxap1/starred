@@ -1285,7 +1285,7 @@
 - [mariadb-galera-swarm](https://github.com/colinmollenhour/mariadb-galera-swarm) - Easy to use MariaDb Galera Cluster container based on official mariadb image with support for Docker Swarm Mode.
 - [packer-template-builder](https://github.com/ljdelight/packer-template-builder) - Use Hashicorp Packer and source controlled scripts to create customized OVA images from an iso
 - [homelab](https://github.com/cgarciaarano/homelab) - Provision of a home laboratory to test infrastructure tools
-- [ecs-logs-collector](https://github.com/awslabs/ecs-logs-collector) - The script will be used to collect general os logs as well as Docker and ecs-agent logs, it also support to enable debug mode for docker and ecs-agent in Amazon Linux.
+- [amazon-ecs-logs-collector](https://github.com/aws/amazon-ecs-logs-collector) - The script will be used to collect general os logs as well as Docker and ecs-agent logs, it also support to enable debug mode for docker and ecs-agent in Amazon Linux.
 - [nginxse-virtualhost-generator](https://github.com/tahaHichri/nginxse-virtualhost-generator) - A CLI-based tool that helps you generate NGINX server block configuration files in a few seconds.
 - [aui](https://github.com/helmuthdu/aui) - Archlinux Ultimate Install
 - [elastic-ci-stack-for-aws](https://github.com/buildkite/elastic-ci-stack-for-aws) - An auto-scaling cluster of build agents running in your own AWS VPC

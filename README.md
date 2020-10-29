@@ -40,6 +40,7 @@
   - [R](#r)
   - [Ruby](#ruby)
   - [Rust](#rust)
+  - [SCSS](#scss)
   - [Scala](#scala)
   - [Shell](#shell)
   - [Smarty](#smarty)
@@ -121,7 +122,6 @@
 - [source-code-pro](https://github.com/adobe-fonts/source-code-pro) - Monospaced font family for user interface and coding environments
 - [nomad-ci](https://github.com/iverberk/nomad-ci) - A fully featured CI setup based on Nomad, Jenkins, Selenium, Consul and Docker
 - [domeide.github.io](https://github.com/domeide/domeide.github.io) - Docker meets the IDE - Integrating your favorite containers in the editor of your choice
-- [slate](https://github.com/slatedocs/slate) - Beautiful static documentation for your API
 - [arnotes](https://github.com/art4melody/arnotes) - Markdown-based notepad HTML5 application
 
 ## Clojure 
@@ -1244,6 +1244,10 @@
 - [wsta](https://github.com/esphen/wsta) - A CLI development tool for WebSocket APIs
 - [alacritty](https://github.com/alacritty/alacritty) - A cross-platform, GPU-accelerated terminal emulator
 - [habitat](https://github.com/habitat-sh/habitat) - Modern applications with built-in automation
+
+## SCSS 
+
+- [slate](https://github.com/slatedocs/slate) - Beautiful static documentation for your API
 
 ## Scala 
 

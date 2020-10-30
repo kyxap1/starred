@@ -102,6 +102,7 @@
 
 ## C++ 
 
+- [recaps](https://github.com/victor-homyakov/recaps) - Using CapsLock to switch the keyboard language
 - [WhateverGreen](https://github.com/acidanthera/WhateverGreen) - Various patches necessary for certain ATI/AMD/Intel/Nvidia GPUs
 - [OS-X-Fake-PCI-ID](https://github.com/RehabMan/OS-X-Fake-PCI-ID) - Allow returning Fake PCI ID from IOPCIDevice.  Used to avoid patching kexts, such as needed for HD4600 Yosemite, WiFi and others.
 - [AutoHotkey_L](https://github.com/Lexikos/AutoHotkey_L) - AutoHotkey - macro-creation and automation-oriented scripting utility for Windows.

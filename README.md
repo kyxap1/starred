@@ -1216,7 +1216,7 @@
 - [backup](https://github.com/backup/backup) - Easy full stack backup operations on UNIX-like systems.
 - [bashcached](https://github.com/MakeNowJust/bashcached) - memcached server built on bash + socat
 - [lhm](https://github.com/soundcloud/lhm) - Online MySQL schema migrations
-- [homebrew-terraforms](https://github.com/Yleisradio/homebrew-terraforms) - Terraform version switcher and Homebrew Casks for Terraform versions
+- [homebrew-terraforms](https://github.com/Yleisradio/homebrew-terraforms) - Homebrew repository for a Terraform version switcher and all Terraform versions
 - [dpl](https://github.com/travis-ci/dpl) - Dpl (dee-pee-ell) is a deploy tool made for continuous deployment.
 - [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness) - A curated list of awesome awesomeness
 - [puppet-cassandra](https://github.com/voxpupuli/puppet-cassandra) - Installs Cassandra & DataStax Agent on RHEL/Ubuntu/Debian.

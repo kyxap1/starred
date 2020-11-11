@@ -1241,7 +1241,7 @@
 
 - [mcfly](https://github.com/cantino/mcfly) - Fly through your shell history. Great Scott!
 - [ripgrep](https://github.com/BurntSushi/ripgrep) - ripgrep recursively searches directories for a regex pattern while respecting your gitignore
-- [static-analysis](https://github.com/analysis-tools-dev/static-analysis) - A curated list of static analysis tools for all programming languages, config files, build tools, and more.
+- [static-analysis](https://github.com/analysis-tools-dev/static-analysis) - A curated list of static analysis (SAST) tools for all programming languages, config files, build tools, and more.
 - [wsta](https://github.com/esphen/wsta) - A CLI development tool for WebSocket APIs
 - [alacritty](https://github.com/alacritty/alacritty) - A cross-platform, GPU-accelerated terminal emulator
 - [habitat](https://github.com/habitat-sh/habitat) - Modern applications with built-in automation

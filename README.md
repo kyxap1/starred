@@ -789,7 +789,6 @@
 - [serverless](https://github.com/serverless/serverless) - ⚡ Serverless Framework – Build web, mobile and IoT applications with serverless architectures using AWS Lambda, Azure Functions, Google CloudFunctions & more! –
 - [lambda](https://github.com/AWSinAction/lambda) - AWS in Action: Lambda
 - [terraform2md](https://github.com/shambarick/terraform2md) - 
-- [frey](https://github.com/freyproject/frey) - I fell in love with Kubernetes, and Frey is now deprecated
 - [aws-lambda-image](https://github.com/ysugimoto/aws-lambda-image) - Automatic image resize/reduce on AWS Lambda
 - [csv](https://github.com/segment-boneyard/csv) - Uber simple CSV formatting/parsing for node
 - [nginx-jwt](https://github.com/auth0/nginx-jwt) - Lua script for Nginx that performs reverse proxy auth using JWT's

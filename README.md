@@ -202,7 +202,7 @@
 - [kubeval](https://github.com/instrumenta/kubeval) - Validate your Kubernetes configuration files, supports multiple Kubernetes versions
 - [mattermost-push-proxy](https://github.com/mattermost/mattermost-push-proxy) - 
 - [pulumi](https://github.com/pulumi/pulumi) - Pulumi - Modern Infrastructure as Code. Any cloud, any language 🚀
-- [charts](https://github.com/helm/charts) - Curated applications for Kubernetes
+- [charts](https://github.com/helm/charts) - ⚠️(OBSOLETE) Curated applications for Kubernetes
 - [go-camo](https://github.com/arachnys/go-camo) - An SSL/TLS proxy for insecure static assets to circumvent mixed content warnings. Based on `go-camo`, and `camo`.
 - [slack-advanced-exporter](https://github.com/grundleborg/slack-advanced-exporter) - A tool for exporting additional data from Slack that is missing from the official data export.
 - [tf2pulumi](https://github.com/pulumi/tf2pulumi) - A tool to convert Terraform projects to Pulumi TypeScript programs

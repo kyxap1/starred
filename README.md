@@ -818,7 +818,7 @@
 
 ## Kotlin 
 
-- [blokada](https://github.com/blokadaorg/blokada) - Free ad blocker for Android with the best open source community.
+- [blokada](https://github.com/blokadaorg/blokada) - The official repo for Blokada for Android and iOS.
 - [cdm](https://github.com/rustyrazorblade/cdm) - Cassandra Dataset Manager
 - [intellij-hcl](https://github.com/VladRassokhin/intellij-hcl) - HCL language support for IntelliJ platform based IDEs
 

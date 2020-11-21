@@ -371,7 +371,7 @@
 - [terrahelp](https://github.com/opencredo/terrahelp) - Terraform helper. Terrahelp is as a command line utility written in Go and is aimed at providing supplementary functionality which can sometimes prove useful when working with Terraform.
 - [nomad](https://github.com/hashicorp/nomad) - Nomad is an easy-to-use, flexible, and performant workload orchestrator that can deploy a mix of microservice, batch, containerized, and non-containerized applications. Nomad is easy to operate and scale and has native Consul and Vault integrations.
 - [consul](https://github.com/hashicorp/consul) - Consul is a distributed, highly available, and data center aware solution to connect and configure applications across dynamic, distributed infrastructure.
-- [micro](https://github.com/micro/micro) - Micro is a platform for cloud native application development, microservices and API driven backends.
+- [micro](https://github.com/micro/micro) - Micro is a platform for API driven backend development, cloud native applications and microservices
 - [acme](https://github.com/google/acme) - A simple ACME command line tool without 3rd party deps!
 - [hashiapp](https://github.com/kelseyhightower/hashiapp) - Demo 12 Factor application that utilizes Hashicorp tools.
 - [terminus](https://github.com/kelseyhightower/terminus) - Get facts about a Linux system.
@@ -818,7 +818,6 @@
 
 ## Kotlin 
 
-- [blokada](https://github.com/blokadaorg/blokada) - The official repo for Blokada for Android and iOS.
 - [cdm](https://github.com/rustyrazorblade/cdm) - Cassandra Dataset Manager
 - [intellij-hcl](https://github.com/VladRassokhin/intellij-hcl) - HCL language support for IntelliJ platform based IDEs
 
@@ -1399,6 +1398,7 @@
 
 ## Swift 
 
+- [blokada](https://github.com/blokadaorg/blokada) - The official repo for Blokada for Android and iOS.
 - [open-source-mac-os-apps](https://github.com/serhii-londar/open-source-mac-os-apps) - 🚀 Awesome list of open source applications for macOS. https://t.me/opensourcemacosapps
 
 ## TSQL 

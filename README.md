@@ -1045,7 +1045,7 @@
 - [pandas](https://github.com/pandas-dev/pandas) - Flexible and powerful data analysis / manipulation library for Python, providing labeled data structures similar to R data.frame objects, statistical functions, and much more
 - [ianitor](https://github.com/ClearcodeHQ/ianitor) - Doorkeeper for consul discovered services
 - [sillyfacter](https://github.com/hihellobolke/sillyfacter) - A silly python facter with JSON output, has process, open files, connection information too. They say Facts do not change, but hey Silly Facts can ;-)
-- [ansible-lint](https://github.com/ansible/ansible-lint) - Best practices checker for Ansible
+- [ansible-lint](https://github.com/ansible-community/ansible-lint) - Best practices checker for Ansible
 - [validator.vim](https://github.com/maralla/validator.vim) - Check syntax on the fly asynchronously.
 - [xmltodict](https://github.com/martinblech/xmltodict) - Python module that makes working with XML feel like you are working with JSON
 - [algo](https://github.com/trailofbits/algo) - Set up a personal VPN in the cloud

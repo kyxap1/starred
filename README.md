@@ -370,7 +370,7 @@
 - [terrahelp](https://github.com/opencredo/terrahelp) - Terraform helper. Terrahelp is as a command line utility written in Go and is aimed at providing supplementary functionality which can sometimes prove useful when working with Terraform.
 - [nomad](https://github.com/hashicorp/nomad) - Nomad is an easy-to-use, flexible, and performant workload orchestrator that can deploy a mix of microservice, batch, containerized, and non-containerized applications. Nomad is easy to operate and scale and has native Consul and Vault integrations.
 - [consul](https://github.com/hashicorp/consul) - Consul is a distributed, highly available, and data center aware solution to connect and configure applications across dynamic, distributed infrastructure.
-- [micro](https://github.com/micro/micro) - Micro is a platform to build, run and manage microservices
+- [micro](https://github.com/micro/micro) - Micro is a platform for cloud native development
 - [acme](https://github.com/google/acme) - A simple ACME command line tool without 3rd party deps!
 - [hashiapp](https://github.com/kelseyhightower/hashiapp) - Demo 12 Factor application that utilizes Hashicorp tools.
 - [terminus](https://github.com/kelseyhightower/terminus) - Get facts about a Linux system.
@@ -1361,7 +1361,7 @@
 - [quick-secure](https://github.com/marshyski/quick-secure) - Quickly secure UNIX/Linux systems
 - [tfenv](https://github.com/tfutils/tfenv) - Terraform version manager
 - [aws-ec2-raid0-script](https://github.com/starrlingo/aws-ec2-raid0-script) - Provide a template script to perform Raid 0 architecture in AWS EC2
-- [repository](https://github.com/ulyaoth/repository) - Ulyaoth Repository
+- [repository](https://github.com/ulyaoth/repository) - (NO LONGER MAINTAINED): Ulyaoth Repository
 - [gvm](https://github.com/moovweb/gvm) - Go Version Manager
 - [wtf](https://github.com/defnn/wtf) - Wrappers for Terraform
 - [docker-cleanup](https://github.com/meltwater/docker-cleanup) - DEPRECATED Automatic Docker image, container and volume cleanup

@@ -1075,7 +1075,7 @@
 - [glances](https://github.com/nicolargo/glances) - Glances an Eye on your system. A top/htop alternative for GNU/Linux, BSD, Mac OS and Windows operating systems.
 - [locust](https://github.com/locustio/locust) - Scalable user load testing tool written in Python
 - [compose](https://github.com/docker/compose) - Define and run multi-container applications with Docker
-- [incubator-superset](https://github.com/apache/incubator-superset) - Apache Superset is a Data Visualization and Data Exploration Platform
+- [superset](https://github.com/apache/superset) - Apache Superset is a Data Visualization and Data Exploration Platform
 - [http-prompt](https://github.com/httpie/http-prompt) - An interactive command-line HTTP and API testing client built on top of HTTPie featuring autocomplete, syntax highlighting, and more. https://twitter.com/httpie
 - [awesomo](https://github.com/lk-geimfari/awesomo) - A list of cool open source projects written in C, C++, Clojure, Lisp, Elixir, Erlang, Elm, Golang, Haskell, JavaScript, Lua, OCaml, Python, R, Ruby, Rust, Scala, etc.
 - [rds-pgbadger](https://github.com/fpietka/rds-pgbadger) - Fetch logs from RDS instance, and process them with pgBadger

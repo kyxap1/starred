@@ -49,6 +49,7 @@
   - [TeX](#tex)
   - [Twig](#twig)
   - [TypeScript](#typescript)
+  - [Vim Snippet](#vim snippet)
   - [Vim script](#vim script)
   - [VimL](#viml)
   - [Vue](#vue)
@@ -302,7 +303,7 @@
 - [s5cmd](https://github.com/peak/s5cmd) - Parallel S3 and local filesystem execution tool.
 - [terraform-gen](https://github.com/radeksimko/terraform-gen) - Terraform generator(s)
 - [awless](https://github.com/wallix/awless) - A Mighty CLI for AWS
-- [rclone](https://github.com/rclone/rclone) - "rsync for cloud storage" - Google Drive, Amazon Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Cloudfiles, Google Cloud Storage, Yandex Files
+- [rclone](https://github.com/rclone/rclone) - "rsync for cloud storage" - Google Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Wasabi, Google Cloud Storage, Yandex Files
 - [terraform-provider-packer](https://github.com/gsaslis/terraform-provider-packer) - A Terraform provider plugin for Packer
 - [jennifer](https://github.com/dave/jennifer) - Jennifer is a code generator for Go
 - [easyjson](https://github.com/mailru/easyjson) - Fast JSON serializer for golang.
@@ -581,7 +582,6 @@
 - [nginx-https-base](https://github.com/naggie/nginx-https-base) - An Ubuntu 16.04 Ansible role for small-scale nginx with automatic HTTPS via certbot/LE, better error pages, useful templates
 - [debops](https://github.com/debops/debops) - DebOps - Your Debian-based data center in a box
 - [ansible-role-mysql](https://github.com/geerlingguy/ansible-role-mysql) - Ansible Role - MySQL
-- [iproute2-cheatsheet](https://github.com/dmbaturin/iproute2-cheatsheet) - iproute2 command reference
 - [node-red-dashboard](https://github.com/node-red/node-red-dashboard) - A dashboard UI for Node-RED
 - [pup](https://github.com/ericchiang/pup) - Parsing HTML at the command line
 - [remark](https://github.com/gnab/remark) - A simple, in-browser, markdown-driven slideshow tool.
@@ -821,6 +821,7 @@
 
 ## Lua 
 
+- [iproute2-cheatsheet](https://github.com/dmbaturin/iproute2-cheatsheet) - iproute2 command reference
 - [lua-resty-hmac](https://github.com/jamesmarlowe/lua-resty-hmac) - Lua driver for making and receiving hmac signed requests
 - [kong](https://github.com/Kong/kong) - 🦍 The Cloud-Native API Gateway
 
@@ -1429,9 +1430,12 @@
 - [datahub](https://github.com/linkedin/datahub) - A Generalized Metadata Search & Discovery Tool
 - [graphiql](https://github.com/graphql/graphiql) - GraphiQL & the GraphQL LSP Reference Ecosystem for building browser & IDE tools.
 
-## Vim script 
+## Vim Snippet 
 
 - [vim-kubernetes](https://github.com/andrewstuart/vim-kubernetes) - vim-kubernetes
+
+## Vim script 
+
 - [space-vim](https://github.com/liuchengxu/space-vim) - :four_leaf_clover: Lean & mean spacemacs-ish Vim distribution
 - [vim-easy-align](https://github.com/junegunn/vim-easy-align) - :sunflower: A Vim alignment plugin
 - [neomake](https://github.com/neomake/neomake) - Asynchronous linting and make framework for Neovim/Vim

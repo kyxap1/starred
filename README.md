@@ -747,7 +747,7 @@
 - [togetherjs](https://github.com/jsfiddle/togetherjs) - A service for your website that makes it surprisingly easy to collaborate in real-time.
 - [vega](https://github.com/vega/vega) - A visualization grammar.
 - [ContentTools](https://github.com/GetmeUK/ContentTools) - A JS library for building WYSIWYG editors for HTML content.
-- [wekan](https://github.com/wekan/wekan) - The open-source kanban (built with Meteor). Keep variable/table/field names camelCase. For translations, only add Pull Request changes to wekan/i18n/en.i18n.json , other translations are done at https://transifex.com/wekan/wekan only.
+- [wekan](https://github.com/wekan/wekan) - The Open Source kanban (built with Meteor). Docs at https://github.com/wekan/wekan-doc/wiki . Keep variable/table/field names camelCase. For translations, only add Pull Request changes to wekan/i18n/en.i18n.json , other translations are done at https://transifex.com/wekan/wekan only.
 - [tf-rules](https://github.com/candidpartners/tf-rules) - 
 - [is-my-json-valid](https://github.com/mafintosh/is-my-json-valid) - A JSONSchema validator that uses code generation to be extremely fast
 - [doT](https://github.com/olado/doT) - The fastest + concise javascript template engine for nodejs and browsers. Partials, custom delimiters and more.
@@ -992,7 +992,7 @@
 - [sshuttle](https://github.com/sshuttle/sshuttle) - Transparent proxy server that works as a poor man's VPN.  Forwards over ssh.  Doesn't require admin.  Works with Linux and MacOS.  Supports DNS tunneling.
 - [influxdb-relay](https://github.com/influxdata/influxdb-relay) - Service to replicate InfluxDB data for high availability
 - [patroni](https://github.com/zalando/patroni) - A template for PostgreSQL High Availability with Etcd, Consul, ZooKeeper, or Kubernetes
-- [magic-wormhole](https://github.com/warner/magic-wormhole) - get things from one computer to another, safely
+- [magic-wormhole](https://github.com/magic-wormhole/magic-wormhole) - get things from one computer to another, safely
 - [zfs_autobackup](https://github.com/psy0rz/zfs_autobackup) - ZFS autobackup is used to periodicly backup ZFS filesystems to other locations. No additional tools of libraries or config files needed.
 - [awx](https://github.com/ansible/awx) - AWX Project
 - [destiny-clan-member-manager](https://github.com/dad2cl3/destiny-clan-member-manager) - Database and web server scripts for managing Destiny clan membership within Postgres

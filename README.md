@@ -181,6 +181,8 @@
 
 ## Go 
 
+- [clair](https://github.com/quay/clair) - Vulnerability Static Analysis for Containers
+- [dive](https://github.com/wagoodman/dive) - A tool for exploring each layer in a docker image
 - [ingress-nginx](https://github.com/kubernetes/ingress-nginx) - NGINX Ingress Controller for Kubernetes
 - [go-password](https://github.com/sethvargo/go-password) - A Golang library for generating high-entropy random passwords similar to 1Password or LastPass.
 - [env](https://github.com/caarlos0/env) - Simple lib to parse environment variables to structs

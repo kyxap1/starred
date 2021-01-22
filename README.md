@@ -181,6 +181,7 @@
 
 ## Go 
 
+- [waypoint](https://github.com/hashicorp/waypoint) - A tool to build, deploy, and release any application on any platform.
 - [clair](https://github.com/quay/clair) - Vulnerability Static Analysis for Containers
 - [dive](https://github.com/wagoodman/dive) - A tool for exploring each layer in a docker image
 - [ingress-nginx](https://github.com/kubernetes/ingress-nginx) - NGINX Ingress Controller for Kubernetes

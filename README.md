@@ -181,6 +181,7 @@
 
 ## Go 
 
+- [mkcert](https://github.com/FiloSottile/mkcert) - A simple zero-config tool to make locally trusted development certificates with any names you'd like.
 - [waypoint](https://github.com/hashicorp/waypoint) - A tool to build, deploy, and release any application on any platform.
 - [clair](https://github.com/quay/clair) - Vulnerability Static Analysis for Containers
 - [dive](https://github.com/wagoodman/dive) - A tool for exploring each layer in a docker image
@@ -1240,6 +1241,7 @@
 
 ## Rust 
 
+- [vector](https://github.com/timberio/vector) - A high-performance observability data pipeline.
 - [mcfly](https://github.com/cantino/mcfly) - Fly through your shell history. Great Scott!
 - [ripgrep](https://github.com/BurntSushi/ripgrep) - ripgrep recursively searches directories for a regex pattern while respecting your gitignore
 - [static-analysis](https://github.com/analysis-tools-dev/static-analysis) - A curated list of static analysis (SAST) tools for all programming languages, config files, build tools, and more.

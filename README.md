@@ -15,7 +15,6 @@
   - [DTrace](#dtrace)
   - [Dockerfile](#dockerfile)
   - [Elixir](#elixir)
-  - [Gherkin](#gherkin)
   - [Go](#go)
   - [Groovy](#groovy)
   - [HCL](#hcl)
@@ -175,12 +174,9 @@
 - [asciinema-server](https://github.com/asciinema/asciinema-server) - Web app for hosting asciicasts
 - [exhcl](https://github.com/asakura/exhcl) - Configuration language inspired by HCL
 
-## Gherkin 
-
-- [sdkman-cli](https://github.com/sdkman/sdkman-cli) - The SDKMAN! Command Line Interface
-
 ## Go 
 
+- [supervisord](https://github.com/ochinchina/supervisord) - a go-lang supervisor implementation
 - [mkcert](https://github.com/FiloSottile/mkcert) - A simple zero-config tool to make locally trusted development certificates with any names you'd like.
 - [waypoint](https://github.com/hashicorp/waypoint) - A tool to build, deploy, and release any application on any platform.
 - [clair](https://github.com/quay/clair) - Vulnerability Static Analysis for Containers
@@ -1310,7 +1306,7 @@
 - [ansible-completion](https://github.com/dysosmus/ansible-completion) - Basic bash completion for Ansible
 - [takeover.sh](https://github.com/marcan/takeover.sh) - Wipe and reinstall a running Linux system via SSH, without rebooting. You know you want to.
 - [streisand](https://github.com/StreisandEffect/streisand) - Streisand sets up a new server running your choice of WireGuard, OpenConnect, OpenSSH, OpenVPN, Shadowsocks, sslh, Stunnel, or a Tor bridge. It also generates custom instructions for all of these services. At the end of the run you are given an HTML file with instructions that can be shared with friends, family members, and fellow activists.
-- [setup-ipsec-vpn](https://github.com/hwdsl2/setup-ipsec-vpn) - Scripts to build your own IPsec VPN server, with IPsec/L2TP and Cisco IPsec on Ubuntu, Debian and CentOS
+- [setup-ipsec-vpn](https://github.com/hwdsl2/setup-ipsec-vpn) - Scripts to build your own IPsec VPN server, with IPsec/L2TP, Cisco IPsec and IKEv2 on Ubuntu, Debian and CentOS
 - [kostyrevaa.consul-template](https://github.com/kostyrev/kostyrevaa.consul-template) - 
 - [posixcube](https://github.com/myplaceonline/posixcube) - posixcube.sh is a POSIX compliant, shell script-based server automation framework.
 - [sshag](https://github.com/intuited/sshag) - hook up with an operating or new SSH agent
@@ -1368,6 +1364,7 @@
 - [tfenv](https://github.com/tfutils/tfenv) - Terraform version manager
 - [aws-ec2-raid0-script](https://github.com/starrlingo/aws-ec2-raid0-script) - Provide a template script to perform Raid 0 architecture in AWS EC2
 - [repository](https://github.com/ulyaoth/repository) - (NO LONGER MAINTAINED): Ulyaoth Repository
+- [sdkman-cli](https://github.com/sdkman/sdkman-cli) - The SDKMAN! Command Line Interface
 - [gvm](https://github.com/moovweb/gvm) - Go Version Manager
 - [wtf](https://github.com/defnn/wtf) - Wrappers for Terraform
 - [docker-cleanup](https://github.com/meltwater/docker-cleanup) - DEPRECATED Automatic Docker image, container and volume cleanup

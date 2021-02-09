@@ -636,7 +636,7 @@
 - [node-info](https://github.com/goldmann/node-info) - A simple web app (servlet only) that show the node/host name of the JBoss EAP/Wildfly server
 - [consul-api](https://github.com/Ecwid/consul-api) - Java client for Consul HTTP API
 - [ambry](https://github.com/linkedin/ambry) - Distributed object store
-- [incubator-gobblin](https://github.com/apache/incubator-gobblin) - A distributed data integration framework that simplifies common aspects of big data integration such as data ingestion, replication, organization and lifecycle management for both streaming and batch data ecosystems.
+- [gobblin](https://github.com/apache/gobblin) - A distributed data integration framework that simplifies common aspects of big data integration such as data ingestion, replication, organization and lifecycle management for both streaming and batch data ecosystems.
 - [airpal](https://github.com/airbnb/airpal) - Web UI for PrestoDB.
 - [amazon-kinesis-connectors](https://github.com/awslabs/amazon-kinesis-connectors) - 
 - [Hive-Pig-Hbase](https://github.com/Re1tReddy/Hive-Pig-Hbase) - Hive,Pig,Hbase,Sqoop examples

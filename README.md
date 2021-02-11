@@ -587,6 +587,7 @@
 - [remark](https://github.com/gnab/remark) - A simple, in-browser, markdown-driven slideshow tool.
 - [ndbench](https://github.com/Netflix/ndbench) - Netflix Data Store Benchmark
 - [buildpacks-ci](https://github.com/cloudfoundry/buildpacks-ci) - Concourse CI pipelines for the buildpacks team
+- [postgresql](https://github.com/ANXS/postgresql) - Fairly full featured Ansible role for Postgresql.
 - [swagger-codegen](https://github.com/swagger-api/swagger-codegen) - swagger-codegen contains a template-driven engine to generate documentation, API clients and server stubs in different languages by parsing your OpenAPI / Swagger definition.
 - [archi-example](https://github.com/Macroz/archi-example) - Example project for archi also useful as a quickstart template.
 - [haskell-language-hcl](https://github.com/beijaflor-io/haskell-language-hcl) - language-hcl contains HCL (Hashicorp Configuration Language) parsers and pretty-printers for the Haskell programming language
@@ -1322,7 +1323,6 @@
 - [ecs-refarch-continuous-deployment](https://github.com/awslabs/ecs-refarch-continuous-deployment) - ECS Reference Architecture for creating a flexible and scalable deployment pipeline to Amazon ECS using AWS CodePipeline
 - [boxcutter_ubuntu](https://github.com/patrick-hill/boxcutter_ubuntu) - Virtual machine templates for Ubuntu
 - [mac-dev-playbook](https://github.com/geerlingguy/mac-dev-playbook) - Mac setup and configuration via Ansible.
-- [postgresql](https://github.com/ANXS/postgresql) - Fairly full featured Ansible role for Postgresql.
 - [slack-notification-resource](https://github.com/cloudfoundry-community/slack-notification-resource) - Concourse CI resource for sending notifications to Slack.
 - [ansible-terraform](https://github.com/andrewrothstein/ansible-terraform) - 
 - [ansible-examples](https://github.com/ansible/ansible-examples) - A few starter examples of ansible playbooks, to show features and how they work together.  See http://galaxy.ansible.com for example roles from the Ansible community for deploying many popular applications.

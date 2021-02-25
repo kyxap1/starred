@@ -295,7 +295,7 @@
 - [gogs](https://github.com/gogs/gogs) - Gogs is a painless self-hosted Git service
 - [drone](https://github.com/drone/drone) - Drone is a Container-Native, Continuous Delivery Platform
 - [dnscontrol](https://github.com/StackExchange/dnscontrol) - Synchronize your DNS to multiple providers from a simple DSL
-- [teleport](https://github.com/gravitational/teleport) - Unified access for SSH servers, Kubernetes, web applications, and databases written in Go
+- [teleport](https://github.com/gravitational/teleport) - Certificate authority and Identity aware proxy for SSH, Kubernetes, web applications, and databases
 - [ec2-ls-hosts](https://github.com/ReSTARTR/ec2-ls-hosts) - an alternative tool for describing ec2 instances
 - [semaphore](https://github.com/ansible-semaphore/semaphore) - Open Source alternative to Ansible Tower
 - [zabbixctl](https://github.com/kovetskiy/zabbixctl) - Most effective way for operating in Zabbix Server

@@ -1090,7 +1090,7 @@
 - [ansible-packer-vagrant-openstack-ec2](https://github.com/rosmo/ansible-packer-vagrant-openstack-ec2) - Ansible scripts to build images using Packer and Vagrant, exporting to Openstack, AMI or OVF image
 - [dataduct](https://github.com/coursera/dataduct) - DataPipeline for humans.
 - [data-pipeline-samples](https://github.com/amazon-archives/data-pipeline-samples) - This repository hosts sample pipelines
-- [barman](https://github.com/2ndquadrant-it/barman) - Barman - Backup and Recovery Manager for PostgreSQL
+- [barman](https://github.com/EnterpriseDB/barman) - Barman - Backup and Recovery Manager for PostgreSQL
 - [wildfly](https://github.com/inkatze/wildfly) - Ansible role for wildfly
 - [terraform.py](https://github.com/mantl/terraform.py) - Ansible dynamic inventory script for parsing Terraform state files
 - [kubeform](https://github.com/Capgemini/kubeform) - Form your :boat: Kubernetes :anchor: cluster anywhere using CoreOS, Terraform and Ansible

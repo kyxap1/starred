@@ -176,6 +176,7 @@
 
 ## Go 
 
+- [vimonade](https://github.com/jrc2139/vimonade) - Vimonade | A slimmed down HTTP/2 fork of Lemonade
 - [terraform-ls](https://github.com/hashicorp/terraform-ls) - Terraform Language Server
 - [supervisord](https://github.com/ochinchina/supervisord) - a go-lang supervisor implementation
 - [mkcert](https://github.com/FiloSottile/mkcert) - A simple zero-config tool to make locally trusted development certificates with any names you'd like.
@@ -242,6 +243,7 @@
 - [streamroller](https://github.com/dustinblackman/streamroller) - Self hosted simulcasting to Twitch, Youtube, and Facebook made easy.
 - [tfschema](https://github.com/minamijoyo/tfschema) - A schema inspector for Terraform providers
 - [gofaas](https://github.com/nzoschke/gofaas) - A boilerplate Go and AWS Lambda app. Demonstrates an expert configuration of 10+ AWS services to support running Go functions-as-a-service (FaaS).
+- [dex-k8s-authenticator](https://github.com/mintel/dex-k8s-authenticator) - A Kubernetes Dex Client Authenticator
 - [yq](https://github.com/mikefarah/yq) - yq is a portable command-line YAML processor
 - [envconfig](https://github.com/kelseyhightower/envconfig) - Golang library for managing configuration data from environment variables
 - [hcloud-go](https://github.com/hetznercloud/hcloud-go) - A Go library for the Hetzner Cloud API
@@ -579,7 +581,6 @@
 - [subspace](https://github.com/subspacecommunity/subspace) - A fork of the simple WireGuard VPN server GUI community maintained
 - [cryptr](https://github.com/adobe/cryptr) - Cryptr: a GUI for Hashicorp's Vault
 - [ansible-roles](https://github.com/manala/ansible-roles) - Manala ansible roles
-- [dex-k8s-authenticator](https://github.com/mintel/dex-k8s-authenticator) - A Kubernetes Dex Client Authenticator
 - [overwatch-dpi-tool](https://github.com/Pyrolistical/overwatch-dpi-tool) - 
 - [nginx-https-base](https://github.com/naggie/nginx-https-base) - An Ubuntu 16.04 Ansible role for small-scale nginx with automatic HTTPS via certbot/LE, better error pages, useful templates
 - [debops](https://github.com/debops/debops) - DebOps - Your Debian-based data center in a box

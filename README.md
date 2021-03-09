@@ -176,6 +176,7 @@
 
 ## Go 
 
+- [hcl2json](https://github.com/tmccombs/hcl2json) - Convert hcl2 to json
 - [terraform-provider-utils](https://github.com/cloudposse/terraform-provider-utils) - The Cloud Posse Terraform Provider for various utilities (e.g. deep merging, stack configuration management)
 - [vimonade](https://github.com/jrc2139/vimonade) - Vimonade | A slimmed down HTTP/2 fork of Lemonade
 - [terraform-ls](https://github.com/hashicorp/terraform-ls) - Terraform Language Server

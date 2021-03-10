@@ -782,7 +782,6 @@
 - [aws-maintenance-lambda](https://github.com/indix/aws-maintenance-lambda) - A lambda function to send alerts (to Slack, HipChat) on AWS maintenance events.
 - [slack-patron](https://github.com/tyage/slack-patron) - Log and view all Slack messages.
 - [pingbot](https://github.com/toricls/pingbot) - A website monitoring/health-checking tool based on serverless architecture.
-- [adl-designer](https://github.com/openEHR/adl-designer) - Web-based archetype and template design tools
 - [MobDistTool](https://github.com/rgroult/MobDistTool) - Mobile App Distribution Tool
 - [s3scan](https://github.com/mapbox/s3scan) - S3 can!
 - [aws-log-replay](https://github.com/mapbox/aws-log-replay) - Transform and replay CloudFront, ELB Classic, and ALB logs
@@ -1043,7 +1042,7 @@
 - [system-design-primer](https://github.com/donnemartin/system-design-primer) - Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards.
 - [repositorytools](https://github.com/packagemgmt/repositorytools) - Python API and command-line interface for working with artifact repositories like Sonatype Nexus
 - [spilo](https://github.com/zalando/spilo) - Highly available elephant herd: HA PostgreSQL cluster using Docker
-- [aws_role_credentials](https://github.com/techops-infosec/aws_role_credentials) - Generates AWS credentials for roles using STS
+- [aws_role_credentials](https://github.com/ThoughtWorksInc/aws_role_credentials) - Generates AWS credentials for roles using STS
 - [awsie](https://github.com/theserverlessway/awsie) - CloudFormation aware wrapper for the AWSCLI
 - [stacker](https://github.com/cloudtools/stacker) - An AWS CloudFormation Stack orchestrator/manager.
 - [sceptre](https://github.com/Sceptre/sceptre) - Build better AWS infrastructure

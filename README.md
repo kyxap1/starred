@@ -432,7 +432,7 @@
 - [terraform-provider-template](https://github.com/ContainerSolutions/terraform-provider-template) - Skeleton for building a Terraform provider
 - [terraform-aws-vars](https://github.com/drmdrew/terraform-aws-vars) - Generates Terraform AWS configuration variables suitable for the currently configured AWS account.
 - [tholos](https://github.com/mhlias/tholos) - Prototype Terraform wrapper
-- [concourse](https://github.com/concourse/concourse) - Concourse is a container-based continuous thing-doer written in Go and Elm.
+- [concourse](https://github.com/concourse/concourse) - Concourse is a container-based continuous thing-doer written in Go.
 - [terraform-provisioner-makefile](https://github.com/jtopjian/terraform-provisioner-makefile) - A Makefile / make provisioner for Terraform
 - [terrastache](https://github.com/cbroglie/terrastache) - Use terraform variables and mustache templates to generate terraform configs
 - [terraform-provider-localfile](https://github.com/mcoffin/terraform-provider-localfile) - Simple terraform provider plugin to give access to local files.

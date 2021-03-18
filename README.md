@@ -1271,6 +1271,7 @@
 
 ## Shell 
 
+- [wazuh-cloudformation](https://github.com/wazuh/wazuh-cloudformation) - Wazuh - Amazon AWS Cloudformation
 - [wireguard-install](https://github.com/angristan/wireguard-install) - WireGuard VPN installer for Linux servers
 - [awesome-kubernetes](https://github.com/ramitsurana/awesome-kubernetes) - A curated list for awesome kubernetes sources :ship::tada:
 - [faq](https://github.com/ru-de/faq) - Полезная информация о жизни в Германии

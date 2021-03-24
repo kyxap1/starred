@@ -595,6 +595,7 @@
 - [buildpacks-ci](https://github.com/cloudfoundry/buildpacks-ci) - Concourse CI pipelines for the buildpacks team
 - [postgresql](https://github.com/ANXS/postgresql) - Fairly full featured Ansible role for Postgresql.
 - [archi-example](https://github.com/Macroz/archi-example) - Example project for archi also useful as a quickstart template.
+- [wildfly](https://github.com/inkatze/wildfly) - Ansible role for wildfly
 - [haskell-language-hcl](https://github.com/beijaflor-io/haskell-language-hcl) - language-hcl contains HCL (Hashicorp Configuration Language) parsers and pretty-printers for the Haskell programming language
 - [node-red-contrib-aws](https://github.com/joeartsea/node-red-contrib-aws) - A collection of Node-RED nodes for AWS.
 - [styleguide](https://github.com/google/styleguide) - Style guides for Google-originated open-source projects
@@ -1098,7 +1099,6 @@
 - [dataduct](https://github.com/coursera/dataduct) - DataPipeline for humans.
 - [data-pipeline-samples](https://github.com/amazon-archives/data-pipeline-samples) - This repository hosts sample pipelines
 - [barman](https://github.com/EnterpriseDB/barman) - Barman - Backup and Recovery Manager for PostgreSQL
-- [wildfly](https://github.com/inkatze/wildfly) - Ansible role for wildfly
 - [terraform.py](https://github.com/mantl/terraform.py) - Ansible dynamic inventory script for parsing Terraform state files
 - [kubeform](https://github.com/Capgemini/kubeform) - Form your :boat: Kubernetes :anchor: cluster anywhere using CoreOS, Terraform and Ansible
 - [paasta](https://github.com/Yelp/paasta) - An open, distributed platform as a service
@@ -1271,6 +1271,7 @@
 
 ## Shell 
 
+- [aws-ec2-user-data](https://github.com/kyxap1/aws-ec2-user-data) - Script to modify user-data attribute on AWS EC2 instances
 - [wazuh-cloudformation](https://github.com/wazuh/wazuh-cloudformation) - Wazuh - Amazon AWS Cloudformation
 - [wireguard-install](https://github.com/angristan/wireguard-install) - WireGuard VPN installer for Linux servers
 - [awesome-kubernetes](https://github.com/ramitsurana/awesome-kubernetes) - A curated list for awesome kubernetes sources :ship::tada:

@@ -281,7 +281,7 @@
 - [ec2-metadatafs](https://github.com/jszwedko/ec2-metadatafs) - AWS EC2 metadata as files
 - [vaulter](https://github.com/Mykolaichenko/vaulter) - 
 - [terraform_cashier](https://github.com/Bjorn248/terraform_cashier) - Designed to analyze terraform template files and return a cost estimate of running the infrastructure, assuming AWS is the target cloud. Perhaps other clouds can be supported going forward?
-- [k6](https://github.com/loadimpact/k6) - A modern load testing tool, using Go and JavaScript - https://k6.io
+- [k6](https://github.com/k6io/k6) - A modern load testing tool, using Go and JavaScript - https://k6.io
 - [awless-scheduler](https://github.com/wallix/awless-scheduler) - Schedule runs and reverts of awless templates
 - [awesome-go](https://github.com/avelino/awesome-go) - A curated list of awesome Go frameworks, libraries and software
 - [terraform-provider-zabbix](https://github.com/dainis/terraform-provider-zabbix) - 
@@ -586,6 +586,7 @@
 - [ansible-roles](https://github.com/manala/ansible-roles) - Manala ansible roles
 - [overwatch-dpi-tool](https://github.com/Pyrolistical/overwatch-dpi-tool) - 
 - [nginx-https-base](https://github.com/naggie/nginx-https-base) - An Ubuntu 16.04 Ansible role for small-scale nginx with automatic HTTPS via certbot/LE, better error pages, useful templates
+- [sovereign](https://github.com/sovereign/sovereign) - A set of Ansible playbooks to build and maintain your own private cloud: email, calendar, contacts, file sync, IRC bouncer, VPN, and more.
 - [debops](https://github.com/debops/debops) - DebOps - Your Debian-based data center in a box
 - [ansible-role-mysql](https://github.com/geerlingguy/ansible-role-mysql) - Ansible Role - MySQL
 - [node-red-dashboard](https://github.com/node-red/node-red-dashboard) - A dashboard UI for Node-RED
@@ -1013,7 +1014,6 @@
 - [fiat](https://github.com/richiverse/fiat) - Firehose to Athena
 - [ps_mem](https://github.com/pixelb/ps_mem) - A utility to accurately report the in core memory usage for a program
 - [playbook](https://github.com/bonovoxly/playbook) - A collection of Ansible playbooks, complete with roles and inventory examples.
-- [sovereign](https://github.com/sovereign/sovereign) - A set of Ansible playbooks to build and maintain your own private cloud: email, calendar, contacts, file sync, IRC bouncer, VPN, and more.
 - [debops-playbooks](https://github.com/debops/debops-playbooks) - Ansible playbooks used by DebOps project
 - [beeswithmachineguns](https://github.com/newsapps/beeswithmachineguns) - A utility for arming (creating) many bees (micro EC2 instances) to attack (load test) targets (web applications).
 - [grafcli](https://github.com/m110/grafcli) - Grafana CLI for quick and easy dashboards management.

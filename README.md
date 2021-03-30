@@ -647,7 +647,7 @@
 - [ambry](https://github.com/linkedin/ambry) - Distributed object store
 - [gobblin](https://github.com/apache/gobblin) - A distributed data integration framework that simplifies common aspects of big data integration such as data ingestion, replication, organization and lifecycle management for both streaming and batch data ecosystems.
 - [airpal](https://github.com/airbnb/airpal) - Web UI for PrestoDB.
-- [amazon-kinesis-connectors](https://github.com/awslabs/amazon-kinesis-connectors) - 
+- [amazon-kinesis-connectors](https://github.com/amazon-archives/amazon-kinesis-connectors) - 
 - [Hive-Pig-Hbase](https://github.com/Re1tReddy/Hive-Pig-Hbase) - Hive,Pig,Hbase,Sqoop examples
 - [oryx](https://github.com/OryxProject/oryx) - Oryx 2: Lambda architecture on Apache Spark, Apache Kafka for real-time large scale machine learning
 - [graphql-java](https://github.com/graphql-java/graphql-java) - GraphQL Java implementation

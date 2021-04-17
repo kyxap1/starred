@@ -597,7 +597,6 @@
 - [remark](https://github.com/gnab/remark) - A simple, in-browser, markdown-driven slideshow tool.
 - [ndbench](https://github.com/Netflix/ndbench) - Netflix Data Store Benchmark
 - [buildpacks-ci](https://github.com/cloudfoundry/buildpacks-ci) - Concourse CI pipelines for the buildpacks team
-- [postgresql](https://github.com/ANXS/postgresql) - Fairly full featured Ansible role for Postgresql.
 - [archi-example](https://github.com/Macroz/archi-example) - Example project for archi also useful as a quickstart template.
 - [wildfly](https://github.com/inkatze/wildfly) - Ansible role for wildfly
 - [haskell-language-hcl](https://github.com/beijaflor-io/haskell-language-hcl) - language-hcl contains HCL (Hashicorp Configuration Language) parsers and pretty-printers for the Haskell programming language
@@ -816,6 +815,7 @@
 ## Jinja 
 
 - [debops](https://github.com/debops/debops) - DebOps - Your Debian-based data center in a box
+- [postgresql](https://github.com/ANXS/postgresql) - Fairly full featured Ansible role for Postgresql.
 
 ## Jsonnet 
 

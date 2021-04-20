@@ -952,7 +952,6 @@
 - [amazing-deployment](https://github.com/delirehberi/amazing-deployment) - A curated list of amazing Deployment libraries, library distributions, scripts, tools and resources.
 - [awesome-learning](https://github.com/Lets-DevOps/awesome-learning) - A curated list for DevOps learning resources. Join the slack channel to discuss more.
 - [awesome-resty](https://github.com/bungle/awesome-resty) - A List of Quality OpenResty Libraries, and Resources.
-- [awesome](https://github.com/sindresorhus/awesome) - 😎 Awesome lists about all kinds of interesting topics
 - [docker-and-containers-ebooks](https://github.com/thenewstack/docker-and-containers-ebooks) - A series of ebooks on Docker and the container ecosystem.
 - [xfce4-terminal-colors-solarized](https://github.com/sgerrand/xfce4-terminal-colors-solarized) - Solarized colour scheme for the Xfce4 terminal
 - [atomci](https://github.com/tomwillfixit/atomci) - Use Docker-compose to setup a Atom Container and CI pipeline
@@ -1384,6 +1383,7 @@
 - [aws-ec2-raid0-script](https://github.com/starrlingo/aws-ec2-raid0-script) - Provide a template script to perform Raid 0 architecture in AWS EC2
 - [repository](https://github.com/ulyaoth/repository) - (NO LONGER MAINTAINED): Ulyaoth Repository
 - [sdkman-cli](https://github.com/sdkman/sdkman-cli) - The SDKMAN! Command Line Interface
+- [awesome](https://github.com/sindresorhus/awesome) - 😎 Awesome lists about all kinds of interesting topics
 - [gvm](https://github.com/moovweb/gvm) - Go Version Manager
 - [wtf](https://github.com/defnn/wtf) - Wrappers for Terraform
 - [docker-cleanup](https://github.com/meltwater/docker-cleanup) - DEPRECATED Automatic Docker image, container and volume cleanup

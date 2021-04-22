@@ -871,6 +871,7 @@
 
 ## Others 
 
+- [asuswrt-merlin.ng](https://github.com/RMerl/asuswrt-merlin.ng) - Third party firmware for Asus routers (newer codebase)
 - [vscode-language-terraform](https://github.com/4ops/vscode-language-terraform) - Adds support for the Terraform configuration language to Visual Studio Code
 - [useful-wireless-links](https://github.com/skhomm/useful-wireless-links) - Собираем масштабную базу с полезными материалами для всех неравнодушных к беспроводным сетям: учебные пособия, справочники, калькуляторы, софт, гаджеты и многое другое.
 - [portainer-compose](https://github.com/portainer/portainer-compose) - Compose setup for Portainer

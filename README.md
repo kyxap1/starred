@@ -58,6 +58,7 @@
 
 ## C 
 
+- [wazuh](https://github.com/wazuh/wazuh) - Wazuh - The Open Source Security Platform
 - [zapret](https://github.com/bol-van/zapret) - Обход DPI в linux
 - [ctags](https://github.com/universal-ctags/ctags) - A maintained ctags implementation
 - [darknet](https://github.com/pjreddie/darknet) - Convolutional Neural Networks
@@ -1253,7 +1254,7 @@
 
 ## Rust 
 
-- [vector](https://github.com/timberio/vector) - A high-performance, high-reliability observability data pipeline.
+- [vector](https://github.com/timberio/vector) - A high-performance, highly reliable, observability data pipeline.
 - [mcfly](https://github.com/cantino/mcfly) - Fly through your shell history. Great Scott!
 - [ripgrep](https://github.com/BurntSushi/ripgrep) - ripgrep recursively searches directories for a regex pattern while respecting your gitignore
 - [static-analysis](https://github.com/analysis-tools-dev/static-analysis) - A curated list of static analysis (SAST) tools for all programming languages, config files, build tools, and more.
@@ -1269,7 +1270,7 @@
 
 - [CMAK](https://github.com/yahoo/CMAK) - CMAK is a tool for managing Apache Kafka clusters
 - [gatling](https://github.com/gatling/gatling) - Modern Load Testing as Code
-- [snowplow](https://github.com/snowplow/snowplow) - Cloud-native web, mobile and event analytics, running on AWS and GCP
+- [snowplow](https://github.com/snowplow/snowplow) - The enterprise-grade behavioral data engine (web, mobile, server-side, webhooks), running cloud-natively on AWS and GCP
 - [hive-serde-schema-gen](https://github.com/strelec/hive-serde-schema-gen) - :clipboard: Generate Hive SerDe schema from a .json file.
 - [rudder](https://github.com/Normation/rudder) - Continuous Auditing & Configuration
 - [spark-cassandra-connector](https://github.com/datastax/spark-cassandra-connector) - DataStax Spark Cassandra Connector

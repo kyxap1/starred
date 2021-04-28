@@ -588,7 +588,6 @@
 - [htmlparser](https://github.com/htmlparser/htmlparser) - Parsing HTML at the command line
 - [subspace](https://github.com/subspacecommunity/subspace) - A fork of the simple WireGuard VPN server GUI community maintained
 - [cryptr](https://github.com/adobe/cryptr) - Cryptr: a GUI for Hashicorp's Vault
-- [ansible-roles](https://github.com/manala/ansible-roles) - Manala ansible roles
 - [overwatch-dpi-tool](https://github.com/Pyrolistical/overwatch-dpi-tool) - 
 - [nginx-https-base](https://github.com/naggie/nginx-https-base) - An Ubuntu 16.04 Ansible role for small-scale nginx with automatic HTTPS via certbot/LE, better error pages, useful templates
 - [sovereign](https://github.com/sovereign/sovereign) - A set of Ansible playbooks to build and maintain your own private cloud: email, calendar, contacts, file sync, IRC bouncer, VPN, and more.
@@ -815,6 +814,7 @@
 
 ## Jinja 
 
+- [ansible-roles](https://github.com/manala/ansible-roles) - Manala ansible roles
 - [debops](https://github.com/debops/debops) - DebOps - Your Debian-based data center in a box
 - [postgresql](https://github.com/ANXS/postgresql) - Fairly full featured Ansible role for Postgresql.
 

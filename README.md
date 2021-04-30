@@ -872,6 +872,7 @@
 
 ## Others 
 
+- [fuckfuckadblock](https://github.com/bogachenko/fuckfuckadblock) - Filters for blocking pop-ups and anti-adblock bypass.
 - [asuswrt-merlin.ng](https://github.com/RMerl/asuswrt-merlin.ng) - Third party firmware for Asus routers (newer codebase)
 - [vscode-language-terraform](https://github.com/4ops/vscode-language-terraform) - Adds support for the Terraform configuration language to Visual Studio Code
 - [useful-wireless-links](https://github.com/skhomm/useful-wireless-links) - Собираем масштабную базу с полезными материалами для всех неравнодушных к беспроводным сетям: учебные пособия, справочники, калькуляторы, софт, гаджеты и многое другое.
@@ -965,7 +966,7 @@
 - [nginx-s3-upload](https://github.com/jamescmartinez/nginx-s3-upload) - [Unmaintained] S3 file upload proxy using Nginx, complete with AWS authentication.
 - [nginx-resources](https://github.com/fcambus/nginx-resources) - A collection of resources covering Nginx, Nginx + Lua, OpenResty and Tengine
 - [awesome-shell](https://github.com/alebcay/awesome-shell) - A curated list of awesome command-line frameworks, toolkits, guides and gizmos. Inspired by awesome-php.
-- [shipyard](https://github.com/shipyard/shipyard) - Composable Docker Management
+- [shipyard](https://github.com/ehazlett/shipyard) - Composable Docker Management
 
 ## PHP 
 

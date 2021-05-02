@@ -105,7 +105,6 @@
 
 ## C++ 
 
-- [CPUTune](https://github.com/syscl/CPUTune) - An open source kernel extension enables dynamic CPU performance tuning at runtime for macOS.
 - [recaps](https://github.com/victor-homyakov/recaps) - Using CapsLock to switch the keyboard language
 - [WhateverGreen](https://github.com/acidanthera/WhateverGreen) - Various patches necessary for certain ATI/AMD/Intel/Nvidia GPUs
 - [OS-X-Fake-PCI-ID](https://github.com/RehabMan/OS-X-Fake-PCI-ID) - Allow returning Fake PCI ID from IOPCIDevice.  Used to avoid patching kexts, such as needed for HD4600 Yosemite, WiFi and others.
@@ -587,6 +586,7 @@
 
 - [htmlparser](https://github.com/htmlparser/htmlparser) - Parsing HTML at the command line
 - [subspace](https://github.com/subspacecommunity/subspace) - A fork of the simple WireGuard VPN server GUI community maintained
+- [awesome-prometheus-alerts](https://github.com/samber/awesome-prometheus-alerts) - 🚨 Collection of Prometheus alerting rules
 - [cryptr](https://github.com/adobe/cryptr) - Cryptr: a GUI for Hashicorp's Vault
 - [overwatch-dpi-tool](https://github.com/Pyrolistical/overwatch-dpi-tool) - 
 - [nginx-https-base](https://github.com/naggie/nginx-https-base) - An Ubuntu 16.04 Ansible role for small-scale nginx with automatic HTTPS via certbot/LE, better error pages, useful templates
@@ -638,7 +638,7 @@
 - [elassandra](https://github.com/strapdata/elassandra) - Elassandra = Elasticsearch + Apache Cassandra
 - [flyway](https://github.com/flyway/flyway) - Flyway by Redgate • Database Migrations Made Easy.
 - [swagger-core](https://github.com/swagger-api/swagger-core) - Examples and server integrations for generating the Swagger API Specification, which enables easy access to your REST API
-- [typedb](https://github.com/vaticle/typedb) - Grakn Core: The Knowledge Graph
+- [typedb](https://github.com/vaticle/typedb) - TypeDB: a strongly-typed database
 - [bazel](https://github.com/bazelbuild/bazel) - a fast, scalable, multi-language and extensible build system
 - [android-json-model-generator](https://github.com/JAlexoid/android-json-model-generator) - A simple JSON Object Model generator for Android (JSON to Java)
 - [json-to-avro-schema-generator](https://github.com/sgmarghade/json-to-avro-schema-generator) - This will help you to generate AVRO schema from JSON schema.
@@ -1180,7 +1180,6 @@
 ## Ruby 
 
 - [gitlab](https://github.com/NARKOZ/gitlab) - Ruby wrapper and CLI for the GitLab REST API
-- [awesome-prometheus-alerts](https://github.com/samber/awesome-prometheus-alerts) - 🚨 Collection of Prometheus alerting rules
 - [inspec-iggy](https://github.com/mattray/inspec-iggy) - InSpec CLI plugin for generating compliance controls from Terraform and CloudFormation
 - [aws_public_ips](https://github.com/arkadiyt/aws_public_ips) - Fetch all public IP addresses tied to your AWS account. Works with IPv4/IPv6, Classic/VPC networking, and across all AWS services
 - [gitlabhq](https://github.com/gitlabhq/gitlabhq) - GitLab CE Mirror | Please open new issues in our issue tracker on GitLab.com

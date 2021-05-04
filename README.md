@@ -1014,7 +1014,7 @@
 - [influxdb-relay](https://github.com/influxdata/influxdb-relay) - Service to replicate InfluxDB data for high availability
 - [patroni](https://github.com/zalando/patroni) - A template for PostgreSQL High Availability with Etcd, Consul, ZooKeeper, or Kubernetes
 - [magic-wormhole](https://github.com/magic-wormhole/magic-wormhole) - get things from one computer to another, safely
-- [zfs_autobackup](https://github.com/psy0rz/zfs_autobackup) - ZFS autobackup is used to periodicly backup ZFS filesystems to other locations. No additional tools of libraries or config files needed.
+- [zfs_autobackup](https://github.com/psy0rz/zfs_autobackup) - ZFS autobackup is used to periodicly backup ZFS filesystems to other locations. No additional tools, libraries or config files needed.
 - [awx](https://github.com/ansible/awx) - AWX Project
 - [destiny-clan-member-manager](https://github.com/dad2cl3/destiny-clan-member-manager) - Database and web server scripts for managing Destiny clan membership within Postgres
 - [spirit](https://github.com/jgayfer/spirit) - Spirit is a Destiny 2 Discord bot to assist players with everything from clan management to keeping track of in game events.

@@ -58,6 +58,7 @@
 
 ## C 
 
+- [nginx-fips-check-module](https://github.com/ogarrett/nginx-fips-check-module) - Basic NGINX module to report on OpenSSL FIPS status
 - [wazuh](https://github.com/wazuh/wazuh) - Wazuh - The Open Source Security Platform
 - [zapret](https://github.com/bol-van/zapret) - Обход DPI в linux
 - [ctags](https://github.com/universal-ctags/ctags) - A maintained ctags implementation
@@ -1279,6 +1280,10 @@
 
 ## Shell 
 
+- [Wazuh-3.10-installer](https://github.com/diagonalciso/Wazuh-3.10-installer) - 
+- [WazuhDeployment](https://github.com/austinsonger/WazuhDeployment) - Making Wazuh Deployment Easy
+- [WAZUH](https://github.com/ch3332xr/WAZUH) - Get Started with WAZUH in a jiffy
+- [WAZUH-OSSEC](https://github.com/magenx/WAZUH-OSSEC) - WAZUH - The Open Source Security Platform Installation
 - [ebs-automatic-nvme-mapping](https://github.com/oogali/ebs-automatic-nvme-mapping) - Automatic mapping of EBS volumes via NVMe block devices to standard block device paths
 - [docker-build-with-cache-action](https://github.com/whoan/docker-build-with-cache-action) - :octocat: Build and push docker images caching each stage to reduce build time
 - [aws-ec2-user-data](https://github.com/kyxap1/aws-ec2-user-data) - Script to modify user-data attribute on AWS EC2 instances

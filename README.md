@@ -481,7 +481,7 @@
 - [terraform-aws-config-state](https://github.com/cloudowski/terraform-aws-config-state) - Terraform code to provision terraform state backend on AWS
 - [prometheus-aws-configuration-beta](https://github.com/alphagov/prometheus-aws-configuration-beta) - Terraform configuration to manage a Prometheus server running on AWS.
 - [elasticsearch-cloud-deploy](https://github.com/kostyrev/elasticsearch-cloud-deploy) - Deploy Elasticsearch on the cloud easily
-- [terraform-aws-influxdb](https://github.com/influxdata/terraform-aws-influxdb) - Deploys InfluxDB OSS and Enterprise to AWS
+- [terraform-aws-influxdb](https://github.com/influxdata/terraform-aws-influxdb) - Deploys InfluxDB Enterprise to AWS
 - [terraform-null-assert](https://github.com/kchugalinskiy/terraform-null-assert) - Terraform assertion module
 - [terraform-aws-foundation](https://github.com/fpco/terraform-aws-foundation) - Establish a solid Foundation on AWS with these modules for Terraform
 - [nomad-auto-join](https://github.com/hashicorp/nomad-auto-join) - Terraform config to automatically bootstrap a Nomad cluster

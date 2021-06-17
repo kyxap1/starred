@@ -684,6 +684,7 @@
 
 ## JavaScript 
 
+- [coc.nvim](https://github.com/neoclide/coc.nvim) - Nodejs extension host for vim & neovim, load extensions like VSCode and host language servers.
 - [waypoint](https://github.com/hashicorp/waypoint) - A tool to build, deploy, and release any application on any platform.
 - [AdNauseam](https://github.com/dhowe/AdNauseam) - AdNauseam: Fight back against advertising surveillance
 - [gitlab-release-note-generator](https://github.com/jk1z/gitlab-release-note-generator) - A Gitlab release note generator
@@ -1465,7 +1466,6 @@
 ## Vim script 
 
 - [indentLine](https://github.com/Yggdroot/indentLine) - A vim plugin to display the indention levels with thin vertical lines
-- [coc.nvim](https://github.com/neoclide/coc.nvim) - Nodejs extension host for vim & neovim, load extensions like VSCode and host language servers.
 - [space-vim](https://github.com/liuchengxu/space-vim) - :four_leaf_clover: Lean & mean spacemacs-ish Vim distribution
 - [vim-easy-align](https://github.com/junegunn/vim-easy-align) - :sunflower: A Vim alignment plugin
 - [neomake](https://github.com/neomake/neomake) - Asynchronous linting and make framework for Neovim/Vim

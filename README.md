@@ -166,6 +166,7 @@
 - [nocode](https://github.com/kelseyhightower/nocode) - The best way to write secure and reliable applications. Write nothing; deploy nowhere.
 - [PostDock](https://github.com/paunin/PostDock) - PostDock - Postgres & Docker - Postgres streaming replication cluster for any docker environment
 - [dockerfile-terraform](https://github.com/uzyexe/dockerfile-terraform) - Terraform Dockerfile
+- [docker-consul](https://github.com/hashicorp/docker-consul) - Official Docker images for Consul.
 - [wildfly-docker-deployment-example](https://github.com/goldmann/wildfly-docker-deployment-example) - 
 - [dockerfiles](https://github.com/jessfraz/dockerfiles) - Various Dockerfiles I use on the desktop and on servers.
 - [docker-atom-editor](https://github.com/jamesnetherton/docker-atom-editor) - Run the Atom editor within a Docker container
@@ -1338,7 +1339,6 @@
 - [packer-templates](https://github.com/kwilczynski/packer-templates) - Packer templates for creating Amazon EC2 images, Proxmox templates and Vagrant boxes
 - [nexusoss3-docker](https://github.com/JAlexoid/nexusoss3-docker) - Sonatype Nexus 3 Images
 - [official-images](https://github.com/docker-library/official-images) - Primary source of truth for the Docker "Official Images" program
-- [docker-consul](https://github.com/hashicorp/docker-consul) - Official Docker images for Consul.
 - [windup-ci](https://github.com/windup/windup-ci) - Jenkins scripts, perf tests, tools etc.
 - [base-jdk](https://github.com/jboss-dockerfiles/base-jdk) - Base Docker image for Middleware with JDK
 - [intellij-colors-solarized](https://github.com/jkaving/intellij-colors-solarized) - Solarized Colorscheme for IntelliJ IDEA

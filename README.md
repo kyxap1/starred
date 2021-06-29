@@ -591,7 +591,6 @@
 - [overwatch-dpi-tool](https://github.com/Pyrolistical/overwatch-dpi-tool) - 
 - [nginx-https-base](https://github.com/naggie/nginx-https-base) - An Ubuntu 16.04 Ansible role for small-scale nginx with automatic HTTPS via certbot/LE, better error pages, useful templates
 - [sovereign](https://github.com/sovereign/sovereign) - A set of Ansible playbooks to build and maintain your own private cloud: email, calendar, contacts, file sync, IRC bouncer, VPN, and more.
-- [ansible-role-mysql](https://github.com/geerlingguy/ansible-role-mysql) - Ansible Role - MySQL
 - [node-red-dashboard](https://github.com/node-red/node-red-dashboard) - A dashboard UI for Node-RED
 - [pup](https://github.com/ericchiang/pup) - Parsing HTML at the command line
 - [remark](https://github.com/gnab/remark) - A simple, in-browser, markdown-driven slideshow tool.
@@ -816,6 +815,7 @@
 
 - [ansible-roles](https://github.com/manala/ansible-roles) - Manala ansible roles
 - [debops](https://github.com/debops/debops) - DebOps - Your Debian-based data center in a box
+- [ansible-role-mysql](https://github.com/geerlingguy/ansible-role-mysql) - Ansible Role - MySQL
 - [postgresql](https://github.com/ANXS/postgresql) - Fairly full featured Ansible role for Postgresql.
 
 ## Jsonnet 

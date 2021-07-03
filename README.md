@@ -1427,7 +1427,7 @@
 
 - [Dozer](https://github.com/Mortennn/Dozer) - Hide menu bar icons on macOS
 - [blokada](https://github.com/blokadaorg/blokada) - The official repo for Blokada for Android and iOS.
-- [open-source-mac-os-apps](https://github.com/serhii-londar/open-source-mac-os-apps) - 🚀 Awesome list of open source applications for macOS. https://t.me/opensourcemacosapps
+- [open-source-mac-os-apps](https://github.com/serhii-londar/open-source-mac-os-apps) - 🚀 Awesome list of open source applications for macOS. https://t.me/s/opensourcemacosapps
 
 ## TSQL 
 

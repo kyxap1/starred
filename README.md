@@ -998,6 +998,7 @@
 
 ## Python 
 
+- [udica](https://github.com/containers/udica) - This repository contains a tool for generating SELinux security profiles for containers
 - [netbox](https://github.com/netbox-community/netbox) - Infrastructure resource modeling for network automation. Open source under Apache 2. Public demo: https://demo.netbox.dev
 - [gitlabform](https://github.com/egnyte/gitlabform) - Specialized "configuration as a code" tool for GitLab projects, groups and more using hierarchical configuration written in YAML
 - [prometheus-kafka-consumer-group-exporter](https://github.com/braedon/prometheus-kafka-consumer-group-exporter) - Prometheus Kafka Consumer Group Exporter

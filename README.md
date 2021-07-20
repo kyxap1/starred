@@ -504,7 +504,6 @@
 - [terraform-aws-starterkit-mirror](https://github.com/carrete/terraform-aws-starterkit-mirror) - This is only a mirror. Please see the official repository on GitLab.
 - [AWS-Infrasetup](https://github.com/naikajah/AWS-Infrasetup) - Building AWS infrastructure with Terraform
 - [oreno-terraform](https://github.com/shogomuranushi/oreno-terraform) - 
-- [devops](https://github.com/nearform/devops) - Devops repo
 - [tf-ses-demo](https://github.com/knakayama/tf-ses-demo) - 
 - [terraform-config](https://github.com/travis-ci/terraform-config) - Terraform bits and bytes
 - [tf-sfn-demo](https://github.com/knakayama/tf-sfn-demo) - 

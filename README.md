@@ -160,7 +160,6 @@
 
 ## Dockerfile 
 
-- [dockerfiles](https://github.com/tianon/dockerfiles) - A semi-random collection of odds and ends.
 - [vault-consul-docker](https://github.com/testdrivenio/vault-consul-docker) - 
 - [docker-registry-arm](https://github.com/vsellier/docker-registry-arm) - Docker registry for raspberry pi (arm build)
 - [nocode](https://github.com/kelseyhightower/nocode) - The best way to write secure and reliable applications. Write nothing; deploy nowhere.
@@ -657,7 +656,7 @@
 - [kumuluzee](https://github.com/kumuluz/kumuluzee) - Lightweight open-source framework for developing microservices using standard Java EE technologies and migrating Java EE to cloud-native architecture.
 - [consultant](https://github.com/Magnetme/consultant) - A library to retrieve your service's configuration from Consul, and subscribe to changes.
 - [cassandra-kinesis](https://github.com/smartcat-labs/cassandra-kinesis) - Cassandra connector for AWS Kinesis
-- [cassandra-consul-seed-provider](https://github.com/karnauskas/cassandra-consul-seed-provider) - Cassandra Seed Provider which works with Consul. Supports seeding from service discovery service or static K/V storage.
+- [cassandra-consul-seed-provider](https://github.com/karnauskas/cassandra-consul-seed-provider) - Consul seed provider for Cassandra DB
 - [Bastillion](https://github.com/bastillion-io/Bastillion) - Bastillion is a web-based SSH console that centrally manages administrative access to systems. Web-based administration is combined with management and distribution of user's public SSH keys.
 - [Bastillion-EC2](https://github.com/bastillion-io/Bastillion-EC2) - A web-based SSH console to execute commands and manage multiple EC2 instances simultaneously running on Amazon Web Services (AWS).
 - [apigateway](https://github.com/AWSinAction/apigateway) - AWS in Action: API Gateway
@@ -1288,6 +1287,7 @@
 - [docker-build-with-cache-action](https://github.com/whoan/docker-build-with-cache-action) - :octocat: Build and push docker images caching each stage to reduce build time
 - [aws-ec2-user-data](https://github.com/kyxap1/aws-ec2-user-data) - Script to modify user-data attribute on AWS EC2 instances
 - [wazuh-cloudformation](https://github.com/wazuh/wazuh-cloudformation) - Wazuh - Amazon AWS Cloudformation
+- [dockerfiles](https://github.com/tianon/dockerfiles) - A semi-random collection of odds and ends.
 - [wireguard-install](https://github.com/angristan/wireguard-install) - WireGuard VPN installer for Linux servers
 - [awesome-kubernetes](https://github.com/ramitsurana/awesome-kubernetes) - A curated list for awesome kubernetes sources :ship::tada:
 - [faq](https://github.com/ru-de/faq) - Полезная информация о жизни в Германии

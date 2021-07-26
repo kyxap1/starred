@@ -1286,7 +1286,6 @@
 - [WAZUH-OSSEC](https://github.com/magenx/WAZUH-OSSEC) - WAZUH - The Open Source Security Platform Installation
 - [ebs-automatic-nvme-mapping](https://github.com/oogali/ebs-automatic-nvme-mapping) - Automatic mapping of EBS volumes via NVMe block devices to standard block device paths
 - [docker-build-with-cache-action](https://github.com/whoan/docker-build-with-cache-action) - :octocat: Build and push docker images caching each stage to reduce build time
-- [aws-ec2-user-data](https://github.com/kyxap1/aws-ec2-user-data) - Script to modify user-data attribute on AWS EC2 instances
 - [wazuh-cloudformation](https://github.com/wazuh/wazuh-cloudformation) - Wazuh - Amazon AWS Cloudformation
 - [dockerfiles](https://github.com/tianon/dockerfiles) - A semi-random collection of odds and ends.
 - [wireguard-install](https://github.com/angristan/wireguard-install) - WireGuard VPN installer for Linux servers

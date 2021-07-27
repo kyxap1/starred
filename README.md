@@ -472,7 +472,6 @@
 
 ## HCL 
 
-- [terraform-aws-ec2-wazuh](https://github.com/robcxyz/terraform-aws-ec2-wazuh) - ec2 instance with wazuh, elasticsearch, and kibana installed
 - [elasticsearch-cloud-deploy](https://github.com/BigDataBoutique/elasticsearch-cloud-deploy) - Deploy Elasticsearch on the cloud easily
 - [terraform-aws-iam](https://github.com/terraform-aws-modules/terraform-aws-iam) - Terraform module which creates IAM resources on AWS
 - [terraform-multi-account](https://github.com/inovex/terraform-multi-account) - Some example how toadress multiple aws accounts with Terraform
@@ -1445,6 +1444,7 @@
 
 ## TypeScript 
 
+- [coc.nvim](https://github.com/neoclide/coc.nvim) - Nodejs extension host for vim & neovim, load extensions like VSCode and host language servers.
 - [n8n](https://github.com/n8n-io/n8n) - Free and open fair-code licensed node based Workflow Automation Tool. Easily automate tasks across different services.
 - [kutt](https://github.com/thedevs-network/kutt) - Free Modern URL Shortener.
 - [amplify-js](https://github.com/aws-amplify/amplify-js) - A declarative JavaScript library for application development using cloud services.
@@ -1465,7 +1465,6 @@
 ## Vim script 
 
 - [indentLine](https://github.com/Yggdroot/indentLine) - A vim plugin to display the indention levels with thin vertical lines
-- [coc.nvim](https://github.com/neoclide/coc.nvim) - Nodejs extension host for vim & neovim, load extensions like VSCode and host language servers.
 - [space-vim](https://github.com/liuchengxu/space-vim) - :four_leaf_clover: Lean & mean spacemacs-ish Vim distribution
 - [vim-easy-align](https://github.com/junegunn/vim-easy-align) - :sunflower: A Vim alignment plugin
 - [neomake](https://github.com/neomake/neomake) - Asynchronous linting and make framework for Neovim/Vim

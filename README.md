@@ -872,6 +872,8 @@
 
 ## Others 
 
+- [ossec-selinux](https://github.com/georou/ossec-selinux) - OSSEC SELinux policy module for RHEL7 and CentOS7
+- [filebeat-selinux](https://github.com/georou/filebeat-selinux) - Elasticsearch's Filebeat SELinux policy module for CentOS 7 & RHEL 7 systems
 - [fuckfuckadblock](https://github.com/bogachenko/fuckfuckadblock) - Filters for blocking pop-ups and anti-adblock bypass.
 - [asuswrt-merlin.ng](https://github.com/RMerl/asuswrt-merlin.ng) - Third party firmware for Asus routers (newer codebase)
 - [vscode-language-terraform](https://github.com/4ops/vscode-language-terraform) - Adds support for the Terraform configuration language to Visual Studio Code

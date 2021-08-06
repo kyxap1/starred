@@ -181,6 +181,7 @@
 
 ## Go 
 
+- [beats](https://github.com/fuero/beats) - :tropical_fish: Beats - Lightweight shippers for Elasticsearch & Logstash
 - [hcl2json](https://github.com/tmccombs/hcl2json) - Convert hcl2 to json
 - [terraform-provider-utils](https://github.com/cloudposse/terraform-provider-utils) - The Cloud Posse Terraform Provider for various utilities (e.g. deep merging, stack configuration management)
 - [vimonade](https://github.com/jrc2139/vimonade) - Vimonade | A slimmed down HTTP/2 fork of Lemonade
@@ -1287,6 +1288,7 @@
 
 ## Shell 
 
+- [beats_selinux](https://github.com/devzero2000/beats_selinux) - 
 - [vault-selinux-policies](https://github.com/hashicorp/vault-selinux-policies) - SELinux Policies for Vault
 - [Wazuh-3.10-installer](https://github.com/diagonalciso/Wazuh-3.10-installer) - 
 - [WazuhDeployment](https://github.com/austinsonger/WazuhDeployment) - Making Wazuh Deployment Easy

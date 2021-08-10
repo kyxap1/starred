@@ -264,7 +264,7 @@
 - [jaeger](https://github.com/jaegertracing/jaeger) - CNCF Jaeger, a Distributed Tracing Platform
 - [minio](https://github.com/minio/minio) - High Performance, Kubernetes Native Object Storage
 - [stolon](https://github.com/sorintlab/stolon) - PostgreSQL cloud native High Availability and more.
-- [mtail](https://github.com/google/mtail) - extract whitebox monitoring data from application logs for collection in a timeseries database
+- [mtail](https://github.com/google/mtail) - extract internal monitoring data from application logs for collection in a timeseries database
 - [oas2](https://github.com/hypnoglow/oas2) - OpenAPI 2.0 (aka Swagger) utils for Golang.
 - [terraboard](https://github.com/camptocamp/terraboard) - :earth_africa: :clipboard:  A web dashboard to inspect Terraform States
 - [atlantis](https://github.com/hootsuite/atlantis) - Atlantis is now being maintained at https://github.com/runatlantis/atlantis

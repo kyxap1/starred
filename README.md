@@ -114,7 +114,7 @@
 - [tdesktop](https://github.com/telegramdesktop/tdesktop) - Telegram Desktop messaging app
 - [veles](https://github.com/codilime/veles) - Binary data analysis and visualization tool
 - [osquery](https://github.com/osquery/osquery) - SQL powered operating system instrumentation, monitoring, and analytics.
-- [pushpin](https://github.com/fanout/pushpin) - Reverse proxy for realtime web services
+- [pushpin](https://github.com/fanout/pushpin) - Proxy server for adding push to your API
 - [AEBL](https://github.com/krattai/AEBL) - AEBL is a mobile multimedia distribution and playback platform.
 - [s3fs-fuse](https://github.com/s3fs-fuse/s3fs-fuse) - FUSE-based file system backed by Amazon S3
 - [liteide](https://github.com/visualfc/liteide) - LiteIDE is a simple, open source, cross-platform Go IDE.

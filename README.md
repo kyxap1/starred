@@ -243,7 +243,7 @@
 - [ksonnet](https://github.com/ksonnet/ksonnet) - A CLI-supported framework that streamlines writing and deployment of Kubernetes configurations to multiple clusters.
 - [eksctl](https://github.com/weaveworks/eksctl) - The official CLI for Amazon EKS
 - [slackcat](https://github.com/bcicen/slackcat) - CLI utility to post files and command output to slack
-- [goose](https://github.com/pressly/goose) - Goose database migration tool - fork of https://bitbucket.org/liamstask/goose
+- [goose](https://github.com/pressly/goose) - A database migration tool. Supports SQL migrations and Go functions.
 - [skaffold](https://github.com/GoogleContainerTools/skaffold) - Easy and Repeatable Kubernetes Development
 - [terratest](https://github.com/gruntwork-io/terratest) - Terratest is a Go library that makes it easier to write automated tests for your infrastructure code.
 - [freegeoip](https://github.com/apilayer/freegeoip) - IP geolocation web server

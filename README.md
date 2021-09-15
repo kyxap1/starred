@@ -856,6 +856,7 @@
 
 ## Makefile 
 
+- [selinux-dockersock](https://github.com/dpw/selinux-dockersock) - Allow containers to access docker.sock under Fedora and RHEL
 - [Intel-NUC-DSDT-Patch](https://github.com/RehabMan/Intel-NUC-DSDT-Patch) - Patches and Clover configuration required for Intel NUC5/6/7/8 series mini PCs
 - [terraform-spec](https://github.com/johnrengelman/terraform-spec) - Docker container of utilities for testing Terraform modules
 - [ansible-role-datastax-ddc](https://github.com/kostyrev/ansible-role-datastax-ddc) - 

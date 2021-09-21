@@ -480,6 +480,7 @@
 
 ## HCL 
 
+- [terraform-aws-appconfig](https://github.com/clowdhaus/terraform-aws-appconfig) - Terraform module which creates AWS AppConfig resources
 - [terraform-aws-ssm-patch-management](https://github.com/jparnaudeau/terraform-aws-ssm-patch-management) - AWS Terraform Module to manage SSM Patch Management Resources
 - [elasticsearch-cloud-deploy](https://github.com/BigDataBoutique/elasticsearch-cloud-deploy) - Deploy Elasticsearch on the cloud easily
 - [terraform-aws-iam](https://github.com/terraform-aws-modules/terraform-aws-iam) - Terraform module which creates IAM resources on AWS
@@ -795,7 +796,7 @@
 - [slack-patron](https://github.com/tyage/slack-patron) - Log and view all Slack messages.
 - [pingbot](https://github.com/toricls/pingbot) - A website monitoring/health-checking tool based on serverless architecture.
 - [MobDistTool](https://github.com/rgroult/MobDistTool) - Mobile App Distribution Tool
-- [s3scan](https://github.com/mapbox/s3scan) - S3 can!
+- [s3scan](https://github.com/mapbox/s3scan) - S3 can! - Provides native Node.js streams for S3 operations.
 - [aws-log-replay](https://github.com/mapbox/aws-log-replay) - Transform and replay CloudFront, ELB Classic, and ALB logs
 - [pingdummy](https://github.com/segmentio/pingdummy) - Example application for segmentio/stack
 - [elasticsearch-head](https://github.com/mobz/elasticsearch-head) - A web front end for an elastic search cluster

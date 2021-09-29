@@ -355,6 +355,7 @@
 - [rack](https://github.com/convox/rack) - Private PaaS built on native AWS services for maximum privacy and minimum upkeep
 - [janitor](https://github.com/cloud66/janitor) - Clean up unwanted servers
 - [goavro](https://github.com/linkedin/goavro) - 
+- [compose](https://github.com/docker/compose) - Define and run multi-container applications with Docker
 - [jose](https://github.com/SermoDigital/jose) - A comprehensive set of JWT, JWS, and JWE libraries.
 - [objconv](https://github.com/segmentio/objconv) - A Go package exposing encoder and decoders that support data streaming to and from multiple formats.
 - [consul-router](https://github.com/segment-boneyard/consul-router) - HTTP proxy with service discovery capabilities based on consul
@@ -1113,7 +1114,6 @@
 - [asciinema](https://github.com/asciinema/asciinema) - Terminal session recorder 📹
 - [glances](https://github.com/nicolargo/glances) - Glances an Eye on your system. A top/htop alternative for GNU/Linux, BSD, Mac OS and Windows operating systems.
 - [locust](https://github.com/locustio/locust) - Scalable user load testing tool written in Python
-- [compose](https://github.com/docker/compose) - Define and run multi-container applications with Docker
 - [superset](https://github.com/apache/superset) - Apache Superset is a Data Visualization and Data Exploration Platform
 - [http-prompt](https://github.com/httpie/http-prompt) - An interactive command-line HTTP and API testing client built on top of HTTPie featuring autocomplete, syntax highlighting, and more. https://twitter.com/httpie
 - [rds-pgbadger](https://github.com/fpietka/rds-pgbadger) - Fetch logs from RDS instance, and process them with pgBadger
@@ -1278,7 +1278,7 @@
 - [vector](https://github.com/vectordotdev/vector) - A high-performance observability data pipeline.
 - [mcfly](https://github.com/cantino/mcfly) - Fly through your shell history. Great Scott!
 - [ripgrep](https://github.com/BurntSushi/ripgrep) - ripgrep recursively searches directories for a regex pattern while respecting your gitignore
-- [static-analysis](https://github.com/analysis-tools-dev/static-analysis) - A curated list of static analysis (SAST) tools for all programming languages, config files, build tools, and more.
+- [static-analysis](https://github.com/analysis-tools-dev/static-analysis) - ⚙️ A curated list of static analysis (SAST) tools for all programming languages, config files, build tools, and more.
 - [wsta](https://github.com/esphen/wsta) - A CLI development tool for WebSocket APIs
 - [alacritty](https://github.com/alacritty/alacritty) - A cross-platform, OpenGL terminal emulator.
 - [habitat](https://github.com/habitat-sh/habitat) - Modern applications with built-in automation

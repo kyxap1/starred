@@ -84,7 +84,7 @@
 - [bottledwater-pg](https://github.com/confluentinc/bottledwater-pg) - Change data capture from PostgreSQL into Kafka
 - [jq](https://github.com/stedolan/jq) - Command-line JSON processor
 - [jo](https://github.com/jpmens/jo) - JSON output from a shell
-- [libzbxpgsql](https://github.com/cavaliercoder/libzbxpgsql) - Monitor PostgreSQL with Zabbix
+- [libzbxpgsql](https://github.com/zabbix-tools/libzbxpgsql) - Monitor PostgreSQL with Zabbix
 - [yank](https://github.com/mptre/yank) - Yank terminal output to clipboard
 - [mod_auth_mysql](https://github.com/vstakhov/mod_auth_mysql) - Updated version of mod_auth_mysql taken from https://sourceforge.net/p/modauthmysql
 - [MOTHBALLED-graphviz](https://github.com/ellson/MOTHBALLED-graphviz) - Moved to https://gitlab.com/graphviz/graphviz

@@ -16,6 +16,7 @@
   - [DTrace](#dtrace)
   - [Dockerfile](#dockerfile)
   - [Elixir](#elixir)
+  - [Gherkin](#gherkin)
   - [Go](#go)
   - [Groovy](#groovy)
   - [HCL](#hcl)
@@ -183,6 +184,10 @@
 
 - [asciinema-server](https://github.com/asciinema/asciinema-server) - Web app for hosting asciicasts
 - [exhcl](https://github.com/asakura/exhcl) - Configuration language inspired by HCL
+
+## Gherkin 
+
+- [sdkman-cli](https://github.com/sdkman/sdkman-cli) - The SDKMAN! Command Line Interface
 
 ## Go 
 
@@ -946,7 +951,7 @@
 - [ansible-vagrant-examples](https://github.com/geerlingguy/ansible-vagrant-examples) - Ansible examples using Vagrant to deploy to local VMs.
 - [ansible-role-packer](https://github.com/patrick-hill/ansible-role-packer) - 
 - [Sqoop](https://github.com/SriGovindGutala/Sqoop) - This repo contains all the different ways you can ingest data from RDBMS to HDFS and vice versa using Sqoop.
-- [awesome-graphql](https://github.com/chentsulin/awesome-graphql) - Awesome list of GraphQL & Relay
+- [awesome-graphql](https://github.com/chentsulin/awesome-graphql) - Awesome list of GraphQL
 - [tool-repos](https://github.com/monitoringsucks/tool-repos) - Tracking various tools that fit in the monitoring and metrics space
 - [dockerfile-transcrypt](https://github.com/unifio/dockerfile-transcrypt) - Dockerfile for creation of a Transcrypt container
 - [ansible-vault](https://github.com/MiLk/ansible-vault) - Ansible Vault role
@@ -1301,7 +1306,6 @@
 
 - [beats_selinux](https://github.com/devzero2000/beats_selinux) - 
 - [vault-selinux-policies](https://github.com/hashicorp/vault-selinux-policies) - SELinux Policies for Vault
-- [Wazuh-3.10-installer](https://github.com/diagonalciso/Wazuh-3.10-installer) - 
 - [WazuhDeployment](https://github.com/austinsonger/WazuhDeployment) - Making Wazuh Deployment Easy
 - [WAZUH](https://github.com/ch3332xr/WAZUH) - Get Started with WAZUH in a jiffy
 - [WAZUH-OSSEC](https://github.com/magenx/WAZUH-OSSEC) - WAZUH - The Open Source Security Platform Installation
@@ -1409,7 +1413,6 @@
 - [tfenv](https://github.com/tfutils/tfenv) - Terraform version manager
 - [aws-ec2-raid0-script](https://github.com/starrlingo/aws-ec2-raid0-script) - Provide a template script to perform Raid 0 architecture in AWS EC2
 - [repository](https://github.com/ulyaoth/repository) - (NO LONGER MAINTAINED): Ulyaoth Repository
-- [sdkman-cli](https://github.com/sdkman/sdkman-cli) - The SDKMAN! Command Line Interface
 - [gvm](https://github.com/moovweb/gvm) - Go Version Manager
 - [wtf](https://github.com/defnn/wtf) - Wrappers for Terraform
 - [docker-cleanup](https://github.com/meltwater/docker-cleanup) - DEPRECATED Automatic Docker image, container and volume cleanup

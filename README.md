@@ -198,6 +198,7 @@
 - [terraform-ls](https://github.com/hashicorp/terraform-ls) - Terraform Language Server
 - [supervisord](https://github.com/ochinchina/supervisord) - a go-lang supervisor implementation
 - [mkcert](https://github.com/FiloSottile/mkcert) - A simple zero-config tool to make locally trusted development certificates with any names you'd like.
+- [waypoint](https://github.com/hashicorp/waypoint) - A tool to build, deploy, and release any application on any platform.
 - [clair](https://github.com/quay/clair) - Vulnerability Static Analysis for Containers
 - [dive](https://github.com/wagoodman/dive) - A tool for exploring each layer in a docker image
 - [ingress-nginx](https://github.com/kubernetes/ingress-nginx) - NGINX Ingress Controller for Kubernetes
@@ -698,7 +699,6 @@
 
 ## JavaScript 
 
-- [waypoint](https://github.com/hashicorp/waypoint) - A tool to build, deploy, and release any application on any platform.
 - [AdNauseam](https://github.com/dhowe/AdNauseam) - AdNauseam: Fight back against advertising surveillance
 - [gitlab-release-note-generator](https://github.com/jk1z/gitlab-release-note-generator) - A Gitlab release note generator
 - [awesome-mac](https://github.com/jaywcjlove/awesome-mac) -  Now we have become very big, Different from the original idea. Collect premium software in various categories.

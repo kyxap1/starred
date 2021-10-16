@@ -755,7 +755,7 @@
 - [aws-lambda-fanout](https://github.com/aws-samples/aws-lambda-fanout) - A sample AWS Lambda function that accepts messages from an Amazon Kinesis Stream and transfers the messages to another data transport.
 - [scope](https://github.com/serverless/scope) - 🔭 Scope - Create a birdeye's view of your Github project and embed on your site
 - [s3-lambda](https://github.com/littlstar/s3-lambda) - Lambda functions over S3 objects with concurrency control (each, map, reduce, filter)
-- [aws-data-lake-solution](https://github.com/awslabs/aws-data-lake-solution) - A deployable reference implementation intended to address pain points around conceptualizing data lake architectures that automatically configures the core AWS services necessary to easily tag, search, share, and govern specific subsets of data across a business or with other external businesses.
+- [aws-data-lake-solution](https://github.com/aws-solutions/aws-data-lake-solution) - A deployable reference implementation intended to address pain points around conceptualizing data lake architectures that automatically configures the core AWS services necessary to easily tag, search, share, and govern specific subsets of data across a business or with other external businesses.
 - [pinball](https://github.com/pinterest/pinball) - Pinball is a scalable workflow manager
 - [tfsoa](https://github.com/sepulworld/tfsoa) - Terraform State of Awareness Dashboard
 - [github-to-s3-lambda-deployer](https://github.com/RafalWilinski/github-to-s3-lambda-deployer) - ⚓️ GitHub webhook extension for uploading static pages to AWS S3 directly after commiting to master via Lambda written in Node.js

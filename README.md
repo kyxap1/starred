@@ -192,6 +192,7 @@
 
 ## Go 
 
+- [notary](https://github.com/notaryproject/notary) - Notary is a project that allows anyone to have trust over arbitrary collections of data
 - [beats](https://github.com/fuero/beats) - :tropical_fish: Beats - Lightweight shippers for Elasticsearch & Logstash
 - [hcl2json](https://github.com/tmccombs/hcl2json) - Convert hcl2 to json
 - [terraform-provider-utils](https://github.com/cloudposse/terraform-provider-utils) - The Cloud Posse Terraform Provider for various utilities (e.g. deep merging, stack configuration management)

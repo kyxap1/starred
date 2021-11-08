@@ -100,7 +100,7 @@
 ## C# # 
 
 - [nvidiaProfileInspector](https://github.com/Orbmu2k/nvidiaProfileInspector) - 
-- [Resu](https://github.com/User5981/Resu) - Turbo.Plugins.Resu
+- [Resu](https://github.com/Masteroshi430/Resu) - Turbo.Plugins.Resu
 - [ShareX](https://github.com/ShareX/ShareX) - ShareX is a free and open source program that lets you capture or record any area of your screen and share it with a single press of a key. It also allows uploading images, text or other types of files to many supported destinations you can choose from.
 - [NoCableLauncher](https://github.com/Maxx53/NoCableLauncher) - Rocksmith 2014 Launcher for playing without RealTone cable (nocable fix)
 - [docker-lambda](https://github.com/lambci/docker-lambda) - Docker images and test runners that replicate the live AWS Lambda environment

@@ -473,7 +473,7 @@
 - [hugo](https://github.com/gohugoio/hugo) - The world’s fastest framework for building websites.
 - [goa](https://github.com/goadesign/goa) - Design-based APIs and microservices in Go
 - [cobra](https://github.com/spf13/cobra) - A Commander for modern Go CLI interactions
-- [license](https://github.com/nishanths/license) - Command line license text generator
+- [license](https://github.com/nishanths/license) - Command-line license text generator.
 - [packer](https://github.com/hashicorp/packer) - Packer is a tool for creating identical machine images for multiple platforms from a single source configuration.
 - [terraform](https://github.com/hashicorp/terraform) - Terraform enables you to safely and predictably create, change, and improve infrastructure. It is an open source tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.
 - [bosun](https://github.com/bosun-monitor/bosun) - Time Series Alerting Framework
@@ -1282,7 +1282,7 @@
 
 ## Rust 
 
-- [vector](https://github.com/vectordotdev/vector) - A high-performance observability data pipeline.
+- [vector](https://github.com/vectordotdev/vector) - Build high performance observability data pipelines.
 - [mcfly](https://github.com/cantino/mcfly) - Fly through your shell history. Great Scott!
 - [ripgrep](https://github.com/BurntSushi/ripgrep) - ripgrep recursively searches directories for a regex pattern while respecting your gitignore
 - [static-analysis](https://github.com/analysis-tools-dev/static-analysis) - ⚙️ A curated list of static analysis (SAST) tools for all programming languages, config files, build tools, and more.

@@ -1282,7 +1282,7 @@
 
 ## Rust 
 
-- [vector](https://github.com/vectordotdev/vector) - Build high performance observability data pipelines.
+- [vector](https://github.com/vectordotdev/vector) - A high-performance observability data pipeline.
 - [mcfly](https://github.com/cantino/mcfly) - Fly through your shell history. Great Scott!
 - [ripgrep](https://github.com/BurntSushi/ripgrep) - ripgrep recursively searches directories for a regex pattern while respecting your gitignore
 - [static-analysis](https://github.com/analysis-tools-dev/static-analysis) - ⚙️ A curated list of static analysis (SAST) tools for all programming languages, config files, build tools, and more.

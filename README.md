@@ -1308,6 +1308,7 @@
 
 ## Shell 
 
+- [ec2-image-builder](https://github.com/sufleio/ec2-image-builder) - Custom Build and Test Components developed for AWS EC2 Image Builder (https://docs.aws.amazon.com/imagebuilder/latest/userguide/what-is-image-builder.html)
 - [cis-benchmark-remediate](https://github.com/MariaZubchenko/cis-benchmark-remediate) - Script for passing AWS Inspector audits with rule package Operating system security configuration CIS Benchmarks-1.0
 - [beats_selinux](https://github.com/devzero2000/beats_selinux) - 
 - [vault-selinux-policies](https://github.com/hashicorp/vault-selinux-policies) - SELinux Policies for Vault

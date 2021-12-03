@@ -61,6 +61,7 @@
 
 ## C 
 
+- [borg](https://github.com/borgbackup/borg) - Deduplicating archiver with compression and authenticated encryption.
 - [nginx-fips-check-module](https://github.com/ogarrett/nginx-fips-check-module) - Basic NGINX module to report on OpenSSL FIPS status
 - [wazuh](https://github.com/wazuh/wazuh) - Wazuh - The Open Source Security Platform
 - [zapret](https://github.com/bol-van/zapret) - Обход DPI в linux
@@ -69,7 +70,7 @@
 - [zfs](https://github.com/openzfs/zfs) - OpenZFS on Linux and FreeBSD
 - [obs-studio](https://github.com/obsproject/obs-studio) - OBS Studio - Free and open source software for live streaming and screen recording
 - [the_silver_searcher](https://github.com/ggreer/the_silver_searcher) - A code-searching tool similar to ack, but faster.
-- [mydumper](https://github.com/mydumper/mydumper) - Official mydumper project
+- [mydumper](https://github.com/mydumper/mydumper) - Official MyDumper project
 - [Entware-ng](https://github.com/Entware/Entware-ng) - Entware-ng
 - [nginx-module-sts](https://github.com/vozlt/nginx-module-sts) - Nginx stream server traffic status module
 - [netdata](https://github.com/netdata/netdata) - Real-time performance monitoring, done right! https://www.netdata.cloud
@@ -909,7 +910,6 @@
 - [soa-checklist](https://github.com/paunin/soa-checklist) - Microservice Oriented Architecture checklist
 - [awesome-consul](https://github.com/josegonzalez/awesome-consul) - A list of awesome consul projects, libraries
 - [bash-shortcuts-cheat-sheet](https://github.com/fliptheweb/bash-shortcuts-cheat-sheet) - Useful shortcuts for bash/zsh
-- [developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) - Roadmap to becoming a web developer in 2021
 - [awesome-prometheus](https://github.com/roaldnefs/awesome-prometheus) - A curated list of awesome Prometheus resources, projects and tools.
 - [awesome-ssh](https://github.com/moul/awesome-ssh) - :computer: A curated list of SSH resources.
 - [devopsfactors](https://github.com/devopsfactors/devopsfactors) - The DevOps Factors
@@ -1474,6 +1474,7 @@
 - [coc.nvim](https://github.com/neoclide/coc.nvim) - Nodejs extension host for vim & neovim, load extensions like VSCode and host language servers.
 - [n8n](https://github.com/n8n-io/n8n) - Free and open fair-code licensed node based Workflow Automation Tool. Easily automate tasks across different services.
 - [kutt](https://github.com/thedevs-network/kutt) - Free Modern URL Shortener.
+- [developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) - Roadmap to becoming a web developer in 2021
 - [amplify-js](https://github.com/aws-amplify/amplify-js) - A declarative JavaScript library for application development using cloud services.
 - [graphql-compose-aws](https://github.com/graphql-compose/graphql-compose-aws) - AWS Cloud API via GraphQL
 - [DIM](https://github.com/DestinyItemManager/DIM) - Destiny Item Manager

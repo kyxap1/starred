@@ -226,7 +226,7 @@
 - [envexec](https://github.com/hypnoglow/envexec) - A tool that executes any command or application provisioning its environment with variables from providers (like secrets from Vault).
 - [kubeval](https://github.com/instrumenta/kubeval) - Validate your Kubernetes configuration files, supports multiple Kubernetes versions
 - [mattermost-push-proxy](https://github.com/mattermost/mattermost-push-proxy) - 
-- [pulumi](https://github.com/pulumi/pulumi) - Pulumi - Modern Infrastructure as Code. Any cloud, any language 🚀
+- [pulumi](https://github.com/pulumi/pulumi) - Pulumi - Developer-First Infrastructure as Code. Your Cloud, Your Language, Your Way 🚀
 - [charts](https://github.com/helm/charts) - ⚠️(OBSOLETE) Curated applications for Kubernetes
 - [go-camo](https://github.com/arachnys/go-camo) - An SSL/TLS proxy for insecure static assets to circumvent mixed content warnings. Based on `go-camo`, and `camo`.
 - [slack-advanced-exporter](https://github.com/grundleborg/slack-advanced-exporter) - A tool for exporting additional data from Slack that is missing from the official data export.

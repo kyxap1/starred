@@ -893,6 +893,7 @@
 
 ## Others 
 
+- [GeoLite.mmdb](https://github.com/P3TERX/GeoLite.mmdb) - MaxMind's GeoIP2 GeoLite2 Country, City, and ASN databases
 - [filebeat-clamav](https://github.com/arall/filebeat-clamav) - 
 - [Hosts](https://github.com/Cybo1927/Hosts) - A multilingual blacklist of ads, trackers, annoyances, malware, IP grabbers, fake sites, tracking cookies, etc.
 - [ossec-selinux](https://github.com/georou/ossec-selinux) - OSSEC SELinux policy module for RHEL7 and CentOS7
@@ -1282,7 +1283,7 @@
 
 ## Rust 
 
-- [vector](https://github.com/vectordotdev/vector) - A high-performance observability data pipeline.
+- [vector](https://github.com/vectordotdev/vector) - A reliable, high-performance tool for building observability data pipelines.
 - [mcfly](https://github.com/cantino/mcfly) - Fly through your shell history. Great Scott!
 - [ripgrep](https://github.com/BurntSushi/ripgrep) - ripgrep recursively searches directories for a regex pattern while respecting your gitignore
 - [static-analysis](https://github.com/analysis-tools-dev/static-analysis) - ⚙️ A curated list of static analysis (SAST) tools for all programming languages, config files, build tools, and more.

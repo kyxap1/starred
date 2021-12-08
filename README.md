@@ -193,6 +193,7 @@
 
 ## Go 
 
+- [atlantis](https://github.com/runatlantis/atlantis) - Terraform Pull Request Automation
 - [notary](https://github.com/notaryproject/notary) - Notary is a project that allows anyone to have trust over arbitrary collections of data
 - [beats](https://github.com/fuero/beats) - :tropical_fish: Beats - Lightweight shippers for Elasticsearch & Logstash
 - [hcl2json](https://github.com/tmccombs/hcl2json) - Convert hcl2 to json

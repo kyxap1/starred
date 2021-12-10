@@ -193,6 +193,9 @@
 
 ## Go 
 
+- [terraform-graph-beautifier](https://github.com/pcasteran/terraform-graph-beautifier) - Terraform graph beautifier
+- [inframap](https://github.com/cycloidio/inframap) - Read your tfstate or HCL to generate a graph specific for each provider, showing only the resources that are most important/relevant.
+- [terracreds](https://github.com/tonedefdev/terracreds) - A Terraform Cloud/Enterprise credentials helper
 - [atlantis](https://github.com/runatlantis/atlantis) - Terraform Pull Request Automation
 - [notary](https://github.com/notaryproject/notary) - Notary is a project that allows anyone to have trust over arbitrary collections of data
 - [beats](https://github.com/fuero/beats) - :tropical_fish: Beats - Lightweight shippers for Elasticsearch & Logstash
@@ -704,6 +707,7 @@
 
 ## JavaScript 
 
+- [blast-radius](https://github.com/gruberdev/blast-radius) - Interactive visualizations of Terraform dependency graphs using d3.js
 - [AdNauseam](https://github.com/dhowe/AdNauseam) - AdNauseam: Fight back against advertising surveillance
 - [gitlab-release-note-generator](https://github.com/jk1z/gitlab-release-note-generator) - A Gitlab release note generator
 - [awesome-mac](https://github.com/jaywcjlove/awesome-mac) -  Now we have become very big, Different from the original idea. Collect premium software in various categories.
@@ -1473,6 +1477,7 @@
 
 ## TypeScript 
 
+- [terraform-visual](https://github.com/hieven/terraform-visual) - Terraform Visual is an interactive way of visualizing your Terraform plan
 - [coc.nvim](https://github.com/neoclide/coc.nvim) - Nodejs extension host for vim & neovim, load extensions like VSCode and host language servers.
 - [n8n](https://github.com/n8n-io/n8n) - Free and open fair-code licensed node based Workflow Automation Tool. Easily automate tasks across different services.
 - [kutt](https://github.com/thedevs-network/kutt) - Free Modern URL Shortener.

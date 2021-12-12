@@ -603,6 +603,7 @@
 
 ## HTML 
 
+- [amazon-linux-2022](https://github.com/amazonlinux/amazon-linux-2022) - Amazon Linux 2022
 - [ec2instances.info](https://github.com/vantage-sh/ec2instances.info) - Amazon EC2 instance comparison site
 - [htmlparser](https://github.com/htmlparser/htmlparser) - Parsing HTML at the command line
 - [subspace](https://github.com/subspacecommunity/subspace) - A fork of the simple WireGuard VPN server GUI community maintained
@@ -836,6 +837,8 @@
 
 ## Jinja 
 
+- [RHEL7-CIS](https://github.com/ansible-lockdown/RHEL7-CIS) - Ansible role for Red Hat 7 CIS Baseline
+- [RHEL8-CIS](https://github.com/ansible-lockdown/RHEL8-CIS) - CIS Baseline Ansible Role for RHEL 8
 - [ansible-roles](https://github.com/manala/ansible-roles) - Manala ansible roles
 - [ansible-mysql](https://github.com/HanXHX/ansible-mysql) - Ansible role for Debian : MariaDB (Galera Cluster as option)
 - [debops](https://github.com/debops/debops) - DebOps - Your Debian-based data center in a box
@@ -1279,7 +1282,7 @@
 - [gist](https://github.com/defunkt/gist) - Potentially the best command line gister.
 - [racker](https://github.com/aspring/racker) - Racker is an opinionated Ruby DSL for generating Packer(www.packer.io) templates.
 - [einarc](https://github.com/inq-team/einarc) - Einarc (Einarc is not a RAID CLI) is a universal storage RAID command line interface and an API that provides management for various hardware/software RAID devices, uniting them all in a single paradigm
-- [terraforming](https://github.com/dtan4/terraforming) - Export existing AWS resources to Terraform style (tf, tfstate)
+- [terraforming](https://github.com/dtan4/terraforming) - Export existing AWS resources to Terraform style (tf, tfstate) / No longer actively maintained
 - [fpm](https://github.com/jordansissel/fpm) - Effing package management! Build packages for multiple platforms (deb, rpm, etc) with great ease and sanity.
 - [terraform-sample](https://github.com/mikeclarke/terraform-sample) - Example of using terraform with chef to provision a VPC and deploy custom AMIs from scratch
 - [cfndsl](https://github.com/cfndsl/cfndsl) - A DSL for generating Amazon Web Services CloudFormation templates.
@@ -1481,7 +1484,7 @@
 - [coc.nvim](https://github.com/neoclide/coc.nvim) - Nodejs extension host for vim & neovim, load extensions like VSCode and host language servers.
 - [n8n](https://github.com/n8n-io/n8n) - Free and open fair-code licensed node based Workflow Automation Tool. Easily automate tasks across different services.
 - [kutt](https://github.com/thedevs-network/kutt) - Free Modern URL Shortener.
-- [developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) - Roadmap to becoming a web developer in 2021
+- [developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) - Roadmap to becoming a developer in 2021
 - [amplify-js](https://github.com/aws-amplify/amplify-js) - A declarative JavaScript library for application development using cloud services.
 - [graphql-compose-aws](https://github.com/graphql-compose/graphql-compose-aws) - AWS Cloud API via GraphQL
 - [DIM](https://github.com/DestinyItemManager/DIM) - Destiny Item Manager

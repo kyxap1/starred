@@ -901,6 +901,7 @@
 
 ## Others 
 
+- [RHEL7-CIS-Audit](https://github.com/ansible-lockdown/RHEL7-CIS-Audit) - Audit configurations for RHEL7 CIS
 - [GeoLite.mmdb](https://github.com/P3TERX/GeoLite.mmdb) - MaxMind's GeoIP2 GeoLite2 Country, City, and ASN databases
 - [filebeat-clamav](https://github.com/arall/filebeat-clamav) - 
 - [Hosts](https://github.com/Cybo1927/Hosts) - A multilingual blacklist of ads, trackers, annoyances, malware, IP grabbers, fake sites, tracking cookies, etc.
@@ -1215,6 +1216,12 @@
 
 ## Ruby 
 
+- [chef-inspec-cis-centos7-level1](https://github.com/Rudikza/chef-inspec-cis-centos7-level1) - 
+- [redhat-enterprise-linux-7-stig-baseline](https://github.com/mitre/redhat-enterprise-linux-7-stig-baseline) - InSpec profile to validate the secure configuration of Red Hat Enterprise Linux 7, against DISA's Red Hat Enterprise Linux 7 Security Technical Implementation Guide (STIG) Version 2, Release 6.
+- [cis-dil-benchmark](https://github.com/dev-sec/cis-dil-benchmark) - CIS Distribution Independent Linux Benchmark - InSpec Profile
+- [linux-baseline](https://github.com/dev-sec/linux-baseline) - DevSec Linux Baseline - InSpec Profile
+- [aws-foundations-cis-baseline](https://github.com/mitre/aws-foundations-cis-baseline) - InSpec profile to validate your VPC to the standards of the CIS Amazon Web Services Foundations Benchmark v1.1.0
+- [cis-docker-benchmark](https://github.com/dev-sec/cis-docker-benchmark) - CIS Docker Benchmark - InSpec Profile
 - [lunchy](https://github.com/eddiezane/lunchy) - A friendly wrapper for launchctl
 - [gitlab](https://github.com/NARKOZ/gitlab) - Ruby wrapper and CLI for the GitLab REST API
 - [inspec-iggy](https://github.com/mattray/inspec-iggy) - InSpec CLI plugin for generating compliance controls from Terraform and CloudFormation

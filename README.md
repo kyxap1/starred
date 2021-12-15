@@ -325,7 +325,7 @@
 - [gogs](https://github.com/gogs/gogs) - Gogs is a painless self-hosted Git service
 - [drone](https://github.com/harness/drone) - Drone is a Container-Native, Continuous Delivery Platform
 - [dnscontrol](https://github.com/StackExchange/dnscontrol) - Synchronize your DNS to multiple providers from a simple DSL
-- [teleport](https://github.com/gravitational/teleport) - Certificate authority and access plane for SSH, Kubernetes, web applications, and databases
+- [teleport](https://github.com/gravitational/teleport) - Certificate authority and access plane for SSH, Kubernetes, web apps, databases and desktops
 - [ec2-ls-hosts](https://github.com/ReSTARTR/ec2-ls-hosts) - an alternative tool for describing ec2 instances
 - [semaphore](https://github.com/ansible-semaphore/semaphore) - Modern UI for Ansible
 - [zabbixctl](https://github.com/kovetskiy/zabbixctl) - Most effective way for operating in Zabbix Server
@@ -843,6 +843,7 @@
 - [ansible-mysql](https://github.com/HanXHX/ansible-mysql) - Ansible role for Debian : MariaDB (Galera Cluster as option)
 - [debops](https://github.com/debops/debops) - DebOps - Your Debian-based data center in a box
 - [ansible-role-mysql](https://github.com/geerlingguy/ansible-role-mysql) - Ansible Role - MySQL
+- [algo](https://github.com/trailofbits/algo) - Set up a personal VPN in the cloud
 - [postgresql](https://github.com/ANXS/postgresql) - Fairly full featured Ansible role for Postgresql.
 
 ## Jsonnet 
@@ -1105,7 +1106,6 @@
 - [ansible-lint](https://github.com/ansible-community/ansible-lint) - Best practices checker for Ansible
 - [validator.vim](https://github.com/maralla/validator.vim) - Check syntax on the fly asynchronously.
 - [xmltodict](https://github.com/martinblech/xmltodict) - Python module that makes working with XML feel like you are working with JSON
-- [algo](https://github.com/trailofbits/algo) - Set up a personal VPN in the cloud
 - [ansigenome](https://github.com/nickjj/ansigenome) - A tool to help you gather information and manage your Ansible roles.
 - [aws-ansible-cassandra](https://github.com/oliverlockwood/aws-ansible-cassandra) - Simple Ansible script to set up a minimal Cassandra cluster
 - [debops-tools](https://github.com/debops/debops-tools) - Your Debian-based data center in a box

@@ -58,6 +58,7 @@
   - [VimL](#viml)
   - [Vue](#vue)
   - [XSLT](#xslt)
+  - [YAML](#yaml)
 
 ## C 
 
@@ -837,8 +838,6 @@
 
 ## Jinja 
 
-- [RHEL7-CIS](https://github.com/ansible-lockdown/RHEL7-CIS) - Ansible role for Red Hat 7 CIS Baseline
-- [RHEL8-CIS](https://github.com/ansible-lockdown/RHEL8-CIS) - CIS Baseline Ansible Role for RHEL 8
 - [ansible-roles](https://github.com/manala/ansible-roles) - Manala ansible roles
 - [ansible-mysql](https://github.com/HanXHX/ansible-mysql) - Ansible role for Debian : MariaDB (Galera Cluster as option)
 - [debops](https://github.com/debops/debops) - DebOps - Your Debian-based data center in a box
@@ -1548,6 +1547,11 @@
 ## XSLT 
 
 - [wildfly-docker-configuration](https://github.com/goldmann/wildfly-docker-configuration) - 
+
+## YAML 
+
+- [RHEL7-CIS](https://github.com/ansible-lockdown/RHEL7-CIS) - Ansible role for Red Hat 7 CIS Baseline
+- [RHEL8-CIS](https://github.com/ansible-lockdown/RHEL8-CIS) - CIS Baseline Ansible Role for RHEL 8
 
 
 ## License

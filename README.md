@@ -310,7 +310,7 @@
 - [awless-scheduler](https://github.com/wallix/awless-scheduler) - Schedule runs and reverts of awless templates
 - [awesome-go](https://github.com/avelino/awesome-go) - A curated list of awesome Go frameworks, libraries and software
 - [terraform-provider-zabbix](https://github.com/dainis/terraform-provider-zabbix) - 
-- [terraform-provider-awsplus](https://github.com/BWITS/terraform-provider-awsplus) - missing resources in terraform aws provider
+- [terraform-provider-awsplus](https://github.com/ozbillwang/terraform-provider-awsplus) - missing resources in terraform aws provider
 - [tfwatch](https://github.com/webdevwilson/tfwatch) - Continuous infrastructure tool
 - [sabaviz](https://github.com/tom--bo/sabaviz) - Create dot files for graphviz which visualize servers connections by netstat output
 - [graphviz](https://github.com/k8sp/graphviz) - A Golang GraphViz server used to generate inline images from .dot files.
@@ -1031,6 +1031,7 @@
 
 ## Python 
 
+- [aws-config-rules](https://github.com/awslabs/aws-config-rules) - [Node, Python, Java] Repository of sample Custom Rules for AWS Config.
 - [grc](https://github.com/garabik/grc) - generic colouriser
 - [nginx-ldap-auth](https://github.com/nginxinc/nginx-ldap-auth) - Example of LDAP authentication using ngx_http_auth_request_module
 - [udica](https://github.com/containers/udica) - This repository contains a tool for generating SELinux security profiles for containers

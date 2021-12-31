@@ -212,7 +212,7 @@
 - [dive](https://github.com/wagoodman/dive) - A tool for exploring each layer in a docker image
 - [ingress-nginx](https://github.com/kubernetes/ingress-nginx) - NGINX Ingress Controller for Kubernetes
 - [go-password](https://github.com/sethvargo/go-password) - A Golang library for generating high-entropy random passwords similar to 1Password or LastPass.
-- [env](https://github.com/caarlos0/env) - Simple lib to parse environment variables to structs
+- [env](https://github.com/caarlos0/env) - A simple and zero-dependencies library to parse environment variables into structs.
 - [pwgen](https://github.com/chr4/pwgen) - Go library to generate a random string of a given length
 - [eel](https://github.com/Comcast/eel) - A simple proxy service to forward JSON events and transform or filter them along the way.
 - [terraformer](https://github.com/GoogleCloudPlatform/terraformer) - CLI tool to generate terraform files from existing infrastructure (reverse Terraform). Infrastructure to Code

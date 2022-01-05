@@ -48,6 +48,7 @@
   - [Scala](#scala)
   - [Shell](#shell)
   - [Smarty](#smarty)
+  - [Starlark](#starlark)
   - [Swift](#swift)
   - [TSQL](#tsql)
   - [TeX](#tex)
@@ -194,6 +195,7 @@
 
 ## Go 
 
+- [cosign](https://github.com/sigstore/cosign) - Container Signing
 - [steampipe](https://github.com/turbot/steampipe) - Use SQL to instantly query your cloud services (AWS, Azure, GCP and more). Open source CLI. No DB required.
 - [terraform-graph-beautifier](https://github.com/pcasteran/terraform-graph-beautifier) - Terraform graph beautifier
 - [inframap](https://github.com/cycloidio/inframap) - Read your tfstate or HCL to generate a graph specific for each provider, showing only the resources that are most important/relevant.
@@ -1326,6 +1328,7 @@
 
 ## Shell 
 
+- [Snippets](https://github.com/Nerdmind/Snippets) - Various code snippets for various programming or script languages.
 - [ec2-image-builder](https://github.com/sufleio/ec2-image-builder) - Custom Build and Test Components developed for AWS EC2 Image Builder (https://docs.aws.amazon.com/imagebuilder/latest/userguide/what-is-image-builder.html)
 - [cis-benchmark-remediate](https://github.com/MariaZubchenko/cis-benchmark-remediate) - Script for passing AWS Inspector audits with rule package Operating system security configuration CIS Benchmarks-1.0
 - [beats_selinux](https://github.com/devzero2000/beats_selinux) - 
@@ -1469,6 +1472,10 @@
 
 - [mattermost-helm](https://github.com/mattermost/mattermost-helm) - Mattermost Helm charts for Kubernetes
 - [charts-1](https://github.com/kostyrev/charts-1) - Curated applications for Kubernetes
+
+## Starlark 
+
+- [distroless](https://github.com/GoogleContainerTools/distroless) - 🥑  Language focused docker images, minus the operating system.
 
 ## Swift 
 

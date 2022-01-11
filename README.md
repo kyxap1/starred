@@ -1035,6 +1035,7 @@
 
 ## Python 
 
+- [cli](https://github.com/terraform-compliance/cli) - a lightweight, security focused, BDD test framework against terraform.
 - [aws-config-rules](https://github.com/awslabs/aws-config-rules) - [Node, Python, Java] Repository of sample Custom Rules for AWS Config.
 - [grc](https://github.com/garabik/grc) - generic colouriser
 - [nginx-ldap-auth](https://github.com/nginxinc/nginx-ldap-auth) - Example of LDAP authentication using ngx_http_auth_request_module

@@ -904,7 +904,6 @@
 
 ## Others 
 
-- [RHEL7-CIS-Audit](https://github.com/ansible-lockdown/RHEL7-CIS-Audit) - Audit configurations for RHEL7 CIS
 - [GeoLite.mmdb](https://github.com/P3TERX/GeoLite.mmdb) - MaxMind's GeoIP2 GeoLite2 Country, City, and ASN databases
 - [filebeat-clamav](https://github.com/arall/filebeat-clamav) - 
 - [Hosts](https://github.com/Cybo1927/Hosts) - A multilingual blacklist of ads, trackers, annoyances, malware, IP grabbers, fake sites, tracking cookies, etc.
@@ -1562,6 +1561,7 @@
 
 ## YAML 
 
+- [RHEL7-CIS-Audit](https://github.com/ansible-lockdown/RHEL7-CIS-Audit) - Audit configurations for RHEL7 CIS
 - [RHEL7-CIS](https://github.com/ansible-lockdown/RHEL7-CIS) - Ansible role for Red Hat 7 CIS Baseline
 - [RHEL8-CIS](https://github.com/ansible-lockdown/RHEL8-CIS) - CIS Baseline Ansible Role for RHEL 8
 

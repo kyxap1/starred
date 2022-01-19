@@ -405,7 +405,7 @@
 - [terrahelp](https://github.com/opencredo/terrahelp) - Terraform helper. Terrahelp is as a command line utility written in Go and is aimed at providing supplementary functionality which can sometimes prove useful when working with Terraform.
 - [nomad](https://github.com/hashicorp/nomad) - Nomad is an easy-to-use, flexible, and performant workload orchestrator that can deploy a mix of microservice, batch, containerized, and non-containerized applications. Nomad is easy to operate and scale and has native Consul and Vault integrations.
 - [consul](https://github.com/hashicorp/consul) - Consul is a distributed, highly available, and data center aware solution to connect and configure applications across dynamic, distributed infrastructure.
-- [micro](https://github.com/micro/micro) - A distributed cloud operating system
+- [micro](https://github.com/micro/micro) - A distributed cloud platform
 - [acme](https://github.com/google/acme) - A simple ACME command line tool without 3rd party deps!
 - [hashiapp](https://github.com/kelseyhightower/hashiapp) - Demo 12 Factor application that utilizes Hashicorp tools.
 - [terminus](https://github.com/kelseyhightower/terminus) - Get facts about a Linux system.
@@ -497,6 +497,7 @@
 
 ## HCL 
 
+- [terraform-aws-config-multiregion](https://github.com/rhythmictech/terraform-aws-config-multiregion) - Manages the rhythmictech/terraform-aws-config module across many regions
 - [steampipe-mod-aws-compliance](https://github.com/turbot/steampipe-mod-aws-compliance) - Run individual controls or full compliance benchmarks for CIS, PCI, NIST, HIPAA and more across all of your AWS accounts using Steampipe.
 - [terraform-aws-appconfig](https://github.com/clowdhaus/terraform-aws-appconfig) - Terraform module which creates AWS AppConfig resources
 - [terraform-aws-ssm-patch-management](https://github.com/jparnaudeau/terraform-aws-ssm-patch-management) - AWS Terraform Module to manage SSM Patch Management Resources
@@ -1303,7 +1304,7 @@
 ## Rust 
 
 - [exa](https://github.com/ogham/exa) - A modern replacement for ‘ls’.
-- [vector](https://github.com/vectordotdev/vector) - A reliable, high-performance tool for building observability data pipelines.
+- [vector](https://github.com/vectordotdev/vector) - A high-performance observability data pipeline.
 - [mcfly](https://github.com/cantino/mcfly) - Fly through your shell history. Great Scott!
 - [ripgrep](https://github.com/BurntSushi/ripgrep) - ripgrep recursively searches directories for a regex pattern while respecting your gitignore
 - [static-analysis](https://github.com/analysis-tools-dev/static-analysis) - ⚙️ A curated list of static analysis (SAST) tools for all programming languages, config files, build tools, and more.
@@ -1328,6 +1329,7 @@
 
 ## Shell 
 
+- [terraform-terraform-template](https://github.com/rhythmictech/terraform-terraform-template) - Terraform module template. Good for any cloud and any provider
 - [Snippets](https://github.com/Nerdmind/Snippets) - Various code snippets for various programming or script languages.
 - [ec2-image-builder](https://github.com/sufleio/ec2-image-builder) - Custom Build and Test Components developed for AWS EC2 Image Builder (https://docs.aws.amazon.com/imagebuilder/latest/userguide/what-is-image-builder.html)
 - [cis-benchmark-remediate](https://github.com/MariaZubchenko/cis-benchmark-remediate) - Script for passing AWS Inspector audits with rule package Operating system security configuration CIS Benchmarks-1.0

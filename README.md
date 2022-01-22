@@ -1329,6 +1329,7 @@
 
 ## Shell 
 
+- [dotfiles](https://github.com/kazhala/dotfiles) - Personal dotfiles
 - [getoptions](https://github.com/ko1nksm/getoptions) - An elegant option/argument parser for shell scripts (full support for bash and all POSIX shells)
 - [terraform-terraform-template](https://github.com/rhythmictech/terraform-terraform-template) - Terraform module template. Good for any cloud and any provider
 - [Snippets](https://github.com/Nerdmind/Snippets) - Various code snippets for various programming or script languages.

@@ -1303,6 +1303,7 @@
 
 ## Rust 
 
+- [hyperfine](https://github.com/sharkdp/hyperfine) - A command-line benchmarking tool
 - [exa](https://github.com/ogham/exa) - A modern replacement for ‘ls’.
 - [vector](https://github.com/vectordotdev/vector) - A high-performance observability data pipeline.
 - [mcfly](https://github.com/cantino/mcfly) - Fly through your shell history. Great Scott!
@@ -1318,6 +1319,7 @@
 
 ## Scala 
 
+- [bfg-repo-cleaner](https://github.com/rtyley/bfg-repo-cleaner) - Removes large or troublesome blobs like git-filter-branch does, but faster. And written in Scala
 - [CMAK](https://github.com/yahoo/CMAK) - CMAK is a tool for managing Apache Kafka clusters
 - [gatling](https://github.com/gatling/gatling) - Modern Load Testing as Code
 - [snowplow](https://github.com/snowplow/snowplow) - The enterprise-grade behavioral data engine (web, mobile, server-side, webhooks), running cloud-natively on AWS and GCP

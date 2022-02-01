@@ -195,6 +195,7 @@
 
 ## Go 
 
+- [terraform-provider-restapi](https://github.com/Mastercard/terraform-provider-restapi) - A terraform provider to manage objects in a RESTful API
 - [cosign](https://github.com/sigstore/cosign) - Container Signing
 - [steampipe](https://github.com/turbot/steampipe) - Use SQL to instantly query your cloud services (AWS, Azure, GCP and more). Open source CLI. No DB required.
 - [terraform-graph-beautifier](https://github.com/pcasteran/terraform-graph-beautifier) - Terraform graph beautifier
@@ -609,6 +610,7 @@
 
 ## HTML 
 
+- [terraform-switcher](https://github.com/warrensbox/terraform-switcher) - A command line tool to switch between different versions of terraform  (install with homebrew and more)
 - [amazon-linux-2022](https://github.com/amazonlinux/amazon-linux-2022) - Amazon Linux 2022
 - [ec2instances.info](https://github.com/vantage-sh/ec2instances.info) - Amazon EC2 instance comparison site
 - [htmlparser](https://github.com/htmlparser/htmlparser) - Parsing HTML at the command line

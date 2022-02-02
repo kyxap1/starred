@@ -195,6 +195,7 @@
 
 ## Go 
 
+- [terraplate](https://github.com/verifa/terraplate) - DRY Terraform with Go Templates
 - [terraform-provider-restapi](https://github.com/Mastercard/terraform-provider-restapi) - A terraform provider to manage objects in a RESTful API
 - [cosign](https://github.com/sigstore/cosign) - Container Signing
 - [steampipe](https://github.com/turbot/steampipe) - Use SQL to instantly query your cloud services (AWS, Azure, GCP and more). Open source CLI. No DB required.
@@ -275,7 +276,7 @@
 - [tfschema](https://github.com/minamijoyo/tfschema) - A schema inspector for Terraform providers
 - [gofaas](https://github.com/nzoschke/gofaas) - A boilerplate Go and AWS Lambda app. Demonstrates an expert configuration of 10+ AWS services to support running Go functions-as-a-service (FaaS).
 - [dex-k8s-authenticator](https://github.com/mintel/dex-k8s-authenticator) - A Kubernetes Dex Client Authenticator
-- [yq](https://github.com/mikefarah/yq) - yq is a portable command-line YAML processor
+- [yq](https://github.com/mikefarah/yq) - yq is a portable command-line YAML, JSON and XML processor
 - [envconfig](https://github.com/kelseyhightower/envconfig) - Golang library for managing configuration data from environment variables
 - [hcloud-go](https://github.com/hetznercloud/hcloud-go) - A Go library for the Hetzner Cloud API
 - [cli](https://github.com/hetznercloud/cli) - A command-line interface for Hetzner Cloud

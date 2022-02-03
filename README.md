@@ -1337,6 +1337,8 @@
 
 ## Shell 
 
+- [bash-preexec](https://github.com/rcaloras/bash-preexec) - ⚡ preexec and precmd functions for Bash just like Zsh.
+- [bash-command-timer](https://github.com/jichu4n/bash-command-timer) - Bash extension for printing execution time for each command.
 - [dotfiles](https://github.com/kazhala/dotfiles) - Personal dotfiles
 - [getoptions](https://github.com/ko1nksm/getoptions) - An elegant option/argument parser for shell scripts (full support for bash and all POSIX shells)
 - [terraform-terraform-template](https://github.com/rhythmictech/terraform-terraform-template) - Terraform module template. Good for any cloud and any provider

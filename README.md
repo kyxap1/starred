@@ -1281,7 +1281,7 @@
 - [biosphere](https://github.com/UnityTech/biosphere) - 
 - [shipmate](https://github.com/tmecklem/shipmate) - A web application similar to testflight for private hosting and distribution of mobile apps for testing.
 - [backup](https://github.com/backup/backup) - Easy full stack backup operations on UNIX-like systems.
-- [bashcached](https://github.com/MakeNowJust/bashcached) - memcached server built on bash + socat
+- [bashcached](https://github.com/makenowjust/bashcached) - memcached server built on bash + socat
 - [lhm](https://github.com/soundcloud/lhm) - Online MySQL schema migrations
 - [homebrew-terraforms](https://github.com/Yleisradio/homebrew-terraforms) - Homebrew repository for a Terraform version switcher and all Terraform versions
 - [dpl](https://github.com/travis-ci/dpl) - Dpl (dee-pee-ell) is a deploy tool made for continuous deployment.

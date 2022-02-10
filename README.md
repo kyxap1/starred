@@ -1533,6 +1533,7 @@
 
 ## Vim script 
 
+- [vim-go](https://github.com/fatih/vim-go) - Go development plugin for Vim
 - [vim-systemd-syntax](https://github.com/Matt-Deacalion/vim-systemd-syntax) - Syntax highlighting for systemd service files in Vim.
 - [vim-systemd-syntax](https://github.com/wgwoods/vim-systemd-syntax) - syntax highlighting and filetype detection for systemd unit files
 - [copilot.vim](https://github.com/github/copilot.vim) - Neovim plugin for GitHub Copilot

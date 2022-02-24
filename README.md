@@ -127,6 +127,7 @@
 
 ## CSS 
 
+- [vim-bootstrap](https://github.com/editor-bootstrap/vim-bootstrap) - Vim Bootstrap is a generator that provides a simple method of generating a configuration for vim / neovim.
 - [wazuh-docker](https://github.com/wazuh/wazuh-docker) - Wazuh - Docker containers
 - [suddi.github.io](https://github.com/suddi/suddi.github.io) - A static single-page application resume-builder developed using React.js and JSON Resume schema (https://suddi.io/)
 - [assembly](https://github.com/mapbox/assembly) - Making the hard parts of designing for the web easy.
@@ -499,6 +500,7 @@
 
 ## HCL 
 
+- [terraform-github-repository](https://github.com/mineiros-io/terraform-github-repository) - A Terraform module to manage GitHub Repositories. https://github.com/
 - [terraform-aws-config-multiregion](https://github.com/rhythmictech/terraform-aws-config-multiregion) - Manages the rhythmictech/terraform-aws-config module across many regions
 - [steampipe-mod-aws-compliance](https://github.com/turbot/steampipe-mod-aws-compliance) - Run individual controls or full compliance benchmarks for CIS, PCI, NIST, HIPAA and more across all of your AWS accounts using Steampipe.
 - [terraform-aws-appconfig](https://github.com/clowdhaus/terraform-aws-appconfig) - Terraform module which creates AWS AppConfig resources
@@ -908,6 +910,7 @@
 
 ## Others 
 
+- [vim-cheatsheet](https://github.com/hackjutsu/vim-cheatsheet) - 📟 My personal vim cheatsheet
 - [GeoLite.mmdb](https://github.com/P3TERX/GeoLite.mmdb) - MaxMind's GeoIP2 GeoLite2 Country, City, and ASN databases
 - [filebeat-clamav](https://github.com/arall/filebeat-clamav) - 
 - [Hosts](https://github.com/Cybo1927/Hosts) - A multilingual blacklist of ads, trackers, annoyances, malware, IP grabbers, fake sites, tracking cookies, etc.

@@ -196,6 +196,7 @@
 
 ## Go 
 
+- [atlantis](https://github.com/runatlantis/atlantis) - Terraform Pull Request Automation
 - [terraplate](https://github.com/verifa/terraplate) - DRY Terraform with Go Templates
 - [terraform-provider-restapi](https://github.com/Mastercard/terraform-provider-restapi) - A terraform provider to manage objects in a RESTful API
 - [cosign](https://github.com/sigstore/cosign) - Container Signing
@@ -203,7 +204,6 @@
 - [terraform-graph-beautifier](https://github.com/pcasteran/terraform-graph-beautifier) - Terraform graph beautifier
 - [inframap](https://github.com/cycloidio/inframap) - Read your tfstate or HCL to generate a graph specific for each provider, showing only the resources that are most important/relevant.
 - [terracreds](https://github.com/tonedefdev/terracreds) - A Terraform Cloud/Enterprise credentials helper
-- [atlantis](https://github.com/runatlantis/atlantis) - Terraform Pull Request Automation
 - [notary](https://github.com/notaryproject/notary) - Notary is a project that allows anyone to have trust over arbitrary collections of data
 - [beats](https://github.com/fuero/beats) - :tropical_fish: Beats - Lightweight shippers for Elasticsearch & Logstash
 - [hcl2json](https://github.com/tmccombs/hcl2json) - Convert hcl2 to json

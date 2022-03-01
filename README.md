@@ -1028,6 +1028,7 @@
 
 ## Perl 
 
+- [pgbadger](https://github.com/darold/pgbadger) - A fast PostgreSQL Log Analyzer
 - [postgresqltuner](https://github.com/jfcoz/postgresqltuner) - Simple script to analyse your PostgreSQL database configuration, and give tuning advice
 - [sanoid](https://github.com/jimsalterjrs/sanoid) - Policy-driven snapshot management and replication tools.  Using ZFS for underlying next-gen storage. (Btrfs support plans are shelved unless and until btrfs becomes reliable.) Primarily intended for Linux, but BSD use is supported and reasonably frequently tested.
 - [lua-resty-jwt](https://github.com/SkyLothar/lua-resty-jwt) - JWT For The Great Openresty

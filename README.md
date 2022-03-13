@@ -170,7 +170,6 @@
 
 ## Dockerfile 
 
-- [dockerfiles](https://github.com/tianon/dockerfiles) - A semi-random collection of odds and ends.
 - [vault-consul-docker](https://github.com/testdrivenio/vault-consul-docker) - Vault + Consul + Docker
 - [docker-registry-arm](https://github.com/vsellier/docker-registry-arm) - Docker registry for raspberry pi (arm build)
 - [nocode](https://github.com/kelseyhightower/nocode) - The best way to write secure and reliable applications. Write nothing; deploy nowhere.
@@ -505,7 +504,7 @@
 - [terraform-aws-appconfig](https://github.com/clowdhaus/terraform-aws-appconfig) - Terraform module which creates AWS AppConfig resources
 - [terraform-aws-ssm-patch-management](https://github.com/jparnaudeau/terraform-aws-ssm-patch-management) - AWS Terraform Module to manage SSM Patch Management Resources
 - [elasticsearch-cloud-deploy](https://github.com/BigDataBoutique/elasticsearch-cloud-deploy) - Deploy Elasticsearch on the cloud easily
-- [terraform-aws-iam](https://github.com/terraform-aws-modules/terraform-aws-iam) - Terraform module which creates IAM resources on AWS
+- [terraform-aws-iam](https://github.com/terraform-aws-modules/terraform-aws-iam) - Terraform module which creates IAM resources on AWS 🇺🇦
 - [terraform-multi-account](https://github.com/inovex/terraform-multi-account) - Some example how toadress multiple aws accounts with Terraform
 - [aws_travis](https://github.com/FRosner/aws_travis) - 
 - [terraform-bootstrap-example](https://github.com/monterail/terraform-bootstrap-example) - Template repo for new projects
@@ -1357,6 +1356,7 @@
 - [ebs-automatic-nvme-mapping](https://github.com/oogali/ebs-automatic-nvme-mapping) - Automatic mapping of EBS volumes via NVMe block devices to standard block device paths
 - [docker-build-with-cache-action](https://github.com/whoan/docker-build-with-cache-action) - :octocat: Build and push docker images caching each stage to reduce build time
 - [wazuh-cloudformation](https://github.com/wazuh/wazuh-cloudformation) - Wazuh - Amazon AWS Cloudformation
+- [dockerfiles](https://github.com/tianon/dockerfiles) - A semi-random collection of odds and ends.
 - [wireguard-install](https://github.com/angristan/wireguard-install) - WireGuard VPN installer for Linux servers
 - [awesome-kubernetes](https://github.com/ramitsurana/awesome-kubernetes) - A curated list for awesome kubernetes sources :ship::tada:
 - [faq](https://github.com/ru-de/faq) - Полезная информация о жизни в Германии

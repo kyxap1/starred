@@ -170,6 +170,7 @@
 
 ## Dockerfile 
 
+- [dockerfiles](https://github.com/tianon/dockerfiles) - A semi-random collection of odds and ends.
 - [vault-consul-docker](https://github.com/testdrivenio/vault-consul-docker) - Vault + Consul + Docker
 - [docker-registry-arm](https://github.com/vsellier/docker-registry-arm) - Docker registry for raspberry pi (arm build)
 - [nocode](https://github.com/kelseyhightower/nocode) - The best way to write secure and reliable applications. Write nothing; deploy nowhere.
@@ -729,7 +730,7 @@
 - [nginxconfig.io](https://github.com/digitalocean/nginxconfig.io) - ⚙️ NGINX config generator on steroids 💉
 - [citizen](https://github.com/outsideris/citizen) - A Private Terraform Module Registry
 - [ff-password-exporter](https://github.com/kspearrin/ff-password-exporter) - Easily export your passwords from Firefox.
-- [cabin](https://github.com/bitnami-labs/cabin) - The Mobile Dashboard for Kubernetes
+- [cabin](https://github.com/vmware-archive/cabin) - The Mobile Dashboard for Kubernetes
 - [jsoneditor](https://github.com/josdejong/jsoneditor) - A web-based tool to view, edit, format, and validate JSON
 - [blast-radius](https://github.com/28mm/blast-radius) - Interactive visualizations of Terraform dependency graphs using d3.js
 - [release-it](https://github.com/release-it/release-it) - 🚀 Automate versioning and package publishing
@@ -1255,7 +1256,7 @@
 - [jbuilder](https://github.com/rails/jbuilder) - Jbuilder: generate JSON objects with a Builder-style DSL
 - [vagrant-docker-baseimages](https://github.com/tknerr/vagrant-docker-baseimages) - A collection of Vagrant-friendly docker base images
 - [yutani](https://github.com/leg100/yutani) - An expressive and principled Terraform DSL
-- [bosh-deployment-resource](https://github.com/concourse/bosh-deployment-resource) - deploy bosh releases as part of your pipeline
+- [bosh-deployment-resource](https://github.com/vmware-archive/bosh-deployment-resource) - deploy bosh releases as part of your pipeline
 - [interferon](https://github.com/airbnb/interferon) - Signaling you about infrastructure or application issues
 - [kafkat](https://github.com/airbnb/kafkat) - KafkaT-ool
 - [logstash-input-kinesis](https://github.com/logstash-plugins/logstash-input-kinesis) - Logstash Plugin for AWS Kinesis Input
@@ -1356,7 +1357,6 @@
 - [ebs-automatic-nvme-mapping](https://github.com/oogali/ebs-automatic-nvme-mapping) - Automatic mapping of EBS volumes via NVMe block devices to standard block device paths
 - [docker-build-with-cache-action](https://github.com/whoan/docker-build-with-cache-action) - :octocat: Build and push docker images caching each stage to reduce build time
 - [wazuh-cloudformation](https://github.com/wazuh/wazuh-cloudformation) - Wazuh - Amazon AWS Cloudformation
-- [dockerfiles](https://github.com/tianon/dockerfiles) - A semi-random collection of odds and ends.
 - [wireguard-install](https://github.com/angristan/wireguard-install) - WireGuard VPN installer for Linux servers
 - [awesome-kubernetes](https://github.com/ramitsurana/awesome-kubernetes) - A curated list for awesome kubernetes sources :ship::tada:
 - [faq](https://github.com/ru-de/faq) - Полезная информация о жизни в Германии

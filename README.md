@@ -1041,6 +1041,7 @@
 
 ## Python 
 
+- [copilot-docs](https://github.com/github/copilot-docs) - Documentation for GitHub Copilot
 - [aws-iamctl](https://github.com/aws-samples/aws-iamctl) - 
 - [cli](https://github.com/terraform-compliance/cli) - a lightweight, security focused, BDD test framework against terraform.
 - [aws-config-rules](https://github.com/awslabs/aws-config-rules) - [Node, Python, Java] Repository of sample Custom Rules for AWS Config.

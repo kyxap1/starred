@@ -1041,6 +1041,7 @@
 
 ## Python 
 
+- [docker-strongswan](https://github.com/GriffinPlus/docker-strongswan) - Docker image providing StrongSwan for building VPN tunnels via IPSec.
 - [copilot-docs](https://github.com/github/copilot-docs) - Documentation for GitHub Copilot
 - [aws-iamctl](https://github.com/aws-samples/aws-iamctl) - 
 - [cli](https://github.com/terraform-compliance/cli) - a lightweight, security focused, BDD test framework against terraform.

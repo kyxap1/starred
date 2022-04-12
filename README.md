@@ -1041,6 +1041,7 @@
 
 ## Python 
 
+- [bucket-antivirus-function](https://github.com/bluesentry/bucket-antivirus-function) - Serverless antivirus for cloud storage.
 - [docker-strongswan](https://github.com/GriffinPlus/docker-strongswan) - Docker image providing StrongSwan for building VPN tunnels via IPSec.
 - [copilot-docs](https://github.com/github/copilot-docs) - Documentation for GitHub Copilot
 - [aws-iamctl](https://github.com/aws-samples/aws-iamctl) - 
@@ -1517,6 +1518,7 @@
 
 ## TypeScript 
 
+- [cdk-serverless-clamscan](https://github.com/awslabs/cdk-serverless-clamscan) - 
 - [terraform-visual](https://github.com/hieven/terraform-visual) - Terraform Visual is an interactive way of visualizing your Terraform plan
 - [coc.nvim](https://github.com/neoclide/coc.nvim) - Nodejs extension host for vim & neovim, load extensions like VSCode and host language servers.
 - [n8n](https://github.com/n8n-io/n8n) - Free and open fair-code licensed node based Workflow Automation Tool. Easily automate tasks across different services.

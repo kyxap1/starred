@@ -502,7 +502,7 @@
 - [terraform-github-repository](https://github.com/mineiros-io/terraform-github-repository) - A Terraform module to manage GitHub Repositories. https://github.com/
 - [terraform-aws-config-multiregion](https://github.com/rhythmictech/terraform-aws-config-multiregion) - Manages the rhythmictech/terraform-aws-config module across many regions
 - [steampipe-mod-aws-compliance](https://github.com/turbot/steampipe-mod-aws-compliance) - Run individual controls or full compliance benchmarks for CIS, PCI, NIST, HIPAA and more across all of your AWS accounts using Steampipe.
-- [terraform-aws-appconfig](https://github.com/terraform-aws-modules/terraform-aws-appconfig) - Terraform module which creates AWS AppConfig resources
+- [terraform-aws-appconfig](https://github.com/terraform-aws-modules/terraform-aws-appconfig) - Terraform module which creates AWS AppConfig resources 🇺🇦
 - [terraform-aws-ssm-patch-management](https://github.com/jparnaudeau/terraform-aws-ssm-patch-management) - AWS Terraform Module to manage SSM Patch Management Resources
 - [elasticsearch-cloud-deploy](https://github.com/BigDataBoutique/elasticsearch-cloud-deploy) - Deploy Elasticsearch on the cloud easily
 - [terraform-aws-iam](https://github.com/terraform-aws-modules/terraform-aws-iam) - Terraform module which creates IAM resources on AWS 🇺🇦
@@ -1041,6 +1041,7 @@
 
 ## Python 
 
+- [aws-adfs](https://github.com/venth/aws-adfs) - Command line tool to ease aws cli authentication against ADFS (multi factor authentication with active directory)
 - [bucket-antivirus-function](https://github.com/bluesentry/bucket-antivirus-function) - Serverless antivirus for cloud storage.
 - [docker-strongswan](https://github.com/GriffinPlus/docker-strongswan) - Docker image providing StrongSwan for building VPN tunnels via IPSec.
 - [copilot-docs](https://github.com/github/copilot-docs) - Documentation for GitHub Copilot

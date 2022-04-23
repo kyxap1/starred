@@ -1425,7 +1425,7 @@
 - [ansible-examples](https://github.com/ansible/ansible-examples) - A few starter examples of ansible playbooks, to show features and how they work together.  See http://galaxy.ansible.com for example roles from the Ansible community for deploying many popular applications.
 - [circleci-packer-example](https://github.com/nabeken/circleci-packer-example) - Example: packer image builder on CircleCI
 - [circleci-cli](https://github.com/rockymadden/circleci-cli) - :vertical_traffic_light: Powerful CircleCI CLI via pure bash
-- [image-builder](https://github.com/circleci/image-builder) - 
+- [image-builder](https://github.com/CircleCI-Archived/image-builder) - 
 - [ansible-role-hashicorp](https://github.com/kurron/ansible-role-hashicorp) - Ansible role that installs the HashiCorp suite of tools including Vagrant, Packer and Terraform.
 - [sqoop2hive](https://github.com/gwenshap/sqoop2hive) - Few scripts to automate daily data loads from RDBMS to Partitioned Avro Hive table
 - [infrastructure-reference](https://github.com/stakater/infrastructure-reference) - Reference infrastructure for Stakater blueprints. Stakater is an Infrastructure-as-Code DevOps solution to automate the creation of web infrastructure stack on AWS. Stakater is based on Docker, CoreOS, Terraform, Packer, Docker Compose, GoCD, Fleet, ETCD, and more.

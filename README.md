@@ -708,7 +708,7 @@
 - [Priam](https://github.com/Netflix/Priam) - Co-Process for backup/recovery, Token Management, and Centralized Configuration management for Cassandra.
 - [useful-java-links](https://github.com/Vedenin/useful-java-links) - A list of useful Java frameworks, libraries, software and hello worlds examples
 - [jdeb](https://github.com/tcurdt/jdeb) - This library provides an Ant task and a Maven plugin to create Debian packages from Java builds in a truly cross platform manner.
-- [wildfly-logstash](https://github.com/kifj/wildfly-logstash) - Logstash appender for JBoss Wildfly
+- [wildfly-logstash](https://github.com/kifj/wildfly-logstash) - Logstash / Filebeat appender for JBoss Wildfly
 - [jboss-logmanager-ext](https://github.com/jamezp/jboss-logmanager-ext) - Extended support for JBoss Log Manager
 - [SimianArmy](https://github.com/Netflix/SimianArmy) - Tools for keeping your cloud operating in top form. Chaos Monkey is a resiliency tool that helps applications tolerate random instance failures.
 - [jackrabbit-pm-tools](https://github.com/code-distillery/jackrabbit-pm-tools) - Persistence Manager Utils for Jackrabbit - A utility for managing Jackrabbit repository maintenance on the command-line, implemented on the PersistenceManager API level.

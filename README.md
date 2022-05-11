@@ -1043,6 +1043,7 @@
 
 ## Python 
 
+- [magic-wormhole](https://github.com/magic-wormhole/magic-wormhole) - get things from one computer to another, safely
 - [aws-adfs](https://github.com/venth/aws-adfs) - Command line tool to ease aws cli authentication against ADFS (multi factor authentication with active directory)
 - [bucket-antivirus-function](https://github.com/bluesentry/bucket-antivirus-function) - Serverless antivirus for cloud storage.
 - [docker-strongswan](https://github.com/GriffinPlus/docker-strongswan) - Docker image providing StrongSwan for building VPN tunnels via IPSec.

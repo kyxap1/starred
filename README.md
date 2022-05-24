@@ -127,7 +127,6 @@
 ## CSS 
 
 - [vim-bootstrap](https://github.com/editor-bootstrap/vim-bootstrap) - Vim Bootstrap is a generator that provides a simple method of generating a configuration for vim / neovim.
-- [wazuh-docker](https://github.com/wazuh/wazuh-docker) - Wazuh - Docker containers
 - [suddi.github.io](https://github.com/suddi/suddi.github.io) - A static single-page application resume-builder developed using React.js and JSON Resume schema (https://suddi.io/)
 - [assembly](https://github.com/mapbox/assembly) - Making the hard parts of designing for the web easy.
 - [dagobah](https://github.com/thieman/dagobah) - Simple DAG-based job scheduler in Python
@@ -1360,6 +1359,7 @@
 - [WazuhDeployment](https://github.com/austinsonger/WazuhDeployment) - Making Wazuh Deployment Easy
 - [WAZUH](https://github.com/ch3332xr/WAZUH) - Get Started with WAZUH in a jiffy
 - [WAZUH-OSSEC](https://github.com/magenx/WAZUH-OSSEC) - WAZUH - The Open Source Security Platform Installation
+- [wazuh-docker](https://github.com/wazuh/wazuh-docker) - Wazuh - Docker containers
 - [ebs-automatic-nvme-mapping](https://github.com/oogali/ebs-automatic-nvme-mapping) - Automatic mapping of EBS volumes via NVMe block devices to standard block device paths
 - [docker-build-with-cache-action](https://github.com/whoan/docker-build-with-cache-action) - :octocat: Build and push docker images caching each stage to reduce build time
 - [wazuh-cloudformation](https://github.com/wazuh/wazuh-cloudformation) - Wazuh - Amazon AWS Cloudformation

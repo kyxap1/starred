@@ -305,7 +305,7 @@
 - [cli53](https://github.com/barnybug/cli53) - Command line tool for Amazon Route 53
 - [terraform-ebs-attachmentizer](https://github.com/heap/terraform-ebs-attachmentizer) - Convert ebs_block_device blocks in aws_instance resource to aws_ebs_volume and aws_volume_attachment resources
 - [amazon-ecr-credential-helper](https://github.com/awslabs/amazon-ecr-credential-helper) - Automatically gets credentials for Amazon ECR on docker push/docker pull
-- [kops](https://github.com/kubernetes/kops) - Kubernetes Operations (kops) - Production Grade K8s Installation, Upgrades, and Management
+- [kops](https://github.com/kubernetes/kops) - Kubernetes Operations (kOps) - Production Grade k8s Installation, Upgrades and Management
 - [gomplate](https://github.com/hairyhenderson/gomplate) - A flexible commandline tool for template rendering. Supports lots of local and remote datasources.
 - [swarmkit](https://github.com/moby/swarmkit) - A toolkit for orchestrating distributed systems at any scale. It includes primitives for node discovery, raft-based consensus, task scheduling and more.
 - [goat](https://github.com/sevagh/goat) - AWS EBS-EC2 attach utility. UNMAINTAINED, SEE FORK -&gt;
@@ -959,9 +959,9 @@
 - [awesome-pipeline](https://github.com/pditommaso/awesome-pipeline) - A curated list of awesome pipeline toolkits inspired by Awesome Sysadmin
 - [mylinks](https://github.com/smdocs/mylinks) - 
 - [generating-certs](https://github.com/jason-riddle/generating-certs) - Guides on generating, installing, and rotating SSL certs.
-- [awesome-bigdata](https://github.com/0xnr/awesome-bigdata) - A curated list of awesome big data frameworks, ressources and other awesomeness.
+- [awesome-bigdata](https://github.com/newTendermint/awesome-bigdata) - A curated list of awesome big data frameworks, ressources and other awesomeness.
 - [ansible-cassandra](https://github.com/deimosfr/ansible-cassandra) - Ansible role to deploy Cassandra
-- [awesome-analytics](https://github.com/0xnr/awesome-analytics) - A curated list of analytics frameworks, software and other tools.
+- [awesome-analytics](https://github.com/newTendermint/awesome-analytics) - A curated list of analytics frameworks, software and other tools.
 - [awesome-nomad](https://github.com/jippi/awesome-nomad) - A curated list of amazingly awesome Nomad tools and shiny things.
 - [awesome-ciandcd](https://github.com/cicdops/awesome-ciandcd) - continuous integration and continuous delivery
 - [packer-schema](https://github.com/lostintangent/packer-schema) - A JSON schema for validating and providing editor support when authoring Packer templates
@@ -1307,7 +1307,6 @@
 - [einarc](https://github.com/inq-team/einarc) - Einarc (Einarc is not a RAID CLI) is a universal storage RAID command line interface and an API that provides management for various hardware/software RAID devices, uniting them all in a single paradigm
 - [terraforming](https://github.com/dtan4/terraforming) - Export existing AWS resources to Terraform style (tf, tfstate) / No longer actively maintained
 - [fpm](https://github.com/jordansissel/fpm) - Effing package management! Build packages for multiple platforms (deb, rpm, etc) with great ease and sanity.
-- [terraform-sample](https://github.com/mikeclarke/terraform-sample) - Example of using terraform with chef to provision a VPC and deploy custom AMIs from scratch
 - [cfndsl](https://github.com/cfndsl/cfndsl) - A DSL for generating Amazon Web Services CloudFormation templates.
 - [opsworks-cli](https://github.com/aptible/opsworks-cli) - An alternative CLI for Amazon OpsWorks
 - [pleaserun](https://github.com/jordansissel/pleaserun) - An attempt to abstract this "init" script madness.

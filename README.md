@@ -244,7 +244,7 @@
 - [tf2pulumi](https://github.com/pulumi/tf2pulumi) - A tool to convert Terraform projects to Pulumi TypeScript programs
 - [direnv](https://github.com/direnv/direnv) - unclutter your .profile
 - [astro](https://github.com/uber/astro) - Astro is a tool for managing multiple Terraform executions as a single command
-- [helm-s3](https://github.com/hypnoglow/helm-s3) - Helm plugin that allows to set up a chart repository in AWS S3.
+- [helm-s3](https://github.com/hypnoglow/helm-s3) - ⎈ Helm plugin that allows to set up a chart repository using AWS S3.
 - [terraform-provider-esxi](https://github.com/josenk/terraform-provider-esxi) - Terraform-provider-esxi plugin
 - [kubefwd](https://github.com/txn2/kubefwd) - Bulk port forwarding Kubernetes services for local development.
 - [gost](https://github.com/ginuerzh/gost) - GO Simple Tunnel - a simple tunnel written in golang

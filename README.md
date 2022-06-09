@@ -203,7 +203,7 @@
 - [steampipe](https://github.com/turbot/steampipe) - Use SQL to instantly query your cloud services (AWS, Azure, GCP and more). Open source CLI. No DB required.
 - [terraform-graph-beautifier](https://github.com/pcasteran/terraform-graph-beautifier) - Terraform graph beautifier
 - [inframap](https://github.com/cycloidio/inframap) - Read your tfstate or HCL to generate a graph specific for each provider, showing only the resources that are most important/relevant.
-- [terracreds](https://github.com/tonedefdev/terracreds) - A Terraform Cloud/Enterprise credentials helper
+- [terracreds](https://github.com/tonedefdev/terracreds) - A Terraform Automation and Collaboration Software credentials helper
 - [notary](https://github.com/notaryproject/notary) - Notary is a project that allows anyone to have trust over arbitrary collections of data
 - [beats](https://github.com/fuero/beats) - :tropical_fish: Beats - Lightweight shippers for Elasticsearch & Logstash
 - [hcl2json](https://github.com/tmccombs/hcl2json) - Convert hcl2 to json
@@ -806,7 +806,7 @@
 - [jq.node](https://github.com/FGRibreau/jq.node) - jq.node - like jq but WAY MORE powerful (300+ helpers 🔥 & 1.45M modules 😱)
 - [cabot](https://github.com/arachnys/cabot) - Self-hosted, easily-deployable monitoring and alerts service - like a lightweight PagerDuty
 - [json5](https://github.com/json5/json5) - JSON5 — JSON for humans
-- [CodeMirror](https://github.com/codemirror/CodeMirror) - In-browser code editor
+- [codemirror5](https://github.com/codemirror/codemirror5) - In-browser code editor
 - [JSON-Splora](https://github.com/wellsjo/JSON-Splora) - GUI for editing, visualizing, and manipulating JSON data
 - [jira-resource](https://github.com/danrspencer/jira-resource) - Jira Resource for Concourse
 - [eslint-config-datapipeline](https://github.com/DataPipelineInc/eslint-config-datapipeline) - Data pipeline ESLint configuration

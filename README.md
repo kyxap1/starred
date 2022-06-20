@@ -730,7 +730,7 @@
 - [emojiporter](https://github.com/lisaah/emojiporter) - CLI utility to export/import custom emojis for Mattermost.
 - [uppy](https://github.com/transloadit/uppy) - The next open source file uploader for web browsers :dog:
 - [nginxconfig.io](https://github.com/digitalocean/nginxconfig.io) - ⚙️ NGINX config generator on steroids 💉
-- [citizen](https://github.com/outsideris/citizen) - A Private Terraform Module Registry
+- [citizen](https://github.com/outsideris/citizen) - A Private Terraform Module/Provider Registry
 - [ff-password-exporter](https://github.com/kspearrin/ff-password-exporter) - Easily export your passwords from Firefox.
 - [cabin](https://github.com/vmware-archive/cabin) - The Mobile Dashboard for Kubernetes
 - [jsoneditor](https://github.com/josdejong/jsoneditor) - A web-based tool to view, edit, format, and validate JSON

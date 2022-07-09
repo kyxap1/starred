@@ -1073,6 +1073,7 @@
 - [influxdb-relay](https://github.com/influxdata/influxdb-relay) - Service to replicate InfluxDB data for high availability
 - [patroni](https://github.com/zalando/patroni) - A template for PostgreSQL High Availability with Etcd, Consul, ZooKeeper, or Kubernetes
 - [zfs_autobackup](https://github.com/psy0rz/zfs_autobackup) - ZFS autobackup is used to periodicly backup ZFS filesystems to other locations. Easy to use and very reliable.
+- [dotdrop](https://github.com/deadc0de6/dotdrop) - Save your dotfiles once, deploy them everywhere
 - [awx](https://github.com/ansible/awx) - AWX Project
 - [destiny-clan-member-manager](https://github.com/dad2cl3/destiny-clan-member-manager) - Database and web server scripts for managing Destiny clan membership within Postgres
 - [spirit](https://github.com/jgayfer/spirit) - Spirit is a Destiny 2 Discord bot to assist players with everything from clan management to keeping track of in game events.
@@ -1376,7 +1377,6 @@
 - [kube-ps1](https://github.com/jonmosco/kube-ps1) - Kubernetes prompt info for bash and zsh
 - [consul-dns-for-kubernetes](https://github.com/anubhavmishra/consul-dns-for-kubernetes) - Consul DNS Interface for Kubernetes
 - [fonts](https://github.com/powerline/fonts) - Patched fonts for Powerline users.
-- [dotdrop](https://github.com/deadc0de6/dotdrop) - Save your dotfiles once, deploy them everywhere
 - [acme.sh](https://github.com/acmesh-official/acme.sh) - A pure Unix shell script implementing ACME client protocol
 - [scripts](https://github.com/kref/scripts) - This project attempts to improve DSM's compatibility
 - [rear](https://github.com/rear/rear) - Relax-and-Recover - Linux bare metal disaster recovery and system migration solution (cfr. mksysb, ignite)

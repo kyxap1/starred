@@ -910,6 +910,7 @@
 
 ## Others 
 
+- [copilot-docs](https://github.com/github/copilot-docs) - Documentation for GitHub Copilot
 - [vim-cheatsheet](https://github.com/hackjutsu/vim-cheatsheet) - 📟 My personal vim cheatsheet
 - [GeoLite.mmdb](https://github.com/P3TERX/GeoLite.mmdb) - MaxMind's GeoIP2 GeoLite2 Country, City, and ASN databases
 - [filebeat-clamav](https://github.com/arall/filebeat-clamav) - 
@@ -1047,7 +1048,6 @@
 - [aws-adfs](https://github.com/venth/aws-adfs) - Command line tool to ease aws cli authentication against ADFS (multi factor authentication with active directory)
 - [bucket-antivirus-function](https://github.com/bluesentry/bucket-antivirus-function) - Serverless antivirus for cloud storage.
 - [docker-strongswan](https://github.com/GriffinPlus/docker-strongswan) - Docker image providing StrongSwan for building VPN tunnels via IPSec.
-- [copilot-docs](https://github.com/github/copilot-docs) - Documentation for GitHub Copilot
 - [aws-iamctl](https://github.com/aws-samples/aws-iamctl) - 
 - [cli](https://github.com/terraform-compliance/cli) - a lightweight, security focused, BDD test framework against terraform.
 - [aws-config-rules](https://github.com/awslabs/aws-config-rules) - [Node, Python, Java] Repository of sample Custom Rules for AWS Config.

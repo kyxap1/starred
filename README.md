@@ -186,6 +186,7 @@
 ## Elixir 
 
 - [asciinema-server](https://github.com/asciinema/asciinema-server) - Web app for hosting asciicasts
+- [awesomo](https://github.com/lk-geimfari/awesomo) - Cool open source projects written in various languages.
 - [exhcl](https://github.com/asakura/exhcl) - Configuration language inspired by HCL
 
 ## Gherkin 
@@ -1152,7 +1153,6 @@
 - [glances](https://github.com/nicolargo/glances) - Glances an Eye on your system. A top/htop alternative for GNU/Linux, BSD, Mac OS and Windows operating systems.
 - [locust](https://github.com/locustio/locust) - Scalable user load testing tool written in Python
 - [http-prompt](https://github.com/httpie/http-prompt) - An interactive command-line HTTP and API testing client built on top of HTTPie featuring autocomplete, syntax highlighting, and more. https://twitter.com/httpie
-- [awesomo](https://github.com/lk-geimfari/awesomo) - Cool open source projects written in various languages.
 - [rds-pgbadger](https://github.com/fpietka/rds-pgbadger) - Fetch logs from RDS instance, and process them with pgBadger
 - [pgcli](https://github.com/dbcli/pgcli) - Postgres CLI with autocompletion and syntax highlighting
 - [coala](https://github.com/coala/coala) - coala provides a unified command-line interface for linting and fixing all your code, regardless of the programming languages you use.

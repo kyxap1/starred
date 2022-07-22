@@ -197,6 +197,7 @@
 
 ## Go 
 
+- [jd](https://github.com/josephburnett/jd) - JSON diff and patch
 - [cloud-nuke](https://github.com/gruntwork-io/cloud-nuke) - A tool for cleaning up your cloud accounts by nuking (deleting) all resources within it
 - [awsweeper](https://github.com/jckuester/awsweeper) - A tool for cleaning your AWS account
 - [atlantis](https://github.com/runatlantis/atlantis) - Terraform Pull Request Automation

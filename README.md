@@ -722,6 +722,7 @@
 
 ## JavaScript 
 
+- [gsts](https://github.com/ruimarinho/gsts) - Obtain and store AWS STS credentials to interact with Amazon services by authenticating via G Suite SAML.
 - [blast-radius](https://github.com/gruberdev/blast-radius) - Interactive visualizations of Terraform dependency graphs using d3.js
 - [AdNauseam](https://github.com/dhowe/AdNauseam) - AdNauseam: Fight back against advertising surveillance
 - [gitlab-release-note-generator](https://github.com/jk1z/gitlab-release-note-generator) - A Gitlab release note generator

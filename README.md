@@ -1242,7 +1242,7 @@
 ## Ruby 
 
 - [chef-inspec-cis-centos7-level1](https://github.com/Rudikza/chef-inspec-cis-centos7-level1) - 
-- [redhat-enterprise-linux-7-stig-baseline](https://github.com/mitre/redhat-enterprise-linux-7-stig-baseline) - InSpec profile to validate the secure configuration of Red Hat Enterprise Linux 7, against DISA's Red Hat Enterprise Linux 7 Security Technical Implementation Guide (STIG) Version 2, Release 6.
+- [redhat-enterprise-linux-7-stig-baseline](https://github.com/mitre/redhat-enterprise-linux-7-stig-baseline) - InSpec profile to validate the secure configuration of Red Hat Enterprise Linux 7, against DISA's Red Hat Enterprise Linux 7 Security Technical Implementation Guide (STIG) Version 3, Release 6.
 - [cis-dil-benchmark](https://github.com/dev-sec/cis-dil-benchmark) - CIS Distribution Independent Linux Benchmark - InSpec Profile
 - [linux-baseline](https://github.com/dev-sec/linux-baseline) - DevSec Linux Baseline - InSpec Profile
 - [aws-foundations-cis-baseline](https://github.com/mitre/aws-foundations-cis-baseline) - InSpec profile to validate your VPC to the standards of the CIS Amazon Web Services Foundations Benchmark v1.1.0

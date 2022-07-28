@@ -32,7 +32,6 @@
   - [Lua](#lua)
   - [M4](#m4)
   - [Makefile](#makefile)
-  - [Mako](#mako)
   - [Mustache](#mustache)
   - [Nginx](#nginx)
   - [Objective-C](#objective-c)
@@ -898,10 +897,6 @@
 - [docker-nginx-s3](https://github.com/grahamgilbert/docker-nginx-s3) - An nginx image with ngx_aws_auth
 - [terraform-provider-utils](https://github.com/nrcxcia/terraform-provider-utils) - Terraform provider to help with templating in terraform definitions.
 
-## Mako 
-
-- [ec2instances.info](https://github.com/vantage-sh/ec2instances.info) - Amazon EC2 instance comparison site
-
 ## Mustache 
 
 - [swagger-codegen](https://github.com/swagger-api/swagger-codegen) - swagger-codegen contains a template-driven engine to generate documentation, API clients and server stubs in different languages by parsing your OpenAPI / Swagger definition.
@@ -1064,6 +1059,7 @@
 - [grc](https://github.com/garabik/grc) - generic colouriser
 - [nginx-ldap-auth](https://github.com/nginxinc/nginx-ldap-auth) - Example of LDAP authentication using ngx_http_auth_request_module
 - [udica](https://github.com/containers/udica) - This repository contains a tool for generating SELinux security profiles for containers
+- [ec2instances.info](https://github.com/vantage-sh/ec2instances.info) - Amazon EC2 instance comparison site
 - [netbox](https://github.com/netbox-community/netbox) - Infrastructure resource modeling for network automation. Open source under Apache 2. Public demo: https://demo.netbox.dev
 - [gitlabform](https://github.com/gitlabform/gitlabform) - 🏗 Specialized "configuration as a code" tool for GitLab
 - [prometheus-kafka-consumer-group-exporter](https://github.com/braedon/prometheus-kafka-consumer-group-exporter) - Prometheus Kafka Consumer Group Exporter

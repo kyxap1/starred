@@ -280,7 +280,7 @@
 - [tfschema](https://github.com/minamijoyo/tfschema) - A schema inspector for Terraform providers
 - [gofaas](https://github.com/nzoschke/gofaas) - A boilerplate Go and AWS Lambda app. Demonstrates an expert configuration of 10+ AWS services to support running Go functions-as-a-service (FaaS).
 - [dex-k8s-authenticator](https://github.com/mintel/dex-k8s-authenticator) - A Kubernetes Dex Client Authenticator
-- [yq](https://github.com/mikefarah/yq) - yq is a portable command-line YAML, JSON and XML processor
+- [yq](https://github.com/mikefarah/yq) - yq is a portable command-line YAML, JSON, XML, CSV and properties processor
 - [envconfig](https://github.com/kelseyhightower/envconfig) - Golang library for managing configuration data from environment variables
 - [hcloud-go](https://github.com/hetznercloud/hcloud-go) - A Go library for the Hetzner Cloud API
 - [cli](https://github.com/hetznercloud/cli) - A command-line interface for Hetzner Cloud

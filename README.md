@@ -394,7 +394,7 @@
 - [gollum](https://github.com/trivago/gollum) - An n:m message multiplexer written in Go
 - [syncthing](https://github.com/syncthing/syncthing) - Open Source Continuous File Synchronization
 - [ccat](https://github.com/owenthereal/ccat) - Colorizing `cat`
-- [vault-client](https://github.com/adfinis-sygroup/vault-client) - A command-line interface to HashiCorp's Vault
+- [vault-client](https://github.com/adfinis/vault-client) - A command-line interface to HashiCorp's Vault
 - [hologram](https://github.com/AdRoll/hologram) - Easy, painless AWS credentials on developer laptops.
 - [terraform-resource](https://github.com/ljfranklin/terraform-resource) - A concourse resource to create infrastructure via Terraform
 - [pgclimb](https://github.com/lukasmartinelli/pgclimb) - Export data from PostgreSQL into different data formats
@@ -942,7 +942,7 @@
 - [the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line) - Master the command line, in one page
 - [ansible-symfony2](https://github.com/servergrove/ansible-symfony2) - Ansible role to deploy Symfony2 applications
 - [research](https://github.com/ssllabs/research) - 
-- [mariadb-ansible-galera-cluster](https://github.com/adfinis-sygroup/mariadb-ansible-galera-cluster) - Automated installation of MariaDB Galera Cluster using Ansible
+- [mariadb-ansible-galera-cluster](https://github.com/adfinis/mariadb-ansible-galera-cluster) - Automated installation of MariaDB Galera Cluster using Ansible
 - [awesome-mysql](https://github.com/shlomi-noach/awesome-mysql) - A curated list of awesome MySQL software, libraries, tools and resources
 - [ansible-quickref](https://github.com/lorin/ansible-quickref) - Quick reference for Ansible variables
 - [awesome-ansible](https://github.com/jdauphant/awesome-ansible) - A collaborative curated list of awesome Ansible resources

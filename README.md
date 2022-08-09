@@ -809,7 +809,7 @@
 - [tf-parse](https://github.com/candidpartners/tf-parse) - 
 - [jq.node](https://github.com/FGRibreau/jq.node) - jq.node - like jq but WAY MORE powerful (300+ helpers 🔥 & 1.45M modules 😱)
 - [cabot](https://github.com/arachnys/cabot) - Self-hosted, easily-deployable monitoring and alerts service - like a lightweight PagerDuty
-- [json5](https://github.com/json5/json5) - JSON5 — JSON for humans
+- [json5](https://github.com/json5/json5) - JSON5 — JSON for Humans
 - [codemirror5](https://github.com/codemirror/codemirror5) - In-browser code editor (version 5, legacy)
 - [JSON-Splora](https://github.com/wellsjo/JSON-Splora) - GUI for editing, visualizing, and manipulating JSON data
 - [jira-resource](https://github.com/danrspencer/jira-resource) - Jira Resource for Concourse

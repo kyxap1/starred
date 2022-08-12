@@ -196,6 +196,7 @@
 
 ## Go 
 
+- [terraform-provider-pgp](https://github.com/ekristen/terraform-provider-pgp) - Terraform Provider for PGP Actions
 - [jd](https://github.com/josephburnett/jd) - JSON diff and patch
 - [cloud-nuke](https://github.com/gruntwork-io/cloud-nuke) - A tool for cleaning up your cloud accounts by nuking (deleting) all resources within it
 - [awsweeper](https://github.com/jckuester/awsweeper) - A tool for cleaning your AWS account

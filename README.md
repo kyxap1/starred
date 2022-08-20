@@ -196,6 +196,7 @@
 
 ## Go 
 
+- [aws-vault](https://github.com/99designs/aws-vault) - A vault for securely storing and accessing AWS credentials in development environments
 - [terraform-provider-pgp](https://github.com/ekristen/terraform-provider-pgp) - Terraform Provider for PGP Actions
 - [jd](https://github.com/josephburnett/jd) - JSON diff and patch
 - [cloud-nuke](https://github.com/gruntwork-io/cloud-nuke) - A tool for cleaning up your cloud accounts by nuking (deleting) all resources within it

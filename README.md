@@ -55,6 +55,7 @@
   - [TeX](#tex)
   - [Twig](#twig)
   - [TypeScript](#typescript)
+  - [Vim Script](#vim script)
   - [Vim Snippet](#vim snippet)
   - [Vim script](#vim script)
   - [VimL](#viml)
@@ -415,7 +416,7 @@
 - [terrahelp](https://github.com/opencredo/terrahelp) - Terraform helper. Terrahelp is as a command line utility written in Go and is aimed at providing supplementary functionality which can sometimes prove useful when working with Terraform.
 - [nomad](https://github.com/hashicorp/nomad) - Nomad is an easy-to-use, flexible, and performant workload orchestrator that can deploy a mix of microservice, batch, containerized, and non-containerized applications. Nomad is easy to operate and scale and has native Consul and Vault integrations.
 - [consul](https://github.com/hashicorp/consul) - Consul is a distributed, highly available, and data center aware solution to connect and configure applications across dynamic, distributed infrastructure.
-- [micro](https://github.com/micro/micro) - API first services platform
+- [micro](https://github.com/micro/micro) - API first development platform
 - [acme](https://github.com/google/acme) - A simple ACME command line tool without 3rd party deps!
 - [hashiapp](https://github.com/kelseyhightower/hashiapp) - Demo 12 Factor application that utilizes Hashicorp tools.
 - [terminus](https://github.com/kelseyhightower/terminus) - Get facts about a Linux system.
@@ -1546,6 +1547,10 @@
 - [superset](https://github.com/apache/superset) - Apache Superset is a Data Visualization and Data Exploration Platform
 - [graphiql](https://github.com/graphql/graphiql) - GraphiQL & the GraphQL LSP Reference Ecosystem for building browser & IDE tools.
 
+## Vim Script 
+
+- [copilot.vim](https://github.com/github/copilot.vim) - Neovim plugin for GitHub Copilot
+
 ## Vim Snippet 
 
 - [vim-kubernetes](https://github.com/andrewstuart/vim-kubernetes) - vim-kubernetes
@@ -1556,7 +1561,6 @@
 - [vim-go](https://github.com/fatih/vim-go) - Go development plugin for Vim
 - [vim-systemd-syntax](https://github.com/Matt-Deacalion/vim-systemd-syntax) - Syntax highlighting for systemd service files in Vim.
 - [vim-systemd-syntax](https://github.com/wgwoods/vim-systemd-syntax) - syntax highlighting and filetype detection for systemd unit files
-- [copilot.vim](https://github.com/github/copilot.vim) - Neovim plugin for GitHub Copilot
 - [indentLine](https://github.com/Yggdroot/indentLine) - A vim plugin to display the indention levels with thin vertical lines
 - [space-vim](https://github.com/liuchengxu/space-vim) - :four_leaf_clover: Lean & mean spacemacs-ish Vim distribution
 - [vim-easy-align](https://github.com/junegunn/vim-easy-align) - :sunflower: A Vim alignment plugin

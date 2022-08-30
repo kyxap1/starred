@@ -1236,7 +1236,7 @@
 
 ## R 
 
-- [nyc-taxi-data](https://github.com/toddwschneider/nyc-taxi-data) - Import public NYC taxi and for-hire vehicle (Uber, Lyft, etc.) trip data into PostgreSQL database
+- [nyc-taxi-data](https://github.com/toddwschneider/nyc-taxi-data) - Import public NYC taxi and for-hire vehicle (Uber, Lyft) trip data into a PostgreSQL or ClickHouse database
 
 ## Roff 
 

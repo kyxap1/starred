@@ -292,7 +292,7 @@
 - [gographviz](https://github.com/awalterschulze/gographviz) - Parses the Graphviz DOT language in golang
 - [go-jsonnet](https://github.com/google/go-jsonnet) - 
 - [freegeoip](https://github.com/fiorix/freegeoip) - IP geolocation web server
-- [terraformctl](https://github.com/kris-nova/terraformctl) - Running Terraform in Kubernetes as a controller
+- [terraformctl](https://github.com/krisnova/terraformctl) - Running Terraform in Kubernetes as a controller
 - [jaeger](https://github.com/jaegertracing/jaeger) - CNCF Jaeger, a Distributed Tracing Platform
 - [minio](https://github.com/minio/minio) - Multi-Cloud :cloud: Object Storage
 - [stolon](https://github.com/sorintlab/stolon) - PostgreSQL cloud native High Availability and more.

@@ -985,6 +985,7 @@
 - [awesome-data-engineering](https://github.com/igorbarinov/awesome-data-engineering) - A curated list of data engineering tools for software developers
 - [stack-on-a-budget](https://github.com/255kb/stack-on-a-budget) - A collection of services with great free tiers for developers on a budget. Sponsored by Mockoon, the best mock API tool. https://mockoon.com
 - [ansible-vagrant-examples](https://github.com/geerlingguy/ansible-vagrant-examples) - Ansible examples using Vagrant to deploy to local VMs.
+- [ansible-terraform](https://github.com/andrewrothstein/ansible-terraform) - 
 - [ansible-role-packer](https://github.com/patrick-hill/ansible-role-packer) - 
 - [Sqoop](https://github.com/SriGovindGutala/Sqoop) - This repo contains all the different ways you can ingest data from RDBMS to HDFS and vice versa using Sqoop.
 - [awesome-graphql](https://github.com/chentsulin/awesome-graphql) - Awesome list of GraphQL
@@ -1434,7 +1435,6 @@
 - [boxcutter_ubuntu](https://github.com/patrick-hill/boxcutter_ubuntu) - Virtual machine templates for Ubuntu
 - [mac-dev-playbook](https://github.com/geerlingguy/mac-dev-playbook) - Mac setup and configuration via Ansible.
 - [slack-notification-resource](https://github.com/cloudfoundry-community/slack-notification-resource) - Concourse CI resource for sending notifications to Slack.
-- [ansible-terraform](https://github.com/andrewrothstein/ansible-terraform) - 
 - [ansible-examples](https://github.com/ansible/ansible-examples) - A few starter examples of ansible playbooks, to show features and how they work together.  See http://galaxy.ansible.com for example roles from the Ansible community for deploying many popular applications.
 - [circleci-packer-example](https://github.com/nabeken/circleci-packer-example) - Example: packer image builder on CircleCI
 - [circleci-cli](https://github.com/rockymadden/circleci-cli) - :vertical_traffic_light: Powerful CircleCI CLI via pure bash

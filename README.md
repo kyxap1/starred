@@ -198,6 +198,7 @@
 
 ## Go 
 
+- [tfsec](https://github.com/aquasecurity/tfsec) - Security scanner for your Terraform code
 - [aws-vault](https://github.com/99designs/aws-vault) - A vault for securely storing and accessing AWS credentials in development environments
 - [terraform-provider-pgp](https://github.com/ekristen/terraform-provider-pgp) - Terraform Provider for PGP Actions
 - [jd](https://github.com/josephburnett/jd) - JSON diff and patch

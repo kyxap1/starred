@@ -198,6 +198,9 @@
 
 ## Go 
 
+- [hclgrep](https://github.com/magodo/hclgrep) - Syntax based grep for HCL(v2)
+- [tf-summarize](https://github.com/dineshba/tf-summarize) - A command-line utility to print the summary of the terraform plan
+- [tfautomv](https://github.com/padok-team/tfautomv) - Generate Terraform moved blocks automatically for painless refactoring
 - [tfsec](https://github.com/aquasecurity/tfsec) - Security scanner for your Terraform code
 - [aws-vault](https://github.com/99designs/aws-vault) - A vault for securely storing and accessing AWS credentials in development environments
 - [terraform-provider-pgp](https://github.com/ekristen/terraform-provider-pgp) - Terraform Provider for PGP Actions
@@ -1059,6 +1062,7 @@
 
 ## Python 
 
+- [terraform-iam-policy-validator](https://github.com/awslabs/terraform-iam-policy-validator) - A command line tool that validates AWS IAM Policies in a Terraform template against AWS IAM best practices
 - [magic-wormhole](https://github.com/magic-wormhole/magic-wormhole) - get things from one computer to another, safely
 - [aws-adfs](https://github.com/venth/aws-adfs) - Command line tool to ease aws cli authentication against ADFS (multi factor authentication with active directory)
 - [bucket-antivirus-function](https://github.com/bluesentry/bucket-antivirus-function) - Serverless antivirus for cloud storage.

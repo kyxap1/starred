@@ -1559,6 +1559,7 @@
 - [copilot.vim](https://github.com/github/copilot.vim) - Neovim plugin for GitHub Copilot
 - [indentLine](https://github.com/Yggdroot/indentLine) - A vim plugin to display the indention levels with thin vertical lines
 - [space-vim](https://github.com/liuchengxu/space-vim) - :four_leaf_clover: Lean & mean spacemacs-ish Vim distribution
+- [vim-jsonnet](https://github.com/google/vim-jsonnet) - Jsonnet filetype plugin for Vim.
 
 ## Vim Snippet 
 
@@ -1572,7 +1573,6 @@
 - [vim-easy-align](https://github.com/junegunn/vim-easy-align) - :sunflower: A Vim alignment plugin
 - [neomake](https://github.com/neomake/neomake) - Asynchronous linting and make framework for Neovim/Vim
 - [vim-terraform-completion](https://github.com/juliosueiras/vim-terraform-completion) - A (Neo)Vim Autocompletion and linter for Terraform, a HashiCorp tool
-- [vim-jsonnet](https://github.com/google/vim-jsonnet) - Jsonnet filetype plugin for Vim.
 - [vim-repeat](https://github.com/tpope/vim-repeat) - repeat.vim: enable repeating supported plugin maps with "."
 - [Vim-Jinja2-Syntax](https://github.com/Glench/Vim-Jinja2-Syntax) - An up-to-date jinja2 syntax file.
 - [syntastic](https://github.com/vim-syntastic/syntastic) - Syntax checking hacks for vim

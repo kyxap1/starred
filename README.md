@@ -512,6 +512,7 @@
 
 ## HCL 
 
+- [terraform-aws-lambda-at-edge](https://github.com/transcend-io/terraform-aws-lambda-at-edge) - Terraform module for making a Lambda@Edge function in terraform
 - [cis-cloud-watch-alarms](https://github.com/NiroshanLW/cis-cloud-watch-alarms) - 
 - [terraform-github-repository](https://github.com/mineiros-io/terraform-github-repository) - A Terraform module to manage GitHub Repositories. https://github.com/
 - [terraform-aws-config-multiregion](https://github.com/rhythmictech/terraform-aws-config-multiregion) - Manages the rhythmictech/terraform-aws-config module across many regions
@@ -946,6 +947,7 @@
 - [soa-checklist](https://github.com/paunin/soa-checklist) - Microservice Oriented Architecture checklist
 - [awesome-consul](https://github.com/josegonzalez/awesome-consul) - A list of awesome consul projects, libraries
 - [bash-shortcuts-cheat-sheet](https://github.com/fliptheweb/bash-shortcuts-cheat-sheet) - Useful shortcuts for bash/zsh
+- [open-source-mac-os-apps](https://github.com/serhii-londar/open-source-mac-os-apps) - 🚀 Awesome list of open source applications for macOS. https://t.me/s/opensourcemacosapps
 - [awesome-prometheus](https://github.com/roaldnefs/awesome-prometheus) - A curated list of awesome Prometheus resources, projects and tools.
 - [awesome-ssh](https://github.com/moul/awesome-ssh) - :computer: A curated list of SSH resources.
 - [devopsfactors](https://github.com/devopsfactors/devopsfactors) - The DevOps Factors
@@ -1518,7 +1520,6 @@
 ## Swift 
 
 - [Dozer](https://github.com/Mortennn/Dozer) - Hide menu bar icons on macOS
-- [open-source-mac-os-apps](https://github.com/serhii-londar/open-source-mac-os-apps) - 🚀 Awesome list of open source applications for macOS. https://t.me/s/opensourcemacosapps
 
 ## TSQL 
 

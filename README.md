@@ -636,6 +636,7 @@
 - [overwatch-dpi-tool](https://github.com/Pyrolistical/overwatch-dpi-tool) - 
 - [nginx-https-base](https://github.com/naggie/nginx-https-base) - An Ubuntu 16.04 Ansible role for small-scale nginx with automatic HTTPS via certbot/LE, better error pages, useful templates
 - [sovereign](https://github.com/sovereign/sovereign) - A set of Ansible playbooks to build and maintain your own private cloud: email, calendar, contacts, file sync, IRC bouncer, VPN, and more.
+- [staticrypt](https://github.com/robinmoisson/staticrypt) - Password protect a static HTML page
 - [node-red-dashboard](https://github.com/node-red/node-red-dashboard) - A dashboard UI for Node-RED
 - [pup](https://github.com/ericchiang/pup) - Parsing HTML at the command line
 - [remark](https://github.com/gnab/remark) - A simple, in-browser, markdown-driven slideshow tool.
@@ -764,7 +765,6 @@
 - [kinesis-streams-fan-out-kinesis-analytics](https://github.com/alexcasalboni/kinesis-streams-fan-out-kinesis-analytics) - Amazon Kinesis Streams fan-out via Kinesis Analytics (powered by the Serverless Framework)
 - [jsonschema](https://github.com/tdegrunt/jsonschema) - JSON Schema validation
 - [distributed](https://github.com/funretro/distributed) - 
-- [staticrypt](https://github.com/robinmoisson/staticrypt) - Password protect a static HTML page
 - [git2consul](https://github.com/breser/git2consul) - Mirrors the contents of a git repository into Consul KVs.
 - [drone-starter](https://github.com/maqpie/drone-starter) - Make a first build with Drone CI in under 10 minutes
 - [LambStatus](https://github.com/ks888/LambStatus) - [Maintenance mode] Serverless Status Page System

@@ -878,7 +878,6 @@
 ## Jupyter Notebook 
 
 - [ec2-spot-labs](https://github.com/awslabs/ec2-spot-labs) - Collection of tools and code examples to demonstrate best practices in using Amazon EC2 Spot Instances.
-- [howdoi](https://github.com/gleitz/howdoi) - instant coding answers via the command line
 
 ## Kotlin 
 
@@ -1120,6 +1119,7 @@
 - [packergen](https://github.com/mkheironimus/packergen) - Generate JSON files for Packer (http://packer.io/) from human-friendly YAML sources.
 - [shyaml](https://github.com/0k/shyaml) - YAML for command line
 - [terratools](https://github.com/Crapworks/terratools) - Some tools to enhance your terraform experience
+- [howdoi](https://github.com/gleitz/howdoi) - instant coding answers via the command line
 - [codebom](https://github.com/codebom/codebom) - Command-line tool to create, validate and analyze a Bill of Materials
 - [foremast](https://github.com/foremast/foremast) - Spinnaker Pipeline/Infrastructure Configuration and Templating Tool - Pipelines as Code.
 - [botoform](https://github.com/russellballestrini/botoform) - Architect infrastructure on AWS using YAML

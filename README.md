@@ -927,6 +927,7 @@
 
 ## Others 
 
+- [decalage2/awesome-security-hardening](https://github.com/decalage2/awesome-security-hardening) - A collection of awesome security hardening guides, tools and other resources
 - [github/copilot-docs](https://github.com/github/copilot-docs) - Documentation for GitHub Copilot
 - [hackjutsu/vim-cheatsheet](https://github.com/hackjutsu/vim-cheatsheet) - 📟 My personal vim cheatsheet
 - [P3TERX/GeoLite.mmdb](https://github.com/P3TERX/GeoLite.mmdb) - MaxMind's GeoIP2 GeoLite2 Country, City, and ASN databases

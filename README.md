@@ -69,7 +69,7 @@
 ## C 
 
 - [ogarrett/nginx-fips-check-module](https://github.com/ogarrett/nginx-fips-check-module) - Basic NGINX module to report on OpenSSL FIPS status
-- [wazuh/wazuh](https://github.com/wazuh/wazuh) - Wazuh - The Open Source Security Platform
+- [wazuh/wazuh](https://github.com/wazuh/wazuh) - Wazuh - The Open Source Security Platform. Unified XDR and SIEM protection for endpoints and cloud workloads.
 - [bol-van/zapret](https://github.com/bol-van/zapret) - Обход DPI в linux
 - [universal-ctags/ctags](https://github.com/universal-ctags/ctags) - A maintained ctags implementation
 - [pjreddie/darknet](https://github.com/pjreddie/darknet) - Convolutional Neural Networks
@@ -201,6 +201,7 @@
 
 ## Go 
 
+- [moby/moby](https://github.com/moby/moby) - Moby Project - a collaborative project for the container ecosystem to assemble container-based systems
 - [gofireflyio/aiac](https://github.com/gofireflyio/aiac) - Artificial Intelligence Infrastructure-as-Code Generator.
 - [google/osv-scanner](https://github.com/google/osv-scanner) - Vulnerability scanner written in Go which uses the data provided by https://osv.dev
 - [smallstep/certificates](https://github.com/smallstep/certificates) - 🛡️ A private certificate authority (X.509 & SSH) & ACME server for secure automated certificate management, so you can use TLS everywhere & SSO for SSH.
@@ -880,7 +881,6 @@
 
 ## Kotlin 
 
-- [blokadaorg/blokada](https://github.com/blokadaorg/blokada) - The official repo for Blokada for Android and iOS.
 - [rustyrazorblade/cdm](https://github.com/rustyrazorblade/cdm) - Cassandra Dataset Manager
 - [VladRassokhin/intellij-hcl](https://github.com/VladRassokhin/intellij-hcl) - HCL language support for IntelliJ platform based IDEs
 
@@ -942,6 +942,7 @@
 - [portainer/portainer-compose](https://github.com/portainer/portainer-compose) - Compose setup for Portainer
 - [TanVD/ClickhouseCluster_DockerCompose](https://github.com/TanVD/ClickhouseCluster_DockerCompose) - Example Docker Compose configs for Clickhouse Cluster (via ZooKeeper)
 - [operator-framework/awesome-operators](https://github.com/operator-framework/awesome-operators) - A resource tracking a number of Operators out in the wild.
+- [blokadaorg/blokada](https://github.com/blokadaorg/blokada) - The official repo for Blokada apps.
 - [mxssl/sre-interview-prep-guide](https://github.com/mxssl/sre-interview-prep-guide) - Site Reliability Engineer Interview Preparation Guide
 - [jamiehannaford/what-happens-when-k8s](https://github.com/jamiehannaford/what-happens-when-k8s) - 🤔  What happens when I type kubectl run?
 - [unstartdev/brook-systemd](https://github.com/unstartdev/brook-systemd) - brook systemd脚本示例
@@ -1078,7 +1079,7 @@
 - [nginxinc/nginx-ldap-auth](https://github.com/nginxinc/nginx-ldap-auth) - Example of LDAP authentication using ngx_http_auth_request_module
 - [containers/udica](https://github.com/containers/udica) - This repository contains a tool for generating SELinux security profiles for containers
 - [netbox-community/netbox](https://github.com/netbox-community/netbox) - The premiere source of truth powering network automation. Open source under Apache 2. Public demo: https://demo.netbox.dev
-- [gitlabform/gitlabform](https://github.com/gitlabform/gitlabform) - 🏗 Specialized "configuration as a code" tool for GitLab
+- [gitlabform/gitlabform](https://github.com/gitlabform/gitlabform) - 🏗 Specialized configuration as a code tool for GitLab
 - [braedon/prometheus-kafka-consumer-group-exporter](https://github.com/braedon/prometheus-kafka-consumer-group-exporter) - Prometheus Kafka Consumer Group Exporter
 - [kostyrev/ansible-role-cassandra](https://github.com/kostyrev/ansible-role-cassandra) - ansible role to only install Apache Cassandra
 - [spotify/cstar](https://github.com/spotify/cstar) - Apache Cassandra cluster orchestration tool for the command line

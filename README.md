@@ -668,6 +668,7 @@
 
 ## Java 
 
+- [awsdocs/aws-doc-sdk-examples](https://github.com/awsdocs/aws-doc-sdk-examples) - Welcome to the AWS Code Examples Repository.  This repo contains code examples used in the AWS documentation, AWS SDK Developer Guides, and more. For more information, see the Readme.md file below.
 - [liquibase/liquibase](https://github.com/liquibase/liquibase) - Main Liquibase Source
 - [ahus1/prometheus-hystrix](https://github.com/ahus1/prometheus-hystrix) - This is an implementation of a HystrixMetricsPublisher that publishes metrics using the Prometheus java client.
 - [criteo/cassandra_exporter](https://github.com/criteo/cassandra_exporter) - Apache Cassandra® metrics exporter for Prometheus

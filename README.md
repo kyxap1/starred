@@ -841,7 +841,6 @@
 - [mapbox/aws-log-replay](https://github.com/mapbox/aws-log-replay) - Transform and replay CloudFront, ELB Classic, and ALB logs
 - [segmentio/pingdummy](https://github.com/segmentio/pingdummy) - Example application for segmentio/stack
 - [mobz/elasticsearch-head](https://github.com/mobz/elasticsearch-head) - A web front end for an elastic search cluster
-- [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers
 - [serverless/serverless](https://github.com/serverless/serverless) - ⚡ Serverless Framework – Build web, mobile and IoT applications with serverless architectures using AWS Lambda, Azure Functions, Google CloudFunctions & more! –
 - [AWSinAction/lambda](https://github.com/AWSinAction/lambda) - AWS in Action: Lambda
 - [shambarick/terraform2md](https://github.com/shambarick/terraform2md) - 
@@ -904,6 +903,7 @@
 - [json-schema-org/json-schema-spec](https://github.com/json-schema-org/json-schema-spec) - The JSON Schema I-D sources
 - [sjourdan/nomad-docker](https://github.com/sjourdan/nomad-docker) - This is a Docker container for Nomad based on Busybox
 - [thockin/go-build-template](https://github.com/thockin/go-build-template) - A Makefile/Dockerfile example for Go projects.
+- [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers
 - [grahamgilbert/docker-nginx-s3](https://github.com/grahamgilbert/docker-nginx-s3) - An nginx image with ngx_aws_auth
 - [nrcxcia/terraform-provider-utils](https://github.com/nrcxcia/terraform-provider-utils) - Terraform provider to help with templating in terraform definitions.
 

@@ -943,7 +943,6 @@
 - [portainer/portainer-compose](https://github.com/portainer/portainer-compose) - Compose setup for Portainer
 - [TanVD/ClickhouseCluster_DockerCompose](https://github.com/TanVD/ClickhouseCluster_DockerCompose) - Example Docker Compose configs for Clickhouse Cluster (via ZooKeeper)
 - [operator-framework/awesome-operators](https://github.com/operator-framework/awesome-operators) - A resource tracking a number of Operators out in the wild.
-- [blokadaorg/blokada](https://github.com/blokadaorg/blokada) - The official repo for Blokada apps.
 - [mxssl/sre-interview-prep-guide](https://github.com/mxssl/sre-interview-prep-guide) - Site Reliability Engineer Interview Preparation Guide
 - [jamiehannaford/what-happens-when-k8s](https://github.com/jamiehannaford/what-happens-when-k8s) - 🤔  What happens when I type kubectl run?
 - [unstartdev/brook-systemd](https://github.com/unstartdev/brook-systemd) - brook systemd脚本示例
@@ -1067,6 +1066,7 @@
 
 ## Python 
 
+- [aws-samples/fedramp-integrated-inventory-workbook](https://github.com/aws-samples/fedramp-integrated-inventory-workbook) - This example shows how you can create a Lambda function to retrieve inventory information to create the integrated inventory spreadsheet which can be used as a separate attachment to the FedRAMP Syste
 - [awslabs/terraform-iam-policy-validator](https://github.com/awslabs/terraform-iam-policy-validator) - A command line tool that validates AWS IAM Policies in a Terraform template against AWS IAM best practices
 - [magic-wormhole/magic-wormhole](https://github.com/magic-wormhole/magic-wormhole) - get things from one computer to another, safely
 - [venth/aws-adfs](https://github.com/venth/aws-adfs) - Command line tool to ease aws cli authentication against ADFS (multi factor authentication with active directory)
@@ -1387,6 +1387,7 @@
 - [whoan/docker-build-with-cache-action](https://github.com/whoan/docker-build-with-cache-action) - :octocat: Build and push docker images caching each stage to reduce build time
 - [wazuh/wazuh-cloudformation](https://github.com/wazuh/wazuh-cloudformation) - Wazuh - Amazon AWS Cloudformation
 - [angristan/wireguard-install](https://github.com/angristan/wireguard-install) - WireGuard VPN installer for Linux servers
+- [blokadaorg/blokada](https://github.com/blokadaorg/blokada) - The official repo for Blokada apps.
 - [ramitsurana/awesome-kubernetes](https://github.com/ramitsurana/awesome-kubernetes) - A curated list for awesome kubernetes sources :ship::tada:
 - [ru-de/faq](https://github.com/ru-de/faq) - Полезная информация о жизни в Германии
 - [txthinking/google-hosts](https://github.com/txthinking/google-hosts) - Google hosts generator

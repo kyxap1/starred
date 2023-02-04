@@ -933,7 +933,6 @@
 - [hackjutsu/vim-cheatsheet](https://github.com/hackjutsu/vim-cheatsheet) - 📟 My personal vim cheatsheet
 - [P3TERX/GeoLite.mmdb](https://github.com/P3TERX/GeoLite.mmdb) - MaxMind's GeoIP2 GeoLite2 Country, City, and ASN databases
 - [arall/filebeat-clamav](https://github.com/arall/filebeat-clamav) - 
-- [NyeUsr/Hosts](https://github.com/NyeUsr/Hosts) - A multilingual blacklist of ads, trackers, annoyances, malware, IP grabbers, fake sites, tracking cookies, etc.
 - [georou/ossec-selinux](https://github.com/georou/ossec-selinux) - OSSEC SELinux policy module for RHEL7 and CentOS7
 - [georou/filebeat-selinux](https://github.com/georou/filebeat-selinux) - Elasticsearch's Filebeat SELinux policy module for CentOS 7 & RHEL 7 systems
 - [bogachenko/fuckfuckadblock](https://github.com/bogachenko/fuckfuckadblock) - Filters for blocking pop-ups and anti-adblock bypass.

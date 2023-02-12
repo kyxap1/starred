@@ -516,6 +516,7 @@
 
 ## HCL 
 
+- [aws-samples/terraform-ec2-image-builder-container-hardening-pipeline](https://github.com/aws-samples/terraform-ec2-image-builder-container-hardening-pipeline) - Terraform modules for an EC2 Image Builder Pipeline with an Amazon Linux 2 Baseline Container Recipe, which is used to deploy a Docker based Amazon Linux 2 Container Image that has been hardened accor
 - [terraform-aws-modules/terraform-aws-lambda](https://github.com/terraform-aws-modules/terraform-aws-lambda) - Terraform module, which takes care of a lot of AWS Lambda/serverless tasks (build dependencies, packages, updates, deployments) in countless combinations 🇺🇦
 - [transcend-io/terraform-aws-lambda-at-edge](https://github.com/transcend-io/terraform-aws-lambda-at-edge) - Terraform module for making a Lambda@Edge function in terraform
 - [NiroshanLW/cis-cloud-watch-alarms](https://github.com/NiroshanLW/cis-cloud-watch-alarms) - 
@@ -826,7 +827,7 @@
 - [arachnys/cabot](https://github.com/arachnys/cabot) - Self-hosted, easily-deployable monitoring and alerts service - like a lightweight PagerDuty
 - [json5/json5](https://github.com/json5/json5) - JSON5 — JSON for Humans
 - [codemirror/codemirror5](https://github.com/codemirror/codemirror5) - In-browser code editor (version 5, legacy)
-- [wellsjo/JSON-Splora](https://github.com/wellsjo/JSON-Splora) - GUI for editing, visualizing, and manipulating JSON data
+- [wellsjo/JSON-Splora](https://github.com/wellsjo/JSON-Splora) - GUI app for editing, visualizing, and manipulating JSON data
 - [danrspencer/jira-resource](https://github.com/danrspencer/jira-resource) - Jira Resource for Concourse
 - [DataPipelineInc/eslint-config-datapipeline](https://github.com/DataPipelineInc/eslint-config-datapipeline) - Data pipeline ESLint configuration
 - [pearsonlab/DataPipeline-download](https://github.com/pearsonlab/DataPipeline-download) - downloading files from AWS DataPipeline system

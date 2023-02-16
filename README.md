@@ -654,6 +654,7 @@
 - [joeartsea/node-red-contrib-aws](https://github.com/joeartsea/node-red-contrib-aws) - A collection of Node-RED nodes for AWS.
 - [google/styleguide](https://github.com/google/styleguide) - Style guides for Google-originated open-source projects
 - [digitalcraftsman/hugo-material-docs](https://github.com/digitalcraftsman/hugo-material-docs) - Port of Martin Donath's mkdocs-material theme to Hugo
+- [fossar/selfoss](https://github.com/fossar/selfoss) - multipurpose rss reader, live stream, mashup, aggregation web application
 - [Leo-G/Flask-Scaffold](https://github.com/Leo-G/Flask-Scaffold) - Prototype Database driven Web apps in Angular 6, Bootstrap 4 and REST API's with Flask (Python 3 framework)
 - [ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev) - A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
 
@@ -1050,7 +1051,6 @@
 - [enxebre/CliGenerator](https://github.com/enxebre/CliGenerator) - A Command-Line User Interface generator for Symfony Console Component.
 - [guzzle/guzzle](https://github.com/guzzle/guzzle) - Guzzle, an extensible PHP HTTP client
 - [tony2001/ffmpeg-php](https://github.com/tony2001/ffmpeg-php) - PHP extension for video editing, wrapping ffmpeg
-- [fossar/selfoss](https://github.com/fossar/selfoss) - multipurpose rss reader, live stream, mashup, aggregation web application
 - [ziggi/zimg-host](https://github.com/ziggi/zimg-host) - Simple image hosting service
 
 ## Perl 

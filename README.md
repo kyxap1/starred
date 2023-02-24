@@ -966,7 +966,7 @@
 - [lorin/ansible-quickref](https://github.com/lorin/ansible-quickref) - Quick reference for Ansible variables
 - [jdauphant/awesome-ansible](https://github.com/jdauphant/awesome-ansible) - A collaborative curated list of awesome Ansible resources
 - [bennojoy/mysql](https://github.com/bennojoy/mysql) - ansible role for mysql
-- [nikitavoloboev/my-mac-os](https://github.com/nikitavoloboev/my-mac-os) - List of applications and tools that make my macOS experience even more amazing
+- [nikitavoloboev/my-mac](https://github.com/nikitavoloboev/my-mac) - List of applications and tools that make my macOS experience even more amazing
 - [chassing/linux-sysadmin-interview-questions](https://github.com/chassing/linux-sysadmin-interview-questions) - Collection of Linux Sysadmin/DevOps interview questions
 - [thechane/consul](https://github.com/thechane/consul) - Docker compose file and other resources for running Consul as a service in Docker
 - [rjayroach/terraplate](https://github.com/rjayroach/terraplate) - use ansible templates to easily generate terraform modules, components and tfvars files

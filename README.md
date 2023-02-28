@@ -634,7 +634,7 @@
 ## HTML 
 
 - [warrensbox/terraform-switcher](https://github.com/warrensbox/terraform-switcher) - A command line tool to switch between different versions of terraform  (install with homebrew and more)
-- [amazonlinux/amazon-linux-2022](https://github.com/amazonlinux/amazon-linux-2022) - Amazon Linux 2022
+- [amazonlinux/amazon-linux-2023](https://github.com/amazonlinux/amazon-linux-2023) - Amazon Linux 2023
 - [htmlparser/htmlparser](https://github.com/htmlparser/htmlparser) - Parsing HTML at the command line
 - [subspacecommunity/subspace](https://github.com/subspacecommunity/subspace) - A fork of the simple WireGuard VPN server GUI community maintained
 - [samber/awesome-prometheus-alerts](https://github.com/samber/awesome-prometheus-alerts) - 🚨 Collection of Prometheus alerting rules

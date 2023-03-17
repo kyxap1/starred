@@ -201,6 +201,7 @@
 
 ## Go 
 
+- [rclone/rclone](https://github.com/rclone/rclone) - "rsync for cloud storage" - Google Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Wasabi, Google Cloud Storage, Yandex Files
 - [elkargig/awless](https://github.com/elkargig/awless) - A Mighty CLI for AWS
 - [leg100/otf](https://github.com/leg100/otf) - An open source alternative to terraform enterprise.
 - [moby/moby](https://github.com/moby/moby) - Moby Project - a collaborative project for the container ecosystem to assemble container-based systems
@@ -357,7 +358,6 @@
 - [peak/s5cmd](https://github.com/peak/s5cmd) - Parallel S3 and local filesystem execution tool.
 - [radeksimko/terraform-gen](https://github.com/radeksimko/terraform-gen) - Terraform generator(s)
 - [wallix/awless](https://github.com/wallix/awless) - A Mighty CLI for AWS
-- [rclone/rclone](https://github.com/rclone/rclone) - "rsync for cloud storage" - Google Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Wasabi, Google Cloud Storage, Yandex Files
 - [gsaslis/terraform-provider-packer](https://github.com/gsaslis/terraform-provider-packer) - A Terraform provider plugin for Packer
 - [dave/jennifer](https://github.com/dave/jennifer) - Jennifer is a code generator for Go
 - [mailru/easyjson](https://github.com/mailru/easyjson) - Fast JSON serializer for golang.

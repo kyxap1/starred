@@ -1611,7 +1611,7 @@
 
 - [ansible-lockdown/RHEL7-CIS-Audit](https://github.com/ansible-lockdown/RHEL7-CIS-Audit) - Audit configurations for RHEL7 CIS
 - [ansible-lockdown/RHEL7-CIS](https://github.com/ansible-lockdown/RHEL7-CIS) - Ansible role for Red Hat 7 CIS Baseline
-- [ansible-lockdown/RHEL8-CIS](https://github.com/ansible-lockdown/RHEL8-CIS) - CIS Baseline Ansible Role for RHEL 8
+- [ansible-lockdown/RHEL8-CIS](https://github.com/ansible-lockdown/RHEL8-CIS) - Ansible role for Red Hat 8 CIS Baseline
 
 
 ## License

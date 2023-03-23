@@ -1005,7 +1005,7 @@
 - [MiLk/ansible-vault](https://github.com/MiLk/ansible-vault) - Ansible Vault role
 - [square/go-jose](https://github.com/square/go-jose) - An implementation of JOSE standards (JWE, JWS, JWT) in Go
 - [shuaibiyy/awesome-terraform](https://github.com/shuaibiyy/awesome-terraform) - Curated list of resources on HashiCorp's Terraform
-- [Ecwid/new-job](https://github.com/Ecwid/new-job) - Ecwid – ульяновский стартап, мы ищем Kotlin/Java-разработчиков
+- [Ecwid/new-job](https://github.com/Ecwid/new-job) - Ecwid by Lightspeed
 - [matiassingers/awesome-slack](https://github.com/matiassingers/awesome-slack) - A curated list of awesome Slack related things
 - [avthart/fabio-compose](https://github.com/avthart/fabio-compose) - Fabio Docker Compose
 - [wallnerryan/multihost-cassandra-flocker](https://github.com/wallnerryan/multihost-cassandra-flocker) - A multi-host Cassandra cluster using Swarm, Compose and Flocker

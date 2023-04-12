@@ -802,7 +802,7 @@
 - [RafalWilinski/github-to-s3-lambda-deployer](https://github.com/RafalWilinski/github-to-s3-lambda-deployer) - ⚓️ GitHub webhook extension for uploading static pages to AWS S3 directly after commiting to master via Lambda written in Node.js
 - [maxbeatty/aws-lambda-deploy](https://github.com/maxbeatty/aws-lambda-deploy) - An automated, opinionated way to deploy to AWS Lambda
 - [jippi/hashi-ui](https://github.com/jippi/hashi-ui) - A modern user interface for @hashicorp Consul & Nomad
-- [mdaines/viz.js](https://github.com/mdaines/viz.js) - A hack to put Graphviz on the web.
+- [viz-js/viz.js](https://github.com/viz-js/viz.js) - A hack to put Graphviz on the web.
 - [almende/vis](https://github.com/almende/vis) - ⚠️ This project is not maintained anymore! Please go to https://github.com/visjs
 - [rixrix/vscode-terraform-snippets](https://github.com/rixrix/vscode-terraform-snippets) - Advanced Terraform Snippets for Visual Studio Code. It has at least 23k downloads from the marketplace.
 - [mermaid-js/mermaid](https://github.com/mermaid-js/mermaid) - Generation of diagrams like flowcharts or sequence diagrams from text in a similar manner as markdown

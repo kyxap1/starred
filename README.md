@@ -276,7 +276,6 @@
 - [svent/sift](https://github.com/svent/sift) - A fast and powerful alternative to grep
 - [chef-boneyard/terraform-provisioner-inspec](https://github.com/chef-boneyard/terraform-provisioner-inspec) - Terraform InSpec Provisioner Plugin
 - [orobardet/gitlab-ci-linter](https://github.com/orobardet/gitlab-ci-linter) - This is an automated mirror of the gitlab project. Please use gitlab project as reference: https://gitlab.com/orobardet/gitlab-ci-linter
-- [ContaAzul/hystrix_exporter](https://github.com/ContaAzul/hystrix_exporter) - exports hystrix/turbine metrics in the prometheus format
 - [vmware-tanzu/velero](https://github.com/vmware-tanzu/velero) - Backup and migrate Kubernetes applications and their persistent volumes
 - [helm/helm](https://github.com/helm/helm) - The Kubernetes Package Manager
 - [mendersoftware/mender](https://github.com/mendersoftware/mender) - Mender over-the-air software updater client.
@@ -306,7 +305,7 @@
 - [fiorix/freegeoip](https://github.com/fiorix/freegeoip) - IP geolocation web server
 - [krisnova/terraformctl](https://github.com/krisnova/terraformctl) - Running Terraform in Kubernetes as a controller
 - [jaegertracing/jaeger](https://github.com/jaegertracing/jaeger) - CNCF Jaeger, a Distributed Tracing Platform
-- [minio/minio](https://github.com/minio/minio) - Multi-Cloud :cloud: Object Storage
+- [minio/minio](https://github.com/minio/minio) - High Performance Object Storage for AI
 - [sorintlab/stolon](https://github.com/sorintlab/stolon) - PostgreSQL cloud native High Availability and more.
 - [google/mtail](https://github.com/google/mtail) - extract internal monitoring data from application logs for collection in a timeseries database
 - [hypnoglow/oas2](https://github.com/hypnoglow/oas2) - OpenAPI 2.0 (aka Swagger) utils for Golang.

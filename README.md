@@ -76,7 +76,7 @@
 - [openzfs/zfs](https://github.com/openzfs/zfs) - OpenZFS on Linux and FreeBSD
 - [obsproject/obs-studio](https://github.com/obsproject/obs-studio) - OBS Studio - Free and open source software for live streaming and screen recording
 - [ggreer/the_silver_searcher](https://github.com/ggreer/the_silver_searcher) - A code-searching tool similar to ack, but faster.
-- [mydumper/mydumper](https://github.com/mydumper/mydumper) - Official MyDumper project
+- [mydumper/mydumper](https://github.com/mydumper/mydumper) - Official MyDumper Project
 - [Entware/Entware-ng](https://github.com/Entware/Entware-ng) - Entware-ng
 - [vozlt/nginx-module-sts](https://github.com/vozlt/nginx-module-sts) - Nginx stream server traffic status module
 - [netdata/netdata](https://github.com/netdata/netdata) - Real-time performance monitoring, done right! https://www.netdata.cloud

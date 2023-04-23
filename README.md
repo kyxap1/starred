@@ -1081,7 +1081,7 @@
 - [garabik/grc](https://github.com/garabik/grc) - generic colouriser
 - [nginxinc/nginx-ldap-auth](https://github.com/nginxinc/nginx-ldap-auth) - Example of LDAP authentication using ngx_http_auth_request_module
 - [containers/udica](https://github.com/containers/udica) - This repository contains a tool for generating SELinux security profiles for containers
-- [netbox-community/netbox](https://github.com/netbox-community/netbox) - The premiere source of truth powering network automation. Open source under Apache 2. Public demo: https://demo.netbox.dev
+- [netbox-community/netbox](https://github.com/netbox-community/netbox) - The premier source of truth powering network automation. Open source under Apache 2. Public demo: https://demo.netbox.dev
 - [gitlabform/gitlabform](https://github.com/gitlabform/gitlabform) - 🏗 Specialized configuration as a code tool for GitLab
 - [braedon/prometheus-kafka-consumer-group-exporter](https://github.com/braedon/prometheus-kafka-consumer-group-exporter) - Prometheus Kafka Consumer Group Exporter
 - [kostyrev/ansible-role-cassandra](https://github.com/kostyrev/ansible-role-cassandra) - ansible role to only install Apache Cassandra

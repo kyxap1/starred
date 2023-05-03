@@ -642,7 +642,7 @@
 - [Pyrolistical/overwatch-dpi-tool](https://github.com/Pyrolistical/overwatch-dpi-tool) - 
 - [naggie/nginx-https-base](https://github.com/naggie/nginx-https-base) - An Ubuntu 16.04 Ansible role for small-scale nginx with automatic HTTPS via certbot/LE, better error pages, useful templates
 - [sovereign/sovereign](https://github.com/sovereign/sovereign) - A set of Ansible playbooks to build and maintain your own private cloud: email, calendar, contacts, file sync, IRC bouncer, VPN, and more.
-- [robinmoisson/staticrypt](https://github.com/robinmoisson/staticrypt) - Password protect a static HTML page
+- [robinmoisson/staticrypt](https://github.com/robinmoisson/staticrypt) - Password protect a static HTML page, decrypted in-browser
 - [node-red/node-red-dashboard](https://github.com/node-red/node-red-dashboard) - A dashboard UI for Node-RED
 - [ericchiang/pup](https://github.com/ericchiang/pup) - Parsing HTML at the command line
 - [gnab/remark](https://github.com/gnab/remark) - A simple, in-browser, markdown-driven slideshow tool.
@@ -1193,7 +1193,6 @@
 - [dagrz/aws_pwn](https://github.com/dagrz/aws_pwn) - A collection of AWS penetration testing junk
 - [Yelp/elastalert](https://github.com/Yelp/elastalert) - Easy & Flexible Alerting With ElasticSearch
 - [Yelp/mrjob](https://github.com/Yelp/mrjob) - Run MapReduce jobs on Hadoop or Amazon Web Services
-- [aws-samples/emr-bootstrap-actions](https://github.com/aws-samples/emr-bootstrap-actions) - This repository hold the Amazon Elastic MapReduce sample bootstrap actions
 - [mindsnacks/Zinc](https://github.com/mindsnacks/Zinc) - Asset distribution system for mobile clients.
 - [sqlmapproject/sqlmap](https://github.com/sqlmapproject/sqlmap) - Automatic SQL injection and database takeover tool
 - [cepr/jira2xmind](https://github.com/cepr/jira2xmind) - XMind plugin to import Jira tickets
@@ -1313,6 +1312,7 @@
 - [dalehamel/cloudshaper](https://github.com/dalehamel/cloudshaper) - Ruby DSL for managing terraform stacks
 - [thattommyhall/terrafied](https://github.com/thattommyhall/terrafied) - Ruby DSL for Terraform
 - [UnityTech/biosphere](https://github.com/UnityTech/biosphere) - 
+- [aws-samples/emr-bootstrap-actions](https://github.com/aws-samples/emr-bootstrap-actions) - This repository hold the Amazon Elastic MapReduce sample bootstrap actions
 - [tmecklem/shipmate](https://github.com/tmecklem/shipmate) - A web application similar to testflight for private hosting and distribution of mobile apps for testing.
 - [backup/backup](https://github.com/backup/backup) - Easy full stack backup operations on UNIX-like systems.
 - [makenowjust/bashcached](https://github.com/makenowjust/bashcached) - memcached server built on bash + socat

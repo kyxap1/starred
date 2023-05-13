@@ -939,7 +939,7 @@
 - [arall/filebeat-clamav](https://github.com/arall/filebeat-clamav) - 
 - [georou/ossec-selinux](https://github.com/georou/ossec-selinux) - OSSEC SELinux policy module for RHEL7 and CentOS7
 - [georou/filebeat-selinux](https://github.com/georou/filebeat-selinux) - Elasticsearch's Filebeat SELinux policy module for CentOS 7 & RHEL 7 systems
-- [bogachenko/fuckfuckadblock](https://github.com/bogachenko/fuckfuckadblock) - Filters for blocking pop-ups and anti-adblock bypass.
+- [bogachenko/fuckfuckadblock](https://github.com/bogachenko/fuckfuckadblock) - Filters for blocking mining, pop-ups and anti-adblock bypass.
 - [RMerl/asuswrt-merlin.ng](https://github.com/RMerl/asuswrt-merlin.ng) - Third party firmware for Asus routers (newer codebase)
 - [4ops/vscode-language-terraform](https://github.com/4ops/vscode-language-terraform) - Adds support for the Terraform configuration language to Visual Studio Code
 - [skhomm/useful-wireless-links](https://github.com/skhomm/useful-wireless-links) - Собираем масштабную базу с полезными материалами для всех неравнодушных к беспроводным сетям: учебные пособия, справочники, калькуляторы, софт, гаджеты и многое другое.
@@ -1196,7 +1196,6 @@
 - [mindsnacks/Zinc](https://github.com/mindsnacks/Zinc) - Asset distribution system for mobile clients.
 - [sqlmapproject/sqlmap](https://github.com/sqlmapproject/sqlmap) - Automatic SQL injection and database takeover tool
 - [cepr/jira2xmind](https://github.com/cepr/jira2xmind) - XMind plugin to import Jira tickets
-- [maguowei/starred](https://github.com/maguowei/starred) - creating your own Awesome List by GitHub stars!
 - [Pinafore/qb](https://github.com/Pinafore/qb) - QANTA Quiz Bowl AI
 - [remarshal-project/remarshal](https://github.com/remarshal-project/remarshal) - Convert between CBOR, JSON, MessagePack, TOML, and YAML
 - [virtuald/pyhcl](https://github.com/virtuald/pyhcl) - HCL is a configuration language. pyhcl is a python parser for it.
@@ -1543,6 +1542,7 @@
 
 ## TypeScript 
 
+- [refined-github/refined-github](https://github.com/refined-github/refined-github) - :octocat: Browser extension that simplifies the GitHub interface and adds useful features
 - [awslabs/cdk-serverless-clamscan](https://github.com/awslabs/cdk-serverless-clamscan) - 
 - [hieven/terraform-visual](https://github.com/hieven/terraform-visual) - Terraform Visual is an interactive way of visualizing your Terraform plan
 - [neoclide/coc.nvim](https://github.com/neoclide/coc.nvim) - Nodejs extension host for vim & neovim, load extensions like VSCode and host language servers.

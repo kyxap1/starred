@@ -1113,7 +1113,7 @@
 - [amazon-archives/ec2-scheduler](https://github.com/amazon-archives/ec2-scheduler) - The EC2 Scheduler uses a recurring Lambda function to automatically start and stop EC2 instances based on either default schedule or custom schedule defined per EC2 instance. - Now found at https://gi
 - [cloudboss/bossimage](https://github.com/cloudboss/bossimage) - 
 - [FairwindsOps/pentagon](https://github.com/FairwindsOps/pentagon) - A framework for building repeatable, containerized, cloud-based infrastructure as code with Kubernetes.
-- [ansible-community/molecule](https://github.com/ansible-community/molecule) - Molecule aids in the development and testing of Ansible roles
+- [ansible-community/molecule](https://github.com/ansible-community/molecule) - Molecule aids in the development and testing of Ansible content: collections, playbooks and roles
 - [Cobliteam/cassandra-migrate](https://github.com/Cobliteam/cassandra-migrate) - Simple Cassandra schema migration tool written in Python
 - [vishnubob/wait-for-it](https://github.com/vishnubob/wait-for-it) - Pure bash script to test and wait on the availability of a TCP host and port
 - [mkheironimus/packergen](https://github.com/mkheironimus/packergen) - Generate JSON files for Packer (http://packer.io/) from human-friendly YAML sources.

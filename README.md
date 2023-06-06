@@ -1306,7 +1306,6 @@
 - [dalehamel/cloudshaper](https://github.com/dalehamel/cloudshaper) - Ruby DSL for managing terraform stacks
 - [thattommyhall/terrafied](https://github.com/thattommyhall/terrafied) - Ruby DSL for Terraform
 - [UnityTech/biosphere](https://github.com/UnityTech/biosphere) - 
-- [aws-samples/emr-bootstrap-actions](https://github.com/aws-samples/emr-bootstrap-actions) - This repository hold the Amazon Elastic MapReduce sample bootstrap actions
 - [tmecklem/shipmate](https://github.com/tmecklem/shipmate) - A web application similar to testflight for private hosting and distribution of mobile apps for testing.
 - [backup/backup](https://github.com/backup/backup) - Easy full stack backup operations on UNIX-like systems.
 - [makenowjust/bashcached](https://github.com/makenowjust/bashcached) - memcached server built on bash + socat
@@ -1460,6 +1459,7 @@
 - [claranet/centos7-ami](https://github.com/claranet/centos7-ami) - Shell script to build CentOS 7 AMI
 - [kelseyhightower/dockerfiles](https://github.com/kelseyhightower/dockerfiles) - Docker files
 - [kelseyhightower/hashiconf-eu-2016](https://github.com/kelseyhightower/hashiconf-eu-2016) - HashiConf EU 2016
+- [aws-samples/emr-bootstrap-actions](https://github.com/aws-samples/emr-bootstrap-actions) - This repository hold the Amazon Elastic MapReduce sample bootstrap actions
 - [HariSekhon/Dockerfiles](https://github.com/HariSekhon/Dockerfiles) - 50+ DockerHub public images for Docker & Kubernetes - DevOps, CI/CD, GitHub Actions, CircleCI, Jenkins, TeamCity, Alpine, CentOS, Debian, Fedora, Ubuntu, Hadoop, Kafka, ZooKeeper, HBase, Cassandra, So
 - [bkc1/terraform-multi-env](https://github.com/bkc1/terraform-multi-env) - Terraform wrapper script for handling multi-environment, multi-region deployments
 - [Vitexus/phinx.deb](https://github.com/Vitexus/phinx.deb) - Debian package for SQL Migrating tool Phinx

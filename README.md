@@ -206,7 +206,7 @@
 - [smallstep/cli](https://github.com/smallstep/cli) - 🧰  A zero trust swiss army knife for working with X509, OAuth, JWT, OATH OTP, etc.
 - [magodo/hclgrep](https://github.com/magodo/hclgrep) - Syntax based grep for HCL(v2)
 - [dineshba/tf-summarize](https://github.com/dineshba/tf-summarize) - A command-line utility to print the summary of the terraform plan
-- [padok-team/tfautomv](https://github.com/padok-team/tfautomv) - Generate Terraform moved blocks automatically for painless refactoring
+- [busser/tfautomv](https://github.com/busser/tfautomv) - Generate Terraform moved blocks automatically for painless refactoring
 - [aquasecurity/tfsec](https://github.com/aquasecurity/tfsec) - Security scanner for your Terraform code
 - [99designs/aws-vault](https://github.com/99designs/aws-vault) - A vault for securely storing and accessing AWS credentials in development environments
 - [ekristen/terraform-provider-pgp](https://github.com/ekristen/terraform-provider-pgp) - Terraform Provider for PGP Actions

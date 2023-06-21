@@ -118,7 +118,7 @@
 - [telegramdesktop/tdesktop](https://github.com/telegramdesktop/tdesktop) - Telegram Desktop messaging app
 - [codilime/veles](https://github.com/codilime/veles) - Binary data analysis and visualization tool
 - [osquery/osquery](https://github.com/osquery/osquery) - SQL powered operating system instrumentation, monitoring, and analytics.
-- [fanout/pushpin](https://github.com/fanout/pushpin) - Proxy server for adding push to your API
+- [fastly/pushpin](https://github.com/fastly/pushpin) - Proxy server for adding push to your API
 - [krattai/AEBL](https://github.com/krattai/AEBL) - AEBL is a mobile multimedia distribution and playback platform.
 - [s3fs-fuse/s3fs-fuse](https://github.com/s3fs-fuse/s3fs-fuse) - FUSE-based file system backed by Amazon S3
 - [visualfc/liteide](https://github.com/visualfc/liteide) - LiteIDE is a simple, open source, cross-platform Go IDE.
@@ -549,7 +549,6 @@
 - [cloudnautique/terraform-rancher](https://github.com/cloudnautique/terraform-rancher) - 
 - [terraform-community-modules/tf_aws_openvpn](https://github.com/terraform-community-modules/tf_aws_openvpn) - Terraform module which creates OpenVPN on AWS
 - [r7kamura/mastodon-terraform](https://github.com/r7kamura/mastodon-terraform) - Boilerplate for running Mastodon on AWS using Terraform and CircleCI.
-- [carrete/terraform-aws-starterkit-mirror](https://github.com/carrete/terraform-aws-starterkit-mirror) - This is only a mirror. Please see the official repository on GitLab.
 - [naikajah/AWS-Infrasetup](https://github.com/naikajah/AWS-Infrasetup) - Building AWS infrastructure with Terraform
 - [shogomuranushi/oreno-terraform](https://github.com/shogomuranushi/oreno-terraform) - 
 - [knakayama/tf-ses-demo](https://github.com/knakayama/tf-ses-demo) - 

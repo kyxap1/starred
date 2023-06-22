@@ -63,6 +63,7 @@
 
 ## C 
 
+- [a2o/snoopy](https://github.com/a2o/snoopy) - Snoopy Command Logger is a small library that logs all program executions on your Linux/BSD system.
 - [ogarrett/nginx-fips-check-module](https://github.com/ogarrett/nginx-fips-check-module) - Basic NGINX module to report on OpenSSL FIPS status
 - [wazuh/wazuh](https://github.com/wazuh/wazuh) - Wazuh - The Open Source Security Platform. Unified XDR and SIEM protection for endpoints and cloud workloads.
 - [bol-van/zapret](https://github.com/bol-van/zapret) - Обход DPI в linux

@@ -196,6 +196,7 @@
 
 ## Go 
 
+- [stakater/Reloader](https://github.com/stakater/Reloader) - A Kubernetes controller to watch changes in ConfigMap and Secrets and do rolling upgrades on Pods with their associated Deployment, StatefulSet, DaemonSet and DeploymentConfig – [✩Star] if you're usin
 - [goharbor/harbor](https://github.com/goharbor/harbor) - An open source trusted cloud native registry project that stores, signs, and scans content.
 - [eddycharly/terraform-provider-kops](https://github.com/eddycharly/terraform-provider-kops) - Brings kOps into terraform in a fully managed way
 - [snyk/driftctl](https://github.com/snyk/driftctl) - Detect, track and alert on infrastructure drift
@@ -641,7 +642,6 @@
 - [robinmoisson/staticrypt](https://github.com/robinmoisson/staticrypt) - Password protect a static HTML page, decrypted in-browser
 - [node-red/node-red-dashboard](https://github.com/node-red/node-red-dashboard) - A dashboard UI for Node-RED
 - [ericchiang/pup](https://github.com/ericchiang/pup) - Parsing HTML at the command line
-- [gnab/remark](https://github.com/gnab/remark) - A simple, in-browser, markdown-driven slideshow tool.
 - [Netflix/ndbench](https://github.com/Netflix/ndbench) - Netflix Data Store Benchmark
 - [cloudfoundry/buildpacks-ci](https://github.com/cloudfoundry/buildpacks-ci) - Concourse CI pipelines for the buildpacks team
 - [Macroz/archi-example](https://github.com/Macroz/archi-example) - Example project for archi also useful as a quickstart template.
@@ -768,7 +768,6 @@
 - [seeebiii/lambdalogs](https://github.com/seeebiii/lambdalogs) - A CLI tool to trace AWS Lambda calls over multiple CloudWatch log groups.
 - [alexcasalboni/kinesis-streams-fan-out-kinesis-analytics](https://github.com/alexcasalboni/kinesis-streams-fan-out-kinesis-analytics) - Amazon Kinesis Streams fan-out via Kinesis Analytics (powered by the Serverless Framework)
 - [tdegrunt/jsonschema](https://github.com/tdegrunt/jsonschema) - JSON Schema validation
-- [funretro/distributed](https://github.com/funretro/distributed) - 
 - [breser/git2consul](https://github.com/breser/git2consul) - Mirrors the contents of a git repository into Consul KVs.
 - [maqpie/drone-starter](https://github.com/maqpie/drone-starter) - Make a first build with Drone CI in under 10 minutes
 - [ks888/LambStatus](https://github.com/ks888/LambStatus) - [Maintenance mode] Serverless Status Page System
@@ -800,6 +799,7 @@
 - [jippi/hashi-ui](https://github.com/jippi/hashi-ui) - A modern user interface for @hashicorp Consul & Nomad
 - [mdaines/viz-js](https://github.com/mdaines/viz-js) - A hack to put Graphviz on the web.
 - [almende/vis](https://github.com/almende/vis) - ⚠️ This project is not maintained anymore! Please go to https://github.com/visjs
+- [gnab/remark](https://github.com/gnab/remark) - A simple, in-browser, markdown-driven slideshow tool.
 - [rixrix/vscode-terraform-snippets](https://github.com/rixrix/vscode-terraform-snippets) - Advanced Terraform Snippets for Visual Studio Code. It has at least 23k downloads from the marketplace.
 - [mermaid-js/mermaid](https://github.com/mermaid-js/mermaid) - Generation of diagrams like flowcharts or sequence diagrams from text in a similar manner as markdown
 - [lukasmartinelli/osm-qa-filter](https://github.com/lukasmartinelli/osm-qa-filter) - Extract GeoJSON features from OSM QA tiles

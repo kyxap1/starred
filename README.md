@@ -75,7 +75,7 @@
 - [mydumper/mydumper](https://github.com/mydumper/mydumper) - Official MyDumper Project
 - [Entware/Entware-ng](https://github.com/Entware/Entware-ng) - Entware-ng
 - [vozlt/nginx-module-sts](https://github.com/vozlt/nginx-module-sts) - Nginx stream server traffic status module
-- [netdata/netdata](https://github.com/netdata/netdata) - Real-time performance monitoring, done right! https://www.netdata.cloud
+- [netdata/netdata](https://github.com/netdata/netdata) - Monitor your servers, containers, and applications, in high-resolution and in real-time! https://www.netdata.cloud
 - [edenhill/kcat](https://github.com/edenhill/kcat) - Generic command line non-JVM Apache Kafka producer and consumer
 - [laurenz/pgreplay](https://github.com/laurenz/pgreplay) - pgreplay reads a PostgreSQL log file (*not* a WAL file), extracts the SQL statements and executes them in the same order and relative time against a PostgreSQL database cluster.
 - [kubo/snzip](https://github.com/kubo/snzip) - Snzip, a compression/decompression tool based on snappy

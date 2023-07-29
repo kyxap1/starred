@@ -1361,7 +1361,7 @@
 - [snowplow/snowplow](https://github.com/snowplow/snowplow) - The enterprise-grade behavioral data engine (web, mobile, server-side, webhooks), running cloud-natively on AWS and GCP
 - [strelec/hive-serde-schema-gen](https://github.com/strelec/hive-serde-schema-gen) - :clipboard: Generate Hive SerDe schema from a .json file.
 - [Normation/rudder](https://github.com/Normation/rudder) - Rudder is a configuration and security automation platform. Manage your Cloud, hybrid or on-premises infrastructure in a simple, scalable and dynamic way.
-- [datastax/spark-cassandra-connector](https://github.com/datastax/spark-cassandra-connector) - DataStax Spark Cassandra Connector
+- [datastax/spark-cassandra-connector](https://github.com/datastax/spark-cassandra-connector) - DataStax Connector for Apache Spark to Apache Cassandra
 - [laurilehmijoki/s3_website](https://github.com/laurilehmijoki/s3_website) - Manage an S3 website: sync, deliver via CloudFront, benefit from advanced S3 website features.
 - [rmmeans/S3-Private-Downloader](https://github.com/rmmeans/S3-Private-Downloader) - A simple microservice that signs the request for an S3 file and redirects you to download the file
 

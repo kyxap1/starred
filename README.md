@@ -320,7 +320,6 @@
 - [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) - Terraform AWS provider
 - [gilbertchen/duplicacy](https://github.com/gilbertchen/duplicacy) - A new generation cloud backup tool
 - [barnybug/cli53](https://github.com/barnybug/cli53) - Command line tool for Amazon Route 53
-- [heap/terraform-ebs-attachmentizer](https://github.com/heap/terraform-ebs-attachmentizer) - Convert ebs_block_device blocks in aws_instance resource to aws_ebs_volume and aws_volume_attachment resources
 - [awslabs/amazon-ecr-credential-helper](https://github.com/awslabs/amazon-ecr-credential-helper) - Automatically gets credentials for Amazon ECR on docker push/docker pull
 - [kubernetes/kops](https://github.com/kubernetes/kops) - Kubernetes Operations (kOps) - Production Grade k8s Installation, Upgrades and Management
 - [hairyhenderson/gomplate](https://github.com/hairyhenderson/gomplate) - A flexible commandline tool for template rendering. Supports lots of local and remote datasources.

@@ -63,6 +63,7 @@
 
 ## C 
 
+- [infinet/xt_wgobfs](https://github.com/infinet/xt_wgobfs) - Iptables WireGuard obfuscation extension
 - [a2o/snoopy](https://github.com/a2o/snoopy) - Snoopy Command Logger is a small library that logs all program executions on your Linux/BSD system.
 - [ogarrett/nginx-fips-check-module](https://github.com/ogarrett/nginx-fips-check-module) - Basic NGINX module to report on OpenSSL FIPS status
 - [wazuh/wazuh](https://github.com/wazuh/wazuh) - Wazuh - The Open Source Security Platform. Unified XDR and SIEM protection for endpoints and cloud workloads.
@@ -112,6 +113,7 @@
 
 ## C++ 
 
+- [wangyu-/udp2raw](https://github.com/wangyu-/udp2raw) - A Tunnel which Turns UDP Traffic into Encrypted UDP/FakeTCP/ICMP Traffic by using Raw Socket,helps you Bypass UDP FireWalls(or Unstable UDP Environment)
 - [victor-homyakov/recaps](https://github.com/victor-homyakov/recaps) - Using CapsLock to switch the keyboard language
 - [acidanthera/WhateverGreen](https://github.com/acidanthera/WhateverGreen) - Various patches necessary for certain ATI/AMD/Intel/Nvidia GPUs
 - [RehabMan/OS-X-Fake-PCI-ID](https://github.com/RehabMan/OS-X-Fake-PCI-ID) - Allow returning Fake PCI ID from IOPCIDevice.  Used to avoid patching kexts, such as needed for HD4600 Yosemite, WiFi and others.
@@ -195,6 +197,7 @@
 
 ## Go 
 
+- [shadowsocks/v2ray-plugin](https://github.com/shadowsocks/v2ray-plugin) - A SIP003 plugin based on v2ray
 - [hakaioffsec/navgix](https://github.com/hakaioffsec/navgix) - navgix is a multi-threaded golang tool that will check for nginx alias traversal vulnerabilities
 - [stakater/Reloader](https://github.com/stakater/Reloader) - A Kubernetes controller to watch changes in ConfigMap and Secrets and do rolling upgrades on Pods with their associated Deployment, StatefulSet, DaemonSet and DeploymentConfig – [✩Star] if you're usin
 - [goharbor/harbor](https://github.com/goharbor/harbor) - An open source trusted cloud native registry project that stores, signs, and scans content.

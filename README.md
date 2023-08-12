@@ -197,6 +197,7 @@
 
 ## Go 
 
+- [looterz/grimd](https://github.com/looterz/grimd) - :zap: fast dns proxy that can run anywhere, built to black-hole internet advertisements and malware servers
 - [shadowsocks/v2ray-plugin](https://github.com/shadowsocks/v2ray-plugin) - A SIP003 plugin based on v2ray
 - [hakaioffsec/navgix](https://github.com/hakaioffsec/navgix) - navgix is a multi-threaded golang tool that will check for nginx alias traversal vulnerabilities
 - [stakater/Reloader](https://github.com/stakater/Reloader) - A Kubernetes controller to watch changes in ConfigMap and Secrets and do rolling upgrades on Pods with their associated Deployment, StatefulSet, DaemonSet and DeploymentConfig – [✩Star] if you're usin
@@ -504,7 +505,7 @@
 - [spf13/cobra](https://github.com/spf13/cobra) - A Commander for modern Go CLI interactions
 - [nishanths/license](https://github.com/nishanths/license) - Command line license text generator.
 - [hashicorp/packer](https://github.com/hashicorp/packer) - Packer is a tool for creating identical machine images for multiple platforms from a single source configuration.
-- [hashicorp/terraform](https://github.com/hashicorp/terraform) - Terraform enables you to safely and predictably create, change, and improve infrastructure. It is an open source tool that codifies APIs into declarative configuration files that can be shared amongst
+- [hashicorp/terraform](https://github.com/hashicorp/terraform) - Terraform enables you to safely and predictably create, change, and improve infrastructure. It is a source-available tool that codifies APIs into declarative configuration files that can be shared amo
 - [bosun-monitor/bosun](https://github.com/bosun-monitor/bosun) - Time Series Alerting Framework
 - [jgrahamc/httpdiff](https://github.com/jgrahamc/httpdiff) - Perform the same request against two HTTP servers and diff the results
 
@@ -1482,7 +1483,7 @@
 - [open-guides/og-aws](https://github.com/open-guides/og-aws) - 📙 Amazon Web Services — a practical guide
 - [jamesbriggs/cassandra-top](https://github.com/jamesbriggs/cassandra-top) - Cassandra top command to monitor cluster without Datastax OpsCenter, and log nodetool administrative commands
 - [projectatomic/container-storage-setup](https://github.com/projectatomic/container-storage-setup) - Service to set up storage for Docker and other container systems
-- [sickill/bitpocket](https://github.com/sickill/bitpocket) - "DIY Dropbox" or "2-way directory (r)sync with proper deletion"
+- [ku1ik/bitpocket](https://github.com/ku1ik/bitpocket) - "DIY Dropbox" or "2-way directory (r)sync with proper deletion"
 - [marshyski/quick-secure](https://github.com/marshyski/quick-secure) - Quickly secure UNIX/Linux systems
 - [tfutils/tfenv](https://github.com/tfutils/tfenv) - Terraform version manager
 - [starrlingo/aws-ec2-raid0-script](https://github.com/starrlingo/aws-ec2-raid0-script) - Provide a template script to perform Raid 0 architecture in AWS EC2
@@ -1584,7 +1585,7 @@
 - [jiangmiao/auto-pairs](https://github.com/jiangmiao/auto-pairs) - Vim plugin, insert or delete brackets, parens, quotes in pair
 - [Xuyuanp/nerdtree-git-plugin](https://github.com/Xuyuanp/nerdtree-git-plugin) - A plugin of NERDTree showing git status
 - [altercation/vim-colors-solarized](https://github.com/altercation/vim-colors-solarized) - precision colorscheme for the vim text editor
-- [sickill/vim-monokai](https://github.com/sickill/vim-monokai) - Monokai color scheme for Vim converted from Textmate theme
+- [ku1ik/vim-monokai](https://github.com/ku1ik/vim-monokai) - Monokai color scheme for Vim converted from Textmate theme
 - [fatih/vim-hclfmt](https://github.com/fatih/vim-hclfmt) - Vim plugin for hclfmt
 - [hashivim/vim-terraform](https://github.com/hashivim/vim-terraform) - basic vim/terraform integration
 - [hashivim/vim-hashicorp-tools](https://github.com/hashivim/vim-hashicorp-tools) - "self-contained and fairly explanatory" agglomeration of HashiVim plugins

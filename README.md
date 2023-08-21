@@ -931,6 +931,7 @@
 
 ## Others 
 
+- [aws-ia/terraform-aws-eks-blueprints](https://github.com/aws-ia/terraform-aws-eks-blueprints) - Configure and deploy complete EKS clusters.
 - [decalage2/awesome-security-hardening](https://github.com/decalage2/awesome-security-hardening) - A collection of awesome security hardening guides, tools and other resources
 - [github/copilot-docs](https://github.com/github/copilot-docs) - Documentation for GitHub Copilot
 - [hackjutsu/vim-cheatsheet](https://github.com/hackjutsu/vim-cheatsheet) - 📟 My personal vim cheatsheet
@@ -1067,6 +1068,7 @@
 
 ## Python 
 
+- [aws/aws-eks-best-practices](https://github.com/aws/aws-eks-best-practices) - A best practices guide for day 2 operations, including operational excellence, security, reliability, performance efficiency, and cost optimization.
 - [aws-samples/fedramp-integrated-inventory-workbook](https://github.com/aws-samples/fedramp-integrated-inventory-workbook) - This example shows how you can create a Lambda function to retrieve inventory information to create the integrated inventory spreadsheet which can be used as a separate attachment to the FedRAMP Syste
 - [awslabs/terraform-iam-policy-validator](https://github.com/awslabs/terraform-iam-policy-validator) - A command line tool that validates AWS IAM Policies in a Terraform template against AWS IAM best practices
 - [magic-wormhole/magic-wormhole](https://github.com/magic-wormhole/magic-wormhole) - get things from one computer to another, safely

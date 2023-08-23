@@ -906,7 +906,6 @@
 - [json-schema-org/json-schema-spec](https://github.com/json-schema-org/json-schema-spec) - The JSON Schema I-D sources
 - [sjourdan/nomad-docker](https://github.com/sjourdan/nomad-docker) - This is a Docker container for Nomad based on Busybox
 - [thockin/go-build-template](https://github.com/thockin/go-build-template) - A Makefile/Dockerfile example for Go projects.
-- [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers
 - [grahamgilbert/docker-nginx-s3](https://github.com/grahamgilbert/docker-nginx-s3) - An nginx image with ngx_aws_auth
 - [nrcxcia/terraform-provider-utils](https://github.com/nrcxcia/terraform-provider-utils) - Terraform provider to help with templating in terraform definitions.
 
@@ -1021,6 +1020,7 @@
 - [awesomedata/awesome-public-datasets](https://github.com/awesomedata/awesome-public-datasets) - A topic-centric list of HQ open datasets.
 - [jayofdoom/onmetal-fast-docker](https://github.com/jayofdoom/onmetal-fast-docker) - Contains example cloud-config.yml files for mounting /var/lib/docker onto fast storage on OnMetal
 - [airpair/ntiered-aws-docker-terraform-guide](https://github.com/airpair/ntiered-aws-docker-terraform-guide) - 
+- [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers
 - [dhamaniasad/awesome-postgres](https://github.com/dhamaniasad/awesome-postgres) - A curated list of awesome PostgreSQL software, libraries, tools and resources, inspired by awesome-mysql
 - [delirehberi/amazing-deployment](https://github.com/delirehberi/amazing-deployment) - A curated list of amazing Deployment libraries, library distributions, scripts, tools and resources.
 - [Lets-DevOps/awesome-learning](https://github.com/Lets-DevOps/awesome-learning) - A curated list for DevOps learning resources. Join the slack channel to discuss more.

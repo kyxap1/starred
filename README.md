@@ -832,6 +832,7 @@
 - [danrspencer/jira-resource](https://github.com/danrspencer/jira-resource) - Jira Resource for Concourse
 - [DataPipelineInc/eslint-config-datapipeline](https://github.com/DataPipelineInc/eslint-config-datapipeline) - Data pipeline ESLint configuration
 - [pearsonlab/DataPipeline-download](https://github.com/pearsonlab/DataPipeline-download) - downloading files from AWS DataPipeline system
+- [json-schema-org/json-schema-spec](https://github.com/json-schema-org/json-schema-spec) - The JSON Schema I-D sources
 - [apiaryio/dredd](https://github.com/apiaryio/dredd) - Language-agnostic HTTP API Testing Tool
 - [almilo/gql-tools](https://github.com/almilo/gql-tools) - GraphQL Tools for schema handling.
 - [turnerlabs/beanform](https://github.com/turnerlabs/beanform) - Reverse engineer AWS Elasticbeanstalk apps into Terraform source code
@@ -903,7 +904,6 @@
 - [RehabMan/Intel-NUC-DSDT-Patch](https://github.com/RehabMan/Intel-NUC-DSDT-Patch) - Patches and Clover configuration required for Intel NUC5/6/7/8 series mini PCs
 - [johnrengelman/terraform-spec](https://github.com/johnrengelman/terraform-spec) - Docker container of utilities for testing Terraform modules
 - [kostyrev/ansible-role-datastax-ddc](https://github.com/kostyrev/ansible-role-datastax-ddc) - 
-- [json-schema-org/json-schema-spec](https://github.com/json-schema-org/json-schema-spec) - The JSON Schema I-D sources
 - [sjourdan/nomad-docker](https://github.com/sjourdan/nomad-docker) - This is a Docker container for Nomad based on Busybox
 - [thockin/go-build-template](https://github.com/thockin/go-build-template) - A Makefile/Dockerfile example for Go projects.
 - [grahamgilbert/docker-nginx-s3](https://github.com/grahamgilbert/docker-nginx-s3) - An nginx image with ngx_aws_auth
@@ -1046,7 +1046,7 @@
 - [cakephp/phinx](https://github.com/cakephp/phinx) - PHP Database Migrations for Everyone
 - [jkkitakita/packer-terraform-sample](https://github.com/jkkitakita/packer-terraform-sample) - repo related to hashicorp
 - [docker/labs](https://github.com/docker/labs) - This is a collection of tutorials for learning how to use Docker with various tools. Contributions welcome.
-- [FreshRSS/FreshRSS](https://github.com/FreshRSS/FreshRSS) - A free, self-hostable aggregator…
+- [FreshRSS/FreshRSS](https://github.com/FreshRSS/FreshRSS) - A free, self-hostable news aggregator…
 - [sjardim/Hugopit](https://github.com/sjardim/Hugopit) - An EXPERIMENTAL web based editor for Hugo
 - [enxebre/CliGenerator](https://github.com/enxebre/CliGenerator) - A Command-Line User Interface generator for Symfony Console Component.
 - [guzzle/guzzle](https://github.com/guzzle/guzzle) - Guzzle, an extensible PHP HTTP client
@@ -1372,6 +1372,7 @@
 
 ## Shell 
 
+- [awslabs/amazon-eks-ami](https://github.com/awslabs/amazon-eks-ami) - Packer configuration for building a custom EKS AMI
 - [aws/amazon-ecs-ami](https://github.com/aws/amazon-ecs-ami) - Packer recipes for building the official ECS-optimized Amazon Linux AMIs
 - [rcaloras/bash-preexec](https://github.com/rcaloras/bash-preexec) - ⚡ preexec and precmd functions for Bash just like Zsh.
 - [jichu4n/bash-command-timer](https://github.com/jichu4n/bash-command-timer) - Bash extension for printing execution time for each command.

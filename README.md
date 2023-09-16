@@ -197,6 +197,7 @@
 
 ## Go 
 
+- [liggitt/audit2rbac](https://github.com/liggitt/audit2rbac) - Autogenerate RBAC policies based on Kubernetes audit logs
 - [aquasecurity/kube-bench](https://github.com/aquasecurity/kube-bench) - Checks whether Kubernetes is deployed according to security best practices as defined in the CIS Kubernetes Benchmark
 - [looterz/grimd](https://github.com/looterz/grimd) - :zap: fast dns proxy that can run anywhere, built to black-hole internet advertisements and malware servers
 - [shadowsocks/v2ray-plugin](https://github.com/shadowsocks/v2ray-plugin) - A SIP003 plugin based on v2ray
@@ -208,7 +209,6 @@
 - [rclone/rclone](https://github.com/rclone/rclone) - "rsync for cloud storage" - Google Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Wasabi, Google Cloud Storage, Yandex Files
 - [elkargig/awless](https://github.com/elkargig/awless) - A Mighty CLI for AWS
 - [leg100/otf](https://github.com/leg100/otf) - An open source alternative to terraform enterprise.
-- [moby/moby](https://github.com/moby/moby) - Moby Project - a collaborative project for the container ecosystem to assemble container-based systems
 - [gofireflyio/aiac](https://github.com/gofireflyio/aiac) - Artificial Intelligence Infrastructure-as-Code Generator.
 - [google/osv-scanner](https://github.com/google/osv-scanner) - Vulnerability scanner written in Go which uses the data provided by https://osv.dev
 - [smallstep/certificates](https://github.com/smallstep/certificates) - 🛡️ A private certificate authority (X.509 & SSH) & ACME server for secure automated certificate management, so you can use TLS everywhere & SSO for SSH.
@@ -1069,6 +1069,7 @@
 
 ## Python 
 
+- [mvt-project/mvt](https://github.com/mvt-project/mvt) - MVT (Mobile Verification Toolkit) helps with conducting forensics of mobile devices in order to find signs of a potential compromise.
 - [aws/aws-eks-best-practices](https://github.com/aws/aws-eks-best-practices) - A best practices guide for day 2 operations, including operational excellence, security, reliability, performance efficiency, and cost optimization.
 - [aws-samples/fedramp-integrated-inventory-workbook](https://github.com/aws-samples/fedramp-integrated-inventory-workbook) - This example shows how you can create a Lambda function to retrieve inventory information to create the integrated inventory spreadsheet which can be used as a separate attachment to the FedRAMP Syste
 - [awslabs/terraform-iam-policy-validator](https://github.com/awslabs/terraform-iam-policy-validator) - A command line tool that validates AWS IAM Policies in a Terraform template against AWS IAM best practices
@@ -1259,7 +1260,7 @@
 ## Ruby 
 
 - [Rudikza/chef-inspec-cis-centos7-level1](https://github.com/Rudikza/chef-inspec-cis-centos7-level1) - 
-- [mitre/redhat-enterprise-linux-7-stig-baseline](https://github.com/mitre/redhat-enterprise-linux-7-stig-baseline) - InSpec profile to validate the secure configuration of Red Hat Enterprise Linux 7, against DISA's Red Hat Enterprise Linux 7 Security Technical Implementation Guide (STIG) Version 3, Release 6.
+- [mitre/redhat-enterprise-linux-7-stig-baseline](https://github.com/mitre/redhat-enterprise-linux-7-stig-baseline) - InSpec profile to validate the secure configuration of Red Hat Enterprise Linux 7, against DISA's Red Hat Enterprise Linux 7 Security Technical Implementation Guide (STIG) Version 3, Release 10.
 - [dev-sec/cis-dil-benchmark](https://github.com/dev-sec/cis-dil-benchmark) - CIS Distribution Independent Linux Benchmark - InSpec Profile
 - [dev-sec/linux-baseline](https://github.com/dev-sec/linux-baseline) - DevSec Linux Baseline - InSpec Profile
 - [mitre/aws-foundations-cis-baseline](https://github.com/mitre/aws-foundations-cis-baseline) - InSpec profile to validate your VPC to the standards of the CIS Amazon Web Services Foundations Benchmark v1.1.0

@@ -1152,7 +1152,7 @@
 - [pandas-dev/pandas](https://github.com/pandas-dev/pandas) - Flexible and powerful data analysis / manipulation library for Python, providing labeled data structures similar to R data.frame objects, statistical functions, and much more
 - [ClearcodeHQ/ianitor](https://github.com/ClearcodeHQ/ianitor) - Doorkeeper for consul discovered services
 - [hihellobolke/sillyfacter](https://github.com/hihellobolke/sillyfacter) - A silly python facter with JSON output, has process, open files, connection information too. They say Facts do not change, but hey Silly Facts can ;-)
-- [ansible/ansible-lint](https://github.com/ansible/ansible-lint) - ansible-lint checks playbooks for practices and behavior that could potentially be improved
+- [ansible/ansible-lint](https://github.com/ansible/ansible-lint) - ansible-lint checks playbooks for practices and behavior that could potentially be improved and can fix some of the most common ones for you
 - [maralla/validator.vim](https://github.com/maralla/validator.vim) - Check syntax on the fly asynchronously.
 - [martinblech/xmltodict](https://github.com/martinblech/xmltodict) - Python module that makes working with XML feel like you are working with JSON
 - [nickjj/ansigenome](https://github.com/nickjj/ansigenome) - A tool to help you gather information and manage your Ansible roles.

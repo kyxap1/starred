@@ -836,7 +836,7 @@
 - [danrspencer/jira-resource](https://github.com/danrspencer/jira-resource) - Jira Resource for Concourse
 - [DataPipelineInc/eslint-config-datapipeline](https://github.com/DataPipelineInc/eslint-config-datapipeline) - Data pipeline ESLint configuration
 - [pearsonlab/DataPipeline-download](https://github.com/pearsonlab/DataPipeline-download) - downloading files from AWS DataPipeline system
-- [json-schema-org/json-schema-spec](https://github.com/json-schema-org/json-schema-spec) - The JSON Schema I-D sources
+- [json-schema-org/json-schema-spec](https://github.com/json-schema-org/json-schema-spec) - The JSON Schema specification
 - [apiaryio/dredd](https://github.com/apiaryio/dredd) - Language-agnostic HTTP API Testing Tool
 - [almilo/gql-tools](https://github.com/almilo/gql-tools) - GraphQL Tools for schema handling.
 - [turnerlabs/beanform](https://github.com/turnerlabs/beanform) - Reverse engineer AWS Elasticbeanstalk apps into Terraform source code

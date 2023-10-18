@@ -840,7 +840,7 @@
 - [apiaryio/dredd](https://github.com/apiaryio/dredd) - Language-agnostic HTTP API Testing Tool
 - [almilo/gql-tools](https://github.com/almilo/gql-tools) - GraphQL Tools for schema handling.
 - [turnerlabs/beanform](https://github.com/turnerlabs/beanform) - Reverse engineer AWS Elasticbeanstalk apps into Terraform source code
-- [mschuchard/linter-terraform-syntax](https://github.com/mschuchard/linter-terraform-syntax) - terraform validate linter and formatter for atom
+- [mschuchard/linter-terraform-syntax](https://github.com/mschuchard/linter-terraform-syntax) - terraform validate linter and formatter for pulsar
 - [indix/aws-maintenance-lambda](https://github.com/indix/aws-maintenance-lambda) - A lambda function to send alerts (to Slack, HipChat) on AWS maintenance events.
 - [tyage/slack-patron](https://github.com/tyage/slack-patron) - Log and view all Slack messages.
 - [toricls/pingbot](https://github.com/toricls/pingbot) - A website monitoring/health-checking tool based on serverless architecture.

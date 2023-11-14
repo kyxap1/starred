@@ -197,6 +197,7 @@
 
 ## Go 
 
+- [anchore/syft](https://github.com/anchore/syft) - CLI tool and library for generating a Software Bill of Materials from container images and filesystems
 - [kurianoff/pgpx](https://github.com/kurianoff/pgpx) - "Single-backend" PostgreSQL proxy for enabling RDS IAM-based authentication with dynamic passwords on Postgres client apps that do not support dynamic credentials.
 - [containerd/nerdctl](https://github.com/containerd/nerdctl) - contaiNERD CTL - Docker-compatible CLI for containerd, with support for Compose, Rootless, eStargz, OCIcrypt, IPFS, ...
 - [liggitt/audit2rbac](https://github.com/liggitt/audit2rbac) - Autogenerate RBAC policies based on Kubernetes audit logs
@@ -395,6 +396,7 @@
 - [cloud66/janitor](https://github.com/cloud66/janitor) - Clean up unwanted servers
 - [linkedin/goavro](https://github.com/linkedin/goavro) - 
 - [docker/compose](https://github.com/docker/compose) - Define and run multi-container applications with Docker
+- [lk-geimfari/awesomo](https://github.com/lk-geimfari/awesomo) - Cool open source projects. Choose your project and get involved in Open Source development now.
 - [SermoDigital/jose](https://github.com/SermoDigital/jose) - A comprehensive set of JWT, JWS, and JWE libraries.
 - [segmentio/objconv](https://github.com/segmentio/objconv) - A Go package exposing encoder and decoders that support data streaming to and from multiple formats.
 - [segment-boneyard/consul-router](https://github.com/segment-boneyard/consul-router) - HTTP proxy with service discovery capabilities based on consul
@@ -889,7 +891,6 @@
 ## Kotlin 
 
 - [rustyrazorblade/cdm](https://github.com/rustyrazorblade/cdm) - Cassandra Dataset Manager
-- [lk-geimfari/awesomo](https://github.com/lk-geimfari/awesomo) - Cool open source projects. Choose your project and get involved in Open Source development now.
 - [VladRassokhin/intellij-hcl](https://github.com/VladRassokhin/intellij-hcl) - HCL language support for IntelliJ platform based IDEs
 
 ## Lua 
@@ -1263,7 +1264,7 @@
 - [mitre/redhat-enterprise-linux-7-stig-baseline](https://github.com/mitre/redhat-enterprise-linux-7-stig-baseline) - InSpec profile to validate the secure configuration of Red Hat Enterprise Linux 7, against DISA's Red Hat Enterprise Linux 7 Security Technical Implementation Guide (STIG) Version 3, Release 10.
 - [dev-sec/cis-dil-benchmark](https://github.com/dev-sec/cis-dil-benchmark) - CIS Distribution Independent Linux Benchmark - InSpec Profile
 - [dev-sec/linux-baseline](https://github.com/dev-sec/linux-baseline) - DevSec Linux Baseline - InSpec Profile
-- [mitre/aws-foundations-cis-baseline](https://github.com/mitre/aws-foundations-cis-baseline) - InSpec profile to validate your VPC to the standards of the CIS Amazon Web Services Foundations Benchmark v1.1.0
+- [mitre/aws-foundations-cis-baseline](https://github.com/mitre/aws-foundations-cis-baseline) - InSpec profile to validate your VPC to the standards of the CIS Amazon Web Services Foundations Benchmark
 - [dev-sec/cis-docker-benchmark](https://github.com/dev-sec/cis-docker-benchmark) - CIS Docker Benchmark - InSpec Profile
 - [eddiezane/lunchy](https://github.com/eddiezane/lunchy) - A friendly wrapper for launchctl
 - [NARKOZ/gitlab](https://github.com/NARKOZ/gitlab) - Ruby wrapper and CLI for the GitLab REST API

@@ -928,6 +928,7 @@
 
 ## Objective-C 
 
+- [aik002/RSBypass](https://github.com/aik002/RSBypass) - Rocksmith 2014 Remastered Edition dylib patch for loading and playing CDLC
 - [mariociabarra/wifriedx](https://github.com/mariociabarra/wifriedx) - Band-aid for Yosemite WiFi Issues.  Menu bar item which disables/enables awdl0 interface.  Brings interface up/down with PriviledgedHelper
 - [mariociabarra/wifried](https://github.com/mariociabarra/wifried) - WiFi Fix for iOS 8.1
 - [objective-see/LuLu](https://github.com/objective-see/LuLu) - LuLu is the free macOS firewall

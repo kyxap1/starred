@@ -318,7 +318,6 @@
 - [prometheus/prometheus](https://github.com/prometheus/prometheus) - The Prometheus monitoring system and time series database.
 - [Shopify/toxiproxy](https://github.com/Shopify/toxiproxy) - :alarm_clock: :fire: A TCP proxy to simulate network and system conditions for chaos and resiliency testing
 - [tidwall/jj](https://github.com/tidwall/jj) - JSON Stream Editor (command line utility)
-- [portainer/portainer](https://github.com/portainer/portainer) - Making Docker and Kubernetes management easy.
 - [Telmate/terraform-provider-proxmox](https://github.com/Telmate/terraform-provider-proxmox) - Terraform provider plugin for proxmox
 - [dmacvicar/terraform-provider-libvirt](https://github.com/dmacvicar/terraform-provider-libvirt) - Terraform provider to provision infrastructure with Linux's KVM using libvirt
 - [prest/prest](https://github.com/prest/prest) - PostgreSQL ➕ REST, low-code, simplify and accelerate development, ⚡ instant, realtime, high-performance on any Postgres application, existing or new
@@ -1564,6 +1563,7 @@
 - [graphql-compose/graphql-compose-aws](https://github.com/graphql-compose/graphql-compose-aws) - AWS Cloud API via GraphQL
 - [DestinyItemManager/DIM](https://github.com/DestinyItemManager/DIM) - Destiny Item Manager
 - [balena-io/etcher](https://github.com/balena-io/etcher) - Flash OS images to SD cards & USB drives, safely and easily.
+- [portainer/portainer](https://github.com/portainer/portainer) - Making Docker and Kubernetes management easy.
 - [hashicorp/vscode-terraform](https://github.com/hashicorp/vscode-terraform) - HashiCorp Terraform VSCode extension
 - [apollographql/subscriptions-transport-ws](https://github.com/apollographql/subscriptions-transport-ws) - :arrows_clockwise: A WebSocket client + server for GraphQL subscriptions
 - [learnapollo/learnapollo](https://github.com/learnapollo/learnapollo) - 👩🏻‍🏫   Learn Apollo - A hands-on tutorial for Apollo GraphQL Client (created by Graphcool)

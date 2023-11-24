@@ -751,7 +751,7 @@
 - [HaschekSolutions/pictshare](https://github.com/HaschekSolutions/pictshare) - :camera: PictShare is an open source image, mp4, pastebin hosting service with a simple resizing and upload API that you can host yourself. :rice_scene:
 - [elvisfromsouth/mattermost-mobile](https://github.com/elvisfromsouth/mattermost-mobile) - Next generation iOS and Android apps for Mattermost in React Native
 - [NginxProxyManager/nginx-proxy-manager](https://github.com/NginxProxyManager/nginx-proxy-manager) - Docker container for managing Nginx proxy hosts with a simple, powerful interface
-- [txthinking/blackwhite](https://github.com/txthinking/blackwhite) - Domain, CIDR, IP black/white list, PAC generator
+- [txthinking/blackwhite](https://github.com/txthinking/blackwhite) - https://github.com/txthinking/brook/tree/master/programmable
 - [leostera/tldr.jsx](https://github.com/leostera/tldr.jsx) - 📚 A Reactive web client for tldr-pages
 - [lisaah/emojiporter](https://github.com/lisaah/emojiporter) - CLI utility to export/import custom emojis for Mattermost.
 - [transloadit/uppy](https://github.com/transloadit/uppy) - The next open source file uploader for web browsers :dog:

@@ -528,10 +528,10 @@
 - [mineiros-io/terraform-github-repository](https://github.com/mineiros-io/terraform-github-repository) - A Terraform module to manage GitHub Repositories. https://github.com/
 - [rhythmictech/terraform-aws-config-multiregion](https://github.com/rhythmictech/terraform-aws-config-multiregion) - Manages the rhythmictech/terraform-aws-config module across many regions
 - [turbot/steampipe-mod-aws-compliance](https://github.com/turbot/steampipe-mod-aws-compliance) - Run individual controls or full compliance benchmarks for CIS, PCI, NIST, HIPAA and more across all of your AWS accounts using Steampipe.
-- [terraform-aws-modules/terraform-aws-appconfig](https://github.com/terraform-aws-modules/terraform-aws-appconfig) - Terraform module which creates AWS AppConfig resources 🇺🇦
+- [terraform-aws-modules/terraform-aws-appconfig](https://github.com/terraform-aws-modules/terraform-aws-appconfig) - Terraform module to create AWS AppConfig resources 🇺🇦
 - [jparnaudeau/terraform-aws-ssm-patch-management](https://github.com/jparnaudeau/terraform-aws-ssm-patch-management) - AWS Terraform Module to manage SSM Patch Management Resources
 - [BigDataBoutique/elasticsearch-cloud-deploy](https://github.com/BigDataBoutique/elasticsearch-cloud-deploy) - Deploy Elasticsearch on the cloud easily
-- [terraform-aws-modules/terraform-aws-iam](https://github.com/terraform-aws-modules/terraform-aws-iam) - Terraform module which creates IAM resources on AWS 🇺🇦
+- [terraform-aws-modules/terraform-aws-iam](https://github.com/terraform-aws-modules/terraform-aws-iam) - Terraform module to create AWS IAM resources 🇺🇦
 - [inovex/terraform-multi-account](https://github.com/inovex/terraform-multi-account) - Some example how toadress multiple aws accounts with Terraform
 - [FRosner/aws_travis](https://github.com/FRosner/aws_travis) - 
 - [monterail/terraform-bootstrap-example](https://github.com/monterail/terraform-bootstrap-example) - Template repo for new projects

@@ -197,6 +197,8 @@
 
 ## Go 
 
+- [openSUSE/helm-mirror](https://github.com/openSUSE/helm-mirror) - Helm plugin used to mirror repositories
+- [bitnami/charts-syncer](https://github.com/bitnami/charts-syncer) - Tool for synchronizing Helm Chart repositories.
 - [anchore/syft](https://github.com/anchore/syft) - CLI tool and library for generating a Software Bill of Materials from container images and filesystems
 - [kurianoff/pgpx](https://github.com/kurianoff/pgpx) - "Single-backend" PostgreSQL proxy for enabling RDS IAM-based authentication with dynamic passwords on Postgres client apps that do not support dynamic credentials.
 - [containerd/nerdctl](https://github.com/containerd/nerdctl) - contaiNERD CTL - Docker-compatible CLI for containerd, with support for Compose, Rootless, eStargz, OCIcrypt, IPFS, ...
@@ -228,7 +230,7 @@
 - [verifa/terraplate](https://github.com/verifa/terraplate) - DRY Terraform with Go Templates
 - [Mastercard/terraform-provider-restapi](https://github.com/Mastercard/terraform-provider-restapi) - A terraform provider to manage objects in a RESTful API
 - [sigstore/cosign](https://github.com/sigstore/cosign) - Container Signing
-- [turbot/steampipe](https://github.com/turbot/steampipe) - Use SQL to instantly query your cloud services (AWS, Azure, GCP and more). Open source CLI. No DB required.
+- [turbot/steampipe](https://github.com/turbot/steampipe) - Zero-ETL, infinite possibilities. Live query APIs, code & more with SQL. No DB required.
 - [pcasteran/terraform-graph-beautifier](https://github.com/pcasteran/terraform-graph-beautifier) - Terraform graph beautifier
 - [cycloidio/inframap](https://github.com/cycloidio/inframap) - Read your tfstate or HCL to generate a graph specific for each provider, showing only the resources that are most important/relevant.
 - [tonedefdev/terracreds](https://github.com/tonedefdev/terracreds) - A Terraform Automation and Collaboration Software credentials helper

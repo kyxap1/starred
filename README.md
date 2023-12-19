@@ -189,7 +189,7 @@
 
 ## Elixir 
 
-- [asciinema/asciinema-server](https://github.com/asciinema/asciinema-server) - Web app for hosting asciicasts
+- [asciinema/asciinema-server](https://github.com/asciinema/asciinema-server) - Platform for hosting and sharing terminal session recordings
 - [asakura/exhcl](https://github.com/asakura/exhcl) - Configuration language inspired by HCL
 
 ## Gherkin 

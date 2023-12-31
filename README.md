@@ -1569,7 +1569,7 @@
 - [hashicorp/vscode-terraform](https://github.com/hashicorp/vscode-terraform) - HashiCorp Terraform VSCode extension
 - [apollographql/subscriptions-transport-ws](https://github.com/apollographql/subscriptions-transport-ws) - :arrows_clockwise: A WebSocket client + server for GraphQL subscriptions
 - [learnapollo/learnapollo](https://github.com/learnapollo/learnapollo) - 👩🏻‍🏫   Learn Apollo - A hands-on tutorial for Apollo GraphQL Client (created by Graphcool)
-- [ardatan/graphql-tools](https://github.com/ardatan/graphql-tools) - :wrench: Utility library for GraphQL to build, stitch and mock GraphQL schema using SDL
+- [ardatan/graphql-tools](https://github.com/ardatan/graphql-tools) - :wrench: Utility library for GraphQL to build, stitch and mock GraphQL schemas in the SDL-first approach
 - [docker-archive/pulpo](https://github.com/docker-archive/pulpo) - Configuration mechanism for Node
 - [apache/superset](https://github.com/apache/superset) - Apache Superset is a Data Visualization and Data Exploration Platform
 - [jhipster/generator-jhipster](https://github.com/jhipster/generator-jhipster) - JHipster is a development platform to quickly generate, develop, & deploy modern web applications & microservice architectures.

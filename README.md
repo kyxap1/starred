@@ -198,6 +198,7 @@
 
 ## Go 
 
+- [vmware-tanzu/asset-relocation-tool-for-kubernetes](https://github.com/vmware-tanzu/asset-relocation-tool-for-kubernetes) - A tool for relocating Kubernetes Assets
 - [openSUSE/helm-mirror](https://github.com/openSUSE/helm-mirror) - Helm plugin used to mirror repositories
 - [bitnami/charts-syncer](https://github.com/bitnami/charts-syncer) - Tool for synchronizing Helm Chart repositories.
 - [anchore/syft](https://github.com/anchore/syft) - CLI tool and library for generating a Software Bill of Materials from container images and filesystems
@@ -1073,6 +1074,7 @@
 
 ## Python 
 
+- [kislyuk/yq](https://github.com/kislyuk/yq) - Command-line YAML, XML, TOML processor - jq wrapper for YAML/XML/TOML documents
 - [mvt-project/mvt](https://github.com/mvt-project/mvt) - MVT (Mobile Verification Toolkit) helps with conducting forensics of mobile devices in order to find signs of a potential compromise.
 - [aws/aws-eks-best-practices](https://github.com/aws/aws-eks-best-practices) - A best practices guide for day 2 operations, including operational excellence, security, reliability, performance efficiency, and cost optimization.
 - [aws-samples/fedramp-integrated-inventory-workbook](https://github.com/aws-samples/fedramp-integrated-inventory-workbook) - This example shows how you can create a Lambda function to retrieve inventory information to create the integrated inventory spreadsheet which can be used as a separate attachment to the FedRAMP Syste

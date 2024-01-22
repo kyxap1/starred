@@ -972,7 +972,6 @@
 - [lorin/ansible-quickref](https://github.com/lorin/ansible-quickref) - Quick reference for Ansible variables
 - [jdauphant/awesome-ansible](https://github.com/jdauphant/awesome-ansible) - A collaborative curated list of awesome Ansible resources
 - [bennojoy/mysql](https://github.com/bennojoy/mysql) - ansible role for mysql
-- [nikitavoloboev/my-mac](https://github.com/nikitavoloboev/my-mac) - Apps/tools I use on macOS
 - [chassing/linux-sysadmin-interview-questions](https://github.com/chassing/linux-sysadmin-interview-questions) - Collection of Linux Sysadmin/DevOps interview questions
 - [thechane/consul](https://github.com/thechane/consul) - Docker compose file and other resources for running Consul as a service in Docker
 - [rjayroach/terraplate](https://github.com/rjayroach/terraplate) - use ansible templates to easily generate terraform modules, components and tfvars files
@@ -1421,6 +1420,7 @@
 - [mathiasbynens/dotfiles](https://github.com/mathiasbynens/dotfiles) - :wrench: .files, including ~/.macos — sensible hacker defaults for macOS
 - [Dalee/build.vagrant](https://github.com/Dalee/build.vagrant) - General purpose Web-development Vagrant box.
 - [StackStorm/showcase-ansible-chatops](https://github.com/StackStorm/showcase-ansible-chatops) - Vagrant Demo showing ChatOps with Ansible
+- [nikitavoloboev/config](https://github.com/nikitavoloboev/config) - Apps/CLIs/configs I use on macOS/iOS. Fish, Karabiner, Cursor..
 - [Bash-it/bash-it](https://github.com/Bash-it/bash-it) - A community Bash framework.
 - [colinmollenhour/mariadb-galera-swarm](https://github.com/colinmollenhour/mariadb-galera-swarm) - Easy to use MariaDb Galera Cluster container based on official mariadb image with support for Docker Swarm Mode.
 - [ljdelight/packer-template-builder](https://github.com/ljdelight/packer-template-builder) - Use Hashicorp Packer and source controlled scripts to create customized OVA images from an iso

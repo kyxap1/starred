@@ -922,6 +922,7 @@
 
 ## Mustache 
 
+- [CenterForOpenScience/helm-charts](https://github.com/CenterForOpenScience/helm-charts) - Kubernetes Helm Charts for the Center for Open Science
 - [swagger-api/swagger-codegen](https://github.com/swagger-api/swagger-codegen) - swagger-codegen contains a template-driven engine to generate documentation, API clients and server stubs in different languages by parsing your OpenAPI / Swagger definition.
 
 ## Nginx 
@@ -1529,7 +1530,6 @@
 ## Smarty 
 
 - [shukla2009/nessus-helm](https://github.com/shukla2009/nessus-helm) - 
-- [CenterForOpenScience/helm-charts](https://github.com/CenterForOpenScience/helm-charts) - Kubernetes Helm Charts for the Center for Open Science
 - [mattermost/mattermost-helm](https://github.com/mattermost/mattermost-helm) - Mattermost Helm charts for Kubernetes
 - [kostyrev/charts-1](https://github.com/kostyrev/charts-1) - Curated applications for Kubernetes
 

@@ -76,7 +76,7 @@
 - [mydumper/mydumper](https://github.com/mydumper/mydumper) - Official MyDumper Project
 - [Entware/Entware-ng](https://github.com/Entware/Entware-ng) - Entware-ng
 - [vozlt/nginx-module-sts](https://github.com/vozlt/nginx-module-sts) - Nginx stream server traffic status module
-- [netdata/netdata](https://github.com/netdata/netdata) - Monitor your servers, containers, and applications, in high-resolution and in real-time!
+- [netdata/netdata](https://github.com/netdata/netdata) - The open-source observability platform everyone needs!
 - [edenhill/kcat](https://github.com/edenhill/kcat) - Generic command line non-JVM Apache Kafka producer and consumer
 - [laurenz/pgreplay](https://github.com/laurenz/pgreplay) - pgreplay reads a PostgreSQL log file (*not* a WAL file), extracts the SQL statements and executes them in the same order and relative time against a PostgreSQL database cluster.
 - [kubo/snzip](https://github.com/kubo/snzip) - Snzip, a compression/decompression tool based on snappy
@@ -1333,7 +1333,6 @@
 - [bsnape/rspec-terraform](https://github.com/bsnape/rspec-terraform) - RSpec tests for your Terraform modules
 - [airbnb/zonify](https://github.com/airbnb/zonify) - a command line tool for generating DNS records from EC2 instances
 - [jekyll/jekyll](https://github.com/jekyll/jekyll) - :globe_with_meridians: Jekyll is a blog-aware static site generator in Ruby
-- [defunkt/gist](https://github.com/defunkt/gist) - Potentially the best command line gister.
 - [aspring/racker](https://github.com/aspring/racker) - Racker is an opinionated Ruby DSL for generating Packer(www.packer.io) templates.
 - [inq-team/einarc](https://github.com/inq-team/einarc) - Einarc (Einarc is not a RAID CLI) is a universal storage RAID command line interface and an API that provides management for various hardware/software RAID devices, uniting them all in a single paradi
 - [dtan4/terraforming](https://github.com/dtan4/terraforming) - Export existing AWS resources to Terraform style (tf, tfstate) / No longer actively maintained

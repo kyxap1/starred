@@ -1178,7 +1178,7 @@
 - [YPlan/ansible-python-lambda](https://github.com/YPlan/ansible-python-lambda) - Example deployment of an AWS Lambda function with Ansible
 - [linkedin/kafka-tools](https://github.com/linkedin/kafka-tools) - A collection of tools for working with Apache Kafka.
 - [prompt-toolkit/python-prompt-toolkit](https://github.com/prompt-toolkit/python-prompt-toolkit) - Library for building powerful interactive command line applications in Python
-- [s3tools/s3cmd](https://github.com/s3tools/s3cmd) - Official s3cmd repo -- Command line tool for managing Amazon S3 and CloudFront services
+- [s3tools/s3cmd](https://github.com/s3tools/s3cmd) - Official s3cmd repo -- Command line tool for managing S3 compatible storage services (including Amazon S3 and CloudFront).
 - [keleshev/schema](https://github.com/keleshev/schema) - Schema validation just got Pythonic
 - [mail-in-a-box/mailinabox](https://github.com/mail-in-a-box/mailinabox) - Mail-in-a-Box helps individuals take back control of their email by defining a one-click, easy-to-deploy SMTP+everything else server: a mail server in a box.
 - [nicolargo/glances](https://github.com/nicolargo/glances) - Glances an Eye on your system. A top/htop alternative for GNU/Linux, BSD, Mac OS and Windows operating systems.
@@ -1333,6 +1333,7 @@
 - [bsnape/rspec-terraform](https://github.com/bsnape/rspec-terraform) - RSpec tests for your Terraform modules
 - [airbnb/zonify](https://github.com/airbnb/zonify) - a command line tool for generating DNS records from EC2 instances
 - [jekyll/jekyll](https://github.com/jekyll/jekyll) - :globe_with_meridians: Jekyll is a blog-aware static site generator in Ruby
+- [defunkt/gist](https://github.com/defunkt/gist) - Potentially the best command line gister.
 - [aspring/racker](https://github.com/aspring/racker) - Racker is an opinionated Ruby DSL for generating Packer(www.packer.io) templates.
 - [inq-team/einarc](https://github.com/inq-team/einarc) - Einarc (Einarc is not a RAID CLI) is a universal storage RAID command line interface and an API that provides management for various hardware/software RAID devices, uniting them all in a single paradi
 - [dtan4/terraforming](https://github.com/dtan4/terraforming) - Export existing AWS resources to Terraform style (tf, tfstate) / No longer actively maintained

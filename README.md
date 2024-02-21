@@ -704,7 +704,7 @@
 - [everwatchsolutions/json-data-generator](https://github.com/everwatchsolutions/json-data-generator) - A robust, generic, streaming random json data generator for your data
 - [goldmann/node-info](https://github.com/goldmann/node-info) - A simple web app (servlet only) that show the node/host name of the JBoss EAP/Wildfly server
 - [Ecwid/consul-api](https://github.com/Ecwid/consul-api) - Java client for Consul HTTP API
-- [datahub-project/datahub](https://github.com/datahub-project/datahub) - The Metadata Platform for the Modern Data Stack
+- [datahub-project/datahub](https://github.com/datahub-project/datahub) - The Metadata Platform for your Data Stack
 - [linkedin/ambry](https://github.com/linkedin/ambry) - Distributed object store
 - [apache/gobblin](https://github.com/apache/gobblin) - A distributed data integration framework that simplifies common aspects of big data integration such as data ingestion, replication, organization and lifecycle management for both streaming and batch 
 - [airbnb/airpal](https://github.com/airbnb/airpal) - Web UI for PrestoDB.

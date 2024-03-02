@@ -1380,6 +1380,7 @@
 
 ## Shell 
 
+- [dockur/windows](https://github.com/dockur/windows) - Windows in a Docker container.
 - [goofball222/pritunl](https://github.com/goofball222/pritunl) - Pritunl Docker container with IPv6 and reverse-proxy support
 - [aws-samples/amazon-eks-custom-amis](https://github.com/aws-samples/amazon-eks-custom-amis) - Amazon EKS custom AMIs based on Amazon Linux 2.
 - [awslabs/amazon-eks-ami](https://github.com/awslabs/amazon-eks-ami) - Packer configuration for building a custom EKS AMI

@@ -532,7 +532,7 @@
 - [NiroshanLW/terraform-aws-cis-cloud-watch-alarms](https://github.com/NiroshanLW/terraform-aws-cis-cloud-watch-alarms) - 
 - [mineiros-io/terraform-github-repository](https://github.com/mineiros-io/terraform-github-repository) - A Terraform module to manage GitHub Repositories. https://github.com/
 - [rhythmictech/terraform-aws-config-multiregion](https://github.com/rhythmictech/terraform-aws-config-multiregion) - Manages the rhythmictech/terraform-aws-config module across many regions
-- [turbot/steampipe-mod-aws-compliance](https://github.com/turbot/steampipe-mod-aws-compliance) - Run individual controls or full compliance benchmarks for CIS, PCI, NIST, HIPAA and more across all of your AWS accounts using Steampipe.
+- [turbot/steampipe-mod-aws-compliance](https://github.com/turbot/steampipe-mod-aws-compliance) - Run individual controls or full compliance benchmarks for CIS, PCI, NIST, HIPAA and more across all of your AWS accounts using Powerpipe and Steampipe.
 - [terraform-aws-modules/terraform-aws-appconfig](https://github.com/terraform-aws-modules/terraform-aws-appconfig) - Terraform module to create AWS AppConfig resources 🇺🇦
 - [jparnaudeau/terraform-aws-ssm-patch-management](https://github.com/jparnaudeau/terraform-aws-ssm-patch-management) - AWS Terraform Module to manage SSM Patch Management Resources
 - [BigDataBoutique/elasticsearch-cloud-deploy](https://github.com/BigDataBoutique/elasticsearch-cloud-deploy) - Deploy Elasticsearch on the cloud easily
@@ -1356,7 +1356,7 @@
 - [cantino/mcfly](https://github.com/cantino/mcfly) - Fly through your shell history. Great Scott!
 - [BurntSushi/ripgrep](https://github.com/BurntSushi/ripgrep) - ripgrep recursively searches directories for a regex pattern while respecting your gitignore
 - [analysis-tools-dev/static-analysis](https://github.com/analysis-tools-dev/static-analysis) - ⚙️ A curated list of static analysis (SAST) tools and linters for all programming languages, config files, build tools, and more. The focus is on tools which improve code quality.
-- [esphen/wsta](https://github.com/esphen/wsta) - A CLI development tool for WebSocket APIs
+- [eliihen/wsta](https://github.com/eliihen/wsta) - A CLI development tool for WebSocket APIs
 - [alacritty/alacritty](https://github.com/alacritty/alacritty) - A cross-platform, OpenGL terminal emulator.
 - [fastly/pushpin](https://github.com/fastly/pushpin) - A proxy server for adding push to your API, used at the core of Fastly's Fanout service
 - [asciinema/asciinema](https://github.com/asciinema/asciinema) - Terminal session recorder 📹

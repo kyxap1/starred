@@ -746,6 +746,7 @@
 
 ## JavaScript 
 
+- [machulav/ec2-github-runner](https://github.com/machulav/ec2-github-runner) - On-demand self-hosted AWS EC2 runner for GitHub Actions
 - [benzino77/clamav-rest-api](https://github.com/benzino77/clamav-rest-api) - ClamAV REST API. Scan files using simple POST request.
 - [ruimarinho/gsts](https://github.com/ruimarinho/gsts) - Obtain and store AWS STS credentials to interact with Amazon services by authenticating via G Suite SAML.
 - [gruberdev/blast-radius](https://github.com/gruberdev/blast-radius) - Interactive visualizations of Terraform dependency graphs using d3.js

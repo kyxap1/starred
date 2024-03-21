@@ -198,6 +198,7 @@
 
 ## Go 
 
+- [jetstack/paranoia](https://github.com/jetstack/paranoia) - Inspect certificate authorities in container images
 - [cert-manager/cert-manager](https://github.com/cert-manager/cert-manager) - Automatically provision and manage TLS certificates in Kubernetes
 - [opensearch-project/opensearch-k8s-operator](https://github.com/opensearch-project/opensearch-k8s-operator) - OpenSearch Kubernetes Operator
 - [aquasecurity/trivy](https://github.com/aquasecurity/trivy) - Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more
@@ -551,7 +552,7 @@
 - [knpwrs/docker-swarm-terraform](https://github.com/knpwrs/docker-swarm-terraform) - Set up a Docker Swarm Cluster on Digital Ocean using Terraform
 - [opsgang/terraform-aws-pritunl-vpn-server](https://github.com/opsgang/terraform-aws-pritunl-vpn-server) - Pritunl VPN Server for your public/private like VPC on AWS
 - [turnerlabs/terraform-scheduled-batch-job](https://github.com/turnerlabs/terraform-scheduled-batch-job) - A Terraform module representing a scheduled Batch job
-- [terraform-community-modules/tf_aws_elasticsearch](https://github.com/terraform-community-modules/tf_aws_elasticsearch) - Terraform module which creates AWS Elasticsearch resources
+- [terraform-community-modules/tf_aws_elasticsearch](https://github.com/terraform-community-modules/tf_aws_elasticsearch) - [DEPRECATED] Use https://github.com/terraform-aws-modules/terraform-aws-opensearch
 - [mrjgreen/aws-docker-swarm](https://github.com/mrjgreen/aws-docker-swarm) - Terraform and helper resources for running a production Docker Swarm on AWS
 - [paddycarver/hashidays-london](https://github.com/paddycarver/hashidays-london) - Code used for the demo of Going Multi-Cloud with Terraform and Nomad
 - [fscm/terraform-module-aws-zookeeper](https://github.com/fscm/terraform-module-aws-zookeeper) - Terraform Module to create a Apache Zookeeper cluster on AWS

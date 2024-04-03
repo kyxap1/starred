@@ -361,7 +361,7 @@
 - [StackExchange/dnscontrol](https://github.com/StackExchange/dnscontrol) - Infrastructure as code for DNS!
 - [gravitational/teleport](https://github.com/gravitational/teleport) - Protect access to all of your infrastructure
 - [ReSTARTR/ec2-ls-hosts](https://github.com/ReSTARTR/ec2-ls-hosts) - an alternative tool for describing ec2 instances
-- [ansible-semaphore/semaphore](https://github.com/ansible-semaphore/semaphore) - Modern UI for Ansible
+- [semaphoreui/semaphore](https://github.com/semaphoreui/semaphore) - Modern UI for Ansible
 - [kovetskiy/zabbixctl](https://github.com/kovetskiy/zabbixctl) - Most effective way for operating in Zabbix Server
 - [peak/s5cmd](https://github.com/peak/s5cmd) - Parallel S3 and local filesystem execution tool.
 - [radeksimko/terraform-gen](https://github.com/radeksimko/terraform-gen) - Terraform generator(s)
@@ -748,6 +748,7 @@
 
 ## JavaScript 
 
+- [qoomon/git-conventional-commits](https://github.com/qoomon/git-conventional-commits) - Git Conventional Commits Util to generate Semantic Version and Markdown Change Log and Validate Commit Messag
 - [machulav/ec2-github-runner](https://github.com/machulav/ec2-github-runner) - On-demand self-hosted AWS EC2 runner for GitHub Actions
 - [benzino77/clamav-rest-api](https://github.com/benzino77/clamav-rest-api) - ClamAV REST API. Scan files using simple POST request.
 - [ruimarinho/gsts](https://github.com/ruimarinho/gsts) - Obtain and store AWS STS credentials to interact with Amazon services by authenticating via G Suite SAML.
@@ -1439,7 +1440,7 @@
 - [auxilincom/deploy-drone](https://github.com/auxilincom/deploy-drone) - Deploy Drone CI to enable continuous integration ⚡️ on your product
 - [dmitry-zhuravlev/cassandra-cluster](https://github.com/dmitry-zhuravlev/cassandra-cluster) - Cassandra cluster with Docker Compose.
 - [ansrivas/initcassandra](https://github.com/ansrivas/initcassandra) - A super hacky way to initialize keyspaces and tables in cassandra using docker-compose.
-- [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 2,200+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python,
+- [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 2,300+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python,
 - [shogomuranushi/cloudwatch-logmonitoring](https://github.com/shogomuranushi/cloudwatch-logmonitoring) - Log file monitoring for cloudwatch.
 - [roister/docker-elk](https://github.com/roister/docker-elk) - The ELK stack powered by Docker and Compose.
 - [wallix/awless-templates](https://github.com/wallix/awless-templates) - Repository of examples for awless templates (see https://github.com/wallix/awless)

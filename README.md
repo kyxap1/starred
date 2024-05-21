@@ -273,7 +273,7 @@
 - [hypnoglow/envexec](https://github.com/hypnoglow/envexec) - A tool that executes any command or application provisioning its environment with variables from providers (like secrets from Vault).
 - [instrumenta/kubeval](https://github.com/instrumenta/kubeval) - Validate your Kubernetes configuration files, supports multiple Kubernetes versions
 - [mattermost/mattermost-push-proxy](https://github.com/mattermost/mattermost-push-proxy) - 
-- [pulumi/pulumi](https://github.com/pulumi/pulumi) - Pulumi - Infrastructure as Code in any programming language. Build infrastructure intuitively on any cloud using familiar languages 🚀
+- [pulumi/pulumi](https://github.com/pulumi/pulumi) - Pulumi - Infrastructure as Code in any programming language 🚀
 - [helm/charts](https://github.com/helm/charts) - ⚠️(OBSOLETE) Curated applications for Kubernetes
 - [arachnys/go-camo](https://github.com/arachnys/go-camo) - An SSL/TLS proxy for insecure static assets to circumvent mixed content warnings. Based on `go-camo`, and `camo`.
 - [grundleborg/slack-advanced-exporter](https://github.com/grundleborg/slack-advanced-exporter) - A tool for exporting additional data from Slack that is missing from the official data export.
@@ -1383,7 +1383,7 @@
 
 ## Shell 
 
-- [dockur/windows](https://github.com/dockur/windows) - Windows in a Docker container.
+- [dockur/windows](https://github.com/dockur/windows) - Windows inside a Docker container.
 - [goofball222/pritunl](https://github.com/goofball222/pritunl) - Pritunl Docker container with IPv6 and reverse-proxy support
 - [aws-samples/amazon-eks-custom-amis](https://github.com/aws-samples/amazon-eks-custom-amis) - Amazon EKS custom AMIs based on Amazon Linux 2.
 - [awslabs/amazon-eks-ami](https://github.com/awslabs/amazon-eks-ami) - Packer configuration for building a custom EKS AMI

@@ -198,6 +198,7 @@
 
 ## Go 
 
+- [nikhilsbhat/helm-images](https://github.com/nikhilsbhat/helm-images) - Helm plugin to fetch all possible images from the chart before deployment or from a deployed release
 - [jetstack/paranoia](https://github.com/jetstack/paranoia) - Inspect certificate authorities in container images
 - [cert-manager/cert-manager](https://github.com/cert-manager/cert-manager) - Automatically provision and manage TLS certificates in Kubernetes
 - [opensearch-project/opensearch-k8s-operator](https://github.com/opensearch-project/opensearch-k8s-operator) - OpenSearch Kubernetes Operator
@@ -692,7 +693,7 @@
 - [gaul/s3proxy](https://github.com/gaul/s3proxy) - Access other storage backends via the S3 API
 - [opencredo/test-automation-quickstart](https://github.com/opencredo/test-automation-quickstart) - Quickstart project for test automation, covering performance, ui acceptance and api acceptance testing
 - [mikolajmitura/java-properties-to-json](https://github.com/mikolajmitura/java-properties-to-json) - Simple java framework for conversion java properties to JSON object.
-- [redisson/redisson](https://github.com/redisson/redisson) - Redisson - Easy Redis Java client and Real-Time Data Platform. Sync/Async/RxJava/Reactive API. Over 50 Redis based Java objects and services: Set, Multimap, SortedSet, Map, List, Queue, Deque, Semapho
+- [redisson/redisson](https://github.com/redisson/redisson) - Redisson - Easy Valkey/Redis Java client and Real-Time Data Platform. Sync/Async/RxJava/Reactive API. Over 50 Redis based Java objects and services: Set, Multimap, SortedSet, Map, List, Queue, Deque, 
 - [linux-china/plantuml-gist](https://github.com/linux-china/plantuml-gist) - PlantUML with Github Gist and Gitlab Support
 - [INRIA/spoon](https://github.com/INRIA/spoon) - Spoon is a metaprogramming library to analyze and transform Java source code. :spoon: is made with :heart:, :beers: and :sparkles:. It parses source files to build a well-designed AST with powerful an
 - [reinert/JJSchema](https://github.com/reinert/JJSchema) - A generator from Java Types to JSON-Schema using Jackson.

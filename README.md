@@ -363,7 +363,7 @@
 - [StackExchange/dnscontrol](https://github.com/StackExchange/dnscontrol) - Infrastructure as code for DNS!
 - [gravitational/teleport](https://github.com/gravitational/teleport) - The easiest, and most secure way to access and protect all of your infrastructure.
 - [ReSTARTR/ec2-ls-hosts](https://github.com/ReSTARTR/ec2-ls-hosts) - an alternative tool for describing ec2 instances
-- [semaphoreui/semaphore](https://github.com/semaphoreui/semaphore) - Modern UI for Ansible
+- [semaphoreui/semaphore](https://github.com/semaphoreui/semaphore) - Modern UI for Ansible, Terraform, OpenTofu, Bash, Pulumi
 - [kovetskiy/zabbixctl](https://github.com/kovetskiy/zabbixctl) - Most effective way for operating in Zabbix Server
 - [peak/s5cmd](https://github.com/peak/s5cmd) - Parallel S3 and local filesystem execution tool.
 - [radeksimko/terraform-gen](https://github.com/radeksimko/terraform-gen) - Terraform generator(s)
@@ -1304,7 +1304,7 @@
 - [logstash-plugins/logstash-input-kinesis](https://github.com/logstash-plugins/logstash-input-kinesis) - Logstash Plugin for AWS Kinesis Input
 - [ankane/pgsync](https://github.com/ankane/pgsync) - Sync data from one Postgres database to another
 - [codenize-tools/lbrt](https://github.com/codenize-tools/lbrt) - A tool to manage Librato. It defines the state of Librato using DSL, and updates Librato according to DSL.
-- [codenize-tools/miam](https://github.com/codenize-tools/miam) - Miam is a tool to manage IAM. It defines the state of IAM using DSL, and updates IAM according to DSL.
+- [cookpad/miam](https://github.com/cookpad/miam) - Miam is a tool to manage IAM. It defines the state of IAM using DSL, and updates IAM according to DSL.
 - [codenize-tools/posgra](https://github.com/codenize-tools/posgra) - Posgra is a tool to manage PostgreSQL roles/permissions.
 - [mitchellh/vagrant-aws](https://github.com/mitchellh/vagrant-aws) - Use Vagrant to manage your EC2 and VPC instances.
 - [thomasdarimont/wildfly-buildpack](https://github.com/thomasdarimont/wildfly-buildpack) - 
@@ -1375,7 +1375,7 @@
 - [rtyley/bfg-repo-cleaner](https://github.com/rtyley/bfg-repo-cleaner) - Removes large or troublesome blobs like git-filter-branch does, but faster. And written in Scala
 - [yahoo/CMAK](https://github.com/yahoo/CMAK) - CMAK is a tool for managing Apache Kafka clusters
 - [gatling/gatling](https://github.com/gatling/gatling) - Modern Load Testing as Code
-- [snowplow/snowplow](https://github.com/snowplow/snowplow) - The enterprise-grade behavioral data engine (web, mobile, server-side, webhooks), running cloud-natively on AWS and GCP
+- [snowplow/snowplow](https://github.com/snowplow/snowplow) - The leader in Next-Generation Customer Data Infrastructure
 - [strelec/hive-serde-schema-gen](https://github.com/strelec/hive-serde-schema-gen) - :clipboard: Generate Hive SerDe schema from a .json file.
 - [Normation/rudder](https://github.com/Normation/rudder) - Rudder is a configuration and security automation platform. Manage your Cloud, hybrid or on-premises infrastructure in a simple, scalable and dynamic way.
 - [datastax/spark-cassandra-connector](https://github.com/datastax/spark-cassandra-connector) - DataStax Connector for Apache Spark to Apache Cassandra
@@ -1384,6 +1384,7 @@
 
 ## Shell 
 
+- [palantir/fedstart-helm-charts](https://github.com/palantir/fedstart-helm-charts) - A repository for commonly used helm charts with Palantir Fedstart
 - [dockur/windows](https://github.com/dockur/windows) - Windows inside a Docker container.
 - [goofball222/pritunl](https://github.com/goofball222/pritunl) - Pritunl Docker container with IPv6 and reverse-proxy support
 - [aws-samples/amazon-eks-custom-amis](https://github.com/aws-samples/amazon-eks-custom-amis) - Amazon EKS custom AMIs based on Amazon Linux 2.
